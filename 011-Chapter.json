@@ -1,0 +1,930 @@
+{
+  "chapterNum": 11,
+  "nameTa": "செய்ந்நன்றியறிதல்",
+  "nameEn": "Gratitude",
+  "nameHi": "कृतज्ञता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 101,
+      "line1": "செய்யாமல் செய்த உதவிக்கு வையகமும்",
+      "line2": "வானகமும் ஆற்றல் அரிது.",
+      "enLine1": "Seyyaamal Seydha Udhavikku Vaiyakamum",
+      "enLine2": "Vaanakamum Aatral Aridhu.",
+      "hiLine1": "सॆय्या़मल् सॆय्द उदविक्कु वैयकमुम्",
+      "hiLine2": "वाऩकमुम् आट्रल् अरिदु.",
+      "general": "தான் முற்காலத்தில் எந்த ஓர் உதவியும் செய்யாதிருக்க, ஒருவன் தனக்குத் தானே முன்வந்து செய்த பேருதவிக்கு, மண்ணுலகையும் விண்ணுலகையும் கைம்மாறாகக் கொடுத்தாலும் ஈடாகாது.",
+      "en": "A gift of both earth and heaven is not enough to repay a timely favor rendered by one to whom no previous service was done.",
+      "hi": "पूर्व में कोई सहायता न किए जाने पर भी यदि कोई आगे बढ़कर निस्वार्थ सहायता करता है, तो उसके प्रत्युपकार में पृथ्वी और स्वर्ग का साम्राज्य भी दे दिया जाए, तो वह कम है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செய்யாமல் (Seyyaamal)",
+          "ta": "முன்பு தான் யாதொரு உதவியும் செய்யாதிருக்க",
+          "en": "Without prior service done",
+          "hi": "बिना उपकार किए"
+        },
+        {
+          "no": 2,
+          "word": "செய்த உதவிக்கு (Seydha Udhavikku)",
+          "ta": "அவன் செய்த பேருதவிக்கு",
+          "en": "For the help rendered",
+          "hi": "की गई सहायता के लिए"
+        },
+        {
+          "no": 3,
+          "word": "வையகமும் (Vaiyakamum)",
+          "ta": "மண்ணுலகத்தையும்",
+          "en": "Both the earth",
+          "hi": "पृथ्वी लोक"
+        },
+        {
+          "no": 4,
+          "word": "வானகமும் (Vaanakamum)",
+          "ta": "விண்ணுலகத்தையும்",
+          "en": "And the heavenly realms",
+          "hi": "और स्वर्ग लोक"
+        },
+        {
+          "no": 5,
+          "word": "ஆற்றல் (Aatral)",
+          "ta": "ஈடாகக் கொடுத்து முடிப்பது",
+          "en": "To match as recompense",
+          "hi": "बदले में देना"
+        },
+        {
+          "no": 6,
+          "word": "அரிது (Aridhu)",
+          "ta": "இயலாத காரியமாகும்",
+          "en": "Is rare / impossible",
+          "hi": "कठिन व असंभव है"
+        },
+        {
+          "no": 7,
+          "word": "வையகம் (Vaiyakam)",
+          "ta": "பூமி",
+          "en": "Earth",
+          "hi": "संसार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செய்யாமல் செய்த உதவிக்கு வையகமும்",
+          "line2": "வானகமும் ஆற்றல் அரிது."
+        },
+        "en": {
+          "line1": "A help when no past service calls for aid in return,",
+          "line2": "Earth and heaven's gift as recompense can hardly earn."
+        },
+        "hi": {
+          "line1": "बिना किये उपकार के, जो कीन्हों उपकार।",
+          "line2": "स्वर्ग-मर्त्य दोनों दिए, नहिं उतरेगा भार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seyyaamal Seydha Udhavikku Vaiyakamum",
+            "line2": "Vaanakamum Aatral Aridhu."
+          },
+          "hi": {
+            "line1": "सॆय्या़मल् सॆय्द उदविक्कु वैयकमुम्",
+            "line2": "वाऩकमुम् आट्रल् अरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தான் முன்பு எந்த உதவியும் செய்திராத நிலையிலும் ஒருவர் மனமுவந்து செய்யும் உதவிக்கு, பூலோகத்தையும் தேவலோகத்தையும் கைம்மாறாகக் கொடுத்தாலும் ஈடாக முடியாது.",
+        "en": "When someone spontaneously renders aid without having received any prior benefit, even presenting both the terrestrial and celestial realms cannot adequately balance the debt.",
+        "hi": "यदि किसी ने पूर्व में हमसे कोई सहायता प्राप्त न की हो और फिर भी विपत्ति के समय निस्वार्थ भाव से हमारी सहायता करे, तो उस उपकार का ऋण पृथ्वी और स्वर्ग देकर भी नहीं चुकाया जा सकता।"
+      }
+    },
+    {
+      "num": 102,
+      "line1": "காலத்தினாற் செய்த நன்றி சிறிதுஎனினும்",
+      "line2": "ஞாலத்தின் மாணப் பெரிது.",
+      "enLine1": "Kaalaththinaar Seydha Nandri Siridheninum",
+      "enLine2": "Gnaalaththin Maanap Peridhu.",
+      "hiLine1": "कालत्तिऩाऱ् सॆय्द नन्ड्री सिऱिदॆऩिनुम्",
+      "hiLine2": "ञालत्तिऩ् माणप् पॆரிது.",
+      "general": "உரிய காலத்தில் ஒருவன் செய்த உதவி அளவில் மிகச் சிறியதாக இருந்தாலும், அது செய்யப்பட்ட தக்க தருணத்தை நோக்கினால் இந்த உலகத்தைவிட மிகவும் பெரிதாகும்.",
+      "en": "A favor done in the hour of urgent need, though small in its measure, is greater than the world itself.",
+      "hi": "विपत्ति के समय की गई सहायता चाहे आकार में बहुत छोटी क्यों न हो, अवसर के महत्व के कारण वह पूरे संसार से भी बहुत बड़ी होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காலத்தினால் (Kaalaththinaal)",
+          "ta": "உரிய நெருக்கடியான காலத்தில்",
+          "en": "In the hour of critical need",
+          "hi": "उचित अवसर पर"
+        },
+        {
+          "no": 2,
+          "word": "செய்த நன்றி (Seydha Nandri)",
+          "ta": "செய்த பேருதவி",
+          "en": "A favor rendered",
+          "hi": "किया गया उपकार"
+        },
+        {
+          "no": 3,
+          "word": "சிறிது எனினும் (Siridhu Eninum)",
+          "ta": "அளவில் மிகச் சிறியதானாலும்",
+          "en": "Though small in measure",
+          "hi": "यद्यपि छोटा हो"
+        },
+        {
+          "no": 4,
+          "word": "ஞாலத்தின் (Gnaalaththin)",
+          "ta": "இவ்வுலகத்தை விடவும்",
+          "en": "Than this world",
+          "hi": "संसार से भी"
+        },
+        {
+          "no": 5,
+          "word": "மாண (Maana)",
+          "ta": "மிகவும்",
+          "en": "Exceedingly",
+          "hi": "अत्यंत"
+        },
+        {
+          "no": 6,
+          "word": "பெரிது (Peridhu)",
+          "ta": "மிகப் பெரியதாகும்",
+          "en": "Is far greater",
+          "hi": "विशाल है"
+        },
+        {
+          "no": 7,
+          "word": "ஞாலம் (Gnaalam)",
+          "ta": "பூமி / உலகம்",
+          "en": "The Earth / Universe",
+          "hi": "धरा / जगत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காலத்தினாற் செய்த நன்றி சிறிதுஎனினும்",
+          "line2": "ஞாலத்தின் மாணப் பெரிது."
+        },
+        "en": {
+          "line1": "A timely help, though in its measure small,",
+          "line2": "Is larger than the world and outshines all."
+        },
+        "hi": {
+          "line1": "समय पड़े जो की सहायता, छोटी भी यदि होय।",
+          "line2": "जग से भी वह बड़ी है, समझ सके यदि कोय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaalaththinaar Seydha Nandri Siridheninum",
+            "line2": "Gnaalaththin Maanap Peridhu."
+          },
+          "hi": {
+            "line1": "कालत्तिऩाऱ् सॆय्द नन्ड्री सिऱिदॆऩिनुम्",
+            "line2": "ञालत्तिऩ् माणप् पॆரிது."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தேவையான காலத்தில் ஒருவன் செய்யும் உதவி அளவில் அற்பமானதாகத் தோன்றினாலும், அச்செயல் செய்யப்பட்ட காலத்தின் அருமையை நோக்கினால் அது இந்த உலகைவிடப் பெரியதாகும்.",
+        "en": "Timeliness gives value to kindness; an act of assistance rendered at a life-or-death juncture surpasses the vast world in greatness.",
+        "hi": "संकट और आवश्यकता के क्षण में किया गया छोटा सा उपकार भी समय की उपयोगिता के कारण समस्त भूमंडल के विस्तार से कहीं अधिक महान और मूल्यवान होता है।"
+      }
+    },
+    {
+      "num": 103,
+      "line1": "பயன்தூக்கார் செய்த உதவி நயன்தூக்கின்",
+      "line2": "நன்மை கடலின் பெரிது.",
+      "enLine1": "Payandhookkaar Seydha Udhavi Nayandhookkin",
+      "enLine2": "Nanmai Kadalin Peridhu.",
+      "hiLine1": "पयऩ्दूक्का़र् सॆय्द उदवि नयऩ्दूक्किऩ्",
+      "hiLine2": "नन्मै कडलिऩ् पॆரிது.",
+      "general": "இன்னார்க்கு உதவினால் இன்ன பலன் கிடைக்கும் என்று எதிர்பார்க்காமல் செய்த உதவியின் நன்மையை ஆராய்ந்து பார்த்தால், அது கடலைவிடப் பெரியதாகும்.",
+      "en": "If we weigh the excellence of a service rendered without weighing future return, its virtue is far vaster than the ocean.",
+      "hi": "बदले में लाभ की कोई अपेक्षा किए बिना जो सहायता की जाती है, यदि उसके आध्यात्मिक महत्व का विचार करें, तो वह समुद्र से भी अधिक विशाल है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பயன் தூக்கார் (Payan Dhookkaar)",
+          "ta": "பயனை எதிர்நோக்காமல்",
+          "en": "Without weighing future profit",
+          "hi": "लाभ की चिंता किए बिना"
+        },
+        {
+          "no": 2,
+          "word": "செய்த உதவி (Seydha Udhavi)",
+          "ta": "செய்த பேருதவியின்",
+          "en": "Help rendered",
+          "hi": "की गई सहायता"
+        },
+        {
+          "no": 3,
+          "word": "நயன் தூக்கின் (Nayan Dhookkin)",
+          "ta": "நற்குண மேன்மையை ஆராய்ந்தால்",
+          "en": "If its inner excellence be weighed",
+          "hi": "गुण का तौल करें तो"
+        },
+        {
+          "no": 4,
+          "word": "நன்மை (Nanmai)",
+          "ta": "அதன் நற்பயனானது",
+          "en": "Its goodness",
+          "hi": "उसकी भलाई"
+        },
+        {
+          "no": 5,
+          "word": "கடலின் (Kadalin)",
+          "ta": "பெருங்கடலை விடவும்",
+          "en": "Than the vast ocean",
+          "hi": "समुद्र से भी"
+        },
+        {
+          "no": 6,
+          "word": "பெரிது (Peridhu)",
+          "ta": "மிகவும் பெரிதாகும்",
+          "en": "Is greater",
+          "hi": "बड़ी है"
+        },
+        {
+          "no": 7,
+          "word": "நயன் (Nayan)",
+          "ta": "அருமை / சிறப்பு",
+          "en": "Worth / Excellence",
+          "hi": "श्रेष्ठता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பயன்தூக்கார் செய்த உதவி நயன்தூக்கின்",
+          "line2": "நன்மை கடலின் பெரிது."
+        },
+        "en": {
+          "line1": "The benefit bestowed where no return was weighed,",
+          "line2": "Is broader than the sea, in righteous balance weighed."
+        },
+        "hi": {
+          "line1": "फल की आशा नहिं करी, कीन्हों जो उपकार।",
+          "line2": "तौलो यदि उपकार को, सागर से भी पार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Payandhookkaar Seydha Udhavi Nayandhookkin",
+            "line2": "Nanmai Kadalin Peridhu."
+          },
+          "hi": {
+            "line1": "पयऩ्दूक्का़र् सॆय्द उदवि नयऩ्दूक्किऩ्",
+            "line2": "नन्मै कडलिऩ् पॆரிது."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கைம்மாறு கருதாமல் ஒருவன் செய்யும் தூய உதவியின் உன்னதத் தன்மையை ஆராய்ந்து பார்த்தால், அந்த நன்மையின் பெருமை பரந்த பெருங்கடலைக் காட்டிலும் அகண்டதாகும்.",
+        "en": "When assistance is granted with no calculation of future reciprocity, the moral grandeur of that selfless act extends far beyond the deep sea.",
+        "hi": "बिना किसी स्वार्थ अथवा प्रतिफल की आशा के किए गए उपकार का मूल्यांकन किया जाए, तो उसकी पावनता और महानता अगाध महासागर से भी बढ़कर सिद्ध होती है।"
+      }
+    },
+    {
+      "num": 104,
+      "line1": "தினைத்துணை நன்றி செயினும் பனைத்துணையாக்",
+      "line2": "கொள்வர் பயன்தெரி வார்.",
+      "enLine1": "Thinaiththunai Nandri Seyinum Panaiththunaiyaak",
+      "enLine2": "Kolvar Payandheri Vaar.",
+      "hiLine1": "तिऩैत्तुणै नन्ड्री सॆयिनुम् पऩैत्तुणैयाक्",
+      "hiLine2": "कॊळ्वर् पयन्दॆரி वार्.",
+      "general": "ஒருவன் செய்த உதவி தினை அளவு மிகச் சிறியதாக இருந்தாலும், அதன் பயனை அறிந்த சான்றோர் அதனைப் பனை மரத்தைப் போல மிகப் பெரியதாகக் கருதுவர்.",
+      "en": "Though the favor done be as small as a millet seed, those who know its benefit will consider it as huge as a palmyra tree.",
+      "hi": "यदि किसी ने तिल भर (बाजरे के दाने जितनी) भी छोटी सहायता की हो, तो उपकार के मूल्य को समझने वाले गुणीजन उसे ताड़ के वृक्ष जितना बड़ा मानते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தினைத் துணை (Thinaith Thunai)",
+          "ta": "தினை தானியத்தின் அளவு போன்ற சிறிய",
+          "en": "As small as a millet seed",
+          "hi": "बाजरे के दाने के समान"
+        },
+        {
+          "no": 2,
+          "word": "நன்றி (Nandri)",
+          "ta": "உதவியை",
+          "en": "A favor",
+          "hi": "उपकार को"
+        },
+        {
+          "no": 3,
+          "word": "செயினும் (Seyinum)",
+          "ta": "ஒருவர் செய்தபோதிலும்",
+          "en": "Though one should do",
+          "hi": "यद्यपि करे"
+        },
+        {
+          "no": 4,
+          "word": "பனைத்துணையாக் கொள்வர் (Panaiththunaiyaak Kolvar)",
+          "ta": "பனை மரம் போலப் பெரிதாகக் கொள்வர்",
+          "en": "Count it large as a palmyra",
+          "hi": "ताड़ के वृक्ष सदृश मानते हैं"
+        },
+        {
+          "no": 5,
+          "word": "பயன் தெரிவார் (Payan Dherivaar)",
+          "ta": "உதவியின் பயனை அறிந்த அறிஞர்",
+          "en": "Those who understand its worth",
+          "hi": "उपकार का महत्व जानने वाले"
+        },
+        {
+          "no": 6,
+          "word": "தினை (Thinai)",
+          "ta": "சிறுதானியம்",
+          "en": "Millet",
+          "hi": "तिल / बाजरा"
+        },
+        {
+          "no": 7,
+          "word": "பனை (Panai)",
+          "ta": "பனைமரம்",
+          "en": "Palmyra tree",
+          "hi": "ताड़ का पेड़"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தினைத்துணை நன்றி செயினும் பனைத்துணையாக்",
+          "line2": "கொள்வர் பயன்தெரி வார்."
+        },
+        "en": {
+          "line1": "Help tiny as a millet-seed may seem to thoughtless sight,",
+          "line2": "Yet grateful minds account it huge as palm-tree in its height."
+        },
+        "hi": {
+          "line1": "तिल भर भी की हो मदद, किसी समय यदि कोय।",
+          "line2": "ताड़ सदृश मानें उसे, कृतज्ञ जन जो होय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thinaiththunai Nandri Seyinum Panaiththunaiyaak",
+            "line2": "Kolvar Payandheri Vaar."
+          },
+          "hi": {
+            "line1": "तिऩैत्तुणै नन्ड्री सॆयिनुम् पऩैत्तुणैयाक्",
+            "line2": "कॊळ्वर् पयन्दॆரி वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவர் செய்த உபகாரம் தினை அளவுக்கு அற்பமானதாக இருந்தாலும், அந்த உதவியினால் தமக்குக் கிடைத்த உயிர்ப்பயனை அறிந்தவர்கள் அதனைப் பனைமரம் போலப் பெரிதாக மதித்துப் போற்றுவார்கள்.",
+        "en": "A favor granted may appear as minute as a seed, but to a noble recipient conscious of how critically it preserved him, it looms as majestic as a palm tree.",
+        "hi": "सच्चे कृतज्ञ मनुष्य उपकार के भौतिक आकार को नहीं देखते; संकट के समय मिला तिनके का सहारा भी उनके लिए पर्वत जितना बड़ा और पूजनीय होता है।"
+      }
+    },
+    {
+      "num": 105,
+      "line1": "உதவி வரைத்தன் றுதவி உதவி",
+      "line2": "செயப்பட்டார் சால்பின் வரைத்து.",
+      "enLine1": "Udhavi Varaiththan Rudhavi Udhavi",
+      "enLine2": "Seyappattaar Saalbin Varaiththu.",
+      "hiLine1": "उदवि वरैत्तन् ऱुदवि उदवि",
+      "hiLine2": "सॆयप्पट्टार् साल्बिऩ् वरैत्तु.",
+      "general": "செய்யப்பட்ட உதவியானது பொருளின் அளவை உடையது அன்று; அந்த உதவியைப் பெற்றுக் கொண்டவருடைய தகுதியின் அளவை உடையதாகும்.",
+      "en": "The value of an assistance is not in the measure of the gift, but in the moral dignity of the recipient who receives it.",
+      "hi": "किए गए उपकार का परिमाण स्वयं सहायता की वस्तु के मूल्य से नहीं नापा जाता; बल्कि जिसे वह सहायता दी गई है, उसकी सज्जनता और शील के अनुसार उसका मूल्य निर्धारित होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உதவி வரைத்து அன்று (Udhavi Varaiththu Andru)",
+          "ta": "உதவியின் அளவுடையது அன்று",
+          "en": "Not limited by the aid itself",
+          "hi": "सहायता की सीमा में नहीं"
+        },
+        {
+          "no": 2,
+          "word": "உதவி (Udhavi)",
+          "ta": "கைம்மாறு செய்யப்படும் உதவி",
+          "en": "The favor",
+          "hi": "उपकार"
+        },
+        {
+          "no": 3,
+          "word": "உதவி செயப்பட்டார் (Udhavi Seyappattaar)",
+          "ta": "உதவி பெறப்பட்டவருடைய",
+          "en": "Of him who was assisted",
+          "hi": "उपकृत व्यक्ति के"
+        },
+        {
+          "no": 4,
+          "word": "சால்பின் வரைத்து (Saalbin Varaiththu)",
+          "ta": "நற்குண சால்பின் அளவை உடையதாகும்",
+          "en": "Measured by the noble worth",
+          "hi": "चरित्र व सज्जनता की सीमा में है"
+        },
+        {
+          "no": 5,
+          "word": "வரைத்து (Varaiththu)",
+          "ta": "அளவினை உடையது",
+          "en": "Has the measure of",
+          "hi": "माप वाला"
+        },
+        {
+          "no": 6,
+          "word": "சால்பு (Saalbu)",
+          "ta": "நிறைந்த நற்குணம்",
+          "en": "Moral greatness / Character",
+          "hi": "सद्गुण"
+        },
+        {
+          "no": 7,
+          "word": "வரை (Varai)",
+          "ta": "அளவு / எல்லை",
+          "en": "Limit / Measure",
+          "hi": "सीमा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உதவி வரைத்தன் றுதவி உதவி",
+          "line2": "செயப்பட்டார் சால்பின் வரைத்து."
+        },
+        "en": {
+          "line1": "The measure of a kindness rests not in the gift bestowed;",
+          "line2": "It equals all the dignity with which the receiver glowed."
+        },
+        "hi": {
+          "line1": "नहीं वस्तु से जानिये, उपकार का मान।",
+          "line2": "पाने वाले के सदृश, शील-गुणी अनुमान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Udhavi Varaiththan Rudhavi Udhavi",
+            "line2": "Seyappattaar Saalbin Varaiththu."
+          },
+          "hi": {
+            "line1": "उदवि वरैत्तन् ऱुदवि उदवि",
+            "line2": "सॆयप्पट्टार् साल्बिऩ् वरैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவர் செய்த உதவியின் பெருமை அந்தப் பொருளின் மதிப்பில் இல்லை; அந்த உதவியைப் பெற்றுக்கொண்ட பெரியோரின் நற்குணமும் பண்பாடும் எவ்வளவு உயர்ந்ததோ, அவ்வளவு உயரத்திற்கு அந்த உதவியும் போற்றப்படும்.",
+        "en": "The spiritual magnitude of an act of kindness does not depend upon the material worth of what was given, but rather upon the moral grandeur of the soul who received it.",
+        "hi": "किसी उपकार की महत्ता उसमें दिए गए धन या साधन से तय नहीं होती; वरन जिस सत्पात्र व्यक्ति को वह सहायता मिली है, उसके शील, ज्ञान और सदाचार के अनुरूप उस उपकार की गरिमा बढ़ती है।"
+      }
+    },
+    {
+      "num": 106,
+      "line1": "மறவற்க மாசற்றார் கேண்மை துறவற்க",
+      "line2": "துன்பத்துள் துப்பாயார் நட்பு.",
+      "enLine1": "Maravarka Maasatraar Kaenmai Thuravarka",
+      "enLine2": "Thunbaththul Thuppaayaar Natpu.",
+      "hiLine1": "मऱवऱ्क मासट्रा़र् केण्मै तुऱवऱ्क",
+      "hiLine2": "तुन्बत्तुळ् तुप्पा़यार् नट्पु.",
+      "general": "குற்றமற்ற பெரியோரின் சிநேகத்தை ஒருபோதும் மறக்கக் கூடாது; துன்பக் காலத்தில் உற்ற துணையாய் நின்று உதவியவர்களின் நட்பை எக்காலத்திலும் கைவிடக் கூடாது.",
+      "en": "Forget not the friendship of those who are pure and spotless; forsake not the alliance of those who were your comfort in the day of distress.",
+      "hi": "निर्दोष और पवित्र चरित्र वाले पुरुषों के स्नेह को कभी न भूलो, और विपत्ति के समय जो ढाल बनकर सहायक रहे, उनकी मित्रता का कभी परित्याग न करो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மறவற்க (Maravarka)",
+          "ta": "மறக்காமல் இருப்பாயாக",
+          "en": "Never forget",
+          "hi": "कभी न भूलो"
+        },
+        {
+          "no": 2,
+          "word": "மாசு அற்றார் (Maasu Atraar)",
+          "ta": "குற்றமில்லாத தூயவர்களின்",
+          "en": "Of the spotless ones",
+          "hi": "दोष-रहित सज्जनों का"
+        },
+        {
+          "no": 3,
+          "word": "கேண்மை (Kaenmai)",
+          "ta": "உறவினை / நட்பை",
+          "en": "Intimacy / Friendship",
+          "hi": "प्रेम / सौहार्द"
+        },
+        {
+          "no": 4,
+          "word": "துறவற்க (Thuravarka)",
+          "ta": "கைவிடாதிருப்பாயாக",
+          "en": "Do not forsake",
+          "hi": "त्याग मत करो"
+        },
+        {
+          "no": 5,
+          "word": "துன்பத்துள் (Thunbaththul)",
+          "ta": "துன்பம் வந்த காலத்தில்",
+          "en": "In the midst of grief",
+          "hi": "संकट के दिनों में"
+        },
+        {
+          "no": 6,
+          "word": "துப்பாயார் (Thuppaayaar)",
+          "ta": "துணையாய் நின்று உதவியவர்களின்",
+          "en": "Those who stood as support",
+          "hi": "सहायक बने हुओं का"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு (Natpu)",
+          "ta": "நட்பினை",
+          "en": "Friendship",
+          "hi": "सच्ची मित्रता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மறவற்க மாசற்றார் கேண்மை துறவற்க",
+          "line2": "துன்பத்துள் துப்பாயார் நட்பு."
+        },
+        "en": {
+          "line1": "Forget not fellowship of those whose souls from stain are free;",
+          "line2": "Forsake not them who were your shield in days of misery."
+        },
+        "hi": {
+          "line1": "दोष-रहित का नेह न भूलें, कभी किसी भी काल।",
+          "line2": "छोड़ें नहिं उस मित्र को, विपदा में जो ढाल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Maravarka Maasatraar Kaenmai Thuravarka",
+            "line2": "Thunbaththul Thuppaayaar Natpu."
+          },
+          "hi": {
+            "line1": "मऱवऱ्क मासट्रा़र् केण्मै तुऱवऱ्क",
+            "line2": "तुन्बत्तुळ् तुप्पा़यार् नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குணத்தில் களங்கமில்லாத சான்றோரின் நற்பழகத்தை ஒருபோதும் மறந்துவிடக் கூடாது; அதேபோல் நாம் துயரத்தில் உழன்ற காலத்தில் நமக்கு உற்ற துணையாய் நின்று காத்தவர்களின் உறவை ஒருபோதும் துறக்கக் கூடாது.",
+        "en": "Cherish always the counsel of men of stainless character, and let nothing tempt you to abandon the companions who supported you through bitter adversity.",
+        "hi": "निर्मल अंतःकरण वाले श्रेष्ठ पुरुषों के संबंध को जीवन भर याद रखना चाहिए, और संकट के कठिन पलों में जिन्होंने सहारा देकर रक्षा की, उनका साथ कभी नहीं छोड़ना चाहिए।"
+      }
+    },
+    {
+      "num": 107,
+      "line1": "எழுமை எழுபிறப்பும் உள்ளுவர் தம்கண்",
+      "line2": "விழுமந் துடைத்தவர் நட்பு.",
+      "enLine1": "Ezhumai Ezhupirappum Ulluvar Thamkann",
+      "enLine2": "Vizhuman Thudaiththavar Natpu.",
+      "hiLine1": "ऎऴुमै ऎऴुपिऱप्पुम् उळ्ळुवर् तमकण्",
+      "hiLine2": "विऴुमन् तुडैत्तवर् नट्पु.",
+      "general": "தமது துன்பத்தைத் துடைத்து உதவியவர்களின் தூய நட்பினை, சால்புடையோர் தமக்கு வரும் ஏழு பிறவிகளிலும் நினைத்துப் போற்றுவார்கள்.",
+      "en": "The noble through sevenfold generations of seven births will remember with love the friendship of those who wiped away their sorrow.",
+      "hi": "अपने कष्ट और आँसुओं को पोंछकर सहारा देने वाले मित्रों के उपकार को पुण्यात्मा मनुष्य सातों जन्मों तक कृतज्ञतापूर्वक स्मरण रखते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எழுமை (Ezhumai)",
+          "ta": "ஏழு தலைமுறைகளிலும்",
+          "en": "Through seven generations",
+          "hi": "सातों जन्मों में"
+        },
+        {
+          "no": 2,
+          "word": "எழுபிறப்பும் (Ezhupirappum)",
+          "ta": "எடுக்கின்ற பிறவிகள் தோறும்",
+          "en": "And sevenfold births",
+          "hi": "प्रत्येक जन्म में"
+        },
+        {
+          "no": 3,
+          "word": "உள்ளுவர் (Ulluvar)",
+          "ta": "எண்ணிப் போற்றுவர்",
+          "en": "Will recall and cherish",
+          "hi": "स्मरण रखेंगे"
+        },
+        {
+          "no": 4,
+          "word": "தம் கண் (Tham Kann)",
+          "ta": "தம்மிடத்தில் உண்டான",
+          "en": "In their own lot",
+          "hi": "अपने प्रति"
+        },
+        {
+          "no 5,
+          "word": "விழுமம் (Vizhumam)",
+          "ta": "துன்பத்தை",
+          "en": "Sorrow / affliction",
+          "hi": "दुःख को"
+        },
+        {
+          "no": 6,
+          "word": "துடைத்தவர் (Thudaiththavar)",
+          "ta": "நீக்கியவர்களின்",
+          "en": "Those who wiped away",
+          "hi": "दूर करने वाले का"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு (Natpu)",
+          "ta": "நல்ல நட்பினை",
+          "en": "Friendship",
+          "hi": "मित्रता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எழுமை எழுபிறப்பும் உள்ளுவர் தம்கண்",
+          "line2": "விழுமந் துடைத்தவர் நட்பு."
+        },
+        "en": {
+          "line1": "Through all their sevenfold births will grateful men recall,",
+          "line2": "The friends whose kindly hand did wipe their bitter tear-drops all."
+        },
+        "hi": {
+          "line1": "दुःख मिटाया जिन सखा, प्रेम रखा गंभीर।",
+          "line2": "सातों जन्मों तक भला, भूल सके क्या धीर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ezhumai Ezhupirappum Ulluvar Thamkann",
+            "line2": "Vizhuman Thudaiththavar Natpu."
+          },
+          "hi": {
+            "line1": "ऎऴुमै ऎऴुपिऱप्पुम् उळ्ळुवर् तमकण्",
+            "line2": "विऴुमन् तुडैत्तवर् नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தமக்கு ஏற்பட்ட பெருந்துன்பத்தை அகற்றி ஆதரவளித்த உத்தமர்களின் நட்பினை, பண்புடைய சான்றோர்கள் பிறக்கின்ற எந்தப் பிறவியிலும் மறவாமல் நெஞ்சில் நினைத்து நன்றியோடு போற்றுவர்.",
+        "en": "Those with an ingrained sense of gratitude carry the memory of the loyal friends who rescued them from misery not just in this lifetime, but through every future incarnation.",
+        "hi": "संकट के समय जिनके स्नेह ने हमारे आँसू पोंछे और जीवन को रक्षा प्रदान की, उनकी मित्रता और भलाई को विवेकशील मनुष्य सात जन्मों तक हृदय से नहीं भुलाते।"
+      }
+    },
+    {
+      "num": 108,
+      "line1": "நன்றி மறப்பது நன்றன்று நன்றல்லது",
+      "line2": "அன்றே மறப்பது நன்று.",
+      "enLine1": "Nandri Marappadhu Nandrandru Nandralladhu",
+      "enLine2": "Andrae Marappadhu Nandru.",
+      "hiLine1": "नन्ड्री मऱप्पदु नन्ड्रन्ड्रु नन्ड्रल्लदु",
+      "hiLine2": "अन्ड्रे मऱप्पदु नन्ड्रु.",
+      "general": "ஒருவர் செய்த நன்மையை மறப்பது நல்லதல்ல; அவர் செய்த தீமையை உடனுக்குடனே அப்போதே மறந்துவிடுவது மிகவும் நல்லது.",
+      "en": "It is not good to forget a benefit received; but it is exceedingly good to forget an injury on the very day it was done.",
+      "hi": "किसी के द्वारा किए गए उपकार को भूल जाना सर्वथा अनुचित है; किंतु किसी के द्वारा की गई बुराई को उसी क्षण भूल जाना परम उत्तम है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நன்றி (Nandri)",
+          "ta": "ஒருவர் செய்த நன்மையை",
+          "en": "A favor received",
+          "hi": "उपकार को"
+        },
+        {
+          "no": 2,
+          "word": "மறப்பது (Marappadhu)",
+          "ta": "மறந்துவிடுவது",
+          "en": "Forgetting",
+          "hi": "विस्मृत करना"
+        },
+        {
+          "no": 3,
+          "word": "நன்று அன்று (Nandrandru)",
+          "ta": "நல்லது அல்ல",
+          "en": "Is not good",
+          "hi": "उचित नहीं"
+        },
+        {
+          "no": 4,
+          "word": "நன்று அல்லது (Nandralladhu)",
+          "ta": "நன்மையல்லாத தீங்கினை",
+          "en": "That which is not good (injury)",
+          "hi": "अपकार / बुराई को"
+        },
+        {
+          "no": 5,
+          "word": "அன்றே (Andrae)",
+          "ta": "செய்த அன்றைக்கே",
+          "en": "On that very day",
+          "hi": "उसी दिन / उसी क्षण"
+        },
+        {
+          "no": 6,
+          "word": "மறப்பது (Marappadhu)",
+          "ta": "மறந்து விடுவது",
+          "en": "To forget",
+          "hi": "भूल जाना"
+        },
+        {
+          "no": 7,
+          "word": "நன்று (Nandru)",
+          "ta": "மிகவும் நல்லது",
+          "en": "Is good",
+          "hi": "कल्याणकारी है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நன்றி மறப்பது நன்றன்று நன்றல்லது",
+          "line2": "அன்றே மறப்பது நன்று."
+        },
+        "en": {
+          "line1": "'Tis never good to let the memory of a kindness die;",
+          "line2": "Best is to wipe out injury the hour that it went by."
+        },
+        "hi": {
+          "line1": "उपकार को भूलना, कभी न अच्छा जान।",
+          "line2": "अपकार को भूलना, उसी समय कल्याण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nandri Marappadhu Nandrandru Nandralladhu",
+            "line2": "Andrae Marappadhu Nandru."
+          },
+          "hi": {
+            "line1": "नन्ड्री मऱप्पदु नन्ड्रन्ड्रु नन्ड्रल्लदु",
+            "line2": "अन्ड्रे मऱप्पदु नन्ड्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறர் செய்த நன்மையை ஒருபோதும் மறக்கக் கூடாது, அது அறமாகாது; ஆனால் பிறர் நமக்குச் செய்த தீங்கினை மனதிலே தேக்கி வைக்காமல் உடனே அன்றைக்கே மறந்துவிடுவது மிகச் சிறந்த ஒழுக்கமாகும்.",
+        "en": "Ingratitude for a past favor is a grievous fault; conversely, expunging resentment over an injury without allowing it to linger even for a single day is the hallmark of noble soul.",
+        "hi": "उपकार को जीवन भर याद रखना धर्म है और उसे भुलाना पाप; परंतु किसी ने यदि हमारे साथ बुरा व्यवहार या घात किया हो, तो उस द्वेष को उसी समय मन से निकाल देना ही सबसे बड़ा सद्गुण है।"
+      }
+    },
+    {
+      "num": 109,
+      "line1": "கொன்றன்ன இன்னா செயினும் அவர்செய்த",
+      "line2": "ஒன்றுநன்று உள்ளக் கெடும்.",
+      "enLine1": "Kondranna Innaa Seyinum Avarseydha",
+      "enLine2": "Ondrunandru Ullak Kedum.",
+      "hiLine1": "कॊन्ड्रऩ्ऩ इन्ना सॆयिनुम् अवर्सॆय्द",
+      "hiLine2": "ऒन्ड्रुनन्ड्रु उळ्ळक् कॆडुम्.",
+      "general": "முன்பு உதவி செய்தவரே பின்னர் நம்மைக் கொல்வது போன்ற கொடிய தீங்கினைச் செய்தாலும், அவர் முன்பு செய்த ஒரு நன்மையை நினைத்தாலே அத்தீமை மனதைவிட்டு மறைந்துபோகும்.",
+      "en": "Though one should inflict an injury deadly as murder, it will vanish if the mind recalls one single good deed he previously performed.",
+      "hi": "यदि पूर्व उपकारी व्यक्ति बाद में हत्या के समान भारी कष्ट भी पहुँचाए, तो उसके द्वारा पहले किए गए किसी एक उपकार को याद करते ही सारा क्रोध और वैर समाप्त हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கொன்றன்ன (Kondranna)",
+          "ta": "கொலை செய்வதைப் போன்ற",
+          "en": "Deadly as murder",
+          "hi": "प्राण लेने के समान"
+        },
+        {
+          "no": 2,
+          "word": "இன்னா (Innaa)",
+          "ta": "கொடிய துன்பங்களை",
+          "en": "Bitter pain / injuries",
+          "hi": "कठोर दुःख"
+        },
+        {
+          "no": 3,
+          "word": "செயினும் (Seyinum)",
+          "ta": "ஒருவர் நமக்குச் செய்தாலும்",
+          "en": "Though he should do",
+          "hi": "पहुँचाने पर भी"
+        },
+        {
+          "no": 4,
+          "word": "அவர் செய்த (Avar Seydha)",
+          "ta": "அவர் முற்காலத்தில் செய்த",
+          "en": "Done by him",
+          "hi": "उसके किए हुए"
+        },
+        {
+          "no": 5,
+          "word": "ஒன்று நன்று (Ondru Nandru)",
+          "ta": "ஒரே ஒரு நன்மையை",
+          "en": "One single good deed",
+          "hi": "एक उपकार को"
+        },
+        {
+          "no": 6,
+          "word": "உள்ள (Ulla)",
+          "ta": "நினைத்துப் பார்த்த அளவில்",
+          "en": "When remembered in heart",
+          "hi": "याद करने पर"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் (Kedum)",
+          "ta": "மனத்தின் பகைமை கெட்டு அழியும்",
+          "en": "Will be destroyed / vanished",
+          "hi": "वैर नष्ट हो जाता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கொன்றன்ன இன்னா செயினும் அவர்செய்த",
+          "line2": "ஒன்றுநன்று உள்ளக் கெடும்."
+        },
+        "en": {
+          "line1": "Though he who helped should work you woe as deadly as to slay,",
+          "line2": "One past good deed remembered will take all your wrath away."
+        },
+        "hi": {
+          "line1": "हत्या सदृश भी दुःख यदि, देवे मित्र कभी।",
+          "line2": "एक भलाई पूर्व की, भूल कराये सभी ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kondranna Innaa Seyinum Avarseydha",
+            "line2": "Ondrunandru Ullak Kedum."
+          },
+          "hi": {
+            "line1": "कॊन्ड्रऩ्ऩ इन्ना सॆयिनुम् अवर्सॆय्द",
+            "line2": "ऒन्ड्रुनन्ड्रु उळ्ळक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நமக்கு நன்மை செய்த ஒருவர் பிற்காலத்தில் உயிரைக் கொல்லும் அளவிற்குப் பெரிய தீமையைச் செய்தாலும், அவர் முன்பு செய்த ஒரேயொரு நன்மையை நினைவுகூர்ந்தால் அந்தப் பகைமை தணிந்து ஒழியும்.",
+        "en": "Even if a former benefactor later commits an offense grievous as assassination, keeping in remembrance a single past kindness he once conferred will dissolve all bitterness.",
+        "hi": "जिसने कभी हमारा भला किया हो, यदि वह आगे चलकर हमारे साथ प्राणघातक शत्रुता भी कर बैठे, तो भी उसकी पुरानी किसी एक भलाई को याद करके उसके अपराध को क्षमा कर देना चाहिए।"
+      }
+    },
+    {
+      "num": 110,
+      "line1": "எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லை",
+      "line2": "செய்ந்நன்றி கொன்ற மகற்கு.",
+      "enLine1": "Ennandri Kondraarkkum Uyvundaam Uyvillai",
+      "enLine2": "Seynnandri Kondra Makarkku.",
+      "hiLine1": "ऎन्नन्ड्री कॊन्ड्रा़र्क्कुम् उय्वुण्डा़म् उय्विल्लै",
+      "hiLine2": "सॆय्नन्ड्री कॊन्ड्रा़ मगर्क्कु.",
+      "general": "எந்தப் பெரிய அறங்களை அழித்தவர்க்கும் கழுவாய் உண்டு; ஆனால் ஒருவர் செய்த பேருதவியை மறந்து நன்றியைக் கொன்ற மனிதனுக்கு ஒருபோதும் மீட்சி இல்லை.",
+      "en": "For those who have destroyed every other virtue there may be redemption; but there is no redemption for the man who has destroyed gratitude.",
+      "hi": "अन्य किसी भी बड़े धर्म और मर्यादा का नाश करने वाले पापी का तो उद्धार संभव है; परंतु उपकार को भुलाने वाले कृतघ्न मनुष्य के उद्धार का कोई मार्ग नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எந்நன்றி (Ennandri)",
+          "ta": "எத்தகைய பெரிய அறங்களை",
+          "en": "Whatever virtue / moral duty",
+          "hi": "किसी भी धर्म को"
+        },
+        {
+          "no": 2,
+          "word": "கொன்றார்க்கும் (Kondraarkkum)",
+          "ta": "அழித்தவர்க்கும் கூட",
+          "en": "Even to those who destroyed",
+          "hi": "नष्ट करने वालों को भी"
+        },
+        {
+          "no": 3,
+          "word": "உய்வு உண்டாம் (Uyvu Undaam)",
+          "ta": "பாவ விமோசனம் உண்டு",
+          "en": "Redemption exists",
+          "hi": "प्रायश्चित्त / उद्धार मिल सकता है"
+        },
+        {
+          "no": 4,
+          "word": "உய்வு இல்லை (Uyvu Illai)",
+          "ta": "விமோசனமே கிடையாது",
+          "en": "There is no salvation",
+          "hi": "कोई उद्धार नहीं"
+        },
+        {
+          "no": 5,
+          "word": "செய்ந்நன்றி (Seynnandri)",
+          "ta": "பிறர் செய்த நன்மையை",
+          "en": "Gratitude for help received",
+          "hi": "किए गए उपकार को"
+        },
+        {
+          "no": 6,
+          "word": "கொன்ற (Kondra)",
+          "ta": "மறந்து அழித்த",
+          "en": "Who killed / destroyed",
+          "hi": "मारने वाले"
+        },
+        {
+          "no": 7,
+          "word": "மகற்கு (Makarku)",
+          "ta": "மனிதனுக்கு",
+          "en": "To the man",
+          "hi": "मनुष्य के लिए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லை",
+          "line2": "செய்ந்நன்றி கொன்ற மகற்கு."
+        },
+        "en": {
+          "line1": "He who kills every virtue may find expiation free;",
+          "line2": "No pardon waits for him who slays the grace of memory.",
+        },
+        "hi": {
+          "line1": "सब धर्मों को तोड़ कर, हो सकता उद्धार।",
+          "line2": "कृतघ्नी को नहिं मिले, कभी मुक्ति का द्वार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ennandri Kondraarkkum Uyvundaam Uyvillai",
+            "line2": "Seynnandri Kondra Makarkku."
+          },
+          "hi": {
+            "line1": "ऎन्नन्ड्री कॊन्ड्रा़र्क्कुम् उय्वुण्डा़म् उय्विल्लै",
+            "line2": "सॆय्नन्ड्री कॊन्ड्रा़ मगर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எந்தவொரு கொடிய பாவத்தைச் செய்தவருக்கும் பிராயச்சித்தத்தால் விமோசனம் கிடைக்கலாம்; ஆனால் ஒருவர் தமக்குச் செய்த உதவியை மறந்து துரோகம் செய்த நன்றிகெட்ட மனிதனுக்கு எந்த உலகிலும் மன்னிப்போ மீட்சியோ கிடையாது.",
+        "en": "Atonement may be possible for someone who violates all other sacred tenets; but for the vile ingrate who tramples upon the benefits once conferred on him, there is no redemption in any realm.",
+        "hi": "शास्त्रों के अनुसार बड़े से बड़े महापाप का प्रायश्चित्त विधान संभव है; किंतु जो कृतघ्न मनुष्य अपने पर किए गए उपकार को भूलकर उपकारी से द्रोह करता है, उसके लिए नरक से बचने का कोई उपाय नहीं है।"
+      }
+    }
+  ]
+}

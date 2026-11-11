@@ -1,0 +1,930 @@
+{
+  "chapterNum": 10,
+  "nameTa": "இனியவை கூறல்",
+  "nameEn": "Pleasant Speech",
+  "nameHi": "मधुर-भाषण",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 91,
+      "line1": "இன்சொலால் ஈரமளைஇப் படிறிலவாம்",
+      "line2": "செம்பொருள் கண்டார்வாய்ச் சொல்.",
+      "enLine1": "Insolal Eeramalaeip Padirilavaam",
+      "enLine2": "Semborul Kandaarvaaych Chol.",
+      "hiLine1": "इन्सॊलाल् ईरमळैइप् पडिऱिलवाम्",
+      "hiLine2": "सॆम्बॊरुळ् कण्डार्व्वाय्च् चॊल्.",
+      "general": "மெய்ப்பொருளை உணர்ந்த தூய உள்ளம் கொண்ட சான்றோரின் வாய்ச்சொற்கள், உள்ளன்பு கலந்து, கபடம் ஏதுமின்றி இனிமையான சொற்களாகவே வெளிப்படும்.",
+      "en": "The words of those who have perceived the true reality are sweet, imbued with tender love, and free from all deceit.",
+      "hi": "सत्य और धर्म के मर्म को जानने वाले ज्ञानी पुरुषों की वाणी सदा निष्कपट, प्रेम-रस से भीगी हुई और अत्यंत मधुर होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்சொலால் (Insolal)",
+          "ta": "இனிய சொற்களோடு",
+          "en": "With pleasant words",
+          "hi": "मधुर वचनों से"
+        },
+        {
+          "no": 2,
+          "word": "ஈரம் அளைஇ (Eeram Alaei)",
+          "ta": "அன்பு கலந்து",
+          "en": "Imbued with tender love",
+          "hi": "स्नेह-सिक्त होकर"
+        },
+        {
+          "no": 3,
+          "word": "படிறு இலவாம் (Padiru Ilavaam)",
+          "ta": "வஞ்சனை அற்றவையாகும்",
+          "en": "Free from deceit",
+          "hi": "कपट-रहित होते हैं"
+        },
+        {
+          "no": 4,
+          "word": "செம்பொருள் (Semborul)",
+          "ta": "மெய்ப்பொருளை",
+          "en": "The supreme truth",
+          "hi": "परम सत्य को"
+        },
+        {
+          "no": 5,
+          "word": "கண்டார் (Kandaar)",
+          "ta": "உணர்ந்த சான்றோரின்",
+          "en": "Of those who have realized",
+          "hi": "जानने वालों के"
+        },
+        {
+          "no": 6,
+          "word": "வாய்ச் சொல் (Vaaych Chol)",
+          "ta": "வாயிலிருந்து வரும் சொற்கள்",
+          "en": "Spoken words",
+          "hi": "मुख से निकले शब्द"
+        },
+        {
+          "no": 7,
+          "word": "ஈரம் (Eeram)",
+          "ta": "அன்பு / இரக்கம்",
+          "en": "Love / tenderness",
+          "hi": "करुणा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்சொலால் ஈரமளைஇப் படிறிலவாம்",
+          "line2": "செம்பொருள் கண்டார்வாய்ச் சொல்."
+        },
+        "en": {
+          "line1": "The words of men who know the true are filled with love and grace;",
+          "line2": "Free from deceit, with pleasant warmth they bless the human race."
+        },
+        "hi": {
+          "line1": "सत्य-तत्व को जानकर, जो हैं ज्ञानी धीर।",
+          "line2": "कपट-रहित वचनों में उनके, बहे प्रेम का नीर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Insolal Eeramalaeip Padirilavaam",
+            "line2": "Semborul Kandaarvaaych Chol."
+          },
+          "hi": {
+            "line1": "इन्सॊलाल् ईरमळैइप् पडिऱिलवाम्",
+            "line2": "सॆम्बॊरुळ् कण्डार्व्वाय्च् चॊल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வாழ்க்கையின் மெய்ப்பொருளைத் தெளிவாக உணர்ந்த பெரியோர்களின் பேச்சானது, உள்ளத்தில் அன்பு பொங்க, கபடமும் வஞ்சகமும் இன்றி இனிமையான சொற்களாகவே விளங்கும்.",
+        "en": "The speech of those who have attained realization of the supreme truth is naturally gentle, full of genuine affection, and entirely devoid of guile.",
+        "hi": "जिन्होंने जीवन के वास्तविक सत्य को समझ लिया है, उनके मुख से निकले वचन सदा स्नेहपूर्ण, छल-कपट से दूर और सुनने वालों को शांति देने वाले होते हैं।"
+      }
+    },
+    {
+      "num": 92,
+      "line1": "அகன்அமர்ந்து ஈதலின் நன்றே முகனமர்ந்து",
+      "line2": "இன்சொலன் ஆகப் பெறின்.",
+      "enLine1": "Akanamarndhu Eedhalin Nandre Mukanamarndhu",
+      "enLine2": "Insolan Aakap Perin.",
+      "hiLine1": "अकऩमर्न्दु ईदलिन् नन्ड्रे मुकऩमर्न्दु",
+      "hiLine2": "इन्सॊलन् आगप् पॆऱिन्.",
+      "general": "மனம் உவந்து ஒரு பொருளைக் கொடுப்பதைக் காட்டிலும், ஒருவன் முகம் மலர்ந்து இனிய சொற்களைப் பேசுவானானால் அதுவே மிகவும் நன்மையானதாகும்.",
+      "en": "Better than giving with a cheerful heart is to welcome others with a smiling face and speak gentle, pleasing words.",
+      "hi": "हृदय से दान देने की तुलना में भी अधिक श्रेष्ठ यह है कि मनुष्य प्रसन्न मुख से दूसरों का स्वागत करे और मधुर वाणी बोले।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அகன் அமர்ந்து (Akan Amarndhu)",
+          "ta": "உள்ளம் மகிழ்ந்து",
+          "en": "With gladness of heart",
+          "hi": "प्रसन्न मन से"
+        },
+        {
+          "no": 2,
+          "word": "ஈதலின் (Eedhalin)",
+          "ta": "பொருள் கொடுப்பதைக் காட்டிலும்",
+          "en": "Than giving gifts",
+          "hi": "दान देने की अपेक्षा"
+        },
+        {
+          "no": 3,
+          "word": "நன்றே (Nandre)",
+          "ta": "மிகவும் நன்மையானதே",
+          "en": "Is better indeed",
+          "hi": "अधिक उत्तम है"
+        },
+        {
+          "no": 4,
+          "word": "முகன் அமர்ந்து (Mukan Amarndhu)",
+          "ta": "முகம் மலர்ந்து",
+          "en": "With a smiling countenance",
+          "hi": "हंसमुख होकर"
+        },
+        {
+          "no": 5,
+          "word": "இன்சொலன் (Insolan)",
+          "ta": "இனிய சொற்களைப் பேசுபவனாக",
+          "en": "One of pleasant speech",
+          "hi": "मधुर वचन बोलने वाला"
+        },
+        {
+          "no": 6,
+          "word": "ஆகப் பெறின் (Aakap Perin)",
+          "ta": "இருக்கப் பெறுவானானால்",
+          "en": "If one can become",
+          "hi": "यदि बन सके"
+        },
+        {
+          "no": 7,
+          "word": "ஈதல் (Eedhal)",
+          "ta": "கொடுத்தல்",
+          "en": "Giving / charity",
+          "hi": "दान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அகன்அமர்ந்து ஈதலின் நன்றே முகனமர்ந்து",
+          "line2": "இன்சொலன் ஆகப் பெறின்."
+        },
+        "en": {
+          "line1": "Better than gifts from open hand bestowed with heart sincere,",
+          "line2": "Is sweet and kindly speech that brings the listener joy and cheer."
+        },
+        "hi": {
+          "line1": "हर्षित मन से दान जो, करते हैं धनवान।",
+          "line2": "मुख पर ला मृदु हास जो, बोले वचन महान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Akanamarndhu Eedhalin Nandre Mukanamarndhu",
+            "line2": "Insolan Aakap Perin."
+          },
+          "hi": {
+            "line1": "अकऩमर्न्दु ईदलिन् नन्ड्रे मुकऩमर्न्दु",
+            "line2": "इन्सॊलन् आगप् पॆऱिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உள்ளத்தில் மகிழ்ச்சியோடு ஒரு பொருளைப் பிறருக்குத் தானமாகக் கொடுப்பதைக் காட்டிலும், ஒருவன் முகம் மலர இன்சொல் கூறிப் பழகுவது மேலான நன்மையாகும்.",
+        "en": "Generous almsgiving born of sincere goodwill is praiseworthy, yet greeting a fellow human being with a beaming countenance and soothing speech is even more virtuous.",
+        "hi": "प्रसन्नतापूर्वक किसी को धन या वस्तु दान में देना बहुत उत्तम कर्म है, परंतु मुस्कुराते हुए चेहरे से मीठे और आदरपूर्ण शब्द बोलना उससे भी बढ़कर पुण्यदायी है।"
+      }
+    },
+    {
+      "num": 93,
+      "line1": "முகத்தான் அமர்ந்துஇனிது நோக்கி அகத்தானாம்",
+      "line2": "இன்சொ லினதே அறம்.",
+      "enLine1": "Mukaththaan Amarndhinidhu Noakki Akaththaanaam",
+      "enLine2": "Inso Linadhae Aram.",
+      "hiLine1": "मुकत्ता़न् अमर्न्दिनिदु नोक्कि अकत्ता़नाम्",
+      "hiLine2": "इन्सॊ लिऩदे अऱम्.",
+      "general": "முகத்தால் மலர்ந்து இனிதாகப் பார்த்து, உள்ளத்திலிருந்து வருகின்ற அன்பான இன்சொற்களைப் பேசுவதே உண்மையான அறநெறியாகும்.",
+      "en": "To look upon others with a cheerful countenance and speak words of genuine sweetness from the heart is true righteousness.",
+      "hi": "प्रसन्न मुख से स्नेहपूर्वक देखना और हृदय की गहराई से मधुर वचन बोलना ही धर्म का वास्तविक स्वरूप है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முகத்தான் அமர்ந்து (Mukaththaan Amarndhu)",
+          "ta": "முக மலர்ச்சியோடு",
+          "en": "With cheerful face",
+          "hi": "हंसमुख चेहरे से"
+        },
+        {
+          "no": 2,
+          "word": "இனிது நோக்கி (Inidhu Noakki)",
+          "ta": "இனிமையாகப் பார்த்து",
+          "en": "Looking kindly",
+          "hi": "स्नेह से देखकर"
+        },
+        {
+          "no": 3,
+          "word": "அகத்தான் ஆம் (Akaththaan Aam)",
+          "ta": "உள்ளத்திலிருந்து வெளிப்படும்",
+          "en": "Proceeding from the heart",
+          "hi": "हृदय से निकलने वाले"
+        },
+        {
+          "no": 4,
+          "word": "இன்சொலினதே (Insolinadhae)",
+          "ta": "இனிய சொற்களைச் சொல்வதே",
+          "en": "Speaking pleasant words alone",
+          "hi": "मीठे बोल बोलना ही"
+        },
+        {
+          "no": 5,
+          "word": "அறம் (Aram)",
+          "ta": "சிறந்த அறமாகும்",
+          "en": "Is true virtue",
+          "hi": "धर्म है"
+        },
+        {
+          "no": 6,
+          "word": "நோக்கு (Noakku)",
+          "ta": "பார்வை",
+          "en": "Gaze / sight",
+          "hi": "दृष्टि"
+        },
+        {
+          "no": 7,
+          "word": "அகம் (Akam)",
+          "ta": "உள்ளம்",
+          "en": "Heart",
+          "hi": "मन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முகத்தான் அமர்ந்துஇனிது நோக்கி அகத்தானாம்",
+          "line2": "இன்சொ லினதே அறம்."
+        },
+        "en": {
+          "line1": "A cheerful look, a kindly glance, and words that inward flow,",
+          "line2": "From loving heart—this is the path of virtue here below."
+        },
+        "hi": {
+          "line1": "हर्षित मुख से प्रेम से, देखे सबकी ओर।",
+          "line2": "हृदय-स्रोत से जो कहे, मीठे बोल सकोर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mukaththaan Amarndhinidhu Noakki Akaththaanaam",
+            "line2": "Inso Linadhae Aram."
+          },
+          "hi": {
+            "line1": "मुकत्ता़न् अमर्न्दिनिदु नोक्कि अकत्ता़नाम्",
+            "line2": "इन्सॊ लिऩदे अऱम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கண்டவுடன் முகம் மலர்ந்து வரவேற்று, அன்பான பார்வையோடு நோக்கி, உள்ளத்து நேர்மையிலிருந்து இனிமையான சொற்களைப் பேசுவதே நல்வாழ்வின் அறமாகும்.",
+        "en": "Righteousness consists in meeting others with a warm, open countenance, regarding them with tender eyes, and uttering gentle words straight from a sincere heart.",
+        "hi": "सामने वाले को देखकर मुख पर प्रसन्नता लाना, प्रेमभरी दृष्टि से देखना और मन की सच्चाई के साथ मधुर वचन कहना—यही धर्म का सच्चा आचरण है।"
+      }
+    },
+    {
+      "num": 94,
+      "line1": "துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும்",
+      "line2": "இன்புறூஉம் இன்சொ லவர்க்கு.",
+      "enLine1": "Thunburoouum Thuvvaamai Illaakum Yaarmaattum",
+      "enLine2": "Inburoouum Inso Lavarkku.",
+      "hiLine1": "तुन्बुऱूउम् तुव्वामै इल्लागुम् यार्माट्टुम्",
+      "hiLine2": "इन्बुऱूउम् इन्सॊ लवर्क्कु.",
+      "general": "எல்லோரிடத்திலும் மகிழ்ச்சியைத் தரும் இனிய சொற்களைப் பேசிப் பழகுகின்றவர்களுக்கு, துன்பத்தை உண்டாக்கும் கொடிய வறுமை ஒருபோதும் உண்டாகாது.",
+      "en": "Sorrow-yielding poverty shall never befall those who speak joy-producing, pleasant words to all men.",
+      "hi": "जो व्यक्ति सबके साथ प्रसन्नता देने वाले मधुर वचन बोलता है, उसे कभी भी दुःखदायी दरिद्रता या अभाव का सामना नहीं करना पड़ता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "துன்பு உறூஉம் (Thunbu Uroouum)",
+          "ta": "துன்பத்தை உண்டாக்குகின்ற",
+          "en": "Yielding affliction",
+          "hi": "दुःख देने वाली"
+        },
+        {
+          "no": 2,
+          "word": "துவ்வாமை (Thuvvaamai)",
+          "ta": "வறுமையானது",
+          "en": "Poverty / distress",
+          "hi": "दरिद्रता"
+        },
+        {
+          "no": 3,
+          "word": "இல்லாகும் (Illaakum)",
+          "ta": "இல்லாமல் போகும்",
+          "en": "Will not exist",
+          "hi": "नष्ट हो जाती है"
+        },
+        {
+          "no": 4,
+          "word": "யார் மாட்டும் (Yaar Maattum)",
+          "ta": "எவரிடத்திலும்",
+          "en": "Towards anyone",
+          "hi": "सबके प्रति"
+        },
+        {
+          "no": 5,
+          "word": "இன்பு உறூஉம் (Inbu Uroouum)",
+          "ta": "மகிழ்ச்சியைத் தருகின்ற",
+          "en": "Producing joy",
+          "hi": "सुख पहुँचाने वाले"
+        },
+        {
+          "no": 6,
+          "word": "இன்சொலவர்க்கு (Insolavarkku)",
+          "ta": "இனிய சொற்களைப் பேசுவோருக்கு",
+          "en": "To those of pleasant speech",
+          "hi": "मीठे बोल बोलने वालों को"
+        },
+        {
+          "no": 7,
+          "word": "துவ்வாமை (Thuvvaamai)",
+          "ta": "பொருளின்மை",
+          "en": "Destitution",
+          "hi": "अभाव"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும்",
+          "line2": "இன்புறூஉம் இன்சொ லவர்க்கு."
+        },
+        "en": {
+          "line1": "Afflicting poverty shall never touch the happy gate,",
+          "line2": "Of him whose pleasant words to all sweet joy create."
+        },
+        "hi": {
+          "line1": "दुःखदायिनी दरिद्रता, कभी न उसको घेर।",
+          "line2": "सब जीवों से जो कहे, मीठे वचन उकेर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thunburoouum Thuvvaamai Illaakum Yaarmaattum",
+            "line2": "Inburoouum Inso Lavarkku."
+          },
+          "hi": {
+            "line1": "तुन्बुऱूउम् तुव्वामै इल्लागुम् यार्माट्टुम्",
+            "line2": "इन्बुऱूउम् इन्सॊ लवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எந்த மனிதரிடத்திலும் இன்சொல் கூறி மகிழ்ச்சியை ஏற்படுத்துபவருக்கு, மனக்கலக்கத்தையும் வறுமையையும் தரும் துன்பங்கள் ஒருபோதும் அணுகுவதில்லை.",
+        "en": "He who brings cheer to all around him through encouraging and sweet speech will find that despair and crushing poverty stay far away from his life.",
+        "hi": "जो व्यक्ति सभी प्राणियों के साथ प्रीतिपूर्वक और मीठी वाणी में व्यवहार करता है, वह कभी भी दुःखमय दरिद्रता या अकेलेपन का शिकार नहीं होता।"
+      }
+    },
+    {
+      "num": 95,
+      "line1": "பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு",
+      "line2": "அணியல்ல மற்றுப் பிற.",
+      "enLine1": "Panivudaiyan Insolan Aadhal Oruvarkku",
+      "enLine2": "Aniyalla Matrup Pira.",
+      "hiLine1": "पणिवुडैयऩ् इन्सॊलऩ् आदल् ऒरुवर्क्कु",
+      "hiLine2": "अणियल्ल मट्रुप् पिऱ.",
+      "general": "பணிவு கொண்டவனாகவும், இன்சொல் பேசுபவனாகவும் விளங்குவதே ஒரு மனிதனுக்கு உண்மையான அணிகலனாகும்; உடம்பில் அணியும் மற்றவை எல்லாம் உண்மையான அணிகள் ஆகா.",
+      "en": "Humility and pleasant speech are the only true ornaments of a man; all other adornments are not ornaments at all.",
+      "hi": "विनम्रता और मधुर वाणी ही मनुष्य के वास्तविक आभूषण हैं; इनके अतिरिक्त शरीर पर पहने जाने वाले अन्य आभूषण केवल दिखावा मात्र हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பணிவுடையன் (Panivudaiyan)",
+          "ta": "பணிவான குணம் கொண்டவனாகவும்",
+          "en": "Being humble",
+          "hi": "विनम्र स्वभाव वाला"
+        },
+        {
+          "no": 2,
+          "word": "இன்சொலன் (Insolan)",
+          "ta": "இனிய சொற்களைப் பேசுபவனாகவும்",
+          "en": "Speaking sweet words",
+          "hi": "मधुर वचन बोलने वाला"
+        },
+        {
+          "no": 3,
+          "word": "ஆதல் (Aadhal)",
+          "ta": "இருப்பதே",
+          "en": "Becoming so",
+          "hi": "होना ही"
+        },
+        {
+          "no": 4,
+          "word": "ஒருவற்கு (Oruvarkku)",
+          "ta": "ஒரு மனிதனுக்கு",
+          "en": "To a person",
+          "hi": "मनुष्य के लिए"
+        },
+        {
+          "no": 5,
+          "word": "அணி (Ani)",
+          "ta": "உண்மையான அழகிய அணிகலனாகும்",
+          "en": "True ornament",
+          "hi": "सच्चा गहना है"
+        },
+        {
+          "no": 6,
+          "word": "அல்ல மற்றுப் பிற (Alla Matrup Pira)",
+          "ta": "மற்ற பொன்னணிகள் சிறந்த அணிகள் அல்ல",
+          "en": "None other are true jewels",
+          "hi": "अन्य वस्तुएँ आभूषण नहीं हैं"
+        },
+        {
+          "no": 7,
+          "word": "பணிவு (Panivu)",
+          "ta": "அடக்கமுடைமை",
+          "en": "Modesty / Humility",
+          "hi": "नम्रता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு",
+          "line2": "அணியல்ல மற்றுப் பிற."
+        },
+        "en": {
+          "line1": "Humility and sweet discourse are jewels fair and bright;",
+          "line2": "All other outward ornaments are worthless in our sight."
+        },
+        "hi": {
+          "line1": "विनयशीलता, मधुर-वाणी, मानव-भूषण सार।",
+          "line2": "और गहने देह के, केवल दिखावा-भार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Panivudaiyan Insolan Aadhal Oruvarkku",
+            "line2": "Aniyalla Matrup Pira."
+          },
+          "hi": {
+            "line1": "पणिवुडैयऩ् इन्सॊलऩ् आदल् ऒरुवर्क्कु",
+            "line2": "अणियल्ल मट्रुप् पिऱ."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அடக்கமும் பணிவும் உடையவனாகவும், பிறர் மனம் நோகாமல் இன்சொல் பேசுபவனாகவும் திகழ்வதே ஒருவருக்குப் பெருமை தரும் அணிகலனாகும்; மற்ற ஆடை ஆபரணங்கள் மெய்யான அழகைத் தராது.",
+        "en": "Modesty of demeanour and kindness of tongue constitute the truest adornments of human character; gold and precious gems are trivial by comparison.",
+        "hi": "सच्ची नम्रता और मीठे बोल ही किसी व्यक्ति के चरित्र का सच्चा शृंगार हैं; सोने-चांदी के गहने शरीर की शोभा तो बढ़ा सकते हैं, परंतु अंतरात्मा की नहीं।"
+      }
+    },
+    {
+      "num": 96,
+      "line1": "அல்லவை தேய அறம்பெருகும் நல்லவை",
+      "line2": "நாடி இனிய சொலின்.",
+      "enLine1": "Allavai Thaeya Aramperukum Nallavai",
+      "enLine2": "Naadi Iniya Solin.",
+      "hiLine1": "अल्लवै तेय अऱम्बॆरुगुम् नल्लवै",
+      "hiLine2": "नाडि इनिय सॊलिऩ्.",
+      "general": "பிறருக்கு நன்மையானவற்றை விரும்பி நாடி, இன்சொற்களைப் பேசி வாழ்ந்தால் அவனுடைய தீவினைகள் தேய்ந்து ஒழியும்; அறச்செயல்கள் பெருகி வளரும்.",
+      "en": "If a man seeks to do good and speaks gentle, pleasant words, his sins will melt away and his virtue will increase.",
+      "hi": "यदि मनुष्य दूसरों की भलाई का ध्यान रखकर मधुर वचन बोले, तो उसके पाप क्षीण हो जाते हैं और धर्म-पुण्य में निरंतर वृद्धि होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அல்லவை (Allavai)",
+          "ta": "பாவச் செயல்களும் தீமைகளும்",
+          "en": "Evils and sins",
+          "hi": "पाप और बुराइयाँ"
+        },
+        {
+          "no": 2,
+          "word": "தேய (Thaeya)",
+          "ta": "தேய்ந்து அழிய",
+          "en": "Diminishing / wearing away",
+          "hi": "नष्ट होकर"
+        },
+        {
+          "no": 3,
+          "word": "அறம் பெருகும் (Aram Perukum)",
+          "ta": "அறமானது பெருகி வளரும்",
+          "en": "Virtue will increase",
+          "hi": "धर्म बढ़ता है"
+        },
+        {
+          "no": 4,
+          "word": "நல்லவை நாடி (Nallavai Naadi)",
+          "ta": "நன்மைகளை நாடி விரும்பி",
+          "en": "Seeking what is good",
+          "hi": "कल्याण की इच्छा कर"
+        },
+        {
+          "no": 5,
+          "word": "இனிய சொலின் (Iniya Solin)",
+          "ta": "இனிய சொற்களைப் பேசினால்",
+          "en": "If one speaks sweetly",
+          "hi": "यदि मीठे वचन बोले"
+        },
+        {
+          "no": 6,
+          "word": "அல்லது (Alladhu)",
+          "ta": "தீமை",
+          "en": "Evil",
+          "hi": "अधर्म"
+        },
+        {
+          "no": 7,
+          "word": "சொலின் (Solin)",
+          "ta": "சொல்லுதல் செய்தால்",
+          "en": "If spoken",
+          "hi": "कहने पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அல்லவை தேய அறம்பெருகும் நல்லவை",
+          "line2": "நாடி இனிய சொலின்."
+        },
+        "en": {
+          "line1": "If seeking good to all, your words in gentleness are told,",
+          "line2": "Your sins will fade away and virtues blossom manifold."
+        },
+        "hi": {
+          "line1": "सद्भाव से पर-हित वचन, जो भी कहे सुजान।",
+          "line2": "पाप घटें उसके सभी, बढ़े धर्म-कल्याण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Allavai Thaeya Aramperukum Nallavai",
+            "line2": "Naadi Iniya Solin."
+          },
+          "hi": {
+            "line1": "अल्लवै तेय अऱम्बॆरुगुम् नल्लवै",
+            "line2": "नाडि इनिय सॊलिऩ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அனைவருக்கும் நன்மையை விளைவிக்கும் நல்லெண்ணத்தோடு இன்சொற்களைப் பேசி வாழ்பவனிடம், அவனுடைய பாவங்கள் யாவும் குறைந்து நீங்கும்; புண்ணிய அறநெறி பெருகி மேன்மையளிக்கும்.",
+        "en": "When speech is motivated by the desire to confer genuine benefit and framed in courteous kindness, demerits dissolve and spiritual excellence expands.",
+        "hi": "जो व्यक्ति दूसरों का हित साधने के उद्देश्य से विनम्र और मधुर भाषा का प्रयोग करता है, उसके पूर्वकृत पाप धुल जाते हैं और उसके जीवन में पुण्य का संचय होता है।"
+      }
+    },
+    {
+      "num": 97,
+      "line1": "நயன்ஈன்று நன்றி பயக்கும் பயன்ஈன்று",
+      "line2": "பண்பின் தலைப்பிரியாச் சொல்.",
+      "enLine1": "Nayan-eendru Nandri Payakkum Payan-eendru",
+      "enLine2": "Panbin Thalaippiriyaach Chol.",
+      "hiLine1": "नयऩ्-ईन्ड्रु नन्ड्री पयक्कुम् पयऩ्-ईन्ड्रु",
+      "hiLine2": "पण्बिऩ् तलैप्पिरियाच् चॊल्.",
+      "general": "பிறருக்கு நற்பயனைத் தந்து, நல்ல பண்பிலிருந்து நீங்காத இனிய சொற்களானது, கேட்பவருக்கு இன்பத்தையும் தந்து, பேசுபவருக்குப் பெரும் நன்மையையும் உண்டாக்கும்.",
+      "en": "Words that yield useful benefit and never swerve from noble courtesy will produce goodwill and confer lasting righteousness.",
+      "hi": "सद्व्यवहार और शालीनता से युक्त वचन, जो दूसरों का भला करते हैं, वे सुनने वाले को सुख देते हैं और बोलने वाले को महान पुण्य प्रदान करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நயன் ஈன்று (Nayan Eendru)",
+          "ta": "மகிழ்ச்சியைத் தந்து",
+          "en": "Producing pleasantness / delight",
+          "hi": "आनंद देकर"
+        },
+        {
+          "no": 2,
+          "word": "நன்றி பயக்கும் (Nandri Payakkum)",
+          "ta": "நன்மையை உண்டாக்கும்",
+          "en": "Yielding virtue and profit",
+          "hi": "कल्याण करता है"
+        },
+        {
+          "no": 3,
+          "word": "பயன் ஈன்று (Payan Eendru)",
+          "ta": "நல்ல பயனைத் தந்து",
+          "en": "Producing good fruit",
+          "hi": "सुफल देकर"
+        },
+        {
+          "no": 4,
+          "word": "பண்பின் (Panbin)",
+          "ta": "நற்பண்பிலிருந்து",
+          "en": "From noble culture",
+          "hi": "सद्गुणों से"
+        },
+        {
+          "no": 5,
+          "word": "தலைப்பிரியாச் சொல் (Thalaippiriyaach Chol)",
+          "ta": "நீங்காமல் வரும் இன்சொற்கள்",
+          "en": "Words that swerve not",
+          "hi": "अलग न होने वाले शब्द"
+        },
+        {
+          "no": 6,
+          "word": "நயன் (Nayan)",
+          "ta": "மகிழ்ச்சி / நீதி",
+          "en": "Pleasantness / Justice",
+          "hi": "प्रीति"
+        },
+        {
+          "no": 7,
+          "word": "நன்றி (Nandri)",
+          "ta": "நன்மை / அறம்",
+          "en": "Goodness / Virtue",
+          "hi": "भलाई"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நயன்ஈன்று நன்றி பயக்கும் பயன்ஈன்று",
+          "line2": "பண்பின் தலைப்பிரியாச் சொல்."
+        },
+        "en": {
+          "line1": "Words that yield profit, cleaving fast to courtesy and grace,",
+          "line2": "Will bring forth gladness to the ear and virtue to our race."
+        },
+        "hi": {
+          "line1": "सद्गुण-युक्त जो वचन हैं, देते हित-उपहार।",
+          "line2": "उपजाते आनंद वे, करते हैं उपकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nayan-eendru Nandri Payakkum Payan-eendru",
+            "line2": "Panbin Thalaippiriyaach Chol."
+          },
+          "hi": {
+            "line1": "नयऩ्-ईन्ड्रु नन्ड्री पयक्कुम् पयऩ्-ईन्ड्रु",
+            "line2": "पण्बिऩ् तलैप्पिरियाच् चॊल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பயனுள்ள பொருளைக் கொண்டு நற்பண்பிலிருந்து வழுவாமல் பேசப்படும் இனிய மொழிகள், இம்மைக்கு இன்பமான அன்பையும் மறுமைக்கு நிலையான புண்ணியத்தையும் தரும்.",
+        "en": "Utterances that maintain dignified courtesy while imparting wholesome benefit produce present happiness and bear fruit in eternal moral merit.",
+        "hi": "जो वाणी मर्यादा और संस्कारों से कभी अलग नहीं होती और जिसमें लोक-कल्याण की भावना होती है, वह वर्तमान में प्रेम बढ़ाती है और भविष्य के लिए पुण्य का आधार बनती है।"
+      }
+    },
+    {
+      "num": 98,
+      "line1": "சிறுமையுள் நீங்கிய இன்சொல் மறுமையும்",
+      "line2": "இம்மையும் இன்பம் தரும்.",
+      "enLine1": "Sirumaiyul Neengiya Insol Marumaiyum",
+      "enLine2": "Immaiyum Inbam Tharum.",
+      "hiLine1": "सिऱुमैयुळ् नीङ्गिय इन्सॊल् मऱुमैयुम्",
+      "hiLine2": "इम्मैयुम् इन्बम् तरुम्.",
+      "general": "பிறர்க்குத் தீமை பயக்கும் சிறுமைத்தனமான இழிவிலிருந்து நீங்கிய இனிய சொற்கள், ஒருவனுக்கு மறுமையிலும் இம்மையிலும் நீங்காத இன்பத்தைத் தரும்.",
+      "en": "Sweet speech that is free from petty meanness and malice will yield happiness both in this world and in the world to come.",
+      "hi": "तुच्छता, कटुता और हीन विचारों से रहित मधुर वाणी मनुष्य को इस लोक में भी सुख देती है और परलोक में भी आनंद प्रदान करती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சிறுமையுள் நீங்கிய (Sirumaiyul Neengiya)",
+          "ta": "இழிவான குணங்கள் அற்ற",
+          "en": "Free from littleness / malice",
+          "hi": "तुच्छता से रहित"
+        },
+        {
+          "no": 2,
+          "word": "இன்சொல் (Insol)",
+          "ta": "இனிய சொற்களானது",
+          "en": "Pleasant speech",
+          "hi": "मधुर वाणी"
+        },
+        {
+          "no": 3,
+          "word": "மறுமையும் (Marumaiyum)",
+          "ta": "மறுமை உலகிலும்",
+          "en": "In the future world",
+          "hi": "परलोक में भी"
+        },
+        {
+          "no": 4,
+          "word": "இம்மையும் (Immaiyum)",
+          "ta": "இவ்வுலகிலும்",
+          "en": "In this present world",
+          "hi": "इस जन्म में भी"
+        },
+        {
+          "no": 5,
+          "word": "இன்பம் தரும் (Inbam Tharum)",
+          "ta": "மகிழ்ச்சியைத் தரும்",
+          "en": "Will confer happiness",
+          "hi": "आनंद देती है"
+        },
+        {
+          "no": 6,
+          "word": "சிறுமை (Sirumai)",
+          "ta": "இழிவு / பொறாமை",
+          "en": "Meanness",
+          "hi": "नीचता"
+        },
+        {
+          "no": 7,
+          "word": "இன்மை (Inmai)",
+          "ta": "இல்லாமை",
+          "en": "Absence",
+          "hi": "रहित"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சிறுமையுள் நீங்கிய இன்சொல் மறுமையும்",
+          "line2": "இம்மையும் இன்பம் தரும்."
+        },
+        "en": {
+          "line1": "Kind words that from all pettiness and bitter malice part,",
+          "line2": "Yield lasting bliss in this brief life and where eternal start."
+        },
+        "hi": {
+          "line1": "तुच्छ भाव से मुक्त हो, बोले जो मृदु बोल।",
+          "line2": "इहलोक और परलोक में, पावे सुख अनमोल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sirumaiyul Neengiya Insol Marumaiyum",
+            "line2": "Immaiyum Inbam Tharum."
+          },
+          "hi": {
+            "line1": "सिऱुमैयुळ् नीङ्गिय इन्सॊल् मऱुमैयुम्",
+            "line2": "इम्मैयुम् इन्बम् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறரை இழிவுபடுத்தும் குறுகிய மனப்பான்மையின்றிப் பேசப்படும் இனிய மொழிகள், ஒருவனுக்கு இப்பூவுலகில் நன்மதிப்பையும், மரணத்திற்குப் பின் நற்கதியையும் பெற்றுத் தரும்.",
+        "en": "Gentle words purged of spite and vulgarity bless the speaker with beloved fellowship in the present life and supreme peace in the life beyond.",
+        "hi": "जो मनुष्य किसी का उपहास या अपमान किए बिना निष्कपट भाव से मीठे बोल बोलता है, उसे इस जीवन में सबका आदर-प्रेम मिलता है और मृत्यु के बाद उत्तम लोक की प्राप्ति होती है।"
+      }
+    },
+    {
+      "num": 99,
+      "line1": "இன்சொல் இனிதீன்றல் காண்பான் எவன்கொலோ",
+      "line2": "வன்சொல் வழங்கு வது.",
+      "enLine1": "Insol Inidheentral Kaanbaan Evankoloa",
+      "enLine2": "Vansol Vazhanku Vadhu.",
+      "hiLine1": "इन्सॊल् इनिदीन्ड्रा़ल् काण्बाऩ् ऎवऩ्कॊलो",
+      "hiLine2": "वन्सॊल् वऴङ्कु वदु.",
+      "general": "இன்சொற்கள் கேட்பவர்க்கும் பேசுபவர்க்கும் இன்பத்தைத் தருவதைக் கண்கூடாகக் காணும் ஒருவன், பிறரிடம் கடுமையான வன்சொற்களைப் பேசுவது எதனாலோ?",
+      "en": "Seeing that kind words yield sweetest joy, why does any man deliberately resort to harsh and wounding speech?",
+      "hi": "यह प्रत्यक्ष देखते हुए भी कि मीठे वचनों से कितना आनंद प्राप्त होता है, मनुष्य दूसरों के प्रति कटु वचनों का प्रयोग क्यों करता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்சொல் (Insol)",
+          "ta": "இனிய சொற்கள்",
+          "en": "Sweet speech",
+          "hi": "मीठी वाणी"
+        },
+        {
+          "no": 2,
+          "word": "இனிது ஈன்றல் (Inidhu Eentral)",
+          "ta": "இன்பத்தை விளைவிப்பதை",
+          "en": "Yielding happiness",
+          "hi": "सुख उत्पन्न करती है"
+        },
+        {
+          "no": 3,
+          "word": "காண்பான் (Kaanbaan)",
+          "ta": "அறிந்து காண்பவன்",
+          "en": "He who perceives",
+          "hi": "देखने वाला"
+        },
+        {
+          "no": 4,
+          "word": "எவன்கொலோ (Evankoloa)",
+          "ta": "எந்தக் காரணத்திற்காகவோ?",
+          "en": "Why ever does he?",
+          "hi": "क्यों करता है?"
+        },
+        {
+          "no": 5,
+          "word": "வன்சொல் (Vansol)",
+          "ta": "கடுமையான கொடுஞ்சொற்களை",
+          "en": "Harsh wounding words",
+          "hi": "कड़वे बोल"
+        },
+        {
+          "no": 6,
+          "word": "வழங்குவது (Vazhanguvadhu)",
+          "ta": "பேசுகின்றான்?",
+          "en": "Utter / employ",
+          "hi": "बोलना"
+        },
+        {
+          "no": 7,
+          "word": "வன்மை (Vanmai)",
+          "ta": "கடுமை",
+          "en": "Harshness",
+          "hi": "कठोरता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்சொல் இனிதீன்றல் காண்பான் எவன்கொலோ",
+          "line2": "வன்சொல் வழங்கு வது."
+        },
+        "en": {
+          "line1": "Who sees the pleasure kindly speech to every hearer lends,",
+          "line2": "Why does he use the bitter word that only wounds and rends?"
+        },
+        "hi": {
+          "line1": "मीठी बोली से मिले, सबको ही सुख-सार।",
+          "line2": "जान-बूझ कर भी मनुज, क्यों बोले कटु-सार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Insol Inidheentral Kaanbaan Evankoloa",
+            "line2": "Vansol Vazhanku Vadhu."
+          },
+          "hi": {
+            "line1": "इन्सॊल् इनिदीन्ड्रा़ल् काण्बाऩ् ऎवऩ्कॊलो",
+            "line2": "वन्सॊल् वऴङ्कु वदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இன்சொல் பேசுவதால் எல்லோரிடத்தும் நல்லுறவும் மகிழ்ச்சியும் உண்டாவதை அனுபவத்தில் உணர்ந்த பின்னரும், ஒரு மனிதன் பிறர் நெஞ்சைப் புண்படுத்தும் வன்சொற்களைப் பேசுவது பெரும் அறியாமையாகும்.",
+        "en": "Having witnessed that soft speech diffuses peace and harmony, it is incomprehensible folly for a rational being to choose abusive and stinging words.",
+        "hi": "जब मनुष्य स्वयं अनुभव करता है कि मधुर भाषा से अपना और दूसरों का मन प्रसन्न होता है, तो फिर समझ में नहीं आता कि वह दूसरों को चोट पहुँचाने वाले कठोर शब्द क्यों बोलता है।"
+      }
+    },
+    {
+      "num": 100,
+      "line1": "இனிய உளவாக இன்னாத கூறல்",
+      "line2": "கனியிருப்பக் காய்கவர்ந் தற்று.",
+      "enLine1": "Iniya Ulavaaka Innaadha Kooral",
+      "enLine2": "Kaniyiruppak Kaaykavarn Thatru.",
+      "hiLine1": "इनिय उळवाग इन्नाद कूऱल्",
+      "hiLine2": "कनियिरुप्पक् काय्कवर्न् तत्ऱु.",
+      "general": "இன்பம் தரும் இனிய சொற்கள் இருக்கும்போது துன்பம் தரும் கடுஞ்சொற்களைப் பேசுவது, சுவையான கனி இருக்கும்போது அதனை விட்டுவிட்டுக் கசப்பான காயைத் தின்பது போன்றதாகும்.",
+      "en": "To speak harsh words when sweet words are ready at hand is like plucking sour, unripe fruit when ripe, sweet fruit is hanging near.",
+      "hi": "मीठे और हितकारी वचन उपलब्ध होने पर भी कठोर और कड़वे बोल बोलना, वृक्ष पर पके मीठे फल के होते हुए कच्चे और कड़वे फल को तोड़ने के समान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இனிய (Iniya)",
+          "ta": "இன்பம் தரும் இனிய சொற்கள்",
+          "en": "Sweet words",
+          "hi": "मधुर वचन"
+        },
+        {
+          "no": 2,
+          "word": "உளவாக (Ulavaaka)",
+          "ta": "பேசுவதற்கு இருக்கும்போது",
+          "en": "Being available",
+          "hi": "होते हुए"
+        },
+        {
+          "no": 3,
+          "word": "இன்னாத (Innaadha)",
+          "ta": "துன்பம் தரும் கடுஞ்சொற்களை",
+          "en": "Harsh bitter words",
+          "hi": "दुःखदायी कटु वचन"
+        },
+        {
+          "no": 4,
+          "word": "கூறல் (Kooral)",
+          "ta": "சொல்லிப் பேசுவது",
+          "en": "To speak",
+          "hi": "कहना"
+        },
+        {
+          "no": 5,
+          "word": "கனி இருப்ப (Kani Iruppa)",
+          "ta": "சுவையான பழம் இருக்கும்போது",
+          "en": "When ripe fruit is present",
+          "hi": "पके फल के रहते"
+        },
+        {
+          "no": 6,
+          "word": "காய் கவர்ந்தற்று (Kaaykavarnthatru)",
+          "ta": "கசப்பான காயைப் பறித்துத் தின்பது போன்றது",
+          "en": "Is like choosing unripe fruit",
+          "hi": "कच्चा फल खाने के समान है"
+        },
+        {
+          "no": 7,
+          "word": "கனி (Kani)",
+          "ta": "பழம்",
+          "en": "Fruit",
+          "hi": "पका फल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இனிய உளவாக இன்னாத கூறல்",
+          "line2": "கனியிருப்பக் காய்கவர்ந் தற்று."
+        },
+        "en": {
+          "line1": "To use harsh words when sweet are near and easy to be said,",
+          "line2": "Is leaving ripe fruit on the bough to eat raw fruit instead."
+        },
+        "hi": {
+          "line1": "मधुर वचन को छोड़ कर, जो कटु वचन उचार।",
+          "line2": "पके मधुर फल छोड़ कर, खाय कच्चा फल गँवार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iniya Ulavaaka Innaadha Kooral",
+            "line2": "Kaniyiruppak Kaaykavarn Thatru."
+          },
+          "hi": {
+            "line1": "इनिय उळवाग इन्नाद कूऱल्",
+            "line2": "कनियिरुप्पक् काय्कवर्न् तत्ऱु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எத்தனையோ இனிய சொற்கள் பேசக் கிடைக்கும்போது, அவற்றை விட்டுவிட்டுக் கடுமையான சொற்களால் பிறரைப் புண்படுத்துவது, மரத்தில் நல்ல பழங்கள் பழுத்திருக்கையில் அவற்றை உண்ணாமல் கசக்கும் காயைப் பறித்துத் தின்பதற்கு ஒப்பான மதியீனமாகும்.",
+        "en": "Choosing offensive speech when gentle language is readily available is as senseless as ignoring sweet, luscious fruit on a tree in order to chew upon raw and acrid rind.",
+        "hi": "जब भाषा में प्रेम, आदर और मिठास घोलने वाले अनेक शब्द मौजूद हैं, तब उन्हें छोड़कर कड़वे शब्दों का चुनाव करना वैसा ही मूर्खतापूर्ण है जैसे पेड़ पर लगे मीठे आम को छोड़कर कड़वे कच्चे फल को खाना।"
+      }
+    }
+  ]
+}

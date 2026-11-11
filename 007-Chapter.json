@@ -1,0 +1,930 @@
+{
+  "chapterNum": 7,
+  "nameTa": "மக்கட்பேறு",
+  "nameEn": "The Wealth of Children",
+  "nameHi": "संतान-लाभ",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 61,
+      "line1": "பெறுமவற்றுள் யாமறிவ தொன்றில்லை அறிவறிந்த",
+      "line2": "மக்கட்பேறு அல்ல பிற.",
+      "enLine1": "Perumavatrul Yaamariva Dhondrillai Arivarindha",
+      "enLine2": "Makkadpaeru Alla Pira.",
+      "hiLine1": "पॆऱुमवट्रुळ् यामऱिव दॊन्ड्रिल्लै अऱिवऱिन्द",
+      "hiLine2": "मक्कड्पेऱु अल्ल पिऱ.",
+      "general": "ஒருவன் வாழ்க்கையில் பெறக்கூடிய நன்மைகளுள், அறியவேண்டியவற்றை அறிந்து விளங்கும் நற்குணமுள்ள பிள்ளைகளைப் பெறுவதைத் தவிர சிறந்த பேறு வேறு ஒன்றுமில்லை.",
+      "en": "Among all the blessings one may gain, we know of none greater than the acquisition of children endowed with wisdom and moral understanding.",
+      "hi": "संसार में प्राप्त होने वाले समस्त लाभों में, ज्ञानवान और सुसंस्कारी संतान प्राप्त करने से बढ़कर हम अन्य किसी श्रेष्ठ वरदान को नहीं जानते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பெறும் அவற்றுள் (Perum Avatrul)",
+          "ta": "பெறக்கூடிய செல்வ நன்மைகளுள்",
+          "en": "Among all gains that can be obtained",
+          "hi": "प्राप्त होने वाले लाभों में"
+        },
+        {
+          "no": 2,
+          "word": "யாம் அறிவது (Yaam Arivadhu)",
+          "ta": "நாம் அறிந்தவற்றுள்",
+          "en": "That which we know",
+          "hi": "जो हम जानते हैं"
+        },
+        {
+          "no": 3,
+          "word": "ஒன்றுமில்லை (Ondrillai)",
+          "ta": "வேறு எதுவும் இல்லை",
+          "en": "There is nothing else",
+          "hi": "कुछ भी नहीं है"
+        },
+        {
+          "no": 4,
+          "word": "அறிவு அறிந்த (Arivu Arindha)",
+          "ta": "அறிந்துகொள்ள வேண்டிய நல்லறிவைப் பெற்ற",
+          "en": "Endowed with true wisdom",
+          "hi": "ज्ञान को जानने वाली"
+        },
+        {
+          "no": 5,
+          "word": "மக்கட்பேறு (Makkadpaeru)",
+          "ta": "பிள்ளைப் பேற்றினைத் தவிர",
+          "en": "The wealth of children",
+          "hi": "संतान की प्राप्ति"
+        },
+        {
+          "no": 6,
+          "word": "அல்ல பிற (Alla Pira)",
+          "ta": "மற்றவை சிறந்தவை அல்ல",
+          "en": "Other than this",
+          "hi": "इसके अतिरिक्त अन्य"
+        },
+        {
+          "no": 7,
+          "word": "மக்கட் (Makkad)",
+          "ta": "பிள்ளைகள்",
+          "en": "Children",
+          "hi": "संतान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பெறுமவற்றுள் யாமறிவ தொன்றில்லை அறிவறிந்த",
+          "line2": "மக்கட்பேறு அல்ல பிற."
+        },
+        "en": {
+          "line1": "Of all the blessings earth can yield, no greater gain we know,",
+          "line2": "Than having children who in mind and noble wisdom grow."
+        },
+        "hi": {
+          "line1": "पाने योग्य पदार्थों में, श्रेष्ठ न जाने कोय।",
+          "line2": "ज्ञानी सुत का लाभ ही, सबसे बढ़कर होय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Perumavatrul Yaamariva Dhondrillai Arivarindha",
+            "line2": "Makkadpaeru Alla Pira."
+          },
+          "hi": {
+            "line1": "पॆऱुमवट्रुळ् यामऱिव दॊन्ड्रिल्लै अऱिवऱिन्द",
+            "line2": "मक्कड्पेऱु अल्ल पिऱ."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு மனிதன் தன் வாழ்நாளில் அடையக்கூடிய பலவிதமான பேறுகளில், நல்லறிவும் நற்குணமும் கொண்ட நன்மக்களைப் பெறுவதைக் காட்டிலும் மேலான பேறு வேறு எதுவும் இல்லை.",
+        "en": "Among all the treasures one can acquire in this world, there is none that excels the blessing of rearing children endowed with discernment and virtuous wisdom.",
+        "hi": "मनुष्य को जीवन में जितने भी सुख और वैभव प्राप्त होते हैं, उन सबमें ज्ञान और सदाचार से युक्त संतान का सुख सबसे अनुपम और सर्वोच्च होता है।"
+      }
+    },
+    {
+      "num": 62,
+      "line1": "எழுபிறப்பும் தீயவை தீண்டா பழிபிறங்காப்",
+      "line2": "பண்புடை மக்கள் பெறின்.",
+      "enLine1": "Ezhupirappum Theeyavai Theendaa Pazhipirangaap",
+      "enLine2": "Panpudai Makkal Perin.",
+      "hiLine1": "ऎऴुपिऱप्पुम् तीयवै तीण्डा पऴिपिऱङ्काप्",
+      "hiLine2": "पण्बुडै मक्कळ् पॆऱिन्.",
+      "general": "பழிச்சொற்கள் இல்லாத நற்பண்புகள் நிறைந்த பிள்ளைகளைப் பெற்றெடுத்தால், ஒருவனை அவனுடைய ஏழு பிறவிகளிலும் எந்தத் துன்பங்களும் தீண்டாது.",
+      "en": "If a man begets children of spotless character, free from blemish, the evils of seven births shall not touch him.",
+      "hi": "यदि मनुष्य को निर्दोष और सद्गुणी संतान प्राप्त हो जाए, तो उसके सातों जन्मों में कोई भी बुराई या दुःख उसे छू तक नहीं सकता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எழு பிறப்பும் (Ezhu Pirappum)",
+          "ta": "ஏழு வகைப்பட்ட பிறவிகளிலும்",
+          "en": "Through sevenfold births",
+          "hi": "सातों जन्मों में"
+        },
+        {
+          "no": 2,
+          "word": "தீயவை (Theeyavai)",
+          "ta": "துன்பமும் தீவினைகளும்",
+          "en": "Evils and miseries",
+          "hi": "बुराइयों व दुःखों को"
+        },
+        {
+          "no": 3,
+          "word": "தீண்டா (Theendaa)",
+          "ta": "நெருங்கித் தொடாது",
+          "en": "Will not touch",
+          "hi": "नहीं छूतीं"
+        },
+        {
+          "no": 4,
+          "word": "பழி பிறங்கா (Pazhi Pirangaa)",
+          "ta": "குற்றம் ஏதும் உண்டாகாத",
+          "en": "Free from all reproach",
+          "hi": "निंदा-रहित"
+        },
+        {
+          "no": 5,
+          "word": "பண்புடை (Panpudai)",
+          "ta": "நற்பண்புகளை உடைய",
+          "en": "Possessing noble character",
+          "hi": "सद्गुणवान"
+        },
+        {
+          "no": 6,
+          "word": "மக்கள் (Makkal)",
+          "ta": "பிள்ளைகளை",
+          "en": "Children",
+          "hi": "संतान को"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் (Perin)",
+          "ta": "பெற்றுக் கொண்டால்",
+          "en": "If one obtains",
+          "hi": "यदि पा ले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எழுபிறப்பும் தீயவை தீண்டா பழிபிறங்காப்",
+          "line2": "பண்புடை மக்கள் பெறின்."
+        },
+        "en": {
+          "line1": "No sorrow touches through seven births the parent fortunate,",
+          "line2": "Whose children live a spotless life, upright and temperate."
+        },
+        "hi": {
+          "line1": "दोष-रहित सुगुणी सुपुत्र, यदि मिल जाये आप।",
+          "line2": "सातों जन्मों में नहीं, छू सकता संताप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ezhupirappum Theeyavai Theendaa Pazhipirangaap",
+            "line2": "Panpudai Makkal Perin."
+          },
+          "hi": {
+            "line1": "ऎऴुपिऱप्पुम् तीयवै तीण्डा पऴिपिऱङ्काप्",
+            "line2": "पण्बुडै मक्कळ् पॆऱिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறர் பழித்துரைக்காத நற்குணங்கள் நிறைந்த பிள்ளைகளைப் பெற்ற பெற்றோரை, வரும் பிறவிகள் அனைத்திலும் எந்தக் கொடிய துன்பங்களும் வந்து அடையாது.",
+        "en": "Parents who rear blameless and well-mannered children are shielded from worldly distress and sorrow throughout the cycles of their existence.",
+        "hi": "जिन माता-पिता को समाज में आदर पाने वाली सुसंस्कृत संतान मिलती है, उनका कुल सदा के लिए दुःखों और पापों के प्रभाव से मुक्त हो जाता है।"
+      }
+    },
+    {
+      "num": 63,
+      "line1": "தம்பொருள் என்பதம் மக்கள் அவர்பொருள்",
+      "line2": "தம்தம் வினையான் வரும்.",
+      "enLine1": "Thamporul Enbadham Makkal Avarporul",
+      "enLine2": "Thamtham Vinaiyaan Varum.",
+      "hiLine1": "तम्पॊरुळ् ऎन्बदम् मक्कळ् अवर्पॊरुळ्",
+      "hiLine2": "तम्दम् विऩैयाऩ् वरुम्.",
+      "general": "பெற்றோருக்குத் தமது மெய்யான செல்வம் தம் பிள்ளைகளே என்று அறிஞர் கூறுவர்; அந்தப் பிள்ளைகள் செய்யும் நற்செயல்களின் மூலமே பெற்றோர்க்கு அழியாத புகழ்ச்செல்வம் வந்து சேரும்.",
+      "en": "Men call their children their true wealth; and that wealth comes to them through the virtuous deeds which the children perform.",
+      "hi": "माता-पिता की वास्तविक संपत्ति उनकी संतान ही कहलाती है; और उस संतान का यथार्थ मूल्य व यश उनके अपने शुभ कर्मों से प्राप्त होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தம் பொருள் (Tham Porul)",
+          "ta": "தமக்குரிய சிறந்த செல்வம்",
+          "en": "One's own true wealth",
+          "hi": "अपनी सच्ची संपत्ति"
+        },
+        {
+          "no": 2,
+          "word": "என்ப (Enba)",
+          "ta": "என்று பெரியோர் கூறுவர்",
+          "en": "Wise men say",
+          "hi": "कहते हैं"
+        },
+        {
+          "no": 3,
+          "word": "தம் மக்கள் (Tham Makkal)",
+          "ta": "தம் பிள்ளைகளை",
+          "en": "Their own children",
+          "hi": "अपनी संतान को"
+        },
+        {
+          "no": 4,
+          "word": "அவர் பொருள் (Avar Porul)",
+          "ta": "அந்தப் பிள்ளைகளால் வரும் செல்வம்",
+          "en": "The wealth of those children",
+          "hi": "उस संतान का फल"
+        },
+        {
+          "no": 5,
+          "word": "தம்தம் (Thamtham)",
+          "ta": "அவரவர் செய்யும்",
+          "en": "Their respective",
+          "hi": "उनके अपने"
+        },
+        {
+          "no": 6,
+          "word": "வினையான் (Vinaiyaan)",
+          "ta": "நற்செயல்களினால்",
+          "en": "By their righteous actions",
+          "hi": "सत्कर्मों से"
+        },
+        {
+          "no": 7,
+          "word": "வரும் (Varum)",
+          "ta": "வந்து சேரும்",
+          "en": "Will accrue / come",
+          "hi": "प्राप्त होता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தம்பொருள் என்பதம் மக்கள் அவர்பொருள்",
+          "line2": "தம்தம் வினையான் வரும்."
+        },
+        "en": {
+          "line1": "'Their children are their wealth,' the wise of old have said;",
+          "line2": "Which by the children's deeds upon the parents' head is shed."
+        },
+        "hi": {
+          "line1": "अपनी संतानें ही हैं, निज संपत्ति महान।",
+          "line2": "निज सत्कर्मों से उन्हें, मिलता है कल्याण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thamporul Enbadham Makkal Avarporul",
+            "line2": "Thamtham Vinaiyaan Varum."
+          },
+          "hi": {
+            "line1": "तम्पॊरुळ् ऎन्बदम् मक्कळ् अवर्पॊरुळ्",
+            "line2": "तम्दम् विऩैयाऩ् वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம் பிள்ளைகளே தமக்குரிய நிலையான செல்வமாகும்; அப்பிள்ளைகள் அடையும் நற்பண்புகளும் புகழும் அவர்களின் நல்ல செயல்களின் வழியே பெற்றோரை வந்தடைகிறது.",
+        "en": "One's own offspring are regarded as the greatest personal treasure, and the merit and honor they generate through righteous conduct reflect enduring pride upon the parents.",
+        "hi": "संतान ही माता-पिता की सबसे बड़ी दौलत होती है; और उस संतान के अच्छे आचरण तथा परोपकार से ही परिवार को वास्तविक सम्मान और सद्गति प्राप्त होती है।"
+      }
+    },
+    {
+      "num": 64,
+      "line1": "அமிழ்தினும் ஆற்ற இனிதேதம் மக்கள்",
+      "line2": "சிறுகை அளாவிய கூழ்.",
+      "enLine1": "Amizhthinum Aatra Inidhaedham Makkal",
+      "enLine2": "Sirukai Alaaviya Koozh.",
+      "hiLine1": "अमिऴ्दिनुम् आट्र इनिदेदम् मक्कळ्",
+      "hiLine2": "सिऱुकै अळाविय कूऴ्.",
+      "general": "தம்முடைய குழந்தைகளின் பிஞ்சுக் கைகளால் பிசைந்து சிந்தப்பட்ட எளிய உணவானது, தேவர்களின் அமிழ்தத்தைவிடப் பெற்றோருக்கு மிகவும் இனியதாகும்.",
+      "en": "Far sweeter than the nectar of the gods is the simple porridge stirred and scattered by the tiny, tender hands of one's own children.",
+      "hi": "अपने नन्हें बच्चों के कोमल हाथों से मसला और बिखेरा गया साधारण भोजन भी माता-पिता के लिए अमृत से कहीं अधिक स्वादिष्ट और सुखदायी होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அமிழ்தினும் (Amizhthinum)",
+          "ta": "தேவாமிர்தத்தை விடவும்",
+          "en": "Than ambrosia / nectar",
+          "hi": "अमृत से भी"
+        },
+        {
+          "no": 2,
+          "word": "ஆற்ற (Aatra)",
+          "ta " : "மிகவும்",
+          "en": "Far more / exceedingly",
+          "hi": "अत्यंत"
+        },
+        {
+          "no": 3,
+          "word": "இனிதே (Inidhae)",
+          "ta": "இனிமையானதாகும்",
+          "en": "Is sweeter indeed",
+          "hi": "मधुर व स्वादिष्ट है"
+        },
+        {
+          "no": 4,
+          "word": "தம் மக்கள் (Tham Makkal)",
+          "ta": "தம்முடைய குழந்தைகளின்",
+          "en": "Of their own children",
+          "hi": "अपनी संतान के"
+        },
+        {
+          "no": 5,
+          "word": "சிறு கை (Siru Kai)",
+          "ta": "சிறிய பிஞ்சுக் கைகளால்",
+          "en": "Tiny hands",
+          "hi": "छोटे-छोटे हाथों से"
+        },
+        {
+          "no": 6,
+          "word": "அளாவிய (Alaaviya)",
+          "ta": "பிசைந்து துழாவிய",
+          "en": "Stirred / touched",
+          "hi": "सना हुआ"
+        },
+        {
+          "no": 7,
+          "word": "கூழ் (Koozh)",
+          "ta": "கஞ்சியுணவு",
+          "en": "Porridge / food",
+          "hi": "दलिया / भोजन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அமிழ்தினும் ஆற்ற இனிதேதம் மக்கள்",
+          "line2": "சிறுகை அளாவிய கூழ்."
+        },
+        "en": {
+          "line1": "The food touched by the tiny hands of one's own child at play,",
+          "line2": "Is sweeter far than nectar sweet that gods taste day by day."
+        },
+        "hi": {
+          "line1": "बालक के नन्हे करों, से उलटा-पलटा अन्न।",
+          "line2": "अमृत से भी अधिक मधुर, कर देता मन प्रसन्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Amizhthinum Aatra Inidhaedham Makkal",
+            "line2": "Sirukai Alaaviya Koozh."
+          },
+          "hi": {
+            "line1": "अमिऴ्दिनुम् आट्र इनिदेदम् मक्कळ्",
+            "line2": "सिऱुकै अळाविय कूऴ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம் குழந்தைகளின் சிறிய கைகளால் அளாவப்பட்டுச் சிந்திய கஞ்சியானது, சுவைமிக்க தேவாமிர்தத்தைக் காட்டிலும் பெற்றோருக்கு எல்லையற்ற மகிழ்ச்சியையும் இனிமையையும் தரும்.",
+        "en": "Even coarse gruel in which one's toddler has dipped its little fingers tastes infinitely more delightful to parents than heavenly nectar.",
+        "hi": "जब अबोध बालक अपनी छोटी-छोटी हथेलियों से भोजन को छूता और बिखेरता है, तो वह साधारण सा अन्न भी माता-पिता के लिए अमृत से बढ़कर आनंददायक बन जाता है।"
+      }
+    },
+    {
+      "num": 65,
+      "line1": "மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றுஅவர்",
+      "line2": "சொற்கேட்டல் இன்பம் செவிக்கு.",
+      "enLine1": "Makkalmey Theendal Udarkinbam Matruavar",
+      "enLine2": "Sorkaettal Inbam Sevikku.",
+      "hiLine1": "मक्कळ्मॆय् तीण्डल् उडर्किन्बम् मट्रुअवऱ्",
+      "hiLine2": "सॊर्केट्टल् इन्बम् सॆविक्कु.",
+      "general": "தம்முடைய மக்களின் உடலைத் தொட்டுத் தழுவுதல் உடம்பிற்கு இன்பமாகும்; அவர்களுடைய மழலைச் சொற்களைக் கேட்டல் செவிக்கு இன்பமாகும்.",
+      "en": "The touch of one's children brings delight to the body; and the sound of their sweet, artless speech brings delight to the ear.",
+      "hi": "अपनी संतान का आलिंगन और स्पर्श शरीर को परम सुख देता है; तथा उनकी तोतली और मधुर वाणी को सुनना कानों के लिए परम आनंददायक है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மக்கள் மெய் (Makkal Mey)",
+          "ta": "பிள்ளைகளின் உடம்பினை",
+          "en": "Children's body",
+          "hi": "संतान के शरीर का"
+        },
+        {
+          "no": 2,
+          "word": "தீண்டல் (Theendal)",
+          "ta": "தொட்டுத் தழுவுவது",
+          "en": "Touching / embracing",
+          "hi": "स्पर्श करना"
+        },
+        {
+          "no": 3,
+          "word": "உடற்கு இன்பம் (Udarku Inbam)",
+          "ta": "உடம்பிற்குப் பேரன்பமாகும்",
+          "en": "Delight to the body",
+          "hi": "तन को सुख देता है"
+        },
+        {
+          "no": 4,
+          "word": "மற்று (Matru)",
+          "ta": "மேலும்",
+          "en": "And moreover",
+          "hi": "और"
+        },
+        {
+          "no": 5,
+          "word": "அவர் (Avar)",
+          "ta": "அப்பிள்ளைகளின்",
+          "en": "Their",
+          "hi": "उनके"
+        },
+        {
+          "no": 6,
+          "word": "சொல் கேட்டல் (Sol Kaettal)",
+          "ta": "மழலைச் சொற்களைக் கேட்டல்",
+          "en": "Hearing their words",
+          "hi": "वचनों को सुनना"
+        },
+        {
+          "no": 7,
+          "word": "இன்பம் செவிக்கு (Inbam Sevikku)",
+          "ta": "காதுகளுக்கு இன்பம் தரும்",
+          "en": "Is joy to the ear",
+          "hi": "कानों को अमृत तुल्य है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றுஅவர்",
+          "line2": "சொற்கேட்டல் இன்பம் செவிக்கு."
+        },
+        "en": {
+          "line1": "The touch of children's tender limbs brings pleasure to the frame;",
+          "line2": "Sweet music to the listening ear when they their words proclaim."
+        },
+        "hi": {
+          "line1": "शिशु-अंग-स्पर्श से प्राप्त हो, तन को परम सुख-लाभ।",
+          "line2": "उनकी मधुरिम बात से, कर्णों को सुख-लाभ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Makkalmey Theendal Udarkinbam Matruavar",
+            "line2": "Sorkaettal Inbam Sevikku."
+          },
+          "hi": {
+            "line1": "मक्कळ्मॆय् तीण्डल् उडर्किन्बम् मट्रुअवऱ्",
+            "line2": "सॊर्केट्टल् इन्बम् सॆविक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிள்ளைகளைக் கட்டியணைத்துத் தழுவுவது பெற்றோர் உடம்பிற்குப் பேரின்பத்தைத் தரும்; அவர்களின் மென்மையான மழலைச் சொற்களைக் கேட்பது காதுகளுக்கு அமிழ்தான இன்பத்தைத் தரும்.",
+        "en": "Hugging one's little children brings deep physical comfort to the parents' flesh, while listening to their innocent chatter pours purest joy into their ears.",
+        "hi": "बच्चे को गोद में लेकर चूमना और गले लगाना शरीर को असीम शांति देता है, तथा उसकी बाल-सुलभ तोतली बातें सुनना कानों को रस की वर्षा जैसा प्रतीत होता है।"
+      }
+    },
+    {
+      "num": 66,
+      "line1": "குழல்இனிது யாழ்இனிது என்பதம் மக்கள்",
+      "line2": "மழலைச்சொல் கேளா தவர்.",
+      "enLine1": "Kuzhalinidhu Yaazhinidhu Enbadham Makkal",
+      "enLine2": "Mazhalaichchol Kaelaa Dhavar.",
+      "hiLine1": "कुऴलिनिदु याऴिनिदु ऎन्बदम् मक्कळ्",
+      "hiLine2": "मऴलैच्चॊल् केळा दवर्.",
+      "general": "தம்முடைய குழந்தைகளின் மழலைச் சொற்களைக் கேட்டு மகிழாதவர்களே, புல்லாங்குழல் ஓசை இனிது, யாழின் இசை இனிது என்று பாராட்டுவர்.",
+      "en": "'The pipe is sweet,' 'the lute is sweet,' say they who have never heard the prattle of their own little ones.",
+      "hi": "बांसुरी की धुन मीठी है और वीणा की झंकार मधुर है—ऐसा केवल वे ही लोग कहते हैं, जिन्होंने अपने बच्चों की तोतली बोली नहीं सुनी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குழல் இனிது (Kuzhal Inidhu)",
+          "ta": "புல்லாங்குழல் இனிமையானது",
+          "en": "The flute is sweet",
+          "hi": "बांसुरी मधुर है"
+        },
+        {
+          "no": 2,
+          "word": "யாழ் இனிது (Yaazh Inidhu)",
+          "ta": "யாழிசை இனிமையானது",
+          "en": "The lute / harp is sweet",
+          "hi": "वीणा मधुर है"
+        },
+        {
+          "no": 3,
+          "word": "என்ப (Enba)",
+          "ta": "என்று கூறுவார்கள்",
+          "en": "So say they",
+          "hi": "ऐसा कहते हैं"
+        },
+        {
+          "no": 4,
+          "word": "தம் மக்கள் (Tham Makkal)",
+          "ta": "தம்முடைய பிள்ளைகளின்",
+          "en": "Of their own children",
+          "hi": "अपनी संतान की"
+        },
+        {
+          "no": 5,
+          "word": "மழலைச் சொல் (Mazhalaich Chol)",
+          "ta": "இனிய மழலை மொழிகளை",
+          "en": "Innocent babbling speech",
+          "hi": "तोतली बोली को"
+        },
+        {
+          "no": 6,
+          "word": "கேளாதவர் (Kaelaadhavar)",
+          "ta": "கேட்காத மனிதர்கள்",
+          "en": "Those who have not heard",
+          "hi": "न सुनने वाले"
+        },
+        {
+          "no": 7,
+          "word": "மழலை (Mazhalai)",
+          "ta": "பிஞ்சுக் குரல்",
+          "en": "Infant prattle",
+          "hi": "बाल-वाणी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குழல்இனிது யாழ்இனிது என்பதம் மக்கள்",
+          "line2": "மழலைச்சொல் கேளா தவர்."
+        },
+        "en": {
+          "line1": "'The flute is sweet, the lute is sweet,' only those mortals say,",
+          "line2": "Who have not heard their children's prattle in their simple way."
+        },
+        "hi": {
+          "line1": "मीठी है मुरली, मधुर है वीणा-तान।",
+          "line2": "कहते वे ही, जिन्होंने सुनी न सुत-रस-गान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kuzhalinidhu Yaazhinidhu Enbadham Makkal",
+            "line2": "Mazhalaichchol Kaelaa Dhavar."
+          },
+          "hi": {
+            "line1": "कुऴलिनिदु याऴिनिदु ऎन्बदम् मक्कळ्",
+            "line2": "मऴलैच्चॊल् केळा दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம் குழந்தைகளின் பொருள் விளங்காத கொஞ்சு மொழியைக் கேட்டு ரசிக்காதவர்களே, புல்லாங்குழலின் இசையும் வீணையின் இசையும் இனிமையானவை என்று புகழ்ந்து பேசுவார்கள்.",
+        "en": "Only those who have been deprived of the music of their own babies' babble can praise the artificial tunes of flutes and stringed lutes as supreme sweetness.",
+        "hi": "संसार के बड़े से बड़े वाद्ययंत्रों का संगीत भी अपनी संतान की प्यारी-प्यारी तोतली बातों के आगे फीका पड़ जाता है; जो इस सुख से वंचित हैं, वही वीणा या बांसुरी को श्रेष्ठ मानते हैं।"
+      }
+    },
+    {
+      "num": 67,
+      "line1": "தந்தை மகற்குஆற்றும் நன்றி அவையத்து",
+      "line2": "முந்தி இருப்பச் செயல்.",
+      "enLine1": "Thandhai Makarkkaatrum Nandri Avaiyaththu",
+      "enLine2": "Mundhi Iruppach Cheyal.",
+      "hiLine1": "तन्दै मगर्क्काट्रुम् नन्ड्री अवैयत्तु",
+      "hiLine2": "मुन्दि इरुप्पच् चॆयल्.",
+      "general": "தந்தை தன் மகனுக்குச் செய்யத்தக்க கைம்மாறு எதுவென்றால், கற்றறிந்த அறிஞர்களின் அவையிலே அவன் முதன்மையாக வீற்றிருக்கும்படி அவனைக் கல்விமானாக்குவதே ஆகும்.",
+      "en": "The greatest good a father can bestow upon his son is to cause him to sit in the foremost rank among the learned assembly.",
+      "hi": "एक पिता अपने पुत्र के प्रति जो सबसे बड़ा उपकार कर सकता है, वह यह है कि उसे विद्वानों की सभा में प्रथम पंक्ति में बैठने योग्य ज्ञानी बना दे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தந்தை (Thandhai)",
+          "ta": "தகப்பனானவன்",
+          "en": "A father",
+          "hi": "पिता"
+        },
+        {
+          "no": 2,
+          "word": "மகற்கு (Makarku)",
+          "ta": "தன் மகனுக்கு",
+          "en": "To his son",
+          "hi": "पुत्र के लिए"
+        },
+        {
+          "no": 3,
+          "word": "ஆற்றும் (Aatrum)",
+          "ta": "செய்யக்கூடிய",
+          "en": "Can render",
+          "hi": "करने योग्य"
+        },
+        {
+          "no": 4,
+          "word": "நன்றி (Nandri)",
+          "ta": "உயர்ந்த உதவி",
+          "en": "Benefit / service",
+          "hi": "उपकार"
+        },
+        {
+          "no": 5,
+          "word": "அவையத்து (Avaiyaththu)",
+          "ta": "அறிஞர்கள் கூடும் சபையின்கண்",
+          "en": "In the assembly of the learned",
+          "hi": "विद्वत्-सभा में"
+        },
+        {
+          "no": 6,
+          "word": "முந்தி இருப்பச் செயல் (Mundhi Iruppach Cheyal)",
+          "ta": "முதன்மையான இடத்தில் திகழும்படி செய்தலாகும்",
+          "en": "To make him stand foremost",
+          "hi": "अग्रणी स्थान पर बिठाना"
+        },
+        {
+          "no": 7,
+          "word": "அவை (Avai)",
+          "ta": "சபை",
+          "en": "Assembly",
+          "hi": "सभा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தந்தை மகற்குஆற்றும் நன்றி அவையத்து",
+          "line2": "முந்தி இருப்பச் செயல்."
+        },
+        "en": {
+          "line1": "The father to his son can grant no higher benefit,",
+          "line2": "Than in the council of the wise foremost to make him sit."
+        },
+        "hi": {
+          "line1": "उपकार सुत पर पिता का, यही सबसे बड़ा।",
+          "line2": "विद्वानों की सभा में, वह रहे आगे खड़ा ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thandhai Makarkkaatrum Nandri Avaiyaththu",
+            "line2": "Mundhi Iruppach Cheyal."
+          },
+          "hi": {
+            "line1": "तन्दै मगर्क्काट्रुम् नन्ड्री अवैयत्तु",
+            "line2": "मुन्दि इरुप्पच् चॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தந்தை தன் மகனுக்குச் செய்யும் மிகச் சிறந்த நன்மை, அவனைக் கல்வி கேள்விகளில் சிறந்தவனாக்கி, கற்றோரின் அவையில் தலைசிறந்து திகழச் செய்வதேயாகும்.",
+        "en": "The supreme contribution a father can offer his child is to nurture his intellect with knowledge so that he shines pre-eminent among the wise.",
+        "hi": "पिता का अपनी संतान के प्रति सबसे बड़ा धर्म यही है कि वह उसे सुशिक्षित करे, जिससे वह श्रेष्ठ और विद्वान पुरुषों की सभा में सम्मानपूर्वक सबसे आगे स्थान पा सके।"
+      }
+    },
+    {
+      "num": 68,
+      "line1": "தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து",
+      "line2": "மன்னுயிர்க்கெல்லாம் இனிது.",
+      "enLine1": "Thammintham Makkal Arivudaimai Maanilaththu",
+      "enLine2": "Mannuyirkkellaam Inidhu.",
+      "hiLine1": "तम्मिऩ्तम् मक्कळ् अऱिवुडैमै मानिलत्तु",
+      "hiLine2": "मन्नुयिर्क्केल्लाम् इनिदु.",
+      "general": "தம் பிள்ளைகள் தம்மைவிட அறிவுடையவர்களாக விளங்குவது, பெற்றோருக்கு மட்டுமல்லாமல் இப்பெரிய உலகத்தில் வாழும் எல்லா உயிர்களுக்கும் மகிழ்ச்சி தருவதாகும்.",
+      "en": "That their children possess knowledge greater than themselves brings sweet delight not only to parents, but to all living souls upon the wide earth.",
+      "hi": "अपनी संतान का अपने से भी अधिक बुद्धिमान और ज्ञानी होना केवल माता-पिता को ही नहीं, बल्कि इस विशाल पृथ्वी के सभी प्राणियों को आनंदित करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தம்மின் (Thammin)",
+          "ta": "தம்மை விடவும்",
+          "en": "Than themselves",
+          "hi": "अपने से भी"
+        },
+        {
+          "no": 2,
+          "word": "தம் மக்கள் (Tham Makkal)",
+          "ta": "தம்முடைய பிள்ளைகள்",
+          "en": "Their children",
+          "hi": "अपनी संतान का"
+        },
+        {
+          "no": 3,
+          "word": "அறிவுடைமை (Arivudaimai)",
+          "ta": "அறிவுடையவராக விளங்குதல்",
+          "en": "Being endowed with wisdom",
+          "hi": "बुद्धिमान होना"
+        },
+        {
+          "no": 4,
+          "word": "மாநிலத்து (Maanilaththu)",
+          "ta": "இப்பெரிய நிலவுலகில் உள்ள",
+          "en": "In this great world",
+          "hi": "इस विशाल संसार के"
+        },
+        {
+          "no": 5,
+          "word": "மன் உயிர்க்கு எல்லாம் (Man Uyirkku Ellaam)",
+          "ta": "வாழும் எல்லா உயிர்களுக்கும்",
+          "en": "To all living beings",
+          "hi": "समस्त जीवों को"
+        },
+        {
+          "no": 6,
+          "word": "இனிது (Inidhu)",
+          "ta": "இனிமை தருவதாகும்",
+          "en": "Is a source of joy",
+          "hi": "सुख देता है"
+        },
+        {
+          "no": 7,
+          "word": "மாநிலம் (Maanilam)",
+          "ta": "பூமி",
+          "en": "Vast earth",
+          "hi": "पृथ्वी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து",
+          "line2": "மன்னுயிர்க்கெல்லாம் இனிது."
+        },
+        "en": {
+          "line1": "To see their children wiser than themselves in mind and worth,",
+          "line2": "Brings joy not to the sire alone, but every soul on earth."
+        },
+        "hi": {
+          "line1": "अपनी संतान का ज्ञान जब, माता-पिता से बढ़ जाय।",
+          "line2": "संसार के सब जीव-गण, का मन बड़ा हर्षाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thammintham Makkal Arivudaimai Maanilaththu",
+            "line2": "Mannuyirkkellaam Inidhu."
+          },
+          "hi": {
+            "line1": "तम्मिऩ्तम् मक्कळ् अऱिवुडैमै मानिलत्तु",
+            "line2": "मन्नुयिर्क्केल्लाम् इनिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம்மைக் காட்டிலும் தம் பிள்ளைகள் அறிவாற்றல் கொண்டு விளங்குவதைக் காண்பது பெற்றோருக்குப் பெருமை சேர்ப்பதுடன், உலக சமுதாயம் முழுமைக்குமே பெரும் நன்மையும் மகிழ்ச்சியும் தரும்.",
+        "en": "When sons and daughters surpass their parents in insight and virtue, their wisdom illuminates not merely the home, but serves and gladdens the entire community.",
+        "hi": "जब संतान अपने माता-पिता से भी आगे बढ़कर सद्ज्ञान और विवेक अर्जित करती है, तो उससे न केवल माता-पिता गौरवान्वित होते हैं, बल्कि पूरे समाज का कल्याण और आनंद बढ़ता है।"
+      }
+    },
+    {
+      "num": 69,
+      "line1": "ஈன்ற பொழுதின் பெரிதுவக்கும் தன்மகனைச்",
+      "line2": "சான்றோன் எனக்கேட்ட தாய்.",
+      "enLine1": "Eendra Pozhudhin Peridhuvakkum Thanmakanaich",
+      "enLine2": "Saandron Enakkaetta Thaai.",
+      "hiLine1": "ईन्ड्रा़ पॊऴुदिऩ् पॆரிதுवक्कुम् तऩ्मगऩैच्",
+      "hiLine2": "सान्ड्रोऩ् ऎऩक्केट्ट ताय्.",
+      "general": "தன் மகனை நற்பண்புகள் நிறைந்த சான்றோன் என்று பிறர் சொல்லக் கேட்கும் தாய், அவனைப் பெற்றெடுத்த காலத்தில் அடைந்த மகிழ்ச்சியைவிடப் பெருமகிழ்ச்சி அடைவாள்.",
+      "en": "The mother rejoices exceedingly more when she hears her son proclaimed a virtuous and noble scholar than when she gave him birth.",
+      "hi": "अपने पुत्र को जब एक माता दूसरों द्वारा 'सद्गुणी और विद्वान पुरुष' पुकारे जाते सुनती है, तो उसे उसे जन्म देने के समय से भी कहीं अधिक आनंद प्राप्त होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஈன்ற பொழுதின் (Eendra Pozhudhin)",
+          "ta": "பெற்றெடுத்த காலத்தை விடவும்",
+          "en": "Than at the time of giving birth",
+          "hi": "जन्म देने के समय से भी"
+        },
+        {
+          "no": 2,
+          "word": "பெரிது உவக்கும் (Peridhu Uvakkum)",
+          "ta": "மிகவும் மனம் மகிழ்வாள்",
+          "en": "Exceedingly rejoices",
+          "hi": "अत्यंत प्रसन्न होती है"
+        },
+        {
+          "no": 3,
+          "word": "தன் மகனை (Than Makanai)",
+          "ta": "தன் மகனைப் பார்த்து",
+          "en": "Her son",
+          "hi": "अपने पुत्र को"
+        },
+        {
+          "no": 4,
+          "word": "சான்றோன் என (Saandron Ena)",
+          "ta": "அறிவும் ஒழுக்கமும் நிறைந்தவன் என்று",
+          "en": "As a wise and noble man",
+          "hi": "सज्जन व विद्वान"
+        },
+        {
+          "no": 5,
+          "word": "கேட்ட (Kaetta)",
+          "ta": "பிறர் புகழக் கேட்ட",
+          "en": "Hearing him called so",
+          "hi": "सुनने वाली"
+        },
+        {
+          "no": 6,
+          "word": "தாய் (Thaai)",
+          "ta": "பெற்ற தாய்",
+          "en": "The mother",
+          "hi": "माता"
+        },
+        {
+          "no": 7,
+          "word": "உவகை (Uvakai)",
+          "ta": "மகிழ்ச்சி",
+          "en": "Delight / Joy",
+          "hi": "हर्ष"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஈன்ற பொழுதின் பெரிதுவக்கும் தன்மகனைச்",
+          "line2": "சான்றோன் எனக்கேட்ட தாய்."
+        },
+        "en": {
+          "line1": "Greater the joy that thrills the mother's yearning breast,",
+          "line2": "When hearing him hailed wise than when she held him first at rest."
+        },
+        "hi": {
+          "line1": "सुना जब 'सज्जन है सुपुत्र', माता को जो सुख मिला।",
+          "line2": "जन्म-क्षण के सुख से भी, वह सुख बहुत बढ़कर मिला ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Eendra Pozhudhin Peridhuvakkum Thanmakanaich",
+            "line2": "Saandron Enakkaetta Thaai."
+          },
+          "hi": {
+            "line1": "ईन्ड्रा़ पॊऴुदिऩ् पॆரிதுवक्कुम् तऩ्मगऩैच्",
+            "line2": "सान्ड्रोऩ् ऎऩक्केट्ट ताय्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு தாய் தன் குழந்தையைப் பெற்றெடுத்த தருணத்தில் அடைந்த மகிழ்ச்சியை விட, உலகத்தார் அவனைக் குணங்களால் நிறைந்த சிறந்த மனிதன் என்று பாராட்டுவதைக் கேட்கும்போது பன்மடங்கு பெருமிதமும் பேரானந்தமும் அடைவாள்.",
+        "en": "A mother feels sweet joy when she delivers her son into the world, but her heart overflows with boundless, sublime ecstasy when she hears society revere him as a paragon of noble character.",
+        "hi": "पुत्र के जन्म पर माता को जो असीम आनंद होता है, उससे भी कहीं गुना अधिक आनंद उसे उस दिन होता है जब संसार उसके बेटे को चरित्रवान, विद्वान और परोपकारी कहकर सम्मानित करता है।"
+      }
+    },
+    {
+      "num": 70,
+      "line1": "மகன்தந்தைக்கு ஆற்றும் உதவி இவன்தந்தை",
+      "line2": "என்நோற்றான் கொல்எனும் சொல்.",
+      "enLine1": "Makanthandhaikku Aatrum Udhavi Ivanthandhai",
+      "enLine2": "Ennoatraan Kol-enum Sol.",
+      "hiLine1": "मगऩ्तन्दैक्कु आट्रुम् उदवि इवऩ्तन्दै",
+      "hiLine2": "ऎन्ऩोत्राऩ् कॊल्-ऎऩुम् सॊल्.",
+      "general": "மகன் தன் தந்தைக்குச் செய்யக்கூடிய கைம்மாறு எதுவென்றால், 'இவனை மகனாகப் பெற இவன் தந்தை என்ன தவம் செய்தானோ' என்று உலகத்தார் வியந்து போற்றும் நற்செயல்களைச் செய்தலேயாகும்.",
+      "en": "The greatest service a son can render to his father is to make the world exclaim: 'What penance must his father have done to obtain such a son!'",
+      "hi": "पुत्र अपने पिता के प्रति जो सबसे बड़ा कर्तव्य निभा सकता है, वह यह है कि लोग उसे देखकर कहें: 'धन्य है इसके पिता, जिन्होंने ऐसा पुत्र पाने के लिए न जाने कौन सा महान तप किया था!'",
+      "words": [
+        {
+          "no": 1,
+          "word": "மகன் (Makan)",
+          "ta": "மகன் என்பவன்",
+          "en": "A son",
+          "hi": "पुत्र"
+        },
+        {
+          "no": 2,
+          "word": "தந்தைக்கு (Thandhaikku)",
+          "ta": "தன் தந்தைக்கு",
+          "en": "To his father",
+          "hi": "पिता के प्रति"
+        },
+        {
+          "no": 3,
+          "word": "ஆற்றும் (Aatrum)",
+          "ta": "செய்யக்கூடிய",
+          "en": "Can render",
+          "hi": "करने योग्य"
+        },
+        {
+          "no": 4,
+          "word": "உதவி (Udhavi)",
+          "ta": "கைம்மாறு / நன்றி",
+          "en": "Return service / gratitude",
+          "hi": "उपकार या सेवा"
+        },
+        {
+          "no": 5,
+          "word": "இவன் தந்தை (Ivan Thandhai)",
+          "ta": "இவனுடைய தந்தை",
+          "en": "This man's father",
+          "hi": "इसके पिता ने"
+        },
+        {
+          "no": 6,
+          "word": "என் நோற்றான் கொல் (En Noatraan Kol)",
+          "ta": "என்ன தவம் செய்தானோ?",
+          "en": "What penance did he perform?",
+          "hi": "क्या तपस्या की होगी?"
+        },
+        {
+          "no": 7,
+          "word": "எனும் சொல் (Enum Sol)",
+          "ta": "என்று உலகத்தார் கூறும் புகழ்ச்சொல்லாகும்",
+          "en": "Is the word praising him",
+          "hi": "यह प्रशंसा-वचन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மகன்தந்தைக்கு ஆற்றும் உதவி இவன்தந்தை",
+          "line2": "என்நோற்றான் கொல்எனும் சொல்."
+        },
+        "en": {
+          "line1": "'What penance wrought his sire to gain such fruit?' let mortals cry;",
+          "line2": "This is the son's best gift to crown his father's memory high."
+        },
+        "hi": {
+          "line1": "पुत्र-धर्म है तात प्रति, ऐसा बने महान।",
+          "line2": "'किया पिता ने कौन तप!', कहे सकल जहान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Makanthandhaikku Aatrum Udhavi Ivanthandhai",
+            "line2": "Ennoatraan Kol-enum Sol."
+          },
+          "hi": {
+            "line1": "मगऩ्तन्दैक्कु आट्रुम् उदवि इवऩ्तन्दै",
+            "line2": "ऎन्ऩोत्राऩ् कॊल्-ऎऩुम् सॊल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு மகன் தன் தந்தைக்குச் செய்யவேண்டிய உண்மையான நன்றிக்கடனானது, தன்னுடைய ஒழுக்கத்தாலும் சிறப்பாலும் 'இத்தகைய நல்ல பிள்ளையைப் பெற இவன் தந்தை என்ன பெருந்தவம் செய்தாரோ' என்று ஊரார் கொண்டாடும் அளவிற்கு உயர்வதேயாகும்.",
+        "en": "The most dutiful honor a child can pay to the father is to live with such excellence that onlookers admiringly wonder what profound merits and prayers could have earned the sire such a blessed son.",
+        "hi": "संतान द्वारा पिता की सच्ची सेवा यही है कि वह अपने सद्गुणों, आचरण और उपलब्धियों से ऐसा आदर्श बने कि समाज प्रशंसा में कहे: 'इसके पिता कितने पुण्यात्मा थे जिन्होंने ऐसा सुपुत्र पाया।'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 12,
+  "nameTa": "நடுவுநிலைமை",
+  "nameEn": "Impartiality",
+  "nameHi": "मध्यस्थता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 111,
+      "line1": "தகுதி எனவொன்று நன்றே பகுதியால்",
+      "line2": "பாற்பட்டு ஒழுகப் பெறின்.",
+      "enLine1": "Thakudhi Enavondru Nandre Pakudhiyaal",
+      "enLine2": "Paarpattu Ozhukap Perin.",
+      "hiLine1": "तगुदि ऎऩवॊन्ड्रु नन्ड्रे पकुदियाल्",
+      "hiLine2": "पा़र्पट्टु ऒऴुकप् पॆऱिन्.",
+      "general": "பகைவர், அயலார், நண்பர் ஆகிய மூவகையினரிடத்தும் ஒருபுறம் சாயாமல், நடுவுநிலைமையோடு நீதி தவறாமல் வாழப்பெற்றால், அந்த நடுவுநிலைமை ஒன்றே சிறந்த நன்மையாகும்.",
+      "en": "Impartiality is pre-eminently good if it is practiced by dealing equitably with foes, strangers, and friends without distinction.",
+      "hi": "शत्रु, तटस्थ (अनजान) और मित्र—तीनों वर्गों के प्रति यदि कोई मनुष्य पक्षपात-रहित होकर समान न्याय का आचरण करे, तो वह निष्पक्षता ही सबसे उत्तम धर्म है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தகுதி என ஒன்று (Thakudhi Ena Ondru)",
+          "ta": "நடுவுநிலைமை என்னும் ஒரு பண்பு",
+          "en": "The virtue called impartiality",
+          "hi": "निष्पक्षता रूपी गुण"
+        },
+        {
+          "no": 2,
+          "word": "நன்றே (Nandre)",
+          "ta": "மிகவும் நன்மையானதே",
+          "en": "Is good indeed",
+          "hi": "अति उत्तम ही है"
+        },
+        {
+          "no": 3,
+          "word": "பகுதியால் (Pakudhiyaal)",
+          "ta": "பகை, நட்பு, நொதுமல் என்ற பிரிவுகளால்",
+          "en": "According to the diverse classes (foes, strangers, friends)",
+          "hi": "मित्र, शत्रु व तटस्थ के भेद से"
+        },
+        {
+          "no": 4,
+          "word": "பாற்பட்டு (Paarpattu)",
+          "ta": "நீதிக்குட்பட்டு",
+          "en": "Abiding by equity",
+          "hi": "न्याय के अधीन रहकर"
+        },
+        {
+          "no": 5,
+          "word": "ஒழுகப் பெறின் (Ozhukap Perin)",
+          "ta": "ஒருவன் ஒழுகப்பெற்றால்",
+          "en": "If one can conduct oneself",
+          "hi": "यदि आचरण कर सके"
+        },
+        {
+          "no": 6,
+          "word": "தகுதி (Thakudhi)",
+          "ta": "நடுவுநிலைமை / நீதி",
+          "en": "Impartiality / Justice",
+          "hi": "समदृष्टि / न्याय"
+        },
+        {
+          "no": 7,
+          "word": "பகுதி (Pakudhi)",
+          "ta": "பிரிவு / பாகுபாடு",
+          "en": "Division / Distinction",
+          "hi": "विभाजन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தகுதி எனவொன்று நன்றே பகுதியால்",
+          "line2": "பாற்பட்டு ஒழுகப் பெறின்."
+        },
+        "en": {
+          "line1": "That virtue called uprightness is of all good things the crown,",
+          "line2": "When to both foe and friend alike impartial grace is shown."
+        },
+        "hi": {
+          "line1": "शत्रु, मित्र या हो अपरिचित, समता से आचार।",
+          "line2": "पक्षपात-विहीन जो, उत्तम धर्म विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thakudhi Enavondru Nandre Pakudhiyaal",
+            "line2": "Paarpattu Ozhukap Perin."
+          },
+          "hi": {
+            "line1": "तगुदि ऎऩवॊन्ड्रु नन्ड्रे पकुदियाल्",
+            "line2": "पा़र्पट्टु ऒऴुकप् पॆऱिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவர், நண்பர், அயலார் என்ற பாகுபாடுகளைக் கடந்து, எவரிடத்திலும் ஒரு சார்பின்றி நீதியின் வழியில் நின்று வாழ்கின்ற நடுவுநிலைமையே ஒரு மனிதனின் மிகச் சிறந்த பண்பாகும்.",
+        "en": "Impartiality is the highest virtue when an individual acts justly and objectively toward all parties, refusing to let bias, hostility, or personal affection corrupt moral judgement.",
+        "hi": "शत्रु, मित्र और अपरिचित व्यक्ति—सभी के साथ बिना किसी भेद या स्वार्थ के निष्पक्ष न्याय करना ही मनुष्य का सबसे श्रेष्ठ और वंदनीय कर्तव्य है।"
+      }
+    },
+    {
+      "num": 112,
+      "line1": "செப்பமுடையவன் ஆக்கஞ் சிதைவின்றி",
+      "line2": "எச்சத்திற் கேமாப் புடைத்து.",
+      "enLine1": "Seppamudaiyavan Aakkanj Sidhaivindri",
+      "enLine2": "Echchaththir Kaemaap Pudaiththu.",
+      "hiLine1": "सॆप्पमुडैयवऩ् आक्कञ् सिदैविन्ड्री",
+      "hiLine2": "ऎच्चत्तिऱ् केमाप् पुडैत्तु.",
+      "general": "நடுவுநிலைமை தவறாத நீதிமானின் செல்வம் எக்காலத்திலும் அழிந்துபோகாமல், அவனுடைய வழித்தோன்றல்களுக்கும் பாதுகாப்பான அரணாகத் திகழும்.",
+      "en": "The wealth of the man who walks in uprightness will never perish, but will stand as a sure and enduring safeguard for his descendants.",
+      "hi": "सत्य और निष्पक्ष न्याय के मार्ग पर चलने वाले मनुष्य की संपत्ति कभी नष्ट नहीं होती; बल्कि वह उसकी भावी पीढ़ियों के लिए भी रक्षा-कवच बनकर फलती-फूलती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செப்பமுடையவன் (Seppamudaiyavan)",
+          "ta": "நடுவுநிலைமை தவறாதவனுடைய",
+          "en": "Of the upright man",
+          "hi": "न्यायशील पुरुष की"
+        },
+        {
+          "no": 2,
+          "word": "ஆக்கம் (Aakkam)",
+          "ta": "செல்வமானது",
+          "en": "Wealth / prosperity",
+          "hi": "संपदा"
+        },
+        {
+          "no": 3,
+          "word": "சிதைவு இன்றி (Sidhaivu Indri)",
+          "ta": "அழிவில்லாமல்",
+          "en": "Without decay",
+          "hi": "नष्ट हुए बिना"
+        },
+        {
+          "no": 4,
+          "word": "எச்சத்திற்கு (Echchaththirku)",
+          "ta": "அவனுடைய சந்ததிக்கு",
+          "en": "To his posterity / offspring",
+          "hi": "उसकी संतान के लिए"
+        },
+        {
+          "no": 5,
+          "word": "ஏமாப்பு உடைத்து (Eamaap Pudaiththu)",
+          "ta": "பாதுகாவலாய் அமையும் வலிமை உடையது",
+          "en": "Provides secure defense",
+          "hi": "कल्याण व रक्षाकारी है"
+        },
+        {
+          "no": 6,
+          "word": "செப்பம் (Seppam)",
+          "ta": "நேர்மை / நடுவுநிலைமை",
+          "en": "Uprightness / Rectitude",
+          "hi": "निष्पक्षता"
+        },
+        {
+          "no": 7,
+          "word": "ஏமாப்பு (Eamaappu)",
+          "ta": "பாதுகாப்பு / அரண்",
+          "en": "Protection / Shield",
+          "hi": "सुरक्षा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செப்பமுடையவன் ஆக்கஞ் சிதைவின்றி",
+          "line2": "எச்சத்திற் கேமாப் புடைத்து."
+        },
+        "en": {
+          "line1": "The wealth of him whose righteous mind from justice never bent,",
+          "line2": "Will stand undimmed, a lasting shield to all his line's descent."
+        },
+        "hi": {
+          "line1": "न्यायशील का धन कभी, होता नहीं विनाश।",
+          "line2": "वंश-परंपरा को मिले, उससे सुख-प्रकाश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seppamudaiyavan Aakkanj Sidhaivindri",
+            "line2": "Echchaththir Kaemaap Pudaiththu."
+          },
+          "hi": {
+            "line1": "सॆप्पमुडैयवऩ् आक्कञ् सिदैविन्ड्री",
+            "line2": "ऎच्चत्तिऱ् केमाप् पुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நீதிநெறி வழுவாமல் நேர்மையாகப் பொருளீட்டும் ஒருவனின் செல்வமானது அழியாமல் நிலைத்து நின்று, அவனுக்குப் பின் அவனுடைய தலைமுறைகளுக்கும் நன்மையும் அரணாக விளங்கும்.",
+        "en": "Honest gains gathered through unimpeachable integrity do not suffer sudden ruin; they remain untainted and pass on as a secure heritage that shelters succeeding generations.",
+        "hi": "न्याय और ईमानदारी से कमाया गया धन न कभी व्यर्थ जाता है और न मिटता है; वह पीढ़ी-दर-पीढ़ी संतान की रक्षा करने वाला अक्षय संबल सिद्ध होता है।"
+      }
+    },
+    {
+      "num": 113,
+      "line1": "நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தை",
+      "line2": "அன்றே ஒழிய விடல்.",
+      "enLine1": "Nandre Tharinum Naduvikandhaam Aakkaththai",
+      "enLine2": "Andrae Ozhiya Vidal.",
+      "hiLine1": "नन्ड्रे तरिनुम् नडुविकन्दाम् आक्कत्तै",
+      "hiLine2": "अन्ड्रे ऒऴिय विडल्.",
+      "general": "நடுவுநிலைமை தவறி அநீதியான வழியில் சேரும் செல்வமானது தற்காலிக நன்மையைத் தருவதாக இருந்தாலும், அதனை அப்போதே கைவிட்டுவிட வேண்டும்.",
+      "en": "Though it should bring immediate gain, cast away without hesitation and that very day the wealth acquired by departing from equity.",
+      "hi": "अन्याय और पक्षपात के मार्ग से प्राप्त होने वाला धन यद्यपि प्रत्यक्ष में बहुत बड़ा लाभ दिखाता हो, फिर भी उसे उसी क्षण त्याग देना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நன்றே தரினும் (Nandre Tharinum)",
+          "ta": "நன்மையையே தருவதாக இருந்தாலும்",
+          "en": "Though it yields only good",
+          "hi": "चाहे लाभ ही दे"
+        },
+        {
+          "no": 2,
+          "word": "நடுவு இகந்து ஆம் (Naduvu Ikandhu Aam)",
+          "ta": "நடுவுநிலைமையைக் கைவிடுவதால் உண்டாகும்",
+          "en": "Gained by swerving from equity",
+          "hi": "अन्याय से उत्पन्न"
+        },
+        {
+          "no": 3,
+          "word": "ஆக்கத்தை (Aakkaththai)",
+          "ta": "அந்தச் செல்வத்தை",
+          "en": "That acquisition / wealth",
+          "hi": "उस धन को"
+        },
+        {
+          "no": 4,
+          "word": "அன்றே (Andrae)",
+          "ta": "அப்பொழுதே",
+          "en": "On that very day",
+          "hi": "उसी दिन / उसी समय"
+        },
+        {
+          "no": 5,
+          "word": "ஒழியவிடல் (Ozhiyavidal)",
+          "ta": "முற்றிலும் கைவிட்டுவிட வேண்டும்",
+          "en": "Must be abandoned",
+          "hi": "त्याग देना चाहिए"
+        },
+        {
+          "no": 6,
+          "word": "இகந்து (Ikandhu)",
+          "ta": "நீங்கி / கடந்து",
+          "en": "Forsaking / Transgressing",
+          "hi": "छोड़कर"
+        },
+        {
+          "no": 7,
+          "word": "ஆக்கம் (Aakkam)",
+          "ta": "செல்வம் / உயர்வு",
+          "en": "Wealth",
+          "hi": "संपत्ति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தை",
+          "line2": "அன்றே ஒழிய விடல்."
+        },
+        "en": {
+          "line1": "Though present profit crowns the deed that from the right did stray,",
+          "line2": "Cast all that ill-got treasure off upon that very day."
+        },
+        "hi": {
+          "line1": "अन्याय से जो धन मिले, देवे चाहे लाभ।",
+          "line2": "त्यागो उसी दिन दूर कर, समझो उसे अलाभ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nandre Tharinum Naduvikandhaam Aakkaththai",
+            "line2": "Andrae Ozhiya Vidal."
+          },
+          "hi": {
+            "line1": "नन्ड्रे तरिनुम् नडुविकन्दाम् आक्कत्तै",
+            "line2": "अन्ड्रे ऒऴिय विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நேர்மையற்ற வழியில் ஒரு பெரும் செல்வம் வந்து சேரும்போது அது தற்காலிக நன்மையைத் தருவதாகத் தோன்றினாலும், பிற்காலத்தில் பேரழிவைத் தரும் என்பதால் அதனை உடனடியாக விலக்க வேண்டும்.",
+        "en": "No matter how enticing the immediate prosperity, any fortune acquired through compromise of moral principles must be discarded instantly as a toxic liability.",
+        "hi": "पक्षपात, बेईमानी या अनीति से मिलने वाली संपत्ति भले ही तात्कालिक सुख देती प्रतीत हो, किंतु वह अंततः सर्वनाश का कारण बनती है; इसलिए उसे तुरंत ठुकरा देना ही बुद्धिमानी है।"
+      }
+    },
+    {
+      "num": 114,
+      "line1": "தக்கார் தகவிலர் என்பது அவரவர்",
+      "line2": "எச்சத்தாற் காணப் படும்.",
+      "enLine1": "Thakkaar Thakavilar Enbadhu Avaravar",
+      "enLine2": "Echchaththaar Kaanap Padum.",
+      "hiLine1": "तक्का़र् तकविलर् ऎन्बदु अवरवर्",
+      "hiLine2": "ऎच्चत्ता़ऱ् काणप् पडुम्.",
+      "general": "ஒருவர் நடுவுநிலைமை உடையவரா அல்லது நடுவுநிலைமை இல்லாதவரா என்பது, அவருக்குப் பின்னால் எஞ்சியிருக்கும் புகழாலும் சந்ததியாலும் தெளிவாகத் தெரியவரும்.",
+      "en": "Who are the just and who are the unjust will be plainly revealed by the enduring reputation and posterity they leave behind.",
+      "hi": "कौन मनुष्य न्यायप्रिय और धर्मात्मा था और कौन अन्यायी—इस बात की सच्ची पहचान उसके पीछे छूट जाने वाली संतान और उसकी कीर्ति अथवा अपकीर्ति से हो जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தக்கார் (Thakkaar)",
+          "ta": "நடுவுநிலைமை உடைய நீதியாளர்",
+          "en": "The just / worthy men",
+          "hi": "सच्चे न्यायप्रिय"
+        },
+        {
+          "no": 2,
+          "word": "தகவிலர் (Thakavilar)",
+          "ta": "நடுவுநிலைமை இல்லாத அநீதியாளர்",
+          "en": "The unjust / unworthy men",
+          "hi": "अन्यायी मनुष्य"
+        },
+        {
+          "no": 3,
+          "word": "என்பது (Enbadhu)",
+          "ta": "என்ற உண்மையாது",
+          "en": "The fact that",
+          "hi": "यह बात"
+        },
+        {
+          "no": 4,
+          "word": "அவரவர் (Avaravar)",
+          "ta": "அவரவர்களுடைய",
+          "en": "Their respective",
+          "hi": "उनके अपने"
+        },
+        {
+          "no": 5,
+          "word": "எச்சத்தால் (Echchaththaal)",
+          "ta": "எஞ்சி நிற்கும் சந்ததியாலும் புகழாலும்",
+          "en": "By the legacy / posterity left behind",
+          "hi": "शेष रहने वाले वंश व यश से"
+        },
+        {
+          "no": 6,
+          "word": "காணப்படும் (Kaanappadum)",
+          "ta": "அறியப்படும்",
+          "en": "Will be clearly seen",
+          "hi": "जानी जाती है"
+        },
+        {
+          "no": 7,
+          "word": "எச்சம் (Echcham)",
+          "ta": "சந்ததி / புகழ் / எஞ்சியது",
+          "en": "Posterity / Legacy",
+          "hi": "वंश / कीर्ति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தக்கார் தகவிலர் என்பது அவரவர்",
+          "line2": "எச்சத்தாற் காணப் படும்."
+        },
+        "en": {
+          "line1": "The worthy and the base in life their different titles claim;",
+          "line2": "Revealed in what they leave behind of lineage and of name."
+        },
+        "hi": {
+          "line1": "धर्मी हैं या अधर्मी, पुरुष थे कौन महान।",
+          "line2": "उनके पीछे जो बचे, उसी से हो पहचान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thakkaar Thakavilar Enbadhu Avaravar",
+            "line2": "Echchaththaar Kaanap Padum."
+          },
+          "hi": {
+            "line1": "तक्का़र् तकविलर् ऎन्बदु अवरवर्",
+            "line2": "ऎच्चत्ता़ऱ् काणप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவர் நேர்மையானவரா அல்லது அநீதி புரிந்தவரா என்பது, அவர் இறந்த பின்னால் அவருடைய பெயர், நற்புகழ் மற்றும் அவருடைய பிள்ளைகளின் நல்வாழ்வின் வாயிலாகவே உலகத்தாருக்குப் புலப்படும்.",
+        "en": "History and posterity render the ultimate verdict on human character: the righteous man leaves behind an honored name and flourishing lineage, while the unjust leaves behind decay and disgrace.",
+        "hi": "किसी व्यक्ति के सच्चे चरित्र और न्यायप्रियता का अंतिम प्रमाण उसके जीवनकाल के बाद प्रकट होता है; उसकी संतान का आचरण और समाज में उसकी बची हुई साख ही बता देती है कि वह धर्मी था या अधर्मी।"
+      }
+    },
+    {
+      "num": 115,
+      "line1": "கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்",
+      "line2": "கோடாமை சான்றோர்க்கு அணி.",
+      "enLine1": "Kaedum Perukkamum Illalla Nenjaththuk",
+      "enLine2": "Koadaamai Saandrorkku Ani.",
+      "hiLine1": "केडुम् पॆरुक्कमुम् इल्लल्ल नॆञ्जत्तुक्",
+      "hiLine2": "कोदामै सान्ड्रोर्क्कु अणि.",
+      "general": "கேடும் ஆக்கமும் இவ்வுலகில் யார்க்கும் இயற்கை விதியால் வரக்கூடியவை; அவற்றுக்கு அஞ்சாமல் எந்நிலையிலும் உள்ளம் ஒருபுறம் சாயாமல் நடுவுநிலையாக இருப்பதே சான்றோர்க்கு அழகாகும்.",
+      "en": "Loss and prosperity come to all by destiny's rule; to preserve the mind unbent in both is the crowning ornament of the wise.",
+      "hi": "हानि और लाभ, उत्थान और पतन तो जीवन के स्वाभाविक नियम हैं; इन दोनों परिस्थितियों में मन को विचलित न होने देना और निष्पक्ष रहना ही महापुरुषों का सच्चा आभूषण है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கேடும் (Kaedum)",
+          "ta": "கேடும் (இழப்பும்)",
+          "en": "Loss / adversity",
+          "hi": "हानि"
+        },
+        {
+          "no": 2,
+          "word": "பெருக்கமும் (Perukkamum)",
+          "ta": "பெருக்கமும் (செல்வ உயர்வும்)",
+          "en": "And prosperity",
+          "hi": "और लाभ"
+        },
+        {
+          "no": 3,
+          "word": "இல் அல்ல (Il Alla)",
+          "ta": "இல்லாமல் போவதில்லை (இயற்கையானதே)",
+          "en": "Are not non-existent (inevitable)",
+          "hi": "अनहोनी नहीं हैं"
+        },
+        {
+          "no": 4,
+          "word": "நெஞ்சத்து (Nenjaththu)",
+          "ta": "மனதளவில்",
+          "en": "In the heart",
+          "hi": "हृदय में"
+        },
+        {
+          "no": 5,
+          "word": "கோடாமை (Koadaamai)",
+          "ta": "ஒருபுறமும் சாயாத நேர்மை",
+          "en": "Not swerving / remaining upright",
+          "hi": "पक्षपात न करना"
+        },
+        {
+          "no": 6,
+          "word": "சான்றோர்க்கு (Saandrorkku)",
+          "ta": "சான்றோர்களுக்கு",
+          "en": "To the noble and wise",
+          "hi": "विद्वानों के लिए"
+        },
+        {
+          "no": 7,
+          "word": "அணி (Ani)",
+          "ta": "சிறந்த அணிகலனாகும்",
+          "en": "Is the true ornament",
+          "hi": "आभूषण है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்",
+          "line2": "கோடாமை சான்றோர்க்கு அணி."
+        },
+        "en": {
+          "line1": "Both loss and gain will come to all, as wheel of life turns round;",
+          "line2": "An unbent mind in either state is wisdom's glory found."
+        },
+        "hi": {
+          "line1": "हानि-लाभ तो जगत में, होते हैं स्वाभाविक।",
+          "line2": "मन न डिगे जो न्याय से, भूषण है प्रामाणिक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaedum Perukkamum Illalla Nenjaththuk",
+            "line2": "Koadaamai Saandrorkku Ani."
+          },
+          "hi": {
+            "line1": "केडुम् पॆरुक्कमुम् इल्लल्ल नॆञ्जत्तुक्",
+            "line2": "कोदामै सान्ड्रोर्क्कु अणि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வறுமையும் செல்வச் செழிப்பும் வாழ்க்கையில் மாறி மாறி வருவது தவிர்க்க முடியாததாகும்; ஆனால் எத்தகைய நிலையிலும் மனம் நீதி வழுவாமல் நடுநிலையாக இருப்பதே அறிவுடையோர்க்கு அழகிய ஆபரணமாகும்.",
+        "en": "Fluctuations of adversity and wealth visit every mortal; steadfast refusal of the inner conscience to incline toward partiality under either condition marks the truly wise soul.",
+        "hi": "विपत्ति और संपत्ति संसार में आती-जाती रहती हैं; किंतु हानि से घबराकर या लाभ के लालच में आकर मन को न्याय के मार्ग से डिगने न देना ही श्रेष्ठ पुरुषों की असली महानता है।"
+      }
+    },
+    {
+      "num": 116,
+      "line1": "விகற்பமாய் நெஞ்சம் வறியாக நேர்ந்தால்",
+      "line2": "படுமென்று உள்ள உணர்.",
+      "enLine1": "Vikarpamaai Nenjam Variyaaka Naerndhaal",
+      "enLine2": "Padumendru Ulla Unar.",
+      "hiLine1": "विकर्पमाय् नॆञ्जम् वऱियाग नेर्न्दाल्",
+      "hiLine2": "पडुमॆन्ड्रु उळ्ळ उणर्.",
+      "general": "தன் மனம் நடுவுநிலைமை நீங்கி அநீதியான வழியில் செல்லத் தொடங்குமானால், 'நமக்குக் கேடு வரப்போகிறது' என்று தன் மனதிற்குள்ளேயே உணர்ந்து எச்சரிக்கையாய் இருத்தல் வேண்டும்.",
+      "en": "If your heart inclines to step aside from justice toward evil, know within yourself that destruction is close at hand.",
+      "hi": "यदि तुम्हारा मन कभी निष्पक्षता और न्याय को छोड़कर अधर्म के मार्ग पर मुड़ने लगे, तो तुरंत समझ लो कि तुम्हारा पतन और विनाश निकट आ गया है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விகற்பமாய் (Vikarpamaai)",
+          "ta": "நடுவுநிலைமை தவறி வேறுபட்டு",
+          "en": "Swerving from equity",
+          "hi": "पक्षपाती होकर"
+        },
+        {
+          "no": 2,
+          "word": "நெஞ்சம் (Nenjam)",
+          "ta": "உள்ளமானது",
+          "en": "The mind / heart",
+          "hi": "मन"
+        },
+        {
+          "no": 3,
+          "word": "வறியாக (Variyaaka)",
+          "ta": "அறநெறி தவறிய அநீதியாக",
+          "en": "Toward wrongful course",
+          "hi": "अन्याय की ओर"
+        },
+        {
+          "no": 4,
+          "word": "நேர்ந்தால் (Naerndhaal)",
+          "ta": "செல்ல முற்படுமானால்",
+          "en": "If it should happen to turn",
+          "hi": "यदि झुकने लगे"
+        },
+        {
+          "no": 5,
+          "word": "படும் என்று (Padum Endru)",
+          "ta": "அழிவு வரும் என்று",
+          "en": "That ruin will befall",
+          "hi": "विनाश होगा ऐसा"
+        },
+        {
+          "no": 6,
+          "word": "உள்ள உணர் (Ulla Unar)",
+          "ta": "மனதிற்குள் உணர்வாயாக",
+          "en": "Know within yourself",
+          "hi": "हृदय में जान लो"
+        },
+        {
+          "no": 7,
+          "word": "உணர்வு (Unarvu)",
+          "ta": "அறிதல்",
+          "en": "Consciousness",
+          "hi": "बोध"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விகற்பமாய் நெஞ்சம் வறியாக நேர்ந்தால்",
+          "line2": "படுமென்று உள்ள உணர்."
+        },
+        "en": {
+          "line1": "If ever from the straight line your conscious heart should slide,",
+          "line2": "Know well that swift destruction is standing at your side."
+        },
+        "hi": {
+          "line1": "मन यदि मुड़े अधर्म को, न्याय-मार्ग को छोड़।",
+          "line2": "विनाश निश्चित जान तू, होगा अति झकझोर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vikarpamaai Nenjam Variyaaka Naerndhaal",
+            "line2": "Padumendru Ulla Unar."
+          },
+          "hi": {
+            "line1": "विकर्पमाय् नॆञ्जम् वऱियाग नेर्न्दाल्",
+            "line2": "पडुमॆन्ड्रु उळ्ळ उणर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவருடைய உள்ளம் நீதிவழியை விட்டு விலகி ஒருபுறமாகச் சாயத் தொடங்குமேயானால், அதுவே அவனது அழிவுக்குரிய தொடக்கம் என்பதை அவன் தன் உள்ளத்திலேயே உணர்ந்து திருந்திக்கொள்ள வேண்டும்.",
+        "en": "The moment you feel your conscience bending toward unfairness, heed it as an ominous warning that doom is impending upon your life.",
+        "hi": "जब कभी मन में किसी के प्रति अनुचित पक्षपात करने या अन्याय का साथ देने का विचार आए, तो सावधान हो जाना चाहिए; क्योंकि यह मन का भटकाव सीधे विनाश के द्वार पर ले जाता है।"
+      }
+    },
+    {
+      "num": 117,
+      "line1": "கெடுவல்யான் என்பது அறிகதன் நெஞ்சம்",
+      "line2": "நடுவொரீஇ அல்ல செயின்.",
+      "enLine1": "Keduvalyaan Enbadhu Arikadhan Nenjam",
+      "enLine2": "Naduvoree-ee Alla Seyin.",
+      "hiLine1": "कॆडुवल्याऩ् ऎन्बदु अऱिगदऩ् नॆञ्जम्",
+      "hiLine2": "नडुवॊरीइ अल्ल सॆयिऩ्.",
+      "general": "தன் மனம் நடுவுநிலைமையை விட்டு நீங்கித் தகாத அநீதிச் செயல்களைச் செய்யத் தொடங்குமானால், 'நான் அழியப் போகிறேன்' என்பதை ஒருவன் உறுதியாக அறிய வேண்டும்.",
+      "en": "Let a man know that his ruin is certain if his heart swerves from equity and commits unjust acts.",
+      "hi": "यदि किसी मनुष्य का मन न्याय के पथ से भटककर अनुचित कर्म करने लगे, तो उसे समझ लेना चाहिए कि 'अब मेरा विनाश सुनिश्चित है।'",
+      "words": [
+        {
+          "no": 1,
+          "word": "கெடுவல் யான் (Keduval Yaan)",
+          "ta": "நான் கெட்டழிவேன்",
+          "en": "I shall be ruined",
+          "hi": "मेरा सर्वनाश होगा"
+        },
+        {
+          "no": 2,
+          "word": "என்பது அறிக (Enbadhu Arika)",
+          "ta": "என்பதை அறிந்துகொள்ள வேண்டும்",
+          "en": "Let him know that",
+          "hi": "यह बात जान ले"
+        },
+        {
+          "no": 3,
+          "word": "தன் நெஞ்சம் (Than Nenjam)",
+          "ta": "தன்னுடைய உள்ளம்",
+          "en": "His own heart",
+          "hi": "उसका अपना मन"
+        },
+        {
+          "no": 4,
+          "word": "நடுவு ஒரீஇ (Naduvu Oree-ee)",
+          "ta": "நடுவுநிலைமை நீங்கி",
+          "en": "Leaving equity",
+          "hi": "निष्पक्षता छोड़कर"
+        },
+        {
+          "no": 5,
+          "word": "அல்ல செயின் (Alla Seyin)",
+          "ta": "நீதியல்லாத அநீதியைச் செய்யுமானால்",
+          "en": "If it does unjust deeds",
+          "hi": "यदि अनुचित काम करे"
+        },
+        {
+          "no": 6,
+          "word": "ஒரீஇ (Oree-ee)",
+          "ta": "நீங்கி / விலகி",
+          "en": "Departing from",
+          "hi": "हटकर"
+        },
+        {
+          "no": 7,
+          "word": "அல்ல (Alla)",
+          "ta": "அறமல்லாதவை",
+          "en": "Unjust / Wrong",
+          "hi": "अधर्म"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கெடுவல்யான் என்பது அறிகதன் நெஞ்சம்",
+          "line2": "நடுவொரீஇ அல்ல செயின்."
+        },
+        "en": {
+          "line1": "'My ruin is at hand,' let him perceive with fear,",
+          "line2": "Whose heart from righteousness departs to act in ways unfair."
+        },
+        "hi": {
+          "line1": "छोड़ कर समदृष्टि को, मन करे यदि पाप।",
+          "line2": "'नष्ट होऊंगा मैं अब', जान ले वह आप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Keduvalyaan Enbadhu Arikadhan Nenjam",
+            "line2": "Naduvoree-ee Alla Seyin."
+          },
+          "hi": {
+            "line1": "कॆडुवल्याऩ् ऎन्बदु अऱिगदऩ् नॆञ्जम्",
+            "line2": "नडुवॊरीइ अल्ल सॆयिऩ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் நடுவுநிலைமை என்னும் உயர்ந்த ஒழுக்கத்தைக் கைவிட்டு நீதியற்ற செயல்களில் இறங்குவானாயின், தன் கைகளாலேயே தன் அழிவைத் தேடிக் கொள்கிறான் என்பதை அவன் திட்டவட்டமாக உணர வேண்டும்.",
+        "en": "Whoever permits his inclinations to abandon justice and indulge in wrongful bias signs the warrant for his own inevitable downfall.",
+        "hi": "जब कोई व्यक्ति न्याय और सत्य का त्याग करके अनीतिपूर्ण कार्य करने का दुस्साहस करता है, तो उसे यह निश्चित जान लेना चाहिए कि वह स्वयं अपने हाथों अपने विनाश को आमंत्रण दे रहा है।"
+      }
+    },
+    {
+      "num": 118,
+      "line1": "சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபால்",
+      "line2": "கோடாமை சான்றோர்க்கு அணி.",
+      "enLine1": "Samanjeydhu Seerdhookkung Koalpoal Amaindhorupaal",
+      "enLine2": "Koadaamai Saandrorkku Ani.",
+      "hiLine1": "समञ्जॆय्दु सीर्दूक्कुङ् कोल्पोल् अमैन्दॊरुपाल्",
+      "hiLine2": "कोदामै सान्ड्रोर्क्कु अणि.",
+      "general": "முதலில் சமமாக நின்று பின்னர் தன்னிடம் வைக்கப்படும் எடையைத் துல்லியமாக எடைகாட்டும் துலாக்கோல் போல, எந்தப் பக்கமும் சாயாமல் நடுவுநிலையாக நிற்பதே சான்றோர்க்கு அழகாகும்.",
+      "en": "To stand level first, and then weigh with perfect accuracy like the balance of a scale, swerving to neither side, is the ornament of the wise.",
+      "hi": "पहले स्वयं समतल रहकर फिर दोनों पलड़ों के भार को सही-सही तौलने वाले तराजू के कांटे के समान, किसी भी एक ओर न झुकना ही ज्ञानी पुरुषों की सच्ची शोभा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சமன் செய்து (Samanjeydhu)",
+          "ta": "முன்னதாகத் தான் சமமாக நின்று",
+          "en": "Remaining level first",
+          "hi": "स्वयं बराबर रहकर"
+        },
+        {
+          "no": 2,
+          "word": "சீர்தூக்கும் (Seerdhookkum)",
+          "ta": "எடையைச் சரியாக எடைபோடும்",
+          "en": "Weighing accurately",
+          "hi": "सही तौलने वाले"
+        },
+        {
+          "no": 3,
+          "word": "கோல் போல் (Koal Poal)",
+          "ta": "துலாக்கோல் (தராசு) போல",
+          "en": "Like the scale / balance",
+          "hi": "तराजू के समान"
+        },
+        {
+          "no": 4,
+          "word": "அமைந்து (Amaindhu)",
+          "ta": "தன்னிலை மாறாது அமைந்து",
+          "en": "Being poised",
+          "hi": "स्थिर होकर"
+        },
+        {
+          "no": 5,
+          "word": "ஒருபால் கோடாமை (Orupaal Koadaamai)",
+          "ta": "எந்த ஒரு பக்கமும் சாயாமல் இருத்தல்",
+          "en": "Not swerving to either side",
+          "hi": "एक ओर न झुकना"
+        },
+        {
+          "no": 6,
+          "word": "சான்றோர்க்கு அணி (Saandrorkku Ani)",
+          "ta": "சான்றோர்களுக்குச் சிறந்த அழகாகும்",
+          "en": "Is the ornament of the wise",
+          "hi": "विद्वानों का आभूषण है"
+        },
+        {
+          "no": 7,
+          "word": "கோல் (Koal)",
+          "ta": "தராசுக் கோல்",
+          "en": "Rod of scale",
+          "hi": "तराजू की डंडी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபால்",
+          "line2": "கோடாமை சான்றோர்க்கு அணி."
+        },
+        "en": {
+          "line1": "To stand like balanced scales that poise and weigh with even beam,",
+          "line2": "Incline to neither side—this is the wise man's ornament supreme."
+        },
+        "hi": {
+          "line1": "सम रह कर तोले सही, ज्यों तराजू का भाल।",
+          "line2": "झुके न किसी भी ओर जो, सज्जन का गुण-भाल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Samanjeydhu Seerdhookkung Koalpoal Amaindhorupaal",
+            "line2": "Koadaamai Saandrorkku Ani."
+          },
+          "hi": {
+            "line1": "समञ्जॆय्दु सीर्दूक्कुङ् कोल्पोल् अमैन्दॊरुपाल्",
+            "line2": "कोदामै सान्ड्रोर्क्कु अणि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு தராசானது எடையிடுவதற்கு முன் சமமாக நின்று, பின் வைக்கப்பட்ட பொருளை நடுநிலையாகத் தூக்கிக் காட்டுவதுபோல, எந்த அழுத்தங்களுக்கும் உட்படாமல் ஒருபுறம் சாயாது நேர்மை காப்பதே சான்றோரின் நற்குணமாகும்.",
+        "en": "As a precision scale first balances itself evenly and then weighs whatever is placed upon it without bias, so the judge and the wise person must preserve unshakeable neutrality.",
+        "hi": "जिस प्रकार तराजू की डंडी पहले स्वयं सीधी रहती है और फिर दोनों पलड़ों का सही वजन बिना किसी झुकाव के दर्शाती है, उसी प्रकार किसी भी पक्ष के प्रभाव में आए बिना निष्पक्ष न्याय करना ही सच्चे विद्वान का शृंगार है।"
+      }
+    },
+    {
+      "num": 119,
+      "line1": "சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா",
+      "line2": "உட்கோட்டம் இன்மை பெறின்.",
+      "enLine1": "Sorkoattam Illadhu Seppam Orudhalaiyaa",
+      "enLine2": "Udkoattam Inmai Perin.",
+      "hiLine1": "सॊर्कोट्टम् इल्लदु सॆप्पम् ऒरुतलैया",
+      "hiLine2": "उट्कोट्टम् इन्मै पॆऱिन्.",
+      "general": "மனதில் ஒருபுறம் சாயும் கோணல் குணம் இல்லாத நேர்மை அமைந்திருக்குமானால், வாய்ச்சொல்லிலும் ஒருபுறம் சாயாத நேர்மை வெளிப்படுவது நடுவுநிலைமையாகும்.",
+      "en": "Freedom from bias in speech is true rectitude, provided the heart within is entirely free from any inner leaning toward partiality.",
+      "hi": "वाणी में पक्षपात न होना तभी सच्चा न्याय कहलाता है, जब अंतःकरण भी पूरी तरह से किसी एक पक्ष की ओर झुकाव या पूर्वाग्रह से मुक्त हो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சொல் கோட்டம் இல்லது (Sol Koattam Illadhu)",
+          "ta": "பேச்சில் ஒருபக்கம் சாயாமல் இருப்பது",
+          "en": "Speech free from crookedness / bias",
+          "hi": "वाणी में झुकाव न होना"
+        },
+        {
+          "no": 2,
+          "word": "செப்பம் (Seppam)",
+          "ta": "நடுவுநிலைமை ஆகும்",
+          "en": "Is rectitude / justice",
+          "hi": "सच्चा न्याय है"
+        },
+        {
+          "no": 3,
+          "word": "ஒருதலையா (Orudhalaiyaa)",
+          "ta": "ஒரு சார்பாக",
+          "en": "Unequivocally / on one side",
+          "hi": "पूर्ण रूप से"
+        },
+        {
+          "no": 4,
+          "word": "உள் கோட்டம் (Ul Koattam)",
+          "ta": "உள்ளத்தில் கோணல் குணம்",
+          "en": "Inner crookedness of mind",
+          "hi": "मन का टेढ़ापन / पक्षपात"
+        },
+        {
+          "no": 5,
+          "word": "இன்மை பெறின் (Inmai Perin)",
+          "ta": "இல்லாதிருக்கப் பெற்றால்",
+          "en": "If it be absent",
+          "hi": "यदि न हो"
+        },
+        {
+          "no": 6,
+          "word": "கோட்டம் (Koattam)",
+          "ta": "வளைவு / சாய்வு",
+          "en": "Crookedness / Incline",
+          "hi": "विकार / झुकाव"
+        },
+        {
+          "no": 7,
+          "word": "இன்மை (Inmai)",
+          "ta": "இல்லாமை",
+          "en": "Absence",
+          "hi": "अभाव"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா",
+          "line2": "உட்கோட்டம் இன்மை பெறின்."
+        },
+        "en": {
+          "line1": "To speak without a crooked word is righteousness complete,",
+          "line2": "If inside the heart itself no secret bias seat."
+        },
+        "hi": {
+          "line1": "वचनों में निष्पक्षता, तभी बनेगी सार।",
+          "line2": "मन के भीतर भी न हो, तनिक भी पक्ष-विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sorkoattam Illadhu Seppam Orudhalaiyaa",
+            "line2": "Udkoattam Inmai Perin."
+          },
+          "hi": {
+            "line1": "सॊर्कोट्टम् इल्लदु सॆप्पम् ऒरुतलैया",
+            "line2": "उट्कोट्टम् इन्मै पॆऱिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சொல்லில் கோணல் இல்லாமல் நடுநிலையாகப் பேசுவது மட்டுமே போதுமானதன்று; அத்தகைய சொல் வழுவாமை உள்ளத்திலும் எவ்வித பாரபட்சமும் இல்லாமல் எழும்போதுதான் அது மெய்யான நடுவுநிலைமையாகும்.",
+        "en": "Impartiality in verbal judgement is valid and authentic only when the underlying intention of the heart is completely liberated from conscious or unconscious prejudice.",
+        "hi": "केवल मुख से न्यायप्रिय बातें करना पर्याप्त नहीं है; न्याय की वाणी तभी सार्थक होती है जब हृदय के भीतर भी किसी प्रकार का लोभ, भय अथवा पक्षपात का मैल न हो।"
+      }
+    },
+    {
+      "num": 120,
+      "line1": "வாணிகம் செய்வார்க்கு வாணிகம் பேணிப்",
+      "line2": "பிறவும் தமபோல் செயின்.",
+      "enLine1": "Vaanikam Seyvaarkku Vaanikam Paenip",
+      "enLine2": "Piravum Thamapoal Seyin.",
+      "hiLine1": "वाणिगम् सॆय्वार्क्कु वाणिगम् पेणिप्",
+      "hiLine2": "पिऱवुम् तमपोल् सॆयिऩ्.",
+      "general": "பிறர் பொருளையும் தம்முடைய சொந்தப் பொருளைப் போலவே கருதிப் பாதுகாத்து வியாபாரம் செய்தால், அதுவே வாணிகம் செய்வோருக்குரிய சிறந்த நடுவுநிலைமை வணிகமாகும்.",
+      "en": "True commerce is that which is practiced by merchants who protect the goods of others with the same care as their own.",
+      "hi": "व्यापारियों के लिए सच्चा और श्रेष्ठ व्यापार वही है, जिसमें वे दूसरों के धन और वस्तु को भी अपने स्वयं के धन के समान मानकर ईमानदारी से रक्षा और व्यवहार करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வாணிகம் செய்வார்க்கு (Vaanikam Seyvaarkku)",
+          "ta": "வாணிகம் செய்யும் வணிகர்களுக்கு",
+          "en": "To those who engage in trade",
+          "hi": "व्यापार करने वालों के लिए"
+        },
+        {
+          "no": 2,
+          "word": "வாணிகம் (Vaanikam)",
+          "ta": "முறையான சிறந்த வாணிகமாவது",
+          "en": "Proper trade",
+          "hi": "सच्चा व्यापार"
+        },
+        {
+          "no": 3,
+          "word": "பேணி (Paeni)",
+          "ta": "பாதுகாத்து",
+          "en": "Guarding carefully",
+          "hi": "रक्षा करके"
+        },
+        {
+          "no": 4,
+          "word": "பிறவும் (Piravum)",
+          "ta": "பிறருடைய பொருளையும்",
+          "en": "The goods of others",
+          "hi": "औरों के धन को भी"
+        },
+        {
+          "no": 5,
+          "word": "தம போல் (Thama Poal)",
+          "ta": "தமக்குரிய பொருளைப் போலக் கருதி",
+          "en": "As their very own",
+          "hi": "अपने धन के समान"
+        },
+        {
+          "no": 6,
+          "word": "செயின் (Seyin)",
+          "ta": "வியாபாரம் செய்வார்களேயானால்",
+          "en": "If they do so",
+          "hi": "यदि व्यवहार करें"
+        },
+        {
+          "no": 7,
+          "word": "வாணிகம் (Vaanikam)",
+          "ta": "வியாபாரம்",
+          "en": "Commerce / Business",
+          "hi": "वाणिज्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வாணிகம் செய்வார்க்கு வாணிகம் பேணிப்",
+          "line2": "பிறவும் தமபோல் செயின்."
+        },
+        "en": {
+          "line1": "The merchant's trade prospers in righteousness and peace,",
+          "line2": "If another's goods he guards as his, his wealth will never cease."
+        },
+        "hi": {
+          "line1": "औरों के धन को गिने, अपने धन समान।",
+          "line2": "व्यापारी का धर्म है, यही सत्य-प्रमाण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vaanikam Seyvaarkku Vaanikam Paenip",
+            "line2": "Piravum Thamapoal Seyin."
+          },
+          "hi": {
+            "line1": "वाणिगम् सॆय्वार्क्कु वाणिगम् पेणिप्",
+            "line2": "पिऱवुम् तमपोल् सॆयिऩ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வியாபாரம் செய்வோர் பிறருடைய பணத்தையும் பண்டங்களையும் தமக்குரிய பொருளைப் போலவே நேர்மையாகப் பேணி, எந்தக் கலப்படமும் மோசடியும் செய்யாமல் வணிகம் செய்வதே உன்னதமான நடுவுநிலைமை வணிகமாகும்.",
+        "en": "The hallmark of honest trade is when a merchant treats customer goods and community resources with the same conscientious fidelity as his own assets.",
+        "hi": "सच्चे व्यापारी का धर्म यही है कि वह तौल, माप और मूल्य में कोई कपट न करे; तथा ग्राहकों व अन्य व्यापारियों के माल की उतनी ही ईमानदारी से हिफाजत करे जितनी वह अपनी संपत्ति की करता है।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 9,
+  "nameTa": "விருந்தோம்பல்",
+  "nameEn": "Hospitality",
+  "nameHi": "अतिथि-सत्कार",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 81,
+      "line1": "இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி",
+      "line2": "வேளாண்மை செய்தற் பொருட்டு.",
+      "enLine1": "Irundhoambi Ilvaazhva Dhellaam Virundhoambi",
+      "enLine2": "Vealaanmai Seydhar Poruttu.",
+      "hiLine1": "इरुन्दोम्बि इल्वाऴ्व दॆल्लाम् विरुन्दोम्बि",
+      "hiLine2": "वेळा़ण्मै सॆय्दऱ् पॊरुट्टु.",
+      "general": "பொருள்களைப் பாதுகாத்து இல்லறத்தில் வாழ்வதெல்லாம், விருந்தினர்களைப் போற்றி அவர்களுக்கு உதவி செய்வதற்காகவே ஆகும்.",
+      "en": "All the wealth gathered and the domestic life maintained by a householder is entirely for the sake of cherishing guests and rendering them help.",
+      "hi": "घर-परिवार बसाकर धन-संपत्ति अर्जित करने का समस्त प्रयोजन केवल यही है कि अतिथियों का आदर-सत्कार किया जाए और उनकी सेवा-सहायता की जाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இருந்து ஓம்பி (Irundhu Oambi)",
+          "ta": "இல்லறத்தில் இருந்து பொருளைக் காத்து",
+          "en": "Guarding wealth staying in the home",
+          "hi": "घर में रह धन संभालना"
+        },
+        {
+          "no": 2,
+          "word": "இல்வாழ்வது எல்லாம் (Ilvaazhvadhu Ellaam)",
+          "ta": "இல்லற வாழ்க்கை நடத்துவது எல்லாம்",
+          "en": "Living domestic life",
+          "hi": "समस्त गृहस्थ जीवन बिताना"
+        },
+        {
+          "no": 3,
+          "word": "விருந்து ஓம்பி (Virundhu Oambi)",
+          "ta": "விருந்தினர்களைப் போற்றி",
+          "en": "Cherishing guests",
+          "hi": "अतिथियों का सत्कार कर"
+        },
+        {
+          "no": 4,
+          "word": "வேளாண்மை (Vealaanmai)",
+          "ta": "உதவி / உபகாரம்",
+          "en": "Help / benevolence",
+          "hi": "उपकार / सेवा"
+        },
+        {
+          "no": 5,
+          "word": "செய்தற் பொருட்டு (Seydhar Poruttu)",
+          "ta": "செய்வதற்காகவே ஆகும்",
+          "en": "Is for the purpose of doing",
+          "hi": "करने के लिए ही है"
+        },
+        {
+          "no": 6,
+          "word": "விருந்து (Virundhu)",
+          "ta": "விருந்தினர்",
+          "en": "Guests",
+          "hi": "अतिथि"
+        },
+        {
+          "no": 7,
+          "word": "பொருட்டு (Poruttu)",
+          "ta": "காரணம்",
+          "en": "Purpose",
+          "hi": "प्रयोजन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி",
+          "line2": "வேளாண்மை செய்தற் பொருட்டு."
+        },
+        "en": {
+          "line1": "The whole design of keeping house and gathering earthly store,",
+          "line2": "Is to relieve the stranger's need and welcome at the door."
+        },
+        "hi": {
+          "line1": "सकुटुंब रह कर जो करे, संचित विपुल धन-धान्य।",
+          "line2": "अतिथि-सत्कारार्थ वह, करता सदा वदान्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irundhoambi Ilvaazhva Dhellaam Virundhoambi",
+            "line2": "Vealaanmai Seydhar Poruttu."
+          },
+          "hi": {
+            "line1": "इरुन्दोम्बि इल्वाऴ्व दॆल्लाम् विरुन्दोम्बि",
+            "line2": "वेळा़ण्मै सॆय्दऱ् पॊरुट्टु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குடும்பத்தோடு வாழ்ந்து செல்வத்தைச் சேர்த்துப் பாதுகாப்பதன் உண்மையான நோக்கம், தம் இல்லம் நாடி வரும் விருந்தினர்களை இன்முகத்தோடு வரவேற்று அவர்களுக்குப் பணிவிடை செய்வதற்கே ஆகும்.",
+        "en": "The ultimate aim of maintaining a home and accumulating resources is to provide generous hospitality and selfless service to guests.",
+        "hi": "गृहस्थी बसाने और परिश्रमपूर्वक संपत्ति एकत्र करने का वास्तविक मंतव्य यही है कि घर आए अतिथियों का सप्रेम स्वागत किया जाए और उनकी आवश्यकताओं की पूर्ति की जाए।"
+      }
+    },
+    {
+      "num": 82,
+      "line1": "விருந்து புறத்ததாத் தானுண்டல் சாவா",
+      "line2": "மருந்தெனினும் வேண்டற்பாற் றன்று.",
+      "enLine1": "Virundhu Puraththadhaath Thaanundal Saavaa",
+      "enLine2": "Marundheninum Veandarpaat Randru.",
+      "hiLine1": "विरुद्धु पुऱत्तदात् ताऩुण्डल् सावा",
+      "hiLine2": "मरुन्दॆऩिनुम् वेण्डऱ्पा़ट्र् ऱन्ड्रु.",
+      "general": "விருந்தினர் வீட்டுக்கு வெளியே காத்திருக்கத் தான் மட்டும் தனியாக உண்பது, சாகாமல் வாழ வைக்கும் அமிழ்தமே ஆனாலும் விரும்பத்தக்கது அன்று.",
+      "en": "To feast alone while a guest waits outside one's door is unseemly and unacceptable, even if the food be the nectar of immortality.",
+      "hi": "अतिथि को द्वार पर भूखा रखकर अकेले भोजन करना, चाहे वह अमरता प्रदान करने वाला देव-अमृत ही क्यों न हो, कभी भी उचित नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விருந்து (Virundhu)",
+          "ta": "வந்த விருந்தினர்",
+          "en": "Guest",
+          "hi": "अतिथि"
+        },
+        {
+          "no": 2,
+          "word": "புறத்ததா (Puraththadhaa)",
+          "ta": "வெளியே நிற்க",
+          "en": "Remaining outside",
+          "hi": "बाहर रहने पर"
+        },
+        {
+          "no": 3,
+          "word": "தான் உண்டல் (Thaan Undal)",
+          "ta": "தான் மட்டும் தனித்து உண்பது",
+          "en": "Eating by oneself",
+          "hi": "स्वयं अकेले खाना"
+        },
+        {
+          "no": 4,
+          "word": "சாவா மருந்து எனினும் (Saavaa Marundhu Eninum)",
+          "ta": "சாவாமையைத் தரும் அமிழ்தமே என்றாலும்",
+          "en": "Though it be the food of immortality (Ambrosia)",
+          "hi": "चाहे अमर फल (अमृत) ही हो"
+        },
+        {
+          "no": 5,
+          "word": "வேண்டற்பாற்று அன்று (Veandarpaatru Andru)",
+          "ta": "விரும்பத்தக்க செயல் அன்று",
+          "en": "Is not a thing to be desired",
+          "hi": "उचित नहीं है"
+        },
+        {
+          "no": 6,
+          "word": "சாவா (Saavaa)",
+          "ta": "மரணம் இல்லாத",
+          "en": "Deathless",
+          "hi": "अमर"
+        },
+        {
+          "no": 7,
+          "word": "மருந்து (Marundhu)",
+          "ta": "அமிழ்தம்",
+          "en": "Nectar / Medicine",
+          "hi": "अमृत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விருந்து புறத்ததாத் தானுண்டல் சாவா",
+          "line2": "மருந்தெனினும் வேண்டற்பாற் றன்று."
+        },
+        "en": {
+          "line1": "Though nectar from the skies to drink were granted to your hand,",
+          "line2": "To eat alone while guests wait by is shameful in the land."
+        },
+        "hi": {
+          "line1": "बाहर रहे अतिथि खड़ा, अकेला खाय जो अन्न।",
+          "line2": "अमृत भी वह क्यों न हो, धर्म नहीं वह अन्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Virundhu Puraththadhaath Thaanundal Saavaa",
+            "line2": "Marundheninum Veandarpaat Randru."
+          },
+          "hi": {
+            "line1": "विरुद्धु पुऱत्तदात् ताऩुण्डल् सावा",
+            "line2": "मरुन्दॆऩिनुम् वेण्डऱ्पा़ट्र् ऱन्ड्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வீட்டுக்கு வந்த விருந்தினரை வெளியில் விட்டுவிட்டு தான் மட்டும் மறைவாக உண்பது, மரணமில்லாத வாழ்வைத் தரும் அமிழ்தமாகவே இருந்தாலும் நற்பண்புடையோருக்குத் தகாத செயலாகும்.",
+        "en": "It is unworthy of a virtuous person to eat alone while a guest stands waiting, even if the dish being consumed holds the power of eternal life.",
+        "hi": "घर आए अतिथि को भूखा बाहर छोड़कर अकेले बैठकर भोजन करना शिष्टाचार और धर्म के विरुद्ध है, भले ही वह भोजन अमृत ही क्यों न हो।"
+      }
+    },
+    {
+      "num": 83,
+      "line1": "வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை",
+      "line2": "பருவந்து பாழ்படுதல் இன்று.",
+      "enLine1": "Varuvirundhu Vaikalum Oambuvaan Vaazhkkai",
+      "enLine2": "Paruvandhu Paazhpadudhal Indru.",
+      "hiLine1": "वरुविरुद्धु वैगलुम् ओम्पुवाऩ् वाऴ्क्कै",
+      "hiLine2": "परुवन्दु पाऴ्पडुदल् इन्ड्रु.",
+      "general": "தம்மிடம் வரும் விருந்தினர்களை நாள்தோறும் முகம் மலர்ந்து போற்றிப் பேணுகின்றவனுடைய குடும்ப வாழ்க்கை, வறுமையால் துன்பப்பட்டு ஒருபோதும் பாழாகாது.",
+      "en": "The domestic life of him who daily entertains with gladness the incoming guest shall never decay through poverty or affliction.",
+      "hi": "जो गृहस्थ अपने घर आने वाले अतिथियों का प्रतिदिन प्रेमपूर्वक सत्कार करता है, उसका जीवन और परिवार कभी भी दरिद्रता के कष्ट से नष्ट नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வரு விருந்து (Varu Virundhu)",
+          "ta": "தன்னை நாடி வரும் விருந்தினரை",
+          "en": "The incoming guest",
+          "hi": "आए हुए अतिथि को"
+        },
+        {
+          "no": 2,
+          "word": "வைகலும் (Vaikalum)",
+          "ta": "நாள்தோறும்",
+          "en": "Daily / day by day",
+          "hi": "प्रतिदिन"
+        },
+        {
+          "no": 3,
+          "word": "ஓம்புவான் (Oambuvaan)",
+          "ta": "உபசரித்துப் பேணுபவனின்",
+          "en": "He who cherishes",
+          "hi": "सत्कार करने वाले का"
+        },
+        {
+          "no": 4,
+          "word": "வாழ்க்கை (Vaazhkkai)",
+          "ta": "இல்லற வாழ்க்கையானது",
+          "en": "Domestic life",
+          "hi": "गृहस्थ जीवन"
+        },
+        {
+          "no": 5,
+          "word": "பருவந்து (Paruvandhu)",
+          "ta": "வறுமைத் துன்பத்தால் வருந்தி",
+          "en": "Suffering affliction",
+          "hi": "दुःखी होकर"
+        },
+        {
+          "no": 6,
+          "word": "பாழ்படுதல் (Paazhpadudhal)",
+          "ta": "கெட்டுப் பாழாதல்",
+          "en": "Falling into ruin",
+          "hi": "नष्ट होना"
+        },
+        {
+          "no": 7,
+          "word": "இன்று (Indru)",
+          "ta": "ஒருபோதும் இல்லை",
+          "en": "Never happens",
+          "hi": "कभी नहीं होता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை",
+          "line2": "பருவந்து பாழ்படுதல் இன்று."
+        },
+        "en": {
+          "line1": "The man who cheers the guest that comes each day with open face,",
+          "line2": "Shall never see his home sink down in ruin and disgrace."
+        },
+        "hi": {
+          "line1": "आये अतिथि का नित्य ही, जो करता सत्कार।",
+          "line2": "दरिद्रता के दुःख से, मिटे न वह परिवार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Varuvirundhu Vaikalum Oambuvaan Vaazhkkai",
+            "line2": "Paruvandhu Paazhpadudhal Indru."
+          },
+          "hi": {
+            "line1": "वरुविरुद्धु वैगलुम् ओम्पुवाऩ् वाऴ्क्कै",
+            "line2": "परुवन्दु पाऴ्पडुदल् इन्ड्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தினந்தோறும் தன் இல்லம் தேடி வரும் விருந்தினர்களை இன்முகத்தோடு உபசரித்து வாழும் ஒருவனின் செல்வமும் வாழ்க்கையும் வறுமைத் துயரால் ஒருபோதும் சிதைந்து அழியாது.",
+        "en": "The resources and lineage of the householder who rejoices in daily welcoming every visitor will never suffer ruin from destitution.",
+        "hi": "जो मनुष्य रोज़ाना नए-पुराने अतिथियों का प्रसन्न मन से आतिथ्य करता है, उसके घर में कभी अभाव नहीं रहता और उसका वंश सदा समृद्ध रहता है।"
+      }
+    },
+    {
+      "num": 84,
+      "line1": "அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து",
+      "line2": "நல்விருந்து ஓம்புவான் இல்.",
+      "enLine1": "Akanamarndhu Seyyaal Uraiyum Mukanamarndhu",
+      "enLine2": "Nalvirundhu Oambuvaan Il.",
+      "hiLine1": "अकऩमर्न्दु सॆय्या़ळ् उऱैयुम् मुकऩमर्न्दु",
+      "hiLine2": "नल्विरुन्दु ओम्पुवाऩ् इल्.",
+      "general": "முக மலர்ச்சியோடு இன்சொல் கூறி நல்ல விருந்தினரைப் போற்றி உபசரிப்பவனுடைய இல்லத்தில், திருமகள் மனம் மகிழ்ந்து நிலையாகக் குடிஇருப்பாள்.",
+      "en": "With joyous heart Lakshmi, the goddess of wealth, will dwell in the house of him who with cheerful countenance welcomes guests.",
+      "hi": "जो व्यक्ति प्रसन्न मुख और मधुर वाणी से अतिथियों का स्वागत-सत्कार करता है, उसके घर में धन की देवी लक्ष्मी परम हर्षित होकर सदा निवास करती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அகன் அமர்ந்து (Akan Amarndhu)",
+          "ta": "உள்ளம் மகிழ்ந்து",
+          "en": "With joyful heart",
+          "hi": "प्रसन्न मन से"
+        },
+        {
+          "no": 2,
+          "word": "செய்யாள் (Seyyaal)",
+          "ta": "செம்மையான திருமகள் (மகாலட்சுமி)",
+          "en": "Lakshmi (Goddess of Wealth)",
+          "hi": "लक्ष्मी"
+        },
+        {
+          "no": 3,
+          "word": "உறையும் (Uraiyum)",
+          "ta": "நிலைத்து வாழ்வாள்",
+          "en": "Will dwell",
+          "hi": "निवास करेगी"
+        },
+        {
+          "no": 4,
+          "word": "முகன் அமர்ந்து (Mukan Amarndhu)",
+          "ta": "முக மலர்ச்சியோடு",
+          "en": "With cheerful countenance",
+          "hi": "हंसमुख होकर"
+        },
+        {
+          "no": 5,
+          "word": "நல் விருந்து (Nal Virundhu)",
+          "ta": "நல்ல விருந்தினரை",
+          "en": "Good guests",
+          "hi": "श्रेष्ठ अतिथियों का"
+        },
+        {
+          "no": 6,
+          "word": "ஓம்புவான் இல் (Oambuvaan Il)",
+          "ta": "உபசரிப்பவனுடைய வீட்டில்",
+          "en": "In the home of him who cherishes",
+          "hi": "सत्कार करने वाले के घर में"
+        },
+        {
+          "no": 7,
+          "word": "அகன் (Akan)",
+          "ta": "உள்ளம்",
+          "en": "Heart / Inside",
+          "hi": "हृदय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து",
+          "line2": "நல்விருந்து ஓம்புவான் இல்."
+        },
+        "en": {
+          "line1": "With smiling face who welcomes guests within his open door,",
+          "line2": "Fair Fortune's Queen with gladness dwells upon his threshold floor."
+        },
+        "hi": {
+          "line1": "मुख पर ला उल्लास जो, करे अतिथि-सत्कार।",
+          "line2": "हर्षित हो लक्ष्मी रहे, उसके ही आगार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Akanamarndhu Seyyaal Uraiyum Mukanamarndhu",
+            "line2": "Nalvirundhu Oambuvaan Il."
+          },
+          "hi": {
+            "line1": "अकऩमर्न्दु सॆय्या़ळ् उऱैयुम् मुकऩमर्न्दु",
+            "line2": "नल्विरुन्दु ओम्पुवाऩ् इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வந்த விருந்தினரை முகம் மலர இன்சொல் கூறி வரவேற்கும் விருந்தோம்பல் பண்பாளரின் வீட்டில், செல்வத்தின் தேவதையான திருமகள் பேரன்போடு நிலைபெற்று வாழ்வாள்.",
+        "en": "Prosperity herself abides happily in the residence of the generous householder whose warm and smiling face radiates authentic hospitality.",
+        "hi": "जिस घर में अतिथियों का सत्कार बनावटी न होकर सच्चे मन और मुस्कराते चेहरे के साथ किया जाता है, वहाँ सुख-समृद्धि की देवी लक्ष्मी सदा के लिए वास करती है।"
+      }
+    },
+    {
+      "num": 85,
+      "line1": "வித்துமிடல் வேண்டுங்கொல் கொல்லோ விருந்தோம்பி",
+      "line2": "மிச்சில் மிசைவான் புலம்.",
+      "enLine1": "Viththumidal Veandungkol Kollo Virundhoambi",
+      "enLine2": "Michchil Misaivaan Pulam.",
+      "hiLine1": "वित्तिमिडल् वेण्डुङ्कॊल् कॊल्लो विरुन्दोम्बि",
+      "hiLine2": "मिच्चिल् मिसैवाऩ् पुलम्.",
+      "general": "வந்த விருந்தினருக்கு முதலில் உணவளித்துப் போற்றி, எஞ்சிய உணவைத் தான் உண்ணும் மனிதனுடைய நிலத்தில் விதையும் விதைக்க வேண்டுமோ? அது தானாகவே விளையும்.",
+      "en": "Is it even necessary to sow seed in the field of him who feeds his guests first and eats only what remains?",
+      "hi": "जो अतिथियों को पहले तृप्त करके बचे हुए अन्न को स्वयं ग्रहण करता है, क्या उसके खेत में बीज बोने की आवश्यकता है? वहाँ तो स्वतः भरपूर फसल लहलहाएगी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வித்துமிடல் (Viththumidal)",
+          "ta": "விதையினை விதைப்பதும்",
+          "en": "Sowing the seed",
+          "hi": "बीज बोना"
+        },
+        {
+          "no": 2,
+          "word": "வேண்டுங்கொல் (Veandungkol)",
+          "ta": "வேண்டுமோ?",
+          "en": "Is it necessary?",
+          "hi": "क्या आवश्यक है?"
+        },
+        {
+          "no": 3,
+          "word": "விருந்து ஓம்பி (Virundhu Oambi)",
+          "ta": "விருந்தினரைப் பேணி உணவிட்டு",
+          "en": "Having cherished the guests",
+          "hi": "अतिथि को खिलाकर"
+        },
+        {
+          "no": 4,
+          "word": "மிச்சில் (Michchil)",
+          "ta": "மீதமான உணவை",
+          "en": "The remainder of the food",
+          "hi": "बचा हुआ भोजन"
+        },
+        {
+          "no": 5,
+          "word": "மிசைவான் (Misaivaan)",
+          "ta": "உண்பவனின்",
+          "en": "Of him who eats",
+          "hi": "खाने वाले का"
+        },
+        {
+          "no": 6,
+          "word": "புலம் (Pulam)",
+          "ta": "விளைநிலத்தில்",
+          "en": "In the field",
+          "hi": "खेत"
+        },
+        {
+          "no": 7,
+          "word": "வித்து (Viththu)",
+          "ta": "விதை",
+          "en": "Seed",
+          "hi": "बीज"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வித்துமிடல் வேண்டுங்கொல் கொல்லோ விருந்தோம்பி",
+          "line2": "மிச்சில் மிசைவான் புலம்."
+        },
+        "en": {
+          "line1": "Needs he to sow his fertile field who feeds his guest the first,",
+          "line2": "And eats the crumbs that then remain to slake his hunger's thirst?",
+        },
+        "hi": {
+          "line1": "खिला अतिथि को पहले जो, खाता शेष प्रसाद्य।",
+          "line2": "खेतों में उसके भला, क्या बोना बीजाद्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Viththumidal Veandungkol Kollo Virundhoambi",
+            "line2": "Michchil Misaivaan Pulam."
+          },
+          "hi": {
+            "line1": "वित्तिमिडल् वेण्डुङ्कॊल् कॊल्लो विरुन्दोम्बि",
+            "line2": "मिच्चिल् मिसैवाऩ् पुलम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "விருந்தினர்களை அன்போடு உபசரித்து அவர்கள் உண்டபின் எஞ்சிய உணவைத் தான் உண்ணும் அறவோனின் நிலத்தில், விதை விதைக்காமலேயே இயற்கையருளால் விளைச்சல் பெருகும் அளவுக்கு அவன் வளம் பெறுவான்.",
+        "en": "Nature itself showers bountiful harvests upon the acres of the generous host who prioritizes the hunger of his guests before satisfying his own.",
+        "hi": "अतिथियों को सादर भोजन कराकर अंत में स्वयं प्रसाद रूप में भोजन करने वाले पुण्यात्मा के खेतों में बिना विशेष परिश्रम के ही ईश्वर की कृपा से प्रचुर अन्न उत्पन्न होता है।"
+      }
+    },
+    {
+      "num": 86,
+      "line1": "செல்விருந்து ஓம்பி வருவிருந்து பார்த்திருப்பான்",
+      "line2": "நல்விருந்து வானத் தவர்க்கு.",
+      "enLine1": "Selvirundhu Oambi Varuvarundhu Paarththiruppaan",
+      "enLine2": "Nalvirundhu Vaanath Thavarkku.",
+      "hiLine1": "सॆल्विरुन्दु ओम्बि वरुविरुद्धु पा़र्त्तिरुप्पा़न्",
+      "hiLine2": "नल्विरुन्दु वाऩत् तवर्क्कु.",
+      "general": "வந்த விருந்தினரை உபசரித்து வழியனுப்பி, இனி வரக்கூடிய புதிய விருந்தினரை எதிர்பார்த்துக் காத்திருக்கும் மனிதன், வானுலகத் தேவர்க்கும் சிறந்த விருந்தினனாவான்.",
+      "en": "He who has entertained the present guest and looks forward expectantly to the next shall be a welcome guest to the gods of heaven.",
+      "hi": "आए हुए अतिथि का सत्कार कर विदा करने के बाद जो नए अतिथि की प्रतीक्षा करता है, वह मनुष्य स्वर्ग के देवताओं के लिए भी आदरणीय उत्तम अतिथि बन जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செல் விருந்து ஓம்பி (Sel Virundhu Oambi)",
+          "ta": "செல்லும் விருந்தினரைப் பேணி அனுப்பி",
+          "en": "Having cherished the departing guest",
+          "hi": "आए अतिथि को विदा कर"
+        },
+        {
+          "no": 2,
+          "word": "வரு விருந்து (Varu Virundhu)",
+          "ta": "இனி வரும் விருந்தினரை",
+          "en": "The guest yet to come",
+          "hi": "आने वाले नए अतिथि की"
+        },
+        {
+          "no": 3,
+          "word": "பார்த்திருப்பான் (Paarththiruppaan)",
+          "ta": "எதிர்நோக்கிக் காத்திருப்பவன்",
+          "en": "He who waits watching for",
+          "hi": "प्रतीक्षा करने वाला"
+        },
+        {
+          "no": 4,
+          "word": "நல் விருந்து (Nal Virundhu)",
+          "ta": "சிறந்த விருந்தினன் ஆவான்",
+          "en": "Is a welcome guest",
+          "hi": "उत्तम अतिथि बनता है"
+        },
+        {
+          "no": 5,
+          "word": "வானத்தவர்க்கு (Vaanaththavarkku)",
+          "ta": "விண்ணுலகத் தேவர்களுக்கு",
+          "en": "Unto the gods of heaven",
+          "hi": "स्वर्ग के देवताओं का"
+        },
+        {
+          "no": 6,
+          "word": "ஓம்பி (Oambi)",
+          "ta": "போற்றி",
+          "en": "Honored",
+          "hi": "सत्कार कर"
+        },
+        {
+          "no": 7,
+          "word": "வானம் (Vaanam)",
+          "ta": "விண்ணுலகு",
+          "en": "Heaven",
+          "hi": "स्वर्ग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செல்விருந்து ஓம்பி வருவிருந்து பார்த்திருப்பான்",
+          "line2": "நல்விருந்து வானத் தவர்க்கு."
+        },
+        "en": {
+          "line1": "Who speeds the parting guest and waits the coming guest to cheer,",
+          "line2": "To gods in heaven's sacred realm shall be a guest most dear."
+        },
+        "hi": {
+          "line1": "तृप्त अतिथि को विदा कर, नये अतिथि की चाह।",
+          "line2": "रखे, सुरों का श्रेष्ठ वह, अतिथि बने सराह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Selvirundhu Oambi Varuvarundhu Paarththiruppaan",
+            "line2": "Nalvirundhu Vaanath Thavarkku."
+          },
+          "hi": {
+            "line1": "सॆल्विरुन्दु ओम्बि वरुविरुद्धु पा़र्त्तिरुप्पा़न्",
+            "line2": "नल्विरुन्दु वाऩत् तवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வந்த விருந்தினருக்கு இன்முகத்துடன் உணவிட்டு வழியனுப்பி வைத்து, அடுத்த விருந்தினர் எப்போது வருவார் என்று ஆவலோடு காத்திருக்கும் தாராள உள்ளம் கொண்டவன், விண்ணுலகத் தேவர்களாலும் போற்றி வரவேற்கப்படும் விருந்தினனாவான்.",
+        "en": "The hospitable soul who cheerfully attends to the departing visitor and eagerly awaits the next will himself be received with highest celestial honors by the immortals in heaven.",
+        "hi": "जो वर्तमान अतिथि का आदरपूर्वक सत्कार करने के उपरांत आगे आने वाले अतिथियों की राह देखता रहता है, स्वर्ग के देवता भी उसका स्वागत अपने प्रिय अतिथि के रूप में करने को उत्सुक रहते हैं।"
+      }
+    },
+    {
+      "num": 87,
+      "line1": "இனைத்துணைத் தென்பதொன் றில்லை விருந்தின்",
+      "line2": "துணைத்துணை வேள்விப் பயன்.",
+      "enLine1": "Inaiththunaith Thenbadhon Rillai Virundhin",
+      "enLine2": "Thunaiththunai Vaelvip Payan.",
+      "hiLine1": "इनैत्तुणैत् तॆन्बदॊऩ् ऱिल्लै विरुन्दिऩ्",
+      "hiLine2": "तुणैत्तुणै वेळ्विप् पयऩ्.",
+      "general": "விருந்தோம்பல் என்னும் யாகத்தின் பயன் இவ்வளவு பெரியது என்று அளவிட்டுக் கூற முடியாது; வந்துற்ற விருந்தினரின் பெருமைக்குத் தகுந்தபடி அதன் பயன் அமையும்.",
+      "en": "The reward of hospitality cannot be measured merely by the gift; it is measured by the worth and nobility of the guest who is received.",
+      "hi": "अतिथि-सत्कार रूपी यज्ञ का फल किसी निश्चित सीमा में नहीं मापा जा सकता; वह सत्कार पाने वाले अतिथि की योग्यता और श्रेष्ठता के अनुपात में असीम होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இனைத்துணைத்து என்பது (Inaiththunaiththu Enbadhu)",
+          "ta": "இவ்வளவு அளவுடையது என்று",
+          "en": "Of such and such measure",
+          "hi": "इतना परिमाण है"
+        },
+        {
+          "no": 2,
+          "word": "ஒன்றுமில்லை (Ondrillai)",
+          "ta": "சொல்லக் கூடியது ஒன்றும் இல்லை",
+          "en": "There is no fixed limit",
+          "hi": "ऐसा कुछ नहीं"
+        },
+        {
+          "no": 3,
+          "word": "விருந்தின் (Virundhin)",
+          "ta": "வந்த விருந்தினரின்",
+          "en": "Of the guest",
+          "hi": "अतिथि की"
+        },
+        {
+          "no": 4,
+          "word": "துணைத்துணை (Thunaiththunai)",
+          "ta": "தகுதியின் அளவே ஆகும்",
+          "en": "Proportionate to the worth",
+          "hi": "योग्यता के अनुरूप"
+        },
+        {
+          "no": 5,
+          "word": "வேள்விப் பயன் (Vaelvip Payan)",
+          "ta": "விருந்தோம்பல் வேள்வியின் பயன்",
+          "en": "The fruit of that sacrifice",
+          "hi": "आतिथ्य-यज्ञ का फल"
+        },
+        {
+          "no": 6,
+          "word": "வேள்வி (Vaelvi)",
+          "ta": "யாகம் / தியாகம்",
+          "en": "Sacrifice",
+          "hi": "यज्ञ"
+        },
+        {
+          "no": 7,
+          "word": "பயன் (Payan)",
+          "ta": "நற்பலன்",
+          "en": "Reward / Benefit",
+          "hi": "पुण्य-फल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இனைத்துணைத் தென்பதொன் றில்லை விருந்தின்",
+          "line2": "துணைத்துணை வேள்விப் பயன்."
+        },
+        "en": {
+          "line1": "The measure of the sacrifice is not in gold or prize;",
+          "line2": "According to the guest's own worth the rich rewards will rise."
+        },
+        "hi": {
+          "line1": "सत्कार-यज्ञ का कभी, आंकें फल न क्षुद्र।",
+          "line2": "अतिथि-महिमा के सदृश, फल होवे विस्तीर्ण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inaiththunaith Thenbadhon Rillai Virundhin",
+            "line2": "Thunaiththunai Vaelvip Payan."
+          },
+          "hi": {
+            "line1": "इनैत्तुणैत् तॆन्बदॊऩ् ऱिल्लै विरुन्दिऩ्",
+            "line2": "तुणैत्तुणै वेळ्विप् पयऩ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "விருந்தோம்பலாகிய அறவேள்வியின் பலன் இவ்வளவுதான் என்று சுருக்கிக் கணக்கிட இயலாது; உபசரிக்கப்படும் விருந்தினரின் நல்லொழுக்கத்திற்கும் பெருமைக்கும் ஏற்ப அதன் புண்ணியப் பயன் அளவில்லாமல் பெருகும்.",
+        "en": "The spiritual merit resulting from the sacred rite of hospitality cannot be quantified by material cost; it expands in direct proportion to the virtues and inner greatness of the guest entertained.",
+        "hi": "अतिथि-सत्कार रूपी महायज्ञ का पुण्य-फल सीमित नहीं होता; आने वाले अतिथि के ज्ञान, तप और शील के अनुसार उस सत्कार का फल असीमित और अक्षय हो जाता है।"
+      }
+    },
+    {
+      "num": 88,
+      "line1": "பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி",
+      "line2": "வேள்வி தலைப்படா தார்.",
+      "enLine1": "Parindhoambip Patratraem Enbar Virundhoambi",
+      "enLine2": "Vaelvi Thalaippadaa Dhaar.",
+      "hiLine1": "परिन्दोम्बिप् पट्रट्रेम् ऎन्बर् विरुन्दोम्बि",
+      "hiLine2": "वेळ्वि तलैप्पडा दार्.",
+      "general": "விருந்தினர்களை உபசரித்து மகிழும் அறவேள்வியில் ஈடுபடாதவர்கள், 'வருந்திப் பாடுபட்டுச் சேர்த்த செல்வத்தைப் பாதுகாத்து இழந்துவிட்டோமே' என்று பின்னர் கலங்கி வருந்துவார்கள்.",
+      "en": "Those who have not practiced the sacrifice of hospitality will mourn in their old age, saying: 'We toiled hard and hoarded wealth, but now we are destitute of all support.'",
+      "hi": "जिन्होंने अतिथियों का सत्कार करने वाले पुण्य-यज्ञ का संपादन नहीं किया, वे अंत में पछताते हुए कहेंगे: 'हमने बड़े यत्न से धन संचित किया, किंतु आज हम सर्वथा साधनहीन और अनाथ हो गए।'",
+      "words": [
+        {
+          "no": 1,
+          "word": "பரிந்து ஓம்பி (Parindhu Oambi)",
+          "ta": "வருந்திப் பாதுகாத்து",
+          "en": "Having guarded with anxious toil",
+          "hi": "यत्नपूर्वक रक्षा कर"
+        },
+        {
+          "no": 2,
+          "word": "பற்று அற்றேம் (Patru Atraem)",
+          "ta": "பற்றுக் கோடின்றி ஆதரவு இழந்தோமே",
+          "en": "We are destitute of support",
+          "hi": "हम असहाय रह गए"
+        },
+        {
+          "no": 3,
+          "word": "என்பர் (Enbar)",
+          "ta": "என்று பின் புலம்புவர்",
+          "en": "They will say",
+          "hi": "कहकर पछताएंगे"
+        },
+        {
+          "no": 4,
+          "word": "விருந்து ஓம்பி (Virundhu Oambi)",
+          "ta": "விருந்தினரைப் பேணும்",
+          "en": "Cherishing guests",
+          "hi": "अतिथियों का आतिथ्य कर"
+        },
+        {
+          "no": 5,
+          "word": "வேள்வி (Vaelvi)",
+          "ta": "அறவேள்வியில்",
+          "en": "In the noble sacrifice",
+          "hi": "यज्ञ में"
+        },
+        {
+          "no": 6,
+          "word": "தலைப்படாதார் (Thalaippadaadhaar)",
+          "ta": "ஈடுபடாத மனிதர்கள்",
+          "en": "Those who have not engaged",
+          "hi": "जो भाग नहीं लेते"
+        },
+        {
+          "no": 7,
+          "word": "பற்று (Patru)",
+          "ta": "ஆதாரம் / துணை",
+          "en": "Support / Anchor",
+          "hi": "सहारा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி",
+          "line2": "வேள்வி தலைப்படா தார்."
+        },
+        "en": {
+          "line1": "'We labored sore and stored our wealth, yet helpless now we fall,'",
+          "line2": "So shall they mourn who never shared their bread at hospitality's call."
+        },
+        "hi": {
+          "line1": "'कष्ट पा धन की रक्षा की, रहे आज असहाय।' ",
+          "line2": "रोते वे, अतिथि-यज्ञ में, जिन्होंने न भाग लिया ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Parindhoambip Patratraem Enbar Virundhoambi",
+            "line2": "Vaelvi Thalaippadaa Dhaar."
+          },
+          "hi": {
+            "line1": "परिन्दोम्बिप् पट्रट्रेम् ऎन्बर् विरुन्दोम्बि",
+            "line2": "वेळ्वि तलैप्पडा दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "விருந்தினர்களை வரவேற்று உபசரிக்கும் அறச்செயலைச் செய்யாத கஞ்சர்கள், 'கஷ்டப்பட்டுப் பொருளைக் காப்பாற்றியும் இறுதியில் கதியில்லாதவர்களாக ஆகிவிட்டோமே' என்று பின்னர் நொந்துபோய் வருந்துவர்.",
+        "en": "Those who fail to spend their means in hospitality will one day realize with bitter regret that all the wealth they painstakingly hoarded has vanished without earning them true merit or friends.",
+        "hi": "जो लोग धन के लोभ में अतिथियों को भोजन नहीं कराते, वे अंत समय में यह सोचकर रोते हैं कि इतना कष्ट उठाकर जो धन जोड़ा था, वह किसी काम न आया और वे निस्सहाय रह गए।"
+      }
+    },
+    {
+      "num": 89,
+      "line1": "உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா",
+      "line2": "மடமை மடவார்கண் உண்டு.",
+      "enLine1": "Udaimaiyul Inmai Virundhoambal Oambaa",
+      "enLine2": "Madamai Madavaarkann Undu.",
+      "hiLine1": "उडैमैयुळ् इन्मै विरुन्दोम्बल् ओम्बा",
+      "hiLine2": "मडमै मडवार्कण् उण्डु.",
+      "general": "செல்வம் இருந்தும் விருந்தோம்பல் செய்யாத அறியாமை அறிவிலிகளிடம் உண்டு; அது செல்வக் காலத்தில் வறுமையாய் வாழும் நிலைக்கு ஒப்பானதாகும்.",
+      "en": "The stupidity of not delighting in hospitality even while possessing wealth is the worst form of poverty, and it dwells only with the foolish.",
+      "hi": "धन-दौलत के होते हुए भी अतिथियों का सत्कार न करने की मूर्खता वास्तव में संपन्नता के बीच की घोर दरिद्रता है, और यह दुर्बुद्धि केवल मूर्खों में ही पाई जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உடைமையுள் (Udaimaiyul)",
+          "ta": "செல்வ உடைமையிலும்",
+          "en": "In the midst of possession",
+          "hi": "संपत्ति के होते हुए भी"
+        },
+        {
+          "no": 2,
+          "word": "இன்மை (Inmai)",
+          "ta": "வறுமையாவது",
+          "en": "Is poverty",
+          "hi": "दरिद्रता"
+        },
+        {
+          "no": 3,
+          "word": "விருந்தோம்பல் (Virundhoambal)",
+          "ta": "விருந்தினரைப் போற்றுதலை",
+          "en": "Hospitality",
+          "hi": "अतिथि-सत्कार"
+        },
+        {
+          "no": 4,
+          "word": "ஓம்பா (Oambaa)",
+          "ta": "விரும்பிச் செய்யாத",
+          "en": "Not cherishing",
+          "hi": "न करना"
+        },
+        {
+          "no": 5,
+          "word": "மடமை (Madamai)",
+          "ta": "பேதைமையாகும்",
+          "en": "Stupidity / folly",
+          "hi": "मूर्खता है"
+        },
+        {
+          "no": 6,
+          "word": "மடவார்கண் (Madavaarkann)",
+          "ta": "அறிவில்லாதவர்களிடத்தில்",
+          "en": "Among the foolish",
+          "hi": "अज्ञानियों में"
+        },
+        {
+          "no": 7,
+          "word": "உண்டு (Undu)",
+          "ta": "காணப்படுவதாகும்",
+          "en": "Dwells",
+          "hi": "होती है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா",
+          "line2": "மடமை மடவார்கண் உண்டு."
+        },
+        "en": {
+          "line1": "'Tis poverty mid plenty found, when wealth no guest can cheer;",
+          "line2": "Such senseless folly only dwells with churls that know no fear."
+        },
+        "hi": {
+          "line1": "धन के रहते अतिथि की, जो नहिं करे सहाय।",
+          "line2": "है निर्धनता मूर्ख की, समझ न उसको आय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Udaimaiyul Inmai Virundhoambal Oambaa",
+            "line2": "Madamai Madavaarkann Undu."
+          },
+          "hi": {
+            "line1": "उडैमैयुळ् इन्मै विरुन्दोम्बल् ओम्बा",
+            "line2": "मडमै मडवार्कण् उण्डु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கையில் செல்வம் குவிந்திருந்தாலும் விருந்தினரை உபசரிக்க மனமில்லாத கஞ்சத்தனம் அறிவற்ற மூர்க்கர்களிடமே காணப்படும்; அத்தகைய மனநிலை செல்வச் செழிப்பிலும் கொடிய வறுமை நிலையேயாகும்.",
+        "en": "Possessing abundant riches yet refusing to extend hospitality is the most pitiable indigence; such absurd stinginess resides only in the minds of the short-sighted.",
+        "hi": "तिजोरी में धन भरा होने पर भी यदि कोई अतिथि-सेवा से विमुख रहता है, तो वह वास्तव में धनी नहीं बल्कि सबसे बड़ा कंगाल और मूर्ख है।"
+      }
+    },
+    {
+      "num": 90,
+      "line1": "மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து",
+      "line2": "நோக்கக் குழையும் விருந்து.",
+      "enLine1": "Moappak Kuzhaiyum Anichcham Mukandhirindhu",
+      "enLine2": "Noakkak Kuzhaiyum Virundhu.",
+      "hiLine1": "मोप्पक् कुऴैयुम् अनिच्चम् मुगन्दिरिन्दु",
+      "hiLine2": "नोक्कक् कुऴैयुम् विरुन्दु.",
+      "general": "அனிச்ச மலரானது மோந்து பார்த்த மாத்திரத்திலேயே வாடிவிடும்; ஆனால் விருந்தினரோ, நாம் முகம் சிறிது மாறுபட்டுப் பார்த்தாலே உள்ளம் வாடிவிடுவர்.",
+      "en": "The delicate Anicham flower withers when merely smelt; but a guest withers away if you do but turn your face cold in looking upon him.",
+      "hi": "अनीचर (अति कोमल) पुष्प तो केवल सूंघने मात्र से कुम्हला जाता है; किंतु अतिथि का मन तो घर के स्वामी का मुख तनिक भी अप्रसन्न देखकर ही मुरझा जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மோப்ப (Moappa)",
+          "ta": "மூக்கினால் மோந்து பார்த்தாலே",
+          "en": "By smelling",
+          "hi": "सूंघने से"
+        },
+        {
+          "no": 2,
+          "word": "குழையும் (Kuzhaiyum)",
+          "ta": "வாடி வதங்கிவிடும்",
+          "en": "Withers / droops",
+          "hi": "मुरझा जाता है"
+        },
+        {
+          "no": 3,
+          "word": "அனிச்சம் (Anichcham)",
+          "ta": "அனிச்ச மலரானது",
+          "en": "The delicate Anicham flower",
+          "hi": "अनीचर पुष्प"
+        },
+        {
+          "no": 4,
+          "word": "முகம் திரிந்து (Mukam Thirindhu)",
+          "ta": "முகம் வேறுபட்டு",
+          "en": "With altered cold countenance",
+          "hi": "मुख पर विकार लाकर"
+        },
+        {
+          "no": 5,
+          "word": "நோக்க (Noakka)",
+          "ta": "பார்ப்பதாலேயே",
+          "en": "Merely looking at them",
+          "hi": "देखते ही"
+        },
+        {
+          "no": 6,
+          "word": "குழையும் (Kuzhaiyum)",
+          "ta": "உள்ளம் வாடி வாடும்",
+          "en": "Will wither",
+          "hi": "कुम्हला जाता है"
+        },
+        {
+          "no": 7,
+          "word": "விருந்து (Virundhu)",
+          "ta": "வந்த விருந்தினர் உள்ளம்",
+          "en": "The guest",
+          "hi": "अतिथि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து",
+          "line2": "நோக்கக் குழையும் விருந்து."
+        },
+        "en": {
+          "line1": "The delicate Anicham flower fades if you its scent inhale;",
+          "line2": "A colder look turns guest away, his spirit drooping pale."
+        },
+        "hi": {
+          "line1": "सूंघने से ही कुम्हलाता, कोमल पुष्प अनीच।",
+          "line2": "रूखे मुख से देखते ही, मुरझाए मन मीच ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Moappak Kuzhaiyum Anichcham Mukandhirindhu",
+            "line2": "Noakkak Kuzhaiyum Virundhu."
+          },
+          "hi": {
+            "line1": "मोप्पक् कुऴैयुम् अनिच्चम् मुगन्दिरिन्दु",
+            "line2": "नोक्कक् कुऴैयुम् विरुन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அனிச்ச மலரானது முகர்ந்து பார்த்த அளவிலேயே வாடிவிடும் மென்மை கொண்டது; ஆனால் விருந்தினரோ, நாம் முகம் மலராமல் சற்றே மாறுபட்ட பார்வையோடு பார்த்தாலே உள்ளம் குன்றி வாடிவிடுவர்.",
+        "en": "The tender Anicham flower wilts the instant it is brought to the nostrils; far more delicate is a sensitive guest, whose spirit shrivels at the slightest hint of a cold glance.",
+        "hi": "अनीचर पुष्प तो सूंघने पर मुरझाता है, किंतु अतिथि तो गृहस्वामी के चेहरे पर ज़रा सा भी रूखापन या अनिच्छा देखकर तत्काल आहत और उदास हो जाता है; अतः सदा प्रसन्न मुख से आतिथ्य करना चाहिए।"
+      }
+    }
+  ]
+}

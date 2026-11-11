@@ -1,0 +1,930 @@
+{
+  "chapterNum": 5,
+  "nameTa": "இல்வாழ்க்கை",
+  "nameEn": "Domestic Life",
+  "nameHi": "गार्हस्थ्य",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 41,
+      "line1": "இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்",
+      "line2": "நல்லாற்றின் நின்ற துணை.",
+      "enLine1": "Ilvaazhvaan Enbaan Iyalpudaiya Moovarkkum",
+      "enLine2": "Nallaatrin Nindra Thunai.",
+      "hiLine1": "इल्वाऴ्वाऩ् ऎऩ्बाऩ् इयल्बुडैय मूवर्क्कुम्",
+      "hiLine2": "नल्ला़ट्रिन् निन्ड्रा़ तुणै.",
+      "general": "இல்வாழ்க்கை வாழ்பவன் என்பவன், தன் இயல்பான நல்வழியில் வாழும் ஏனைய மூன்று ஆசிரமத்தார்க்கும் (பிரம்மச்சரியம், வானப்பிரஸ்தம், சந்நியாசம்) நல்வழியில் நிலைத்து நிற்கும் சிறந்த துணையாவான்.",
+      "en": "The householder is he who stands as a steadfast support in the virtuous path of the other three orders of life.",
+      "hi": "गृहस्थ जीवन जीने वाला व्यक्ति शेष तीन आश्रमों (ब्रह्मचर्य, वानप्रस्थ और संन्यास) के धर्मशीलों का श्रेष्ठ आश्रयदाता और सच्चा सहायक होता है[cite: 1, 2]।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இல்வாழ்வான் (Ilvaazhvaan)",
+          "ta": "இல்லறத்தில் வாழ்பவன்",
+          "en": "The householder",
+          "hi": "गृहस्थ"
+        },
+        {
+          "no": 2,
+          "word": "என்பான் (Enbaan)",
+          "ta": "என்று சொல்லப்படுபவன்",
+          "en": "Is he who is said to be",
+          "hi": "कहलाने वाला"
+        },
+        {
+          "no": 3,
+          "word": "இயல்புடைய (Iyalpudaiya)",
+          "ta": "தமக்குரிய இயல்பான அறநெறியில் நிற்கும்",
+          "en": "Abiding by their true nature",
+          "hi": "निज धर्मशील"
+        },
+        {
+          "no": 4,
+          "word": "மூவர்க்கும் (Moovarkkum)",
+          "ta": "ஏனைய மூன்று நிலையினர்க்கும்",
+          "en": "To the three orders",
+          "hi": "तीनों आश्रमियों का"
+        },
+        {
+          "no": 5,
+          "word": "நல் ஆற்றின் (Nal Aatrin)",
+          "ta": "நல்ல வழியிலே",
+          "en": "In the virtuous path",
+          "hi": "सदाचार के मार्ग में"
+        },
+        {
+          "no": 6,
+          "word": "நின்ற (Nindra)",
+          "ta": "நிலைத்து நின்று உதவும்",
+          "en": "Steadfast",
+          "hi": "स्थित"
+        },
+        {
+          "no": 7,
+          "word": "துணை (Thunai)",
+          "ta": "உற்ற துணையாவான்",
+          "en": "Support / helper",
+          "hi": "आश्रयदाता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்",
+          "line2": "நல்லாற்றின் நின்ற துணை."
+        },
+        "en": {
+          "line1": "The householder in duty stands as steadfast friend and stay,",
+          "line2": "To three other orders walking firm in virtue's holy way."
+        },
+        "hi": {
+          "line1": "धर्मशील जो आश्रमी, गृही छोड़ कर तीन[cite: 1]।",
+          "line2": "स्थिर आश्रयदाता रहा, उनको गृही अदीन ॥[cite: 1]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ilvaazhvaan Enbaan Iyalpudaiya Moovarkkum",
+            "line2": "Nallaatrin Nindra Thunai."
+          },
+          "hi": {
+            "line1": "इल्वाऴ्वाऩ् ऎऩ्बाऩ् इयल्बुडैय मूवर्क्कुम्",
+            "line2": "नल्ला़ट्रिन् निन्ड्रा़ तुणै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தமக்குரிய ஒழுக்க வழியில் நிற்கும் மாணவர், வனவாசி, துறவி ஆகிய மூவருக்கும் தன் நல்லறத்தால் துணைநின்று உதவுபவனே உண்மையான இல்வாழ்வான் ஆவான்.",
+        "en": "He who lives a family life acts as the chief provider and virtuous guide for the students, forest-dwellers, and ascetics.",
+        "hi": "गृहस्थी अपने धर्म का पालन करते हुए ब्रह्मचारी, वानप्रस्थी और संन्यासी—इन तीनों आश्रमवासियों को आवश्यक भोजन व सहारा देकर उनका पोषण करता है[cite: 1, 2]।"
+      }
+    },
+    {
+      "num": 42,
+      "line1": "துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்",
+      "line2": "இல்வாழ்வான் என்பான் துணை.",
+      "enLine1": "Thurandhaarkkum Thuvvaa Dhavarkkum Irandhaarkkum",
+      "enLine2": "Ilvaazhvaan Enbaan Thunai.",
+      "hiLine1": "तुऱन्दार्क्कुम् तुव्वा दवर्क्कुम् इऱन्दार्क्कुम्",
+      "hiLine2": "इल्वाऴ्वाऩ् ऎऩ्बाऩ् तुणै.",
+      "general": "பற்றுகளைத் துறந்தவர்க்கும், உண்ண உணவில்லாத ஏழைகளுக்கும், ஆதரவற்று இறந்தவர்களுக்கும் இல்லறத்தானே சிறந்த துணையாவான்.",
+      "en": "To ascetics who have renounced, to the poor who lack food, and to the destitute who pass away, the householder is the true protector.",
+      "hi": "संन्यासियों, दीन-दुखियों, अनाथों और आश्रयहीन मृतकों का अंतिम संस्कार करने तक—गृहस्थ ही सबका सच्चा रक्षक होता है[cite: 2]।"
+      "words": [
+        {
+          "no": 1,
+          "word": "துறந்தார்க்கும் (Thurandhaarkkum)",
+          "ta": "பற்றுக்களைத் துறந்தவர்க்கும்",
+          "en": "To the ascetics who renounced",
+          "hi": "संन्यासियों का"
+        },
+        {
+          "no": 2,
+          "word": "துவ்வாதவர்க்கும் (Thuvvaadhavarkkum)",
+          "ta": "உணவில்லாத வறியவர்க்கும்",
+          "en": "To the destitute / helpless",
+          "hi": "असमर्थ निर्धनों का"
+        },
+        {
+          "no": 3,
+          "word": "இறந்தார்க்கும் (Irandhaarkkum)",
+          "ta": "ஆதரவற்று இறந்தவர்க்கும்",
+          "en": "To the friendless dead",
+          "hi": "आश्रयहीन मृतकों का"
+        },
+        {
+          "no": 4,
+          "word": "இல்வாழ்வான் (Ilvaazhvaan)",
+          "ta": "இல்லறத்தான்",
+          "en": "The householder",
+          "hi": "गृहस्थ"
+        },
+        {
+          "no": 5,
+          "word": "என்பான் (Enbaan)",
+          "ta": "என்று கூறப்படுபவன்",
+          "en": "He who is called",
+          "hi": "कहलाने वाला"
+        },
+        {
+          "no": 6,
+          "word": "துணை (Thunai)",
+          "ta": "உற்ற துணையாவான்",
+          "en": "Is the sole protector / helper",
+          "hi": "रक्षक व सहायक है"
+        },
+        {
+          "no": 7,
+          "word": "துவ்வாதவர் (Thuvvaadhavar)",
+          "ta": "வறுமைப்பட்டவர்",
+          "en": "Destitute ones",
+          "hi": "दीन-हीन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்",
+          "line2": "இல்வாழ்வான் என்பான் துணை."
+        },
+        "en": {
+          "line1": "To those who have renounced, to paupers sore oppressed,",
+          "line2": "And friendless dead, the householder brings comfort, peace, and rest."
+        },
+        "hi": {
+          "line1": "उनका रक्षक है गृही, जो होते हैं दीन[cite: 2]।",
+          "line2": "जो अनाथ हैं, और जो, मृतजन आश्रयहीन ॥[cite: 2]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thurandhaarkkum Thuvvaa Dhavarkkum Irandhaarkkum",
+            "line2": "Ilvaazhvaan Enbaan Thunai."
+          },
+          "hi": {
+            "line1": "तुऱन्दार्क्कुम् तुव्वा दवर्क्कुम् इऱन्दार्क्कुम्",
+            "line2": "इल्वाऴ्वाऩ् ऎऩ्बाऩ् तुणै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "துறவிகள், பொருள் இல்லாத வறியவர்கள், அனாதையாக இறந்துபோனவர்கள் ஆகிய அனைவருக்கும் இல்லறம் நடத்தும் நல்லவனே உற்ற காவலனாவான்.",
+        "en": "The householder serves as an indispensable refuge to the holy renunciates, the needy destitute, and the helpless dead.",
+        "hi": "त्यागी संतों को भिक्षा देना, निर्धनों की क्षुधा शांत करना और लावारिस मृतकों का विधिपूर्वक संस्कार करना—यह सब गृहस्थ का ही पावन कर्तव्य है[cite: 2]।"
+      }
+    },
+    {
+      "num": 43,
+      "line1": "தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்கு",
+      "line2": "ஐம்புலத்தாறு ஓம்பல் தலை.",
+      "enLine1": "Thenpulaththaar Dheyvam Virundhokkal Thaanendraanku",
+      "enLine2": "Aimpulaththaaru Oambal Thalai.",
+      "hiLine1": "तॆन्पुलत्तार् दैय्वम् विरुन्दॊक्कल् ताऩॆन्ड्रा़ङ्कु",
+      "hiLine2": "ऐम्पुलत्ता़ऱु ओम्बल् तलै.",
+      "general": "தென்புலத்தார் (முன்னோர்கள்), தெய்வம், விருந்தினர், சுற்றத்தார், தான் என்ற ஐவகையினரிடமும் ஆற்ற வேண்டிய கடமைகளைச் தவறாமல் ஆற்றுவதே சிறந்த இல்லற நெறியாகும்.",
+      "en": "The foremost duty of the householder is to fulfill his fivefold debt towards ancestors, gods, guests, kinsmen, and himself.",
+      "hi": "पितर, देव, अतिथि, बंधु-बांधव और स्वयं अपने परिवार—इन पाँचों के प्रति अपने कर्तव्यों का भली-भाँति पालन करना ही गृहस्थ का सच्चा धर्म है[cite: 2]।"
+      "words": [
+        {
+          "no": 1,
+          "word": "தென்புலத்தார் (Thenpulaththaar)",
+          "ta": "மறைந்த முன்னோர் / பிதுரர்",
+          "en": "Departed ancestors",
+          "hi": "पितर जन"
+        },
+        {
+          "no": 2,
+          "word": "தெய்வம் (Dheyvam)",
+          "ta": "கடவுள்",
+          "en": "Gods",
+          "hi": "देवता"
+        },
+        {
+          "no": 3,
+          "word": "விருந்து (Virundhu)",
+          "ta": "புதிய விருந்தினர்",
+          "en": "Guests",
+          "hi": "अतिथि"
+        },
+        {
+          "no": 4,
+          "word": "ஒக்கல் (Okkal)",
+          "ta": "சுற்றத்தார்",
+          "en": "Kinsfolk",
+          "hi": "सगे-संबंधी"
+        },
+        {
+          "no": 5,
+          "word": "தான் (Thaan)",
+          "ta": "தான்",
+          "en": "One's self",
+          "hi": "स्वयं"
+        },
+        {
+          "no": 6,
+          "word": "ஐம்புலத்து ஆறு ஓம்பல் (Aimpulaththu Aaru Oambal)",
+          "ta": "ஐந்திடத்தும் கடமை ஆற்றுதல்",
+          "en": "Serving these five pathways",
+          "hi": "पाँचों का पालन करना"
+        },
+        {
+          "no": 7,
+          "word": "தலை (Thalai)",
+          "ta": "தலையாய அறமாகும்",
+          "en": "Is the supreme duty",
+          "hi": "सर्वश्रेष्ठ धर्म है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்கு",
+          "line2": "ஐம்புலத்தாறு ஓம்பல் தலை."
+        },
+        "en": {
+          "line1": "Ancestors, gods, guests, kinsmen, and oneself—these five to care,",
+          "line2": "Is the householder's chief duty and his crown beyond compare."
+        },
+        "hi": {
+          "line1": "पितर देव फिर अतिथि जन, बन्धु स्वयं मिल पाँच[cite: 2]।",
+          "line2": "इनके प्रति कर्तव्य का, भरण धर्म है साँच ॥[cite: 2]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thenpulaththaar Dheyvam Virundhokkal Thaanendraanku",
+            "line2": "Aimpulaththaaru Oambal Thalai."
+          },
+          "hi": {
+            "line1": "तॆन्पुलत्तार् दैय्वम् विरुन्दॊक्कल् ताऩॆन्ड्रा़ङ्कु",
+            "line2": "ऐम्पुलत्ता़ऱु ओम्बल् तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மறைந்த முன்னோர்கள், இறைவன், விருந்தினர், உறவினர்கள், தான் ஆகிய ஐந்து இடங்களிலும் தனது கடமையை வழுவாமல் காப்பாற்றுவதே இல்லறத்தானின் தலையாய கடமையாகும்.",
+        "en": "Duly honoring ancestors, worshiping God, entertaining guests, cherishing relatives, and looking after oneself constitute the principal duties of household life.",
+        "hi": "पितरों का तर्पण, ईश्वर की आराधना, अतिथियों का सत्कार, संबंधियों की सहायता और स्वयं का निर्वाह—इन पाँचों दायित्वों का संपादन ही गृहस्थ धर्म की पराकाष्ठा है[cite: 2]।"
+      }
+    },
+    {
+      "num": 44,
+      "line1": "பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை",
+      "line2": "வழியெஞ்சல் எஞ்ஞான்றும் இல்.",
+      "enLine1": "Pazhiyanjip Paaththoon Udaiththaayin Vaazhkkai",
+      "enLine2": "Vazhiyenjal Enjnaandrum Il.",
+      "hiLine1": "पऴियञ्जिप् पात्तूण् उडैत्तायिन् वाऴ्क्कै",
+      "hiLine2": "वऴियॆञ्जल् ऎञ्ञान्ड्रुम् इल्.",
+      "general": "பழிக்கு அஞ்சி நேர்மையான வழியில் பொருளை ஈட்டி, அதனைப் பிறருடன் பகிர்ந்து உண்டு வாழும் குடும்பத்தின் பரம்பரை ஒருபோதும் அழிந்து போகாது.",
+      "en": "If a man earns wealth fearing sin, and shares his food with others, his family lineage will never perish.",
+      "hi": "पाप-कर्म से डरकर न्यायपूर्वक धन कमाने वाले और मिल-बाँटकर भोजन करने वाले गृहस्थ का वंश कभी नष्ट नहीं होता[cite: 2]।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பழி அஞ்சி (Pazhi Anji)",
+          "ta": "பழிபாவங்களுக்குப் பயந்து",
+          "en": "Fearing guilt / sin",
+          "hi": "पाप से डरकर"
+        },
+        {
+          "no": 2,
+          "word": "பாத்து ஊண் (Paaththu Oon)",
+          "ta": "பகிர்ந்துண்ணும் உணவு",
+          "en": "Sharing food with others",
+          "hi": "बाँटकर खाना"
+        },
+        {
+          "no": 3,
+          "word": "உடைத்து ஆயின் (Udaiththu Aayin)",
+          "ta": "இயல்பாக இருக்குமானால்",
+          "en": "If one's life possesses",
+          "hi": "यदि ऐसा स्वभाव हो"
+        },
+        {
+          "no": 4,
+          "word": "வாழ்க்கை (Vaazhkkai)",
+          "ta": "அவனுடைய குடும்ப வாழ்க்கை",
+          "en": "Family life",
+          "hi": "पारिवारिक जीवन"
+        },
+        {
+          "no": 5,
+          "word": "வழி எஞ்சல் (Vazhi Enjal)",
+          "ta": "சந்ததி குறைந்து அழிதல்",
+          "en": "Failing of one's lineage",
+          "hi": "वंश का क्षय"
+        },
+        {
+          "no": 6,
+          "word": "எஞ்ஞான்றும் (Enjnaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "At any time",
+          "hi": "सदा / कभी भी"
+        },
+        {
+          "no": 7,
+          "word": "இல் (Il)",
+          "ta": "இல்லாமல் போகும்",
+          "en": "There will never be",
+          "hi": "नहीं होता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை",
+          "line2": "வழியெஞ்சல் எஞ்ஞான்றும் இல்."
+        },
+        "en": {
+          "line1": "If sin he dreads and shares his bread with those in sore distress,",
+          "line2": "His household race shall never fail or dwindle into less."
+        },
+        "hi": {
+          "line1": "पापभीरु हो धन कमा, बाँट यथोचित अंश[cite: 2]।",
+          "line2": "जो भोगे उस पुरुष का, नष्ट न होगा वंश ॥[cite: 2]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pazhiyanjip Paaththoon Udaiththaayin Vaazhkkai",
+            "line2": "Vazhiyenjal Enjnaandrum Il."
+          },
+          "hi": {
+            "line1": "पऴियञ्जिप् पात्तूण् उडैत्तायिन् वाऴ्क्कै",
+            "line2": "वऴियॆञ्जल् ऎञ्ञान्ड्रुम् इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அநியாய வழிகளில் வரும் பழிகளுக்கு அஞ்சி நேர்மையாகப் பொருளீட்டி, உள்ளதை எல்லோருக்கும் பகிர்ந்து கொடுத்து உண்டு வாழ்பவனின் பரம்பரை எக்காலத்திலும் கெட்டு அழியாது.",
+        "en": "When wealth is gathered with a conscience clear of guilt and shared liberally with the needy, the continuity of that household line is assured forever.",
+        "hi": "जो मनुष्य अनीति और पाप से बचकर धन उपार्जित करता है और याचकों को भोजन कराकर स्वयं खाता है, उसकी संतान परंपरा अक्षुण्ण बनी रहती है[cite: 2]।"
+      }
+    },
+    {
+      "num": 45,
+      "line1": "அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை",
+      "line2": "பண்பும் பயனும் அது.",
+      "enLine1": "Anbum Aranum Udaiththaayin Ilvaazhkkai",
+      "enLine2": "Panbum Payanum Adhu.",
+      "hiLine1": "अन्बुम् अऱऩुम् उडैत्तायिन् इल्वाऴ्क्कै",
+      "hiLine2": "पण्बुम् पयऩुम् अदु.",
+      "general": "குடும்ப வாழ்க்கையானது குடும்பத்தாரிடம் அன்பையும், பிறரிடம் அறவழியையும் கொண்டிருக்குமானால், அதுவே அதன் உயர்ந்த பண்பும் நற்பயனுமாகும்.",
+      "en": "If domestic life possesses love and righteousness, that alone constitutes its true virtue and fruitful blessedness.",
+      "hi": "यदि गृहस्थ जीवन में परस्पर सच्चा प्रेम हो और धर्म का पूर्ण अनुष्ठान हो, तो समझो वही उसका सर्वोत्कृष्ट स्वरूप और सर्वोत्तम फल है[cite: 2]।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அன்பும் (Anbum)",
+          "ta": "உறவினரிடத்து அன்பும்",
+          "en": "Love / affection",
+          "hi": "प्रेम"
+        },
+        {
+          "no": 2,
+          "word": "அறனும் (Aranum)",
+          "ta": "பிறர்க்கு உதவும் அறநெறியும்",
+          "en": "And righteousness",
+          "hi": "धर्म"
+        },
+        {
+          "no": 3,
+          "word": "உடைத்து ஆயின் (Udaiththu Aayin)",
+          "ta": "கொண்டிருக்குமானால்",
+          "en": "If it possesses",
+          "hi": "यदि युक्त हो"
+        },
+        {
+          "no": 4,
+          "word": "இல்வாழ்க்கை (Ilvaazhkkai)",
+          "ta": "இல்லற வாழ்க்கையானது",
+          "en": "Household life",
+          "hi": "गृहस्थी"
+        },
+        {
+          "no": 5,
+          "word": "பண்பும் (Panbum)",
+          "ta": "அதன் உயர்ந்த பண்பும்",
+          "en": "Its intrinsic virtue",
+          "hi": "उसकी विशेषता"
+        },
+        {
+          "no": 6,
+          "word": "பயனும் (Payanum)",
+          "ta": "அதன் நற்பயனும்",
+          "en": "And its worthy fruit",
+          "hi": "और उसका सुफल"
+        },
+        {
+          "no": 7,
+          "word": "அது (Adhu)",
+          "ta": "அவ்விரண்டே ஆகும்",
+          "en": "Is that indeed",
+          "hi": "वही है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை",
+          "line2": "பண்பும் பயனும் அது."
+        },
+        "en": {
+          "line1": "If love and virtue rule the home where wedded souls abide,",
+          "line2": "'Tis its own grace and glorious gain, and true life's joyous guide."
+        },
+        "hi": {
+          "line1": "प्रेम-युक्त गार्हस्थ्य हो, तथा धर्म से पूर्ण[cite: 2]।",
+          "line2": "तो समझो वह धन्य है, तथा सुफल से पूर्ण ॥[cite: 2]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Anbum Aranum Udaiththaayin Ilvaazhkkai",
+            "line2": "Panbum Payanum Adhu."
+          },
+          "hi": {
+            "line1": "अन्बुम् अऱऩुम् उडैत्तायिन् इल्वाऴ्क्कै",
+            "line2": "पण्बुम् पयऩुम् अदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன் மனைவியோடும் மக்களோடும் அன்போடு வாழ்ந்து, சமூகத்திற்குரிய அறநெறிகளைப் பின்பற்றி வாழும் இல்லறமே பெருமைமிக்க பண்பையும் அதன் உன்னதப் பயனையும் தரும்.",
+        "en": "A home graced with mutual love between partners and governed by moral rectitude achieves the ultimate purpose and beauty of human existence.",
+        "hi": "जिस घर में पारिवारिक सदस्यों के बीच स्नेह हो तथा जो घर सत्कर्मों और धर्म के आधार पर चलता हो, वही गृहस्थ जीवन धन्य और सफल माना जाता है[cite: 2]।"
+      }
+    },
+    {
+      "num": 46,
+      "line1": "அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றிற்",
+      "line2": "போஒய்ப் பெறுவ தெவன்.",
+      "enLine1": "Araththaatrin Ilvaazhkkai Aatrin Puraththaatrir",
+      "enLine2": "Poooyp Peruva Dhevan.",
+      "hiLine1": "अऱत्ता़ट्रिन् इल्वाऴ्क्कै आट्रिन् पुऱत्ता़ट्रिर्",
+      "hiLine2": "पोऒय्प् पॆऱुव दॆवऩ्.",
+      "general": "ஒருவன் இல்லற வாழ்க்கையை அறவழியில் தவறாமல் வாழ்ந்து வருவானானால், அவன் வேறு துறவற வழியில் சென்று பெறக்கூடிய பயன் என்ன இருக்க முடியும்?",
+      "en": "If a man lives his domestic life according to the code of virtue, what more can he gain by entering into other orders of life?",
+      "hi": "यदि गृहस्थ अपने ही घर में धर्म के मार्ग पर निष्ठापूर्वक चले, तो उसे घर-बार छोड़कर अन्य आश्रमों या संन्यास में भटकने की क्या आवश्यकता है[cite: 2]?",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறத்தாற்றின் (Araththaatrin)",
+          "ta": "அறநெறி வழியில் நின்று",
+          "en": "In the path of virtue",
+          "hi": "धर्म के मार्ग पर"
+        },
+        {
+          "no": 2,
+          "word": "இல்வாழ்க்கை (Ilvaazhkkai)",
+          "ta": "இல்லறத்தை",
+          "en": "Domestic life",
+          "hi": "गृहस्थी को"
+        },
+        {
+          "no": 3,
+          "word": "ஆற்றின் (Aatrin)",
+          "ta": "நடத்தி வருவானேயானால்",
+          "en": "If one conducts",
+          "hi": "यदि चलाए"
+        },
+        {
+          "no": 4,
+          "word": "புறத்தாற்றின் (Puraththaatrin)",
+          "ta": "வேறு துறவற நெறியில்",
+          "en": "In other exterior paths",
+          "hi": "अन्य बाहरी आश्रमों में"
+        },
+        {
+          "no": 5,
+          "word": "போஒய் (Poooy)",
+          "ta": "சென்று",
+          "en": "Having gone",
+          "hi": "जाकर"
+        },
+        {
+          "no": 6,
+          "word": "பெறுவது (Peruvadhu)",
+          "ta": "அடையக்கூடிய நன்மை",
+          "en": "That which is to be gained",
+          "hi": "प्राप्त करने योग्य"
+        },
+        {
+          "no": 7,
+          "word": "எவன் (Evan)",
+          "ta": "என்ன இருக்கிறது?",
+          "en": "What is it?",
+          "hi": "क्या है?"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றிற்",
+          "line2": "போஒய்ப் பெறுவ தெவன்."
+        },
+        "en": {
+          "line1": "If in the path of righteousness a man his household guides,",
+          "line2": "What more could other callings yield beyond where he resides?"
+        },
+        "hi": {
+          "line1": "धर्म मार्ग पर यदि गृही, चलायगा निज धर्म[cite: 2]।",
+          "line2": "ग्रहण करे वह किसलिये, फिर अपराश्रम धर्म ॥[cite: 2]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Araththaatrin Ilvaazhkkai Aatrin Puraththaatrir",
+            "line2": "Poooyp Peruva Dhevan."
+          },
+          "hi": {
+            "line1": "अऱत्ता़ट्रिन् इल्वाऴ्क्कै आट्रिन् पुऱत्ता़ट्रिर्",
+            "line2": "पोऒय्प् पॆऱुव दॆवऩ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இல்லறத்தையே அறவழியில் ஒழுங்காக நடத்தி வாழ்பவன், காடுகளுக்குச் சென்று துறவறம் பூண்டு அடையக்கூடிய புதிய நன்மை வேறொன்றும் இல்லை.",
+        "en": "He who lives virtuously within the sanctuary of the home achieves the highest fruit of righteousness without needing to retire from the world.",
+        "hi": "जो व्यक्ति घर में रहकर ही धर्म और नीति का आचरण करता है, उसे मोक्ष प्राप्ति हेतु गृहत्याग करने अथवा अन्य किसी आश्रम का सहारा लेने की आवश्यकता नहीं रहती[cite: 2]।"
+      }
+    },
+    {
+      "num": 47,
+      "line1": "இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்",
+      "line2": "முயல்வாருள் எல்லாம் தலை.",
+      "enLine1": "Iyalpinaan Ilvaazhkkai Vaazhbavan Enbaan",
+      "enLine2": "Muyalvaarul Ellaam Thalai.",
+      "hiLine1": "इयल्बिनाऩ् इल्वाऴ्क्कै वाऴ्बवऩ् ऎऩ्बाऩ्",
+      "hiLine2": "मुयल्वारुळ् ऎल्लाम् तलै.",
+      "general": "இல்லறத்துக்குரிய இயல்புகளோடு நல்ல முறையில் வாழ்கின்ற மனிதன், நற்கதி பெற முயலும் தவயோகிகள் எல்லோரிலும் வைத்து முதன்மையானவன் ஆவான்.",
+      "en": "He who lives the domestic life according to its true nature is foremost among all those who strive for spiritual liberation.",
+      "hi": "गृहस्थी के धर्म को यथार्थ रीति से निभाने वाला मनुष्य, मोक्ष के लिए कठोर तप करने वाले सभी साधकों में अग्रगण्य माना जाता है[cite: 2]।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இயல்பினான் (Iyalpinaan)",
+          "ta": "இல்லற நெறியின் இயல்போடு",
+          "en": "According to its true nature",
+          "hi": "गृहस्थ-धर्मानुसार"
+        },
+        {
+          "no": 2,
+          "word": "இல்வாழ்க்கை (Ilvaazhkkai)",
+          "ta": "இல்லறத்தில்",
+          "en": "Domestic life",
+          "hi": "गृहस्थ जीवन में"
+        },
+        {
+          "no": 3,
+          "word": "வாழ்பவன் (Vaazhbavan)",
+          "ta": "வாழ்கின்ற மனிதன்",
+          "en": "He who lives",
+          "hi": "जीने वाला"
+        },
+        {
+          "no": 4,
+          "word": "என்பான் (Enbaan)",
+          "ta": "என்று கூறப்படுபவன்",
+          "en": "Is he who",
+          "hi": "कहलाने वाला"
+        },
+        {
+          "no": 5,
+          "word": "முயல்வாருள் (Muyalvaarul)",
+          "ta": "வீடுபேற்றுக்கு முயலும் தவசியருள்",
+          "en": "Among those who strive",
+          "hi": "तपस्वियों व साधकों में"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் (Ellaam)",
+          "ta": "எல்லாரையும் விட",
+          "en": "Of all",
+          "hi": "सब में"
+        },
+        {
+          "no": 7,
+          "word": "தலை (Thalai)",
+          "ta": "முதன்மையானவன் ஆவான்",
+          "en": "Is the foremost / chief",
+          "hi": "अग्रणी है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்",
+          "line2": "முயல்வாருள் எல்லாம் தலை."
+        },
+        "en": {
+          "line1": "Among all those who strive with zeal the higher states to win,",
+          "line2": "He is the chief who lives his home in righteousness within."
+        },
+        "hi": {
+          "line1": "भरण गृहस्थी धर्म का, जो भी करे गृहस्थ[cite: 2]।",
+          "line2": "साधकगण के मध्य वह, होता है अग्रस्थ ॥[cite: 2]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iyalpinaan Ilvaazhkkai Vaazhbavan Enbaan",
+            "line2": "Muyalvaarul Ellaam Thalai."
+          },
+          "hi": {
+            "line1": "इयल्बिनाऩ् इल्वाऴ्क्कै वाऴ्बवऩ् ऎऩ्बाऩ्",
+            "line2": "मुयल्वारुळ् ऎल्लाम् तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இல்லறத்திற்குரிய கடமைகளைச் செவ்வனே செய்து வாழ்கின்ற ஒருவன், வீடுபேறு அடைவதற்காகத் தவம் செய்யும் பல முனிவர்களைக் காட்டிலும் உயர்ந்தவனாகக் கருதப்படுகிறான்.",
+        "en": "He who lives a noble family life in accordance with virtue is superior even to those who undergo severe penance in pursuit of liberation.",
+        "hi": "जो अपने गृहस्थ धर्म का निर्वाह ईमानदारी और दया के साथ करता है, वह मोक्ष पाने के लिए तपस्या करने वाले समस्त साधु-संतों में सबसे श्रेष्ठ है[cite: 2]।"
+      }
+    },
+    {
+      "num": 48,
+      "line1": "அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றிற்",
+      "line2": "நோற்பாரின் நோன்மை உடைத்து.",
+      "enLine1": "Araththaatrin Ilvaazhkkai Aatrin Puraththaatrir",
+      "enLine2": "Norpaarin Noanmai Udaiththu.",
+      "hiLine1": "अऱत्ता़ट्रिन् इल्वाऴ्क्कै आट्रिन् पुऱत्ता़ट्रिर्",
+      "hiLine2": "नोऱ्पारिन् नोन्मै उडैत्तु.",
+      "general": "தானும் அறநெறியில் நின்று, பிறரையும் தவறாமல் அறநெறியில் வாழ வைக்கும் இல்லறமானது, புலன்களை அடக்கித் தவம் செய்வோரின் தவத்தைவிட வலிமைமிக்கதாகும்.",
+      "en": "A householder who walks in virtue and guides others in the good path possesses greater endurance than ascetics undergoing severe penance.",
+      "hi": "स्वयं धर्म पर अटल रहकर सबको सन्मार्ग दिखाने वाला क्षमाशील गृहस्थ, कठोर तपस्या करने वाले तपस्वियों से भी अधिक महिमामय होता है[cite: 2]।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறத்தாற்றின் (Araththaatrin)",
+          "ta": "அறவழியில் நின்று",
+          "en": "In the path of virtue",
+          "hi": "निज धर्म पर रहकर"
+        },
+        {
+          "no": 2,
+          "word": "இல்வாழ்க்கை (Ilvaazhkkai)",
+          "ta": "இல்லறத்தை நடத்தி",
+          "en": "Domestic life",
+          "hi": "गृहस्थी को"
+        },
+        {
+          "no": 3,
+          "word": "ஆற்றின் (Aatrin)",
+          "ta": "பிறரையும் வாழ வைத்தால்",
+          "en": "Guiding others rightfully",
+          "hi": "सुमार्ग पर चलाए"
+        },
+        {
+          "no": 4,
+          "word": "புறத்தாற்றின் (Puraththaatrin)",
+          "ta": "வெளி வழியில் நின்று",
+          "en": "In outward ways",
+          "hi": "बाह्य मार्गों से"
+        },
+        {
+          "no": 5,
+          "word": "நோற்பாரின் (Norpaarin)",
+          "ta": "தவம் செய்வோரின் தவத்தை விட",
+          "en": "Than those who practice austerities",
+          "hi": "तपस्या करने वालों से"
+        },
+        {
+          "no": 6,
+          "word": "நோன்மை (Noanmai)",
+          "ta": "மிக்க தவசக்தி",
+          "en": "Endurance / spiritual power",
+          "hi": "अधिक तप-शक्ति"
+        },
+        {
+          "no": 7,
+          "word": "உடைத்து (Udaiththu)",
+          "ta": "அவ்வில்லறமே உடையதாகும்",
+          "en": "Possesses indeed",
+          "hi": "रखता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றிற்",
+          "line2": "நோற்பாரின் நோன்மை உடைத்து."
+        },
+        "en": {
+          "line1": "He who from virtue swerves not, but prompts others in the right,",
+          "line2": "Excels in patient power the hermit in his lonely height."
+        },
+        "hi": {
+          "line1": "अच्युत रह निज धर्म पर, सबको चला सुराह[cite: 2]।",
+          "line2": "क्षमाशील गार्हस्थ्य है, तापस्य से अचाह ॥[cite: 2]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Araththaatrin Ilvaazhkkai Aatrin Puraththaatrir",
+            "line2": "Norpaarin Noanmai Udaiththu."
+          },
+          "hi": {
+            "line1": "अऱत्ता़ट्रिन् इल्वाऴ्क्कै आट्रिन् पुऱत्ता़ट्रिर्",
+            "line2": "नोऱ्पारिन् नोन्मै उडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தானும் அறநெறியிலிருந்து விலகாமல் வாழ்ந்து, தன்னைச் சார்ந்தவர்களையும் நல்ல வழியில் நடத்தும் இல்லறத்தானின் ஆற்றலானது, காடுகளில் தவம் செய்வோரின் தவவலிமையை விடப் பெரியதாகும்.",
+        "en": "He who abides unswervingly in moral duty while keeping others steadfast on the good path possesses endurance far greater than that of fasting ascetics.",
+        "hi": "जो स्वयं कभी धर्म से विचलित नहीं होता और दूसरों को भी धर्म के पथ पर चलाता है, उसका गृहस्थ जीवन संन्यासियों के कठिन तप से भी अधिक फलदायी होता है[cite: 2]।"
+      }
+    },
+    {
+      "num": 49,
+      "line1": "அறனெனப் பட்டதே இல்வாழ்க்கை அஃதும்",
+      "line2": "பிறன்பழிப்ப தில்லாயின் நன்று.",
+      "enLine1": "Aranenap Pattadhae Ilvaazhkkai Ahdhum",
+      "enLine2": "Piranpazhippa Dhillaayin Nandru.",
+      "hiLine1": "अऱऩॆऩप् पट्टदे इल्वाऴ्क्कै अஃदुम्",
+      "hiLine2": "पिऱऩ्पऴिप्प दिल्लायिन् नन्ड्रु.",
+      "general": "அறம் என்று சிறப்பித்துச் சொல்லப்பட்டது இல்லற வாழ்க்கையே ஆகும்; அந்த இல்லறமும் பிறரால் பழித்துப் பேசப்படாத வகையில் நடக்குமானால் மிகவும் நல்லது.",
+      "en": "Domestic life is indeed that which is termed true virtue; and that, if it is lived free from the reproach of others, is excellent.",
+      "hi": "वास्तव में गृहस्थ जीवन ही धर्म कहलाता है; और यदि वह लोक-निंदा और दोषों से मुक्त रहे, तो उससे बढ़कर कुछ भी उत्तम नहीं[cite: 2]।"
+      "words": [
+        {
+          "no": 1,
+          "word": "அறன் எனப்பட்டது (Aran Enappattadhu)",
+          "ta": "சிறந்த அறம் என்று கூறப்பட்டது",
+          "en": "What is called virtue",
+          "hi": "धर्म कहा गया"
+        },
+        {
+          "no": 2,
+          "word": "இல்வாழ்க்கை (Ilvaazhkkai)",
+          "ta": "இல்லற வாழ்க்கையே",
+          "en": "Is domestic life",
+          "hi": "गृहस्थी ही है"
+        },
+        {
+          "no": 3,
+          "word": "அஃதும் (Ahdhum)",
+          "ta": "அந்த இல்லறமும்",
+          "en": "And that too",
+          "hi": "वह भी"
+        },
+        {
+          "no": 4,
+          "word": "பிறன் பழிப்பது (Piran Pazhippadhu)",
+          "ta": "பிறர் பழித்துரைக்கும் குற்றம்",
+          "en": "Reproach of others",
+          "hi": "अन्यों द्वारा निंदा"
+        },
+        {
+          "no": 5,
+          "word": "இல்லாயின் (Illaayin)",
+          "ta": "இல்லாமல் அமையுமானால்",
+          "en": "If free from",
+          "hi": "यदि न हो"
+        },
+        {
+          "no": 6,
+          "word": "நன்று (Nandru)",
+          "ta": "மிகவும் நன்மையானதாகும்",
+          "en": "Is exceedingly good",
+          "hi": "अति उत्तम है"
+        },
+        {
+          "no": 7,
+          "word": "அறன் (Aran)",
+          "ta": "அறநெறி",
+          "en": "Righteousness",
+          "hi": "सद्‌धर्म"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறனெனப் பட்டதே இல்வாழ்க்கை அஃதும்",
+          "line2": "பிறன்பழிப்ப தில்லாயின் நன்று."
+        },
+        "en": {
+          "line1": "True virtue is the household life, none other need we name;",
+          "line2": "And better still if that be lived without another's blame."
+        },
+        "hi": {
+          "line1": "जीवन ही गार्हस्थ्य का, कहलाता है धर्म[cite: 2]।",
+          "line2": "अच्छा हो यदि वह बना, जन-निन्दा बिन धर्म ॥[cite: 2]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aranenap Pattadhae Ilvaazhkkai Ahdhum",
+            "line2": "Piranpazhippa Dhillaayin Nandru."
+          },
+          "hi": {
+            "line1": "अऱऩॆऩप् पट्टदे इल्वाऴ्क्कै अஃदुम्",
+            "line2": "पिऱऩ्पऴिप्प दिल्लायिन् नन्ड्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நூல்களில் அறம் என்று விதந்து கூறப்பட்டது இல்லறமே ஆகும்; அத்தகைய இல்லறமும் ஊரார் பழிக்கும் குற்றங்கள் எதுவும் இல்லாமல் அமையுமானால் மிகவும் சிறப்பானதாகும்.",
+        "en": "Righteous living is in essence the householder's life; and if it is lived untainted by social reproach or dishonesty, it has no equal.",
+        "hi": "शास्त्रों में गृहस्थ जीवन को ही संपूर्ण धर्म माना गया है; बशर्ते वह जीवन कलंक, पाप और दूसरों की निंदा से सर्वथा मुक्त हो[cite: 2]।"
+      }
+    },
+    {
+      "num": 50,
+      "line1": "வையத்துள் வாழ்வாங்கு வாழ்பவன் வான்உறையும்",
+      "line2": "தெய்வத்துள் வைக்கப் படும்.",
+      "enLine1": "Vaiyaththul Vaazhvaanku Vaazhbavan Vaanuraiyum",
+      "enLine2": "Dheyvaththul Vaikkap Padum.",
+      "hiLine1": "वैयत्तुळ् वाऴ्वाङ्कु वाऴ्बवऩ् वाऩ्उऱैयुम्",
+      "hiLine2": "दैय्वत्तुळ् वैक्कप् पडुम्.",
+      "general": "இவ்வுலகத்தில் வாழவேண்டிய இல்லற முறைப்படி சிறப்பாக வாழ்கின்ற மனிதன், வானுலகில் வாழும் தேவர்களுக்கு இணையாக வைத்து மதிக்கப்படுவான்.",
+      "en": "He who lives on earth in the true path of domestic virtue will be ranked among the gods who dwell in heaven.",
+      "hi": "इस संसार में जो गृहस्थ अपने कर्तव्य-धर्म का पूर्ण आदर्श रूप में निर्वाह करता है, वह स्वर्ग के देवताओं के समान पूजनीय माना जाता है[cite: 2]।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வையத்துள் (Vaiyaththul)",
+          "ta": "இப்பூவுலகத்தில்",
+          "en": "In this world",
+          "hi": "इस संसार में"
+        },
+        {
+          "no": 2,
+          "word": "வாழ்வாங்கு (Vaazhvaanku)",
+          "ta": "வாழ வேண்டிய சிறந்த முறைப்படி",
+          "en": "In the proper way of life",
+          "hi": "आदर्श रीति से"
+        },
+        {
+          "no": 3,
+          "word": "வாழ்பவன் (Vaazhbavan)",
+          "ta": "வாழ்கின்ற ஒருவன்",
+          "en": "He who lives",
+          "hi": "जीने वाला"
+        },
+        {
+          "no": 4,
+          "word": "வான் உறையும் (Vaan Uraiyum)",
+          "ta": "விண்ணுலகில் வாழ்கின்ற",
+          "en": "Dwelling in the heavens",
+          "hi": "स्वर्गवासी"
+        },
+        {
+          "no": 5,
+          "word": "தெய்வத்துள் (Dheyvaththul)",
+          "ta": "தேவர்களுக்கு இணையாக",
+          "en": "Among the divine gods",
+          "hi": "देवताओं के मध्य"
+        },
+        {
+          "no": 6,
+          "word": "வைக்கப்படும் (Vaikkappadum)",
+          "ta": "வைத்து மதிக்கப்படுவான்",
+          "en": "Will be placed and honored",
+          "hi": "सम्मान पाएगा"
+        },
+        {
+          "no": 7,
+          "word": "வையம் (Vaiyam)",
+          "ta": "பூமி",
+          "en": "The earth",
+          "hi": "पृथ्वी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வையத்துள் வாழ்வாங்கு வாழ்பவன் வான்உறையும்",
+          "line2": "தெய்வத்துள் வைக்கப் படும்."
+        },
+        "en": {
+          "line1": "Who shares his life in duty's path as mortals ought on earth,",
+          "line2": "Among the gods that dwell in heaven shall have a place of worth."
+        },
+        "hi": {
+          "line1": "इस जग में है जो गृही, धर्मनिष्ठ मतिमान[cite: 2]।",
+          "line2": "देवगणों में स्वर्ग के, पावेगा सम्मान ॥[cite: 2]"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vaiyaththul Vaazhvaanku Vaazhbavan Vaanuraiyum",
+            "line2": "Dheyvaththul Vaikkap Padum."
+          },
+          "hi": {
+            "line1": "वैयत्तुळ् वाऴ्वाङ्कु वाऴ्बवऩ् वाऩ्उऱैयुम्",
+            "line2": "दैय्वत्तुळ् वैक्कप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பூமியில் வாழ வேண்டிய நல்வழியில் நேர்மையாக நின்று இல்லறத்தை நடத்தும் மனிதன், விண்ணுலகத்தில் வாழும் கடவுளர்களுக்கு ஒப்பானவனாகப் போற்றப்படுவான்.",
+        "en": "Whoever conducts their earthly household life with pure integrity and compassion is counted as divine among the gods above.",
+        "hi": "जो मनुष्य इस पृथ्वी पर गृहस्थ धर्म के आदर्श नियमों का पालन करते हुए सन्मार्ग पर जीता है, उसे मरणोपरांत देवलोक में देवताओं के समान स्थान और आदर प्राप्त होता है[cite: 2]।"
+      }
+    }
+  ]
+}

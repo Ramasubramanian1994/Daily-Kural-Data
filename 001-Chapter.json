@@ -1,9 +1,14 @@
 {
   "chapterNum": 1,
   "nameTa": "கடவுள் வாழ்த்து",
-  "nameEn": "God",
+  "nameEn": "The Praise of Lord",
+  "nameHi": "भगवान की स्तुति",
   "paal": "அறத்துப்பால்",
+  "paalEn": "Book of Virtue",
+  "paalHi": "धर्म खण्ड",
   "iyal": "பாயிறவியல்",
+  "iyalEn": "Prologue",
+  "iyalHi": "प्रस्तावना",
   "kurals": [
     {
       "num": 1,
@@ -15,7 +20,7 @@
       "hiLine2": "पगवन मुट्रे उलकु.",
       "general": "அகர எழுத்துக்களுக்கு முதலாக இருப்பது போல, உலகமானது கடவுளாகிய முதற்பொருளை அடிப்படையாகக் கொண்டுள்ளது.",
       "en": "As the letter 'A' is the first of all letters, so is the eternal God the first of the world.",
-      "hi": "जैसे सभी वर्णों की शुरुआत 'अ' से होती है, वैसे ही यह संसार आदि भगवान (ईश्वर) पर आधारित है।",
+      "hi": "जैसे सभी वर्णों की शुरुआत 'अ' से होती है, वैसे ही यह संसार आदि भगवान (ईश्वर) पर आधारित है。",
       "words": [
         { "no": 1, "word": "அகர (Akara)", "ta": "'அ' என்னும் எழுத்து", "en": "The letter A", "hi": "अ अक्षर" },
         { "no": 2, "word": "முதல (Muthala)", "ta": "முதலாகக் கொண்டவை", "en": "First of all", "hi": "प्रारंभ" },
@@ -43,8 +48,8 @@
         { "no": 3, "word": "பயன் என்கொல் (Payan Enkol)", "ta": "பயன் தான் யாது?", "en": "What is the profit?", "hi": "क्या लाभ है" },
         { "no": 4, "word": "வாலறிவன் (Vaalarivan)", "ta": "தூய அறிவுடையவனின்", "en": "Of the Pure Intelligence", "hi": "शुद्ध ज्ञानी ईश्वर के" },
         { "no": 5, "word": "நற்றாள் (Nattraal)", "ta": "நல்ல திருவடிகளை", "en": "Good feet", "hi": "चरणों की" },
-        { "no": 6, "word": "தொழுது (Thozhutho)", "ta": "வணங்காது", "en": "Worship not", "hi": "पूजा न करना" },
-        { "no": 7, "word": "தொழாஅர் எனின் (Thozhaar Enin)", "ta": "கை தொழுது பேசாதிருப்பின்", "en": "If they fail to adore", "hi": "यदि न करें" }
+        { "no": 6, "word": "தொழுது (Thozhuthu)", "ta": "வணங்கி", "en": "Worshipping", "hi": "पूजा करके" },
+        { "no": 7, "word": "தொழாஅர் எனின் (Thozhaar Enin)", "ta": "வணங்காது இருப்பின்", "en": "If they fail to adore", "hi": "यदि न करें" }
       ]
     },
     {
@@ -55,9 +60,9 @@
       "enLine2": "Nilamisai Needuvaal Vaar.",
       "hiLine1": "मलरमिसे येकीनान मानडी सेर्न्दार",
       "hiLine2": "निलमिसे नीडुवाल वार.",
-      "general": "அன்பர்களின் மனமாகிய மலரில் எழுந்தருளும் இறைவனின் பெருமைமிக்க திருவடிகளைப் பொருந்திப் பொருத்துவோர், நிலவுலகில் நெடுங்காலம் வாழ்வர்.",
+      "general": "அன்பர்களின் மனமாகிய மலரில் எழுந்தருளும் இறைவனின் பெருமைமிக்க திருவடிகளைப் பொருந்திச் சேர்ந்தோர், நிலவுலகில் நெடுங்காலம் வாழ்வர்.",
       "en": "Those who reach the glorious feet of Him who passes over the lotus of the heart will live long upon the earth.",
-      "hi": "भक्तों के हृदय रूपी कमल पर विराजमान ईश्वर के महान चरणों की शरण लेते हैं, वे इस पृथ्वी पर दीर्घकाल तक जीवित रहते हैं।",
+      "hi": "भक्तों के हृदय रूपी कमल पर विराजमान ईश्वर के महान चरणों की शरण लेते हैं, वे इस पृथ्वी पर दीर्घकाल तक जीवित रहते हैं。",
       "words": [
         { "no": 1, "word": "மலர்மிசை (Malamisai)", "ta": "அன்பர் மனமலரின் மீது", "en": "On the lotus", "hi": "कमल पर" },
         { "no": 2, "word": "ஏகினான் (Yekinaan)", "ta": "சென்று பொருந்தியவனின்", "en": "He who moves", "hi": "विराजमान" },
@@ -72,20 +77,20 @@
       "num": 4,
       "line1": "வேண்டுதல் வேண்டாமை இலான்அடி சேர்ந்தார்க்கு",
       "line2": "யாண்டும் இடும்பை இல.",
-      "enLine1": "Veanduthal VeandAamai Ilanadi Serndhaarkku",
+      "enLine1": "Veanduthal Veandaamai Ilanadi Serndhaarkku",
       "enLine2": "Yaandum Idumpai Ila.",
-      "hiLine1": "वेन्दुदल वेण्डामै इलानडि सेर्न्दार্ক্কு",
+      "hiLine1": "वेन्दुदल वेण्डामै इलानडि सेर्न्दार্ক্কु",
       "hiLine2": "यान्दुम् इडुम्बै इल.",
       "general": "விருப்பமும் வெறுப்பும் இல்லாத கடவுளின் திருவடிகளைப் பொருந்திச் சேர்ந்தவர்க்கு, எக்காலத்திலும் எந்தத் துன்பமும் வராது.",
       "en": "To those who are united to the feet of Him who is free from desire and aversion, no evil shall happen at any time.",
-      "hi": "जो राग और द्वेष (इच्छा और अनिच्छा) से मुक्त ईश्वर के चरणों से जुड़े हैं, उन्हें कभी भी कोई दुःख नहीं होता।",
+      "hi": "जो राग और द्वेष (इच्छा और अनिच्छा) से मुक्त ईश्वर के चरणों से जुड़े हैं, उन्हें कभी भी कोई दुःख नहीं होता。",
       "words": [
         { "no": 1, "word": "வேண்டுதல் (Veanduthal)", "ta": "விருப்பமும்", "en": "Desire", "hi": "इच्छा" },
         { "no": 2, "word": "வேண்டாமை (Veandaamai)", "ta": "வெறுப்பும்", "en": "Aversion", "hi": "अनिच्छा" },
         { "no": 3, "word": "இலான் (Ilan)", "ta": "இல்லாத கடவுளின்", "en": "He who is free from", "hi": "मुक्त ईश्वर" },
         { "no": 4, "word": "அடி (Ati)", "ta": "திருவடிகளை", "en": "Feet", "hi": "चरणों" },
         { "no": 5, "word": "சேர்ந்தார்க்கு (Serndhaarkku)", "ta": "பற்றி அடைந்தவர்க்கு", "en": "To those who join", "hi": "शरण लेने वालों को" },
-        { "no": 6, "word": "யாண்டும் (Yaandum)", "ta": "எக்காலத்திலும் எவிடத்தும்", "en": "At any time / anywhere", "hi": "कभी भी" },
+        { "no": 6, "word": "யாண்டும் (Yaandum)", "ta": "எக்காலத்திலும்", "en": "At any time", "hi": "कभी भी" },
         { "no": 7, "word": "இடும்பை இல (Idumpai Ila)", "ta": "துன்பங்கள் இல்லையாம்", "en": "There is no distress", "hi": "दुःख नहीं होता" }
       ]
     },
@@ -97,12 +102,12 @@
       "enLine2": "Porulser Pukazha Purindhaar Maattu.",
       "hiLine1": "इरुलसेर इरुविनैयुम सेरा इलैवन",
       "hiLine2": "पोरुलसेर पुकळ पुरिन्द्वार माट्टु.",
-      "general": "மெய்ப்பொருளான கடவுளின் புகழை இடைவிடாமல் விரும்பிப் 포ற்றுபவரை அறியாமையாகிய இருவினைகளும் சேர்வதில்லை.",
+      "general": "மெய்ப்பொருளான கடவுளின் புகழை இடைவிடாமல் விரும்பிப் போற்றுபவரை அறியாமையாகிய இருவினைகளும் சேர்வதில்லை.",
       "en": "The two-fold deeds born of darkness shall not cling to those who delight in the true praise of God.",
-      "hi": "सत्य स्वरूप ईश्वर की महिमा का गुणगान करने वालों को अज्ञान और कर्म के दोनों बंधन कभी नहीं छूते।",
+      "hi": "सत्य स्वरूप ईश्वर की महिमा का गुणगान करने वालों को अज्ञान और कर्म के दोनों बंधन कभी नहीं छूते。",
       "words": [
         { "no": 1, "word": "இருள் சேர் (Irul Ser)", "ta": "அறியாமை இருள் சேர்க்கும்", "en": "Associated with darkness", "hi": "अंधकारयुक्त" },
-        { "no": 2, "word": "இருவினையும் (Iruvinaiyum)", "ta": "நல்வினை தீவினை எனும் இருவினைகளும்", "en": "Twofold deeds (Karma)", "hi": "दोनों कर्म" },
+        { "no": 2, "word": "இருவினையும் (Iruvinaiyum)", "ta": "நல்வினை தீவினை எனும் இருவினைகளும்", "en": "Twofold deeds", "hi": "दोनों कर्म" },
         { "no": 3, "word": "சேரா (Seraa)", "ta": "நெருங்கிச் சேராது", "en": "Will not cling", "hi": "नहीं चिपकते" },
         { "no": 4, "word": "இறைவன் (Iraivan)", "ta": "கடவுளது", "en": "Of God", "hi": "ईश्वर" },
         { "no": 5, "word": "பொருள் சேர் (Porul Ser)", "ta": "மெய்யான", "en": "True / meaningful", "hi": "सार्थक" },
@@ -117,10 +122,10 @@
       "enLine1": "Porivaayil Ainthaviththaan Poytheer Ozhukkaththu",
       "enLine2": "Nerinintraar Needuvaal Vaar.",
       "hiLine1": "पोरिवायिल ऐन्थविத்தான் பொयदीर ओझुक्कत्थु",
-      "enLine2": "नेरिनिन्ट्रार नीडुवाल वार.",
+      "hiLine2": "नेरिनिन्ट्रार नीडुवाल वार.",
       "general": "ஐம்பொறிகளின் வழியாக எழும் தீய ஆசைகளை அவித்த கடவுளின் மெய்யான ஒழுக்க நெறியில் நிற்பவர்கள் நிலைபெற்று வாழ்வர்.",
       "en": "Those who stand firmly in the true code of conduct of Him who has subdued the five senses will live long.",
-      "hi": "पाँच इंद्रियों की इच्छाओं को वश में करने वाले ईश्वर के सच्चे मार्ग पर जो लोग चलते हैं, वे दीर्घायु होते हैं।",
+      "hi": "पाँच इंद्रियों की इच्छाओं को वश में करने वाले ईश्वर के सच्चे मार्ग पर जो लोग चलते हैं, वे दीर्घायु होते हैं。",
       "words": [
         { "no": 1, "word": "பொறி வாயில் (Porivaayil)", "ta": "ஐம்பொறி வாயில்களை", "en": "Gateways of senses", "hi": "इंद्रिय द्वार" },
         { "no": 2, "word": "ஐந்து அவித்தான் (Ainthaviththaan)", "ta": "அடக்கிய கடவுளின்", "en": "He who subdued the five", "hi": "पाँचों को जीतने वाले" },
@@ -133,23 +138,23 @@
     },
     {
       "num": 7,
-      "line1": "தனக்குவமை இல்லாதான் தாள்சேர்ந்தார் கா The",
+      "line1": "தனக்குவமை இல்லாதான் தாள்சேர்ந்தார் காண்பெறும்",
       "line2": "மனக்கவலை மாற்றல் அரிது.",
-      "enLine1": "Thanakkuvamai Illaadaan Thaalserndhaar Kaanperu",
+      "enLine1": "Thanakkuvamai Illaadaan Thaalserndhaar Kaanperum",
       "enLine2": "Manakkavalai Maatral Arithu.",
-      "hiLine1": "तनक्कुवमै इल्लादान ताळसेर्न्दार",
+      "hiLine1": "तनक्कुवमै इल्लादान ताळसेर्न्दार काणपेरुम",
       "hiLine2": "मनक्कवलै माट्रल अरिदु.",
       "general": "தனக்கு ஒப்புமை இல்லாத தனிப்பெருங் கடவுளின் திருவடிகளைப் பொருந்தியவர்க்கு, மனத்துயரங்களை நீக்குவது எளிதாகும்.",
       "en": "It is difficult to remove the mental grief of those who have not reached the feet of Him who has no equal.",
-      "hi": "जिसके समान कोई दूसरा नहीं है, ऐसे अद्वितीय ईश्वर के चरणों की शरण न लेने वालों के मानसिक कष्टों को दूर करना कठिन है।",
+      "hi": "जिसके समान कोई दूसरा नहीं है, ऐसे अद्वितीय ईश्वर के चरणों की शरण न लेने वालों के मानसिक कष्टों को दूर करना कठिन है。",
       "words": [
-        { "no": 1, "word": "தனக்கு உவமை (Thanakku Uvamai)", "ta": "ஒப்புவமை எவரும் இல்லாத", "en": "An equal to Himself", "hi": "तुलना न हो जिसके समान" },
+        { "no": 1, "word": "தனக்கு உவமை (Thanakku Uvamai)", "ta": "ஒப்புவமை இல்லாத", "en": "An equal to Himself", "hi": "तुलना न हो" },
         { "no": 2, "word": "இல்லாதான் (Illaadaan)", "ta": "இறைவனின்", "en": "He who has none", "hi": "ऐसा ईश्वर" },
         { "no": 3, "word": "தாள் சேர்ந்தார் (Thaal Serndhaar)", "ta": "திருவடிகளைப் பற்றினவர்க்கு", "en": "Who reached His feet", "hi": "शरण लेने वालों के" },
-        { "no": 4, "word": "கேன் (Kaan)", "ta": "கண்டு கொள்ள", "en": "To see / find", "hi": "देखना" },
-        { "no": 5, "word": "மனக்கவலை (Manakkavalai)", "ta": "மனதின் கவலைகளை", "en": "Mental anxiety / grief", "hi": "मानसिक चिंता" },
+        { "no": 4, "word": "காண்பெறும் (Kaanperum)", "ta": "காண்பவர்", "en": "Who obtain", "hi": "प्राप्त करने वाले" },
+        { "no": 5, "word": "மனக்கவலை (Manakkavalai)", "ta": "மனதின் கவலைகளை", "en": "Mental anxiety", "hi": "मानसिक चिंता" },
         { "no": 6, "word": "மாற்றல் (Maatral)", "ta": "நீக்குவது", "en": "To remove", "hi": "दूर करना" },
-        { "no": 7, "word": "அரிது (Arithu)", "ta": "எளிதன்று (அல்லது எளிது)", "en": "Is hard / impossible", "hi": "कठिन है" }
+        { "no": 7, "word": "அரிது (Arithu)", "ta": "அரிதாகும்", "en": "Is hard", "hi": "कठिन है" }
       ]
     },
     {
@@ -159,23 +164,23 @@
       "enLine1": "Aravaazhi Andhanan Thaalserndhaar Kallaal",
       "enLine2": "Piravaazhi Neenthal Arithu.",
       "hiLine1": "अरवाळि अन्थणन ताळसेर्न्दार कल्लाल",
-      "enLine2": "पिरवाळि नीन्र्तल अरिது.",
+      "hiLine2": "पिरवाळि नीन्र्तल अरिदु.",
       "general": "அறக்கடலாக விளங்கும் அந்தணனின் (கடவுளின்) திருவடிகளைப் பற்றினவர் அல்லாமல், மற்றவர்கள் பிறவியாகிய கடலைக் கடத்தல் அரிது.",
       "en": "None can cross the ocean of births except those who reach the feet of Him who is an ocean of virtue.",
-      "hi": "धर्म के समुद्र रूप ईश्वर के चरणों की शरण लेने वालों के अतिरिक्त अन्य लोगों के लिए भवसागर (जन्म-मरण का सागर) पार करना कठिन है।",
+      "hi": "धर्म के समुद्र रूप ईश्वर के चरणों की शरण लेने वालों के अतिरिक्त अन्य लोगों के लिए भवसागर पार करना कठिन है。",
       "words": [
         { "no": 1, "word": "அறவாழி (Aravaazhi)", "ta": "அறம் என்னும் கடலை உடைய", "en": "Ocean of virtue", "hi": "धर्म का सागर" },
         { "no": 2, "word": "அந்தணன் (Andhanan)", "ta": "அனைவர்க்கும் அருளும் கடவுளின்", "en": "The Gracious Lord", "hi": "दयालु ईश्वर" },
         { "no": 3, "word": "தாள் சேர்ந்தார் (Thaal Serndhaar)", "ta": "திருவடிகளைப் பற்றினாரைத்", "en": "Who reached the feet", "hi": "चरणों की शरण लेने वाले" },
         { "no": 4, "word": "கல்லால் (Kallaal)", "ta": "தவிர மற்றவர்கள்", "en": "Except", "hi": "के सिवा" },
         { "no": 5, "word": "பிற (Pira)", "ta": "மற்றைய", "en": "Other", "hi": "अन्य" },
-        { "no": 6, "word": "வாழி (Vaazhi)", "ta": "பிறவிக் கடலை", "en": "Oceans", "hi": "भवसागर" },
+        { "no": 6, "word": "வாழி (Vaazhi)", "ta": "பிறவிக் கடலை", "en": "Oceans", "hi": "सागर" },
         { "no": 7, "word": "நீந்தல் அரிது (Neenthal Arithu)", "ta": "நீந்திக் கடப்பது கடினம்", "en": "It is hard to cross", "hi": "पार करना कठिन है" }
       ]
     },
     {
       "num": 9,
-      "line1": "கோளில் பொறியில் குணமிலவே எண்கුණத்தான்",
+      "line1": "கோளில் பொறியில் குணமிலவே எண்குணத்தான்",
       "line2": "தாளைத் தொழாஅர் எனின்.",
       "enLine1": "Kolil Poriyil Gunamilave Enkunaththaan",
       "enLine2": "Thalaith Thozhaar Enin.",
@@ -183,15 +188,15 @@
       "hiLine2": "ताळैत् तोळआर एनिन.",
       "general": "எட்டு குணங்களை உடைய கடவுளின் திருவடிகளைத் தொழுது வணங்காதவரின் தலைப் பொறிகள் (ஐம்புலன்கள்) பயனில்லாதவையாம்.",
       "en": "The head and senses that do not worship the feet of Him who possesses the eight attributes are lifeless senses.",
-      "hi": "आठ गुणों से युक्त ईश्वर के चरणों की वंदना न करने वाले सिर और उसकी इंद्रियां गुणहीन और निष्फल होती हैं।",
+      "hi": "आठ गुणों से युक्त ईश्वर के चरणों की वंदना न करने वाले सिर और उसकी इंद्रियां गुणहीन और निष्फल होती हैं。",
       "words": [
-        { "no": 1, "word": "கோள் இல் (Kol Il)", "ta": "பயன் கொள்ளாத", "en": "Useless / powerless", "hi": "निष्फल" },
-        { "no": 2, "word": "பொறியில் (Poriyil)", "ta": "பொறிகள்", "en": "Senses / organs", "hi": "इंद्रियां" },
+        { "no": 1, "word": "கோள் இல் (Kol Il)", "ta": "பயன் கொள்ளாத", "en": "Useless", "hi": "निष्फल" },
+        { "no": 2, "word": "பொறியில் (Poriyil)", "ta": "பொறிகள்", "en": "Senses", "hi": "इंद्रियां" },
         { "no": 3, "word": "குணம் இலவே (Gunamilave)", "ta": "பண்பில்லாதவை ஆகும்", "en": "Are devoid of value", "hi": "गुणहीन हैं" },
-        { "no": 4, "word": "எண்குணத்தான் (Enkunaththaan)", "ta": "எட்டு குணங்களை உடையவனின்", "en": "Of Him of eight attributes", "hi": "आठ गुणों वाले ईश्वर के" },
+        { "no": 4, "word": "எண்குணத்தான் (Enkunaththaan)", "ta": "எட்டு குணங்களை உடையவனின்", "en": "Of Him of eight attributes", "hi": "आठ गुणों वाले" },
         { "no": 5, "word": "தாளை (Thaalai)", "ta": "திருவடிகளை", "en": "Feet", "hi": "चरणों की" },
-        { "no": 6, "word": "தொழுது (Thozhuthu)", "ta": "வணங்கி", "en": "Worship", "hi": "वंदना न करने पर" },
-        { "no": 7, "word": "தொழாஅர் எனின் (Thozhaar Enin)", "ta": "வணங்காது விட்டால்", "en": "If they fail to adore", "hi": "यदि कोई" }
+        { "no": 6, "word": "தொழுது (Thozhuthu)", "ta": "வணங்கி", "en": "Worship", "hi": "वंदना करके" },
+        { "no": 7, "word": "தொழாஅர் எனின் (Thozhaar Enin)", "ta": "வணங்காது விட்டால்", "en": "If they fail to adore", "hi": "यदि न करें" }
       ]
     },
     {
@@ -204,12 +209,12 @@
       "hiLine2": "इलैवन अडिसेरा थार.",
       "general": "இறைவனின் திருவடிகளைச் சேர்ந்தவர்கள் பிறவியாகிய பெருங்கடலைக் கடந்து இன்பம் அடைவர்; சேராதவர் கடக்க முடியாமல் வீழ்வர்.",
       "en": "They shall swim the great ocean of births who reach the feet of God; none others shall swim across.",
-      "hi": "जो ईश्वर के चरणों की शरण लेते हैं, वे भवसागर को पार कर लेते हैं; जो शरण नहीं लेते, वे पार नहीं हो सकते।",
+      "hi": "जो ईश्वर के चरणों की शरण लेते हैं, वे भवसागर को पार कर लेते हैं; जो शरण नहीं लेते, वे पार नहीं हो सकते。",
       "words": [
-        { "no": 1, "word": "பிறவிப் (Piravi)", "ta": "மறுபிறப்பாகிய", "en": "Of birth", "hi": "जन्म-मरण के" },
-        { "no": 2, "word": "பெருங்கடல் (Perunkadal)", "ta": "பெரிய கடலை", "en": "Vast ocean", "hi": "विशाल सागर को" },
-        { "no": 3, "word": "நீந்துவர் (Neenthuvar)", "ta": "நீந்திக் கடப்பவர்", "en": "Shall cross", "hi": "पार कर लेते हैं" },
-        { "no": 4, "word": "நீந்தார் (Neenthaar)", "ta": "கடந்து ஏற மாட்டார்கள்", "en": "Shall not cross", "hi": "पार नहीं कर पाते" },
+        { "no": 1, "word": "பிறவிப் (Piravi)", "ta": "மறுபிறப்பாகிய", "en": "Of birth", "hi": "जन्म के" },
+        { "no": 2, "word": "பெருங்கடல் (Perunkadal)", "ta": "பெரிய கடலை", "en": "Vast ocean", "hi": "विशाल सागर" },
+        { "no": 3, "word": "நீந்துவர் (Neenthuvar)", "ta": "நீந்திக் கடப்பவர்", "en": "Shall cross", "hi": "पार करते हैं" },
+        { "no": 4, "word": "நீந்தார் (Neenthaar)", "ta": "கடந்து ஏற மாட்டார்கள்", "en": "Shall not cross", "hi": "पार नहीं करते" },
         { "no": 5, "word": "இறைவன் (Iraivan)", "ta": "கடவுளது", "en": "God's", "hi": "ईश्वर के" },
         { "no": 6, "word": "அடி (Adi)", "ta": "திருவடிகளை", "en": "Feet", "hi": "चरणों को" },
         { "no": 7, "word": "சேராதார் (Seradhaar)", "ta": "பற்றிக் கொள்ளாதவர்", "en": "Those who join not", "hi": "जो शरण नहीं लेते" }

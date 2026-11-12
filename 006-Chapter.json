@@ -20,30 +20,51 @@
       "words": [
         {
           "no": 1,
-          "word": "மனைத்தக்க மாண்புடையள் ஆகி <br>(Manaiththakka Maanbudaiyal Aaki)",
-          "ta": "இல்லறத்திற்கு ஏற்ற நற்பண்பு உடையவளாகி",
-          "en": "Possessing wifely virtues befitting a home",
-          "hi": "गृहिणी के योग्य गुणों से युक्त होकर"
+          "word": "மனைத்தக்க <br>(Manaiththakka)",
+          "ta": "இல்லறத்திற்கு ஏற்ற",
+          "en": "Befitting the household",
+          "hi": "गृहस्थ के योग्य"
         },
         {
           "no": 2,
-          "word": "தற் கொண்டான் <br>(Thar Kondaan)",
+          "word": "மாண்புடையள் <br>(Maanbudaiyal)",
+          "ta": "நற்பண்பு உடையவள்",
+          "en": "Possessing excellence / dignity",
+          "hi": "श्रेष्ठ गुणों से युक्त"
+        },
+        {
+          "no": 3,
+          "word": "ஆகி <br>(Aaki)",
+          "ta": "ஆகி (விளங்கி)",
+          "en": "Becoming / being",
+          "hi": "होकर"
+        },
+        {
+          "no": 4,
+          "word": "தற்கொண்டான் <br>(Tharkondaan)",
           "ta": "தன்னை மணந்த கணவனின்",
           "en": "Of her husband",
           "hi": "अपने पति की"
         },
         {
-          "no": 3,
+          "no": 5,
           "word": "வளத்தக்காள் <br>(Valaththakkaal)",
           "ta": "வருவாய்க்குத் தக்கபடி செலவு செய்பவள்",
           "en": "Who spends according to his wealth",
           "hi": "आय के अनुसार व्यय करने वाली"
         },
         {
-          "no": 4,
-          "word": "வாழ்க்கைத் துணை <br>(Vaazhkkaiththunai)",
-          "ta": "சிறந்த வாழ்க்கைத் துணைவியாவாள்",
-          "en": "Is a true helpmate in life",
+          "no": 6,
+          "word": "வாழ்க்கைத் <br>(Vaazhkkai)",
+          "ta": "இல்லற வாழ்க்கைக்கு",
+          "en": "Of domestic life",
+          "hi": "जीवन की"
+        },
+        {
+          "no": 7,
+          "word": "துணை <br>(Thunai)",
+          "ta": "சிறந்த துணைவியாவாள்",
+          "en": "Helpmate / companion",
           "hi": "उत्तम सहधर्मिणी है"
         }
       ],
@@ -98,24 +119,45 @@
         },
         {
           "no": 2,
-          "word": "இல்லாள்கண் இல்லாயின் <br>(Illaalkkan Illaayin)",
-          "ta": "மனைவியிடம் இல்லாவிட்டால்",
-          "en": "If wanting in the wife",
-          "hi": "यदि गृहिणी में न हों"
+          "word": "இல்லாள்கண் <br>(Illaalkkan)",
+          "ta": "மனைவியிடம்",
+          "en": "In the wife",
+          "hi": "गृहिणी में"
         },
         {
           "no": 3,
-          "word": "வாழ்க்கை <br>(Vaazhkkai)",
-          "ta": "அந்த இல்லற வாழ்க்கை",
-          "en": "That life",
-          "hi": "तो वह गृह-जीवन"
+          "word": "இல்லாயின் <br>(Illaayin)",
+          "ta": "இல்லாவிட்டால்",
+          "en": "If wanting / absent",
+          "hi": "यदि न हों"
         },
         {
           "no": 4,
-          "word": "எனைமாட்சித்து ஆயினும் இல் <br>(Enaimaatchiththu Aayinum Il)",
-          "ta": "எத்தகைய சிறப்புடையதாயினும் பயனில்லை",
-          "en": "However splendid, is nothing",
-          "hi": "कितना भी संपन्न हो, व्यर्थ है"
+          "word": "வாழ்க்கை <br>(Vaazhkkai)",
+          "ta": "இல்லற வாழ்க்கை",
+          "en": "Domestic life",
+          "hi": "गृह-जीवन"
+        },
+        {
+          "no": 5,
+          "word": "எனைமாட்சித்து <br>(Enaimaatchiththu)",
+          "ta": "எத்தகைய சிறப்புடையது",
+          "en": "Whatever splendour",
+          "hi": "कितना भी सुसंपन्न"
+        },
+        {
+          "no": 6,
+          "word": "ஆயினும் <br>(Aayinum)",
+          "ta": "ஆக இருந்தாலும்",
+          "en": "Even though it be",
+          "hi": "क्यों न हो"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "பயனில்லாதது ஆகும்",
+          "en": "Is worthless / nothing",
+          "hi": "व्यर्थ है"
         }
       ],
       "poetic": {
@@ -162,31 +204,52 @@
       "words": [
         {
           "no": 1,
-          "word": "இல்லது என் <br>(Illadhu En)",
-          "ta": "இல்லாதது என்ன இருக்கிறது",
+          "word": "இல்லதென் <br>(Illadhen)",
+          "ta": "இல்லாதது என்ன",
           "en": "What is lacking",
           "hi": "क्या अभाव है"
         },
         {
           "no": 2,
-          "word": "இல்லவள் மாண்பானால் <br>(Illaval Maanbaanaal)",
-          "ta": "மனைவி நற்பண்புடையவளானால்",
-          "en": "If the wife excels in worth",
-          "hi": "यदि गृहिणी सुधर्मिणी हो"
+          "word": "இல்லவள் <br>(Illaval)",
+          "ta": "மனைவி",
+          "en": "The wife",
+          "hi": "गृहिणी"
         },
         {
           "no": 3,
-          "word": "உள்ளது என் <br>(Ulladhu En)",
-          "ta": "இருப்பது என்ன இருக்கிறது",
-          "en": "What is truly possessed",
-          "hi": "किसका अभाव नहीं"
+          "word": "மாண்பானால் <br>(Maanbaanaal)",
+          "ta": "நற்பண்பு உடையவளானால்",
+          "en": "If she excels in worth",
+          "hi": "सुधर्मिणी हो तो"
         },
         {
           "no": 4,
-          "word": "இல்லவள் மாணாக்கடை <br>(Illaval Maanaakkadai)",
-          "ta": "மனைவி நற்பண்பில்லாதபோது",
-          "en": "When the wife lacks worth",
-          "hi": "जब गृहिणी सुधर्मिणी न हो"
+          "word": "உள்ளதென் <br>(Ulladhen)",
+          "ta": "இருப்பது என்ன",
+          "en": "What is truly possessed",
+          "hi": "क्या शेष है"
+        },
+        {
+          "no": 5,
+          "word": "இல்லவள் <br>(Illaval)",
+          "ta": "மனைவி",
+          "en": "The wife",
+          "hi": "गृहिणी"
+        },
+        {
+          "no": 6,
+          "word": "மாணாக் <br>(Maanaak)",
+          "ta": "நற்பண்பு இல்லாத",
+          "en": "Lacking worth",
+          "hi": "सुधर्मिणी न हो"
+        },
+        {
+          "no": 7,
+          "word": "கடை <br>(Kadai)",
+          "ta": "போது / இடத்தில்",
+          "en": "When / in that case",
+          "hi": "उस दशा में"
         }
       ],
       "poetic": {
@@ -240,24 +303,45 @@
         },
         {
           "no": 2,
-          "word": "பெருந்தக்க யாவுள <br>(Perundhakka Yaavula)",
-          "ta": "பெருமைக்குரியவை வேறு எவை உள்ளன",
-          "en": "What greater treasure is there",
-          "hi": "श्रेष्ठ क्या पाने योग्य है"
+          "word": "பெருந்தக்க <br>(Perundhakka)",
+          "ta": "பெருமைக்குரியவை",
+          "en": "Of great worth / excellence",
+          "hi": "श्रेष्ठ / गौरवपूर्ण"
         },
         {
           "no": 3,
-          "word": "கற்பு என்னும் <br>(Karpu Ennum)",
+          "word": "யாவுள <br>(Yaavula)",
+          "ta": "வேறு எவை உள்ளன",
+          "en": "What things are there",
+          "hi": "क्या है"
+        },
+        {
+          "no": 4,
+          "word": "கற்பென்னும் <br>(Karpennum)",
           "ta": "கற்பு என்று சொல்லப்படும்",
           "en": "Called chastity",
           "hi": "पातिव्रत्य नामक"
         },
         {
-          "no": 4,
-          "word": "திண்மை உண்டாகப் பெறின் <br>(Thinmai Undaakap Perin)",
-          "ta": "உறுதி இருக்கப் பெற்றால்",
-          "en": "If she possesses firmness",
-          "hi": "दृढ़ता उसमें हो तो"
+          "no": 5,
+          "word": "திண்மை <br>(Thinmai)",
+          "ta": "மன உறுதி",
+          "en": "Firmness / strength",
+          "hi": "दृढ़ता"
+        },
+        {
+          "no": 6,
+          "word": "உண்டாகப் <br>(Undaakap)",
+          "ta": "இருக்கும்படியாக",
+          "en": "To exist / be present",
+          "hi": "उसमें होने"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "If she possesses",
+          "hi": "पर"
         }
       ],
       "poetic": {
@@ -304,31 +388,52 @@
       "words": [
         {
           "no": 1,
-          "word": "தெய்வம் தொழாஅள் <br>(Dheivam Thozhaaal)",
-          "ta": "பிற தெய்வங்களைத் தொழாமல்",
-          "en": "Worshipping no other god",
-          "hi": "अन्य देव को न पूजकर"
+          "word": "தெய்வம் <br>(Dheivam)",
+          "ta": "பிற தெய்வங்களை",
+          "en": "Other gods",
+          "hi": "अन्य देव को"
         },
         {
           "no": 2,
-          "word": "கொழுநன் தொழுது எழுவாள் <br>(Kozhunan Thozhudhu Ezhuvaal)",
-          "ta": "கணவனைத் தொழுது துயிலெழுபவள்",
-          "en": "She who rises worshipping her husband",
-          "hi": "अपने पति को पूजकर उठने वाली"
+          "word": "தொழாஅள் <br>(Thozhaaal)",
+          "ta": "வணங்காமல்",
+          "en": "Without worshipping",
+          "hi": "न पूजकर"
         },
         {
           "no": 3,
-          "word": "பெய் என <br>(Pey Ena)",
-          "ta": "பெய் என்று சொன்னால்",
-          "en": "At her word 'Fall'",
-          "hi": "उसके 'बरस' कहने पर"
+          "word": "கொழுநன் <br>(Kozhunan)",
+          "ta": "தன் கணவனை",
+          "en": "Her husband",
+          "hi": "अपने पति को"
         },
         {
           "no": 4,
-          "word": "பெய்யும் மழை <br>(Peyyum Mazhai)",
-          "ta": "மழை பெய்யும்",
-          "en": "The rain will fall",
-          "hi": "मेघ तुरंत बरसेगा"
+          "word": "தொழுதெழுவாள் <br>(Thozhudhezhuvaal)",
+          "ta": "தொழுது துயிலெழுபவள்",
+          "en": "She who rises worshipping",
+          "hi": "पूजकर जागने वाली"
+        },
+        {
+          "no": 5,
+          "word": "பெய்யெனப் <br>(Peyyenap)",
+          "ta": "பெய் என்று சொன்னால்",
+          "en": "At her word 'Fall'",
+          "hi": "'बरस' कहने पर"
+        },
+        {
+          "no": 6,
+          "word": "பெய்யும் <br>(Peyyum)",
+          "ta": "உடனே பெய்யும்",
+          "en": "Will fall",
+          "hi": "बरसने लगेगा"
+        },
+        {
+          "no": 7,
+          "word": "மழை <br>(Mazhai)",
+          "ta": "மழை",
+          "en": "The rain",
+          "hi": "मेघ"
         }
       ],
       "poetic": {
@@ -375,31 +480,52 @@
       "words": [
         {
           "no": 1,
-          "word": "தற்காத்து <br>(Tharkaaththu)",
+          "word": "தற்காத்துத் <br>(Tharkaaththuth)",
           "ta": "தன்னைக் கற்பு நெறியில் காத்து",
           "en": "Guarding herself",
           "hi": "अपने सतीत्व की रक्षा कर"
         },
         {
           "no": 2,
-          "word": "தற்கொண்டாற் பேணி <br>(Tharkondaar Peni)",
-          "ta": "தன் கணவனைப் போற்றிப் பாதுகாத்து",
-          "en": "Cherishing her husband",
-          "hi": "पति की देखभाल कर"
+          "word": "தற்கொண்டாற் <br>(Tharkondaar)",
+          "ta": "தன்னை மணந்த கணவனை",
+          "en": "Her husband",
+          "hi": "अपने पति की"
         },
         {
           "no": 3,
-          "word": "தகைசான்ற சொற்காத்து <br>(Thakaisaandra Sorkaaththu)",
-          "ta": "தகுதி மிக்க புகழைக் காத்து",
-          "en": "Preserving honourable fame",
-          "hi": "घर के यश की रक्षा कर"
+          "word": "பேணித் <br>(Penith)",
+          "ta": "போற்றிப் பாதுகாத்து",
+          "en": "Cherishing / caring for",
+          "hi": "देखभाल कर"
         },
         {
           "no": 4,
-          "word": "சோர்விலாள் பெண் <br>(Sorvilaal Pen)",
-          "ta": "சோர்வடையாதவளே சிறந்த பெண்",
-          "en": "Unwearying is a true woman",
-          "hi": "बिना थके रहने वाली ही श्रेष्ठ स्त्री है"
+          "word": "தகைசான்ற <br>(Thakaisaandra)",
+          "ta": "தகுதி மிக்க",
+          "en": "Worthy / honourable",
+          "hi": "श्रेष्ठ / मर्यादित"
+        },
+        {
+          "no": 5,
+          "word": "சொற்காத்துச் <br>(Sorkaaththuch)",
+          "ta": "புகழ்ச்சொல்லைக் காத்து",
+          "en": "Preserving good fame",
+          "hi": "यश की रक्षा कर"
+        },
+        {
+          "no": 6,
+          "word": "சோர்விலாள் <br>(Sorvilaal)",
+          "ta": "சோர்வு அடையாதவள்",
+          "en": "One who is unwearying",
+          "hi": "बिना थके रहने वाली"
+        },
+        {
+          "no": 7,
+          "word": "பெண் <br>(Pen)",
+          "ta": "சிறந்த பெண் ஆவாள்",
+          "en": "True woman",
+          "hi": "श्रेष्ठ स्त्री है"
         }
       ],
       "poetic": {
@@ -446,31 +572,52 @@
       "words": [
         {
           "no": 1,
-          "word": "சிறை காக்கும் காப்பு <br>(Sirai Kaakkum Kaappu)",
-          "ta": "அடைத்து வைத்துக் காக்கும் காவல்",
-          "en": "The guard of confinement",
-          "hi": "परकोटे और पहरे की रक्षा"
+          "word": "சிறைகாக்கும் <br>(Siraikaakkum)",
+          "ta": "அடைத்து வைத்துக் காக்கும்",
+          "en": "Confining / locking up",
+          "hi": "परकोटे में बंद रखने वाली"
         },
         {
           "no": 2,
-          "word": "எவன் செய்யும் <br>(Evan Seyyum)",
-          "ta": "என்ன பயன் செய்யும்",
-          "en": "Of what avail is it",
-          "hi": "क्या लाभ करेगी"
+          "word": "காப்பெவன் <br>(Kaappevan)",
+          "ta": "காவல் என்ன",
+          "en": "What avail is the guard",
+          "hi": "पहरे से क्या"
         },
         {
           "no": 3,
-          "word": "மகளிர் <br>(Makalir)",
-          "ta": "பெண்களின்",
-          "en": "Of women",
-          "hi": "स्त्री के लिए"
+          "word": "செய்யும் <br>(Seyyum)",
+          "ta": "பயன் செய்யும்",
+          "en": "Will it do / accomplish",
+          "hi": "रक्षा होगी"
         },
         {
           "no": 4,
-          "word": "நிறை காக்கும் காப்பே தலை <br>(Nirai Kaakkum Kaappe Thalai)",
-          "ta": "கற்பு நெறியால் காக்கும் காவலே சிறந்தது",
-          "en": "Guard of honour/chastity is chief",
-          "hi": "पातिव्रत्य की रक्षा ही सर्वोत्तम है"
+          "word": "மகளிர் <br>(Makalir)",
+          "ta": "பெண்கள்",
+          "en": "Women",
+          "hi": "स्त्री के लिए"
+        },
+        {
+          "no": 5,
+          "word": "நிறைகாக்கும் <br>(Niraikaakkum)",
+          "ta": "தம் கற்பு நிறையால் காக்கும்",
+          "en": "Self-guarding honour",
+          "hi": "पातिव्रत्य की रक्षा"
+        },
+        {
+          "no": 6,
+          "word": "காப்பே <br>(Kaappe)",
+          "ta": "காவலே",
+          "en": "Guard itself",
+          "hi": "रक्षा ही"
+        },
+        {
+          "no": 7,
+          "word": "தலை <br>(Thalai)",
+          "ta": "சிறந்தது / முதன்மையானது",
+          "en": "Is chief / foremost",
+          "hi": "सर्वोत्तम है"
         }
       ],
       "poetic": {
@@ -517,31 +664,52 @@
       "words": [
         {
           "no": 1,
-          "word": "பெற்றாற் பெறின் <br>(Petraar Perin)",
-          "ta": "தம்மைப் பெற்ற கணவனைப் போற்றினால்",
-          "en": "If true to him who gained her",
-          "hi": "यदि पति का सम्मान करें तो"
+          "word": "பெற்றாற் <br>(Petraar)",
+          "ta": "தம்மைப் பெற்ற கணவனை",
+          "en": "Him who gained her",
+          "hi": "अपने पति को"
         },
         {
           "no": 2,
-          "word": "பெறுவர் பெண்டிர் <br>(Peruvar Pendir)",
-          "ta": "பெண்கள் பெறுவார்கள்",
-          "en": "Women will attain",
-          "hi": "स्त्रियाँ पाती हैं"
+          "word": "பெறின்பெறுவர் <br>(Perinperuvar)",
+          "ta": "போற்றினால் பெறுவார்கள்",
+          "en": "If true, they will attain",
+          "hi": "पूजने पर पाती हैं"
         },
         {
           "no": 3,
-          "word": "பெருஞ்சிறப்பு <br>(Perunjirappu)",
+          "word": "பெண்டிர் <br>(Pendir)",
+          "ta": "பெண்கள்",
+          "en": "Women",
+          "hi": "नारियाँ"
+        },
+        {
+          "no": 4,
+          "word": "பெருஞ்சிறப்புப் <br>(Perunjirappup)",
           "ta": "பெரிய சிறப்பை",
           "en": "Great glory",
           "hi": "बड़ा सम्मान"
         },
         {
-          "no": 4,
-          "word": "புத்தேளிர் வாழும் உலகு <br>(Puththelir Vaazhum Ulaku)",
-          "ta": "தேவர்கள் வாழும் உலகில்",
-          "en": "In the world where gods dwell",
-          "hi": "स्वर्गलोक (सुरधाम) में"
+          "no": 5,
+          "word": "புத்தேளிர் <br>(Puththelir)",
+          "ta": "தேவர்கள்",
+          "en": "The gods",
+          "hi": "देवगण"
+        },
+        {
+          "no": 6,
+          "word": "வாழும் <br>(Vaazhum)",
+          "ta": "வாழ்கின்ற",
+          "en": "Where dwell",
+          "hi": "जहाँ रहते हैं"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulaku)",
+          "ta": "மேலுலகில்",
+          "en": "World / heaven",
+          "hi": "सुरधाम (स्वर्गलोक) में"
         }
       ],
       "poetic": {
@@ -588,31 +756,52 @@
       "words": [
         {
           "no": 1,
-          "word": "புகழ் புரிந்த இல் இலோர்க்கு <br>(Pukazh Purindha Il Ilorkku)",
-          "ta": "புகழை விரும்பும் மனைவி இல்லாதவர்க்கு",
-          "en": "To those without a praise-loving wife",
-          "hi": "जिसकी पत्नी को घर के यश का मान न हो"
+          "word": "புகழ்புரிந்த <br>(Pukazhpurindha)",
+          "ta": "புகழை விரும்பும்",
+          "en": "Delighting in virtue's praise",
+          "hi": "यश की चाह रखने वाली"
         },
         {
           "no": 2,
+          "word": "இல்லிலோர்க்கு <br>(Illilorkku)",
+          "ta": "மனைவி இல்லாதவர்க்கு",
+          "en": "To those without such a spouse",
+          "hi": "पत्नी के बिना"
+        },
+        {
+          "no": 3,
           "word": "இல்லை <br>(Illai)",
           "ta": "இல்லை",
           "en": "There is not",
           "hi": "नहीं होती"
         },
         {
-          "no": 3,
-          "word": "இகழ்வார் முன் <br>(Ikazhvaar Mun)",
-          "ta": "பழிப்பவர்கள் முன்னே",
+          "no": 4,
+          "word": "இகழ்வார்முன் <br>(Ikazhvaarmun)",
+          "ta": "இகழ்ந்து பேசுவார் முன்னே",
           "en": "Before scorners",
           "hi": "निंदकों के सामने"
         },
         {
-          "no": 4,
-          "word": "ஏறு போல் பீடு நடை <br>(Eru Pol Peedu Nadai)",
-          "ta": "ஆண் சிங்கம்போன்ற பெருமை நடை",
-          "en": "Majestic lion-like walk",
-          "hi": "सिंह के समान गर्वित चाल"
+          "no": 5,
+          "word": "ஏறுபோல் <br>(Erupol)",
+          "ta": "ஆண் சிங்கம்போல",
+          "en": "Like a lion",
+          "hi": "सिंह के समान"
+        },
+        {
+          "no": 6,
+          "word": "பீடு <br>(Peedu)",
+          "ta": "பெருமையோடு கூடிய",
+          "en": "Majestic / proud",
+          "hi": "गर्वित"
+        },
+        {
+          "no": 7,
+          "word": "நடை <br>(Nadai)",
+          "ta": "நடை",
+          "en": "Walk / gait",
+          "hi": "चाल / गति"
         }
       ],
       "poetic": {
@@ -659,38 +848,52 @@
       "words": [
         {
           "no": 1,
-          "word": "மங்கலம் என்ப <br>(Mangalam Enba)",
-          "ta": "மங்கலம் என்று கூறுவர்",
-          "en": "Men pronounce a blessing",
-          "hi": "घर का मंगल कहते हैं"
+          "word": "மங்கலம் <br>(Mangalam)",
+          "ta": "மங்கலம் (நல்வாழ்வு)",
+          "en": "Auspiciousness / blessing",
+          "hi": "मंगल / कल्याण"
         },
         {
           "no": 2,
+          "word": "என்ப <br>(Enba)",
+          "ta": "என்று கூறுவர்",
+          "en": "Men pronounce",
+          "hi": "कहते हैं"
+        },
+        {
+          "no": 3,
           "word": "மனைமாட்சி <br>(Manaimaatchi)",
           "ta": "மனைவியின் நற்பண்பே",
           "en": "Excellence of the wife",
           "hi": "गृहिणी के सद्गुणों को"
         },
         {
-          "no": 3,
-          "word": "மற்று அதன் <br>(Matru Adhan)",
+          "no": 4,
+          "word": "மற்றதன் <br>(Matradhan)",
           "ta": "அந்த மங்கலத்திற்கு",
           "en": "And its",
           "hi": "और उसका"
         },
         {
-          "no": 4,
+          "no": 5,
           "word": "நன்கலம் <br>(Nankalam)",
           "ta": "நல்ல அணிகலன்",
           "en": "Goodly ornament",
           "hi": "सुंदर आभूषण"
         },
         {
-          "no": 5,
-          "word": "நன்மக்கட் பேறு <br>(Nanmakkat Peru)",
-          "ta": "நல்ல மக்களைப் பெறுவதாகும்",
-          "en": "Gain of good children",
-          "hi": "सत्संतान की प्राप्ति है"
+          "no": 6,
+          "word": "நன்மக்கட் <br>(Nanmakkat)",
+          "ta": "நல்ல மக்களைப்",
+          "en": "Of blessed children",
+          "hi": "सत्संतान की"
+        },
+        {
+          "no": 7,
+          "word": "பேறு <br>(Peru)",
+          "ta": "பெறுவதாகும்",
+          "en": "Gain / obtaining",
+          "hi": "प्राप्ति है"
         }
       ],
       "poetic": {

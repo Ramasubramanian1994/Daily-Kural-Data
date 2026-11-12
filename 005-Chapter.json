@@ -20,31 +20,52 @@
       "words": [
         {
           "no": 1,
-          "word": "இல்வாழ்வான் என்பான் <br>(Ilvaazhvaan Enbaan)",
-          "ta": "இல்லறத்தில் வாழ்பவன் என்பவன்",
-          "en": "He who lives in the domestic state",
+          "word": "இல்வாழ்வான் <br>(Ilvaazhvaan)",
+          "ta": "இல்லறத்தில் வாழ்பவன்",
+          "en": "He who lives domestic life",
           "hi": "गृहस्थ जीवन जीने वाला"
         },
         {
           "no": 2,
-          "word": "இயல்புடைய மூவர்க்கும் <br>(Iyalbudaiya Moovarkkum)",
-          "ta": "தத்தம் இயல்பினையுடைய மூன்று ஆசிரமத்தார்க்கும்",
-          "en": "To the three orders of life",
-          "hi": "तीनों आश्रमों के लोगों के लिए"
+          "word": "என்பான் <br>(Enbaan)",
+          "ta": "எனப்படுபவன்",
+          "en": "Who is called",
+          "hi": "कहलाने वाला"
         },
         {
           "no": 3,
-          "word": "நல்லாற்றின் <br>(Nallaatrin)",
-          "ta": "நல்ல நெறியில்",
-          "en": "In the good path",
-          "hi": "श्रेष्ठ धर्म-मार्ग पर"
+          "word": "இயல்புடைய <br>(Iyalbudaiya)",
+          "ta": "தத்தம் இயல்பினையுடைய",
+          "en": "Having their natural duties",
+          "hi": "अपने धर्म का पालन करने वाले"
         },
         {
           "no": 4,
-          "word": "நின்ற துணை <br>(Nindra Thunai)",
-          "ta": "நிலைத்து நிற்கும் துணையாவான்",
-          "en": "Standing support / help",
-          "hi": "स्थिर सहायक / आश्रयदाता है"
+          "word": "மூவர்க்கும் <br>(Moovarkkum)",
+          "ta": "மூன்று ஆசிரமத்தார்க்கும்",
+          "en": "To the three orders",
+          "hi": "तीनों आश्रमों के लोगों का"
+        },
+        {
+          "no": 5,
+          "word": "நல்லாற்றின் <br>(Nallaatrin)",
+          "ta": "நல்ல நெறியில்",
+          "en": "In the good path",
+          "hi": "श्रेष्ठ मार्ग पर"
+        },
+        {
+          "no": 6,
+          "word": "நின்ற <br>(Nindra)",
+          "ta": "நிலைத்து நின்ற",
+          "en": "Standing firm",
+          "hi": "स्थिर"
+        },
+        {
+          "no": 7,
+          "word": "துணை <br>(Thunai)",
+          "ta": "துணையாவான்",
+          "en": "Support / help",
+          "hi": "आश्रयदाता / सहायक है"
         }
       ],
       "poetic": {
@@ -98,30 +119,44 @@
         },
         {
           "no": 2,
-          "word": "துவ்வாதவர்க்கும் <br>(Thuvvaadhavarkkum)",
-          "ta": "வறியவர்களுக்கும்",
-          "en": "To the indigent / destitute",
-          "hi": "दीन-निर्धनों को भी"
+          "word": "துவ்வா <br>(Thuvvaa)",
+          "ta": "உணவின்றி வருந்தும்",
+          "en": "Destitute / lacking food",
+          "hi": "दीन-दुखी"
         },
         {
           "no": 3,
+          "word": "தவர்க்கும் <br>(Dhavarkkum)",
+          "ta": "வறியவர்களுக்கும்",
+          "en": "To the indigent",
+          "hi": "निर्धनों को भी"
+        },
+        {
+          "no": 4,
           "word": "இறந்தார்க்கும் <br>(Irandhaarkkum)",
           "ta": "ஆதரவின்றி இறந்தவர்களுக்கும்",
           "en": "To those who have passed away",
           "hi": "आश्रयहीन मृतजनों को भी"
         },
         {
-          "no": 4,
-          "word": "இல்வாழ்வான் என்பான் <br>(Ilvaazhvaan Enbaan)",
-          "ta": "இல்லறத்தில் வாழ்பவனே",
+          "no": 5,
+          "word": "இல்வாழ்வான் <br>(Ilvaazhvaan)",
+          "ta": "இல்லறத்தில் வாழ்பவன்",
           "en": "The householder",
-          "hi": "गृहस्थ ही"
+          "hi": "गृहस्थ"
         },
         {
-          "no": 5,
+          "no": 6,
+          "word": "என்பான் <br>(Enbaan)",
+          "ta": "எனப்படுபவனே",
+          "en": "Who is famed",
+          "hi": "ही"
+        },
+        {
+          "no": 7,
           "word": "துணை <br>(Thunai)",
           "ta": "துணையாவான்",
-          "en": "Is the help and stay",
+          "en": "Help and stay",
           "hi": "रक्षक / सहायक है"
         }
       ],
@@ -261,38 +296,52 @@
       "words": [
         {
           "no": 1,
-          "word": "பழி அஞ்சி <br>(Pazhi Anji)",
+          "word": "பழியஞ்சிப் <br>(Pazhiyanjip)",
           "ta": "பழிபாவங்களுக்கு அஞ்சி",
           "en": "Fearing guilt / blame",
-          "hi": "पाप और निंदा से डरकर"
+          "hi": "पाप से डरकर"
         },
         {
           "no": 2,
-          "word": "பாத்து ஊண் உடைத்தாயின் <br>(Paaththu Oon Udaiththaayin)",
-          "ta": "பகுத்து உண்ணுதலை உடையதானால்",
-          "en": "If it has sharing of food",
-          "hi": "बाँटकर खाने वाला हो तो"
+          "word": "பாத்தூண் <br>(Paaththoon)",
+          "ta": "பகுத்து உண்ணுதலை",
+          "en": "Sharing one's meal",
+          "hi": "बाँटकर खाना"
         },
         {
           "no": 3,
+          "word": "உடைத்தாயின் <br>(Udaiththaayin)",
+          "ta": "உடையதாக இருந்தால்",
+          "en": "If it possesses",
+          "hi": "युक्त हो तो"
+        },
+        {
+          "no": 4,
           "word": "வாழ்க்கை <br>(Vaazhkkai)",
           "ta": "இல்வாழ்க்கையின்",
           "en": "Domestic life / lineage",
           "hi": "जीवन / वंश"
         },
         {
-          "no": 4,
-          "word": "வழி எஞ்சல் <br>(Vazhi Enjal)",
+          "no": 5,
+          "word": "வழியெஞ்சல் <br>(Vazhiyenjal)",
           "ta": "பரம்பரைக் குறைதல்",
           "en": "Failing / breaking of the line",
           "hi": "नष्ट होना"
         },
         {
-          "no": 5,
-          "word": "எஞ்ஞான்றும் இல் <br>(Enjnaandrum Il)",
-          "ta": "எக்காலத்திலும் இல்லை",
-          "en": "Never happens at any time",
-          "hi": "कभी नहीं होगा"
+          "no": 6,
+          "word": "எஞ்ஞான்றும் <br>(Enjnaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "At any time / ever",
+          "hi": "कभी भी"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Never happens",
+          "hi": "नहीं होगा"
         }
       ],
       "poetic": {
@@ -367,10 +416,24 @@
         },
         {
           "no": 5,
-          "word": "பண்பும் பயனும் அது <br>(Panbum Payanum Adhu)",
-          "ta": "தகுதியும் பயனும் அதுவே",
-          "en": "That is its grace and gain",
-          "hi": "गुण और सुफल वही है"
+          "word": "பண்பும் <br>(Panbum)",
+          "ta": "நற்பண்பும்",
+          "en": "Grace / quality",
+          "hi": "गुण"
+        },
+        {
+          "no": 6,
+          "word": "பயனும் <br>(Payanum)",
+          "ta": "பயனும்",
+          "en": "And gain / reward",
+          "hi": "और सुफल"
+        },
+        {
+          "no": 7,
+          "word": "அது <br>(Adhu)",
+          "ta": "அதுவே ஆகும்",
+          "en": "Is that itself",
+          "hi": "वही है"
         }
       ],
       "poetic": {
@@ -424,24 +487,45 @@
         },
         {
           "no": 2,
-          "word": "இல்வாழ்க்கை ஆற்றின் <br>(Ilvaazhkkai Aatrin)",
-          "ta": "இல்வாழ்க்கையை நடத்தினால்",
-          "en": "If one leads domestic life",
-          "hi": "गृहस्थ धर्म निभाए तो"
+          "word": "இல்வாழ்க்கை <br>(Ilvaazhkkai)",
+          "ta": "இல்வாழ்க்கையை",
+          "en": "Domestic life",
+          "hi": "गृहस्थ धर्म"
         },
         {
           "no": 3,
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "நடத்தினால்",
+          "en": "If one leads",
+          "hi": "निभाए तो"
+        },
+        {
+          "no": 4,
           "word": "புறத்தாற்றில் <br>(Puraththaatril)",
           "ta": "அதற்குப் புறம்பான நெறியில்",
           "en": "In other modes of life",
           "hi": "अन्य आश्रमों में"
         },
         {
-          "no": 4,
-          "word": "போஒய்ப் பெறுவது எவன் <br>(Pooyp Peruvadhu Evan)",
-          "ta": "சென்று பெறுவது என்ன",
-          "en": "What is there to gain by going",
-          "hi": "जाकर क्या प्राप्त करेगा"
+          "no": 5,
+          "word": "போஒய்ப் <br>(Pooyp)",
+          "ta": "சென்று",
+          "en": "By going",
+          "hi": "जाकर"
+        },
+        {
+          "no": 6,
+          "word": "பெறுவது <br>(Peruvadhu)",
+          "ta": "பெறக்கூடிய பயன்",
+          "en": "What is to be gained",
+          "hi": "क्या प्राप्त करेगा"
+        },
+        {
+          "no": 7,
+          "word": "எவன் <br>(Evan)",
+          "ta": "என்ன இருக்கிறது",
+          "en": "What is there",
+          "hi": "किसलिए"
         }
       ],
       "poetic": {
@@ -495,20 +579,41 @@
         },
         {
           "no": 2,
-          "word": "இல்வாழ்க்கை வாழ்பவன் என்பான் <br>(Ilvaazhkkai Vaazhbavan Enbaan)",
-          "ta": "இல்வாழ்க்கை வாழ்பவன்",
-          "en": "He who lives domestic life",
-          "hi": "गृहस्थ जीवन जीने वाला"
+          "word": "இல்வாழ்க்கை <br>(Ilvaazhkkai)",
+          "ta": "இல்வாழ்க்கையை",
+          "en": "Domestic life",
+          "hi": "गृहस्थ जीवन"
         },
         {
           "no": 3,
-          "word": "முயல்வாருள் எல்லாம் <br>(Muyalvaarul Ellaam)",
-          "ta": "முயற்சி செய்வோருள் எல்லாம்",
+          "word": "வாழ்பவன் <br>(Vaazhbavan)",
+          "ta": "வாழ்கின்றவன்",
+          "en": "He who lives",
+          "hi": "जीने वाला"
+        },
+        {
+          "no": 4,
+          "word": "என்பான் <br>(Enbaan)",
+          "ta": "எனப்படுபவன்",
+          "en": "Who is called",
+          "hi": "कहलाता है"
+        },
+        {
+          "no": 5,
+          "word": "முயல்வாருள் <br>(Muyalvaarul)",
+          "ta": "முயற்சி செய்வோருள்",
           "en": "Among all who strive",
           "hi": "सभी साधकों के मध्य"
         },
         {
-          "no": 4,
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாருள்ளும்",
+          "en": "All",
+          "hi": "सभी में"
+        },
+        {
+          "no": 7,
           "word": "தலை <br>(Thalai)",
           "ta": "முதன்மையானவன்",
           "en": "Foremost / head",
@@ -559,31 +664,52 @@
       "words": [
         {
           "no": 1,
-          "word": "ஆற்றின் ஒழுக்கி <br>(Aatrin Ozhukki)",
-          "ta": "மற்றவர்களை நல்வழியில் நடத்தி",
-          "en": "Guiding others in the path",
-          "hi": "सबको सन्मार्ग पर चलाकर"
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "நல்வழியில்",
+          "en": "In the right path",
+          "hi": "सुराह पर"
         },
         {
           "no": 2,
-          "word": "அறன் இழுக்கா இல்வாழ்க்கை <br>(Aran Izhukkaa Ilvaazhkkai)",
-          "ta": "அறம் தவறாத இல்வாழ்க்கை",
-          "en": "Domestic life not swerving from virtue",
-          "hi": "धर्म से न डिगने वाला गृहस्थ जीवन"
+          "word": "ஒழுக்கி <br>(Ozhukki)",
+          "ta": "மற்றவர்களை நடத்தி",
+          "en": "Setting / guiding others",
+          "hi": "चलाकर"
         },
         {
           "no": 3,
-          "word": "நோற்பாரின் <br>(Norpaarin)",
-          "ta": "தவம் செய்வோரின் தவத்தைவிட",
-          "en": "Than that of ascetics",
-          "hi": "तपस्वियों के तप से"
+          "word": "அறனிழுக்கா <br>(Aranizhukkaa)",
+          "ta": "அறம் தவறாத",
+          "en": "Not declining from virtue",
+          "hi": "धर्म से न डिगने वाला"
         },
         {
           "no": 4,
-          "word": "நோன்மை உடைத்து <br>(Nonmai Udaiththu)",
-          "ta": "மிகுந்த வலிமை உடையது",
-          "en": "Has greater strength / endurance",
-          "hi": "अधिक बलवान है"
+          "word": "இல்வாழ்க்கை <br>(Ilvaazhkkai)",
+          "ta": "இல்வாழ்க்கை",
+          "en": "Domestic life",
+          "hi": "गृहस्थ जीवन"
+        },
+        {
+          "no": 5,
+          "word": "நோற்பாரின் <br>(Norpaarin)",
+          "ta": "தவம் செய்வோரின் தவத்தைவிட",
+          "en": "Than stern ascetics' pains",
+          "hi": "तपस्वियों के तप से"
+        },
+        {
+          "no": 6,
+          "word": "நோன்மை <br>(Nonmai)",
+          "ta": "மிகுந்த வலிமை",
+          "en": "Greater strength / endurance",
+          "hi": "अधिक बल"
+        },
+        {
+          "no": 7,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உடையது",
+          "en": "Possesses",
+          "hi": "रखता है"
         }
       ],
       "poetic": {
@@ -630,36 +756,50 @@
       "words": [
         {
           "no": 1,
-          "word": "அறன் எனப்பட்டதே <br>(Aran Enappattadhe)",
-          "ta": "அறம் என்று சொல்லப்படுவதே",
-          "en": "That which is called virtue",
-          "hi": "जो धर्म कहलाता है"
+          "word": "அறனெனப் <br>(Aranenap)",
+          "ta": "அறம் என்று",
+          "en": "As virtue",
+          "hi": "धर्म"
         },
         {
           "no": 2,
-          "word": "இல்வாழ்க்கை <br>(Ilvaazhkkai)",
-          "ta": "இல்வாழ்க்கையே",
-          "en": "Is domestic life",
-          "hi": "वह गृहस्थ जीवन ही है"
+          "word": "பட்டதே <br>(Pattadhe)",
+          "ta": "சிறப்பித்துச் சொல்லப்படுவதே",
+          "en": "Rightly bears the name",
+          "hi": "कहलाता है"
         },
         {
           "no": 3,
+          "word": "இல்வாழ்க்கை <br>(Ilvaazhkkai)",
+          "ta": "இல்வாழ்க்கையே",
+          "en": "Domestic life",
+          "hi": "गृहस्थ जीवन ही"
+        },
+        {
+          "no": 4,
           "word": "அஃதும் <br>(Aqdhum)",
           "ta": "மற்றைய துறவறமும்",
           "en": "That other too",
           "hi": "और वह भी"
         },
         {
-          "no": 4,
-          "word": "பிறன் பழிப்பது இல்லாயின் <br>(Piran Pazhippadhu Illaayin)",
-          "ta": "பிறர் பழிப்பது இல்லையானால்",
-          "en": "If free from others' blame",
-          "hi": "जन-निंदा से रहित हो तो"
+          "no": 5,
+          "word": "பிறன்பழிப்ப <br>(Piranpazhippa)",
+          "ta": "பிறர் பழிப்பது",
+          "en": "Others' blame",
+          "hi": "जन-निंदा"
         },
         {
-          "no": 5,
+          "no": 6,
+          "word": "தில்லாயின் <br>(Dhillaayin)",
+          "ta": "இல்லாமல் இருந்தால்",
+          "en": "If free from",
+          "hi": "से रहित हो तो"
+        },
+        {
+          "no": 7,
           "word": "நன்று <br>(Nandru)",
-          "ta": "நல்லதே",
+          "ta": "நல்லதே ஆகும்",
           "en": "Is good",
           "hi": "अच्छा / श्रेष्ठ है"
         }
@@ -715,31 +855,45 @@
         },
         {
           "no": 2,
-          "word": "வாழ்வாங்கு வாழ்பவன் <br>(Vaazhvaangu Vaazhbavan)",
-          "ta": "வாழும் முறைப்படி வாழ்பவன்",
-          "en": "He who lives as one ought to live",
-          "hi": "धर्मनिष्ठा से जीने वाला"
+          "word": "வாழ்வாங்கு <br>(Vaazhvaangu)",
+          "ta": "வாழ வேண்டிய முறைப்படி",
+          "en": "As one ought to live",
+          "hi": "धर्मनिष्ठा से"
         },
         {
           "no": 3,
+          "word": "வாழ்பவன் <br>(Vaazhbavan)",
+          "ta": "வாழ்கின்றவன்",
+          "en": "He who lives",
+          "hi": "जीने वाला"
+        },
+        {
+          "no": 4,
           "word": "வானுறையும் <br>(Vaanuraiyum)",
           "ta": "வானுலகில் வாழும்",
           "en": "Dwelling in heaven",
           "hi": "स्वर्ग में रहने वाले"
         },
         {
-          "no": 4,
+          "no": 5,
           "word": "தெய்வத்துள் <br>(Dheivaththul)",
           "ta": "தேவர்களுள் ஒருவனாக",
           "en": "Among the gods",
           "hi": "देवगणों में"
         },
         {
-          "no": 5,
-          "word": "வைக்கப்படும் <br>(Vaikkapadum)",
-          "ta": "வைத்து மதிக்கப்படுவான்",
-          "en": "Will be placed / revered",
-          "hi": "सम्मान पावेगा"
+          "no": 6,
+          "word": "வைக்கப் <br>(Vaikkap)",
+          "ta": "வைத்து மதிக்கப்",
+          "en": "Placed / ranked",
+          "hi": "सम्मान"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படுவான்",
+          "en": "Will be",
+          "hi": "पावेगा"
         }
       ],
       "poetic": {

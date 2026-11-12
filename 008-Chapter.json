@@ -1,162 +1,162 @@
 {
   "chapterNum": 8,
   "nameTa": "அன்புடைமை",
-  "nameEn": "Possession of Love",
+  "nameEn": "The Possession of Love",
   "nameHi": "प्रेम-भाव",
   "paal": "அறத்துப்பால்",
   "iyal": "இல்லறவியல்",
   "kurals": [
     {
       "num": 71,
-      "line1": "அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலரின்",
-      "line2": "புன்கண்நீர் பூசல் தரும்.",
-      "enLine1": "Anbirkum Undoa Adaikkundhaazh Aarvalarin",
-      "enLine2": "Punkanneer Poosal Tharum.",
-      "hiLine1": "अन्बिर्क्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलरिऩ्",
-      "hiLine2": "पुऩ्कण्णीर् पूसल् तरुम्.",
-      "general": "அன்பிற்கும் அடைத்து வைக்கும் தாழ்ப்பாள் உண்டோ? அன்பிற்குரியவரின் துன்பத்தைக் காணும்போது கண்களில் பெருகும் கண்ணீரே அந்த அன்பை வெளிப்படுத்திவிடும்.",
-      "en": "Can any bolt shut in love? The trickling tears of affectionate friends will proclaim it abroad.",
-      "hi": "क्या प्रेम को किसी अर्गला (ताले) से बंद किया जा सकता है? अपनों का दुःख देखकर बहने वाले अश्रु ही हृदय के प्रेम को प्रकट कर देते हैं।",
+      "line1": "அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்",
+      "line2": "புன்கணீர் பூசல் தரும்.",
+      "enLine1": "And is there bar that can even love restrain?",
+      "enLine2": "The tiny tear shall make the lover's secret plain.",
+      "hiLine1": "अर्गल है क्या जो रखे, प्रेमी उर में प्यार ।",
+      "hiLine2": "घोषण करती साफ ही, तुच्छ नयन-जल-धार ॥",
+      "general": "அன்பை உள்ளே அடைத்து வைக்கக்கூடிய தாழ்ப்பாள் உண்டோ? அன்புடையவரின் துன்பத்தைக் காணும்போது கண்களில் வழியும் சிறிய கண்ணீரே அவருடைய அன்பைப் பலருக்கும் வெளிப்படுத்திவிடும்.",
+      "en": "Is there any fastening that can shut in love? Tears of affection from the loving will proclaim it aloud.",
+      "hi": "क्या कोई ऐसा बंधन या अर्गला है जो प्रेमी के हृदय में छिपे प्रेम को रोक सके? आँखों से बहने वाली छोटी-सी अश्रु-धारा ही उस प्रेम को स्पष्ट रूप से प्रकट कर देती है।",
       "words": [
         {
           "no": 1,
-          "word": "அன்பிற்கும் (Anbirkum)",
-          "ta": "உள்ளத்தில் உள்ள அன்பிற்கும்",
-          "en": "Even unto love",
-          "hi": "प्रेम के लिए भी"
+          "word": "அன்பிற்கும் <br>(Anbirkum)",
+          "ta": "அன்பிற்கும்",
+          "en": "Even for love",
+          "hi": "प्रेम को भी"
         },
         {
           "no": 2,
-          "word": "உண்டோ (Undoa)",
-          "ta": "உளதோ?",
-          "en": "Is there?",
-          "hi": "क्या है?"
+          "word": "உண்டோ <br>(Undoo)",
+          "ta": "உண்டோ (இருக்குமோ)",
+          "en": "Is there",
+          "hi": "क्या है"
         },
         {
           "no": 3,
-          "word": "அடைக்கும் தாழ் (Adaikkum Thaazh)",
+          "word": "அடைக்குந்தாழ் <br>(Adaikkundhaazh)",
           "ta": "அடைத்து வைக்கும் தாழ்ப்பாள்",
-          "en": "A bolt that shuts in",
-          "hi": "रोकने वाली अर्गला (कुंडी)"
+          "en": "A bolt / bar to shut in",
+          "hi": "रोकने वाली अर्गला"
         },
         {
           "no": 4,
-          "word": "ஆர்வலரின் (Aarvalarin)",
-          "ta": "அன்பிற்குரியவர்களின்",
-          "en": "Of affectionate friends",
-          "hi": "प्रियजनों के"
+          "word": "ஆர்வலர் <br>(Aarvalar)",
+          "ta": "அன்புடையவரின்",
+          "en": "Of loving ones",
+          "hi": "प्रेमी के"
         },
         {
           "no": 5,
-          "word": "புன்கண் நீர் (Punkanneer)",
+          "word": "புன்கணீர் <br>(PunkanNeer)",
           "ta": "துன்பத்தால் வரும் கண்ணீர்",
-          "en": "Tears of sorrow",
-          "hi": "दुःख के आँसू"
+          "en": "The tiny tear",
+          "hi": "तुच्छ नयन-जल-धार"
         },
         {
           "no": 6,
-          "word": "பூசல் தரும் (Poosal Tharum)",
-          "ta": "வெளிப்படுத்தி ஆரவாரம் செய்யும்",
-          "en": "Will proclaim it loudly",
-          "hi": "प्रकट कर देते हैं"
+          "word": "பூசல் <br>(Poosal)",
+          "ta": "வெளிப்படையாக அறிவித்து",
+          "en": "Proclaims / makes plain",
+          "hi": "घोषणा करती"
         },
         {
           "no": 7,
-          "word": "புன்கண் (Punkan)",
-          "ta": "துன்பம் / வறுமை",
-          "en": "Affliction",
-          "hi": "कष्ट"
+          "word": "தரும் <br>(Tharum)",
+          "ta": "விடும்",
+          "en": "Will give / reveal",
+          "hi": "साफ ही है"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலரின்",
-          "line2": "புன்கண்நீர் பூசல் தரும்."
+          "line1": "அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்",
+          "line2": "புன்கணீர் பூசல் தரும்."
         },
         "en": {
-          "line1": "And is there bar that can close up love's inward flame?",
-          "line2": "The tender tears of loving eyes its presence will proclaim."
+          "line1": "And is there bar that can even love restrain?",
+          "line2": "The tiny tear shall make the lover's secret plain."
         },
         "hi": {
-          "line1": "प्रेम-प्रवाह को कभी, क्या कोई रोके कील।",
-          "line2": "मित्र-दुःख से बह पड़े, आंसू बनते दलील ॥"
+          "line1": "अर्गल है क्या जो रखे, प्रेमी उर में प्यार ।",
+          "line2": "घोषण करती साफ ही, तुच्छ नयन-जल-धार ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Anbirkum Undoa Adaikkundhaazh Aarvalarin",
-            "line2": "Punkanneer Poosal Tharum."
+            "line1": "Anbirkum Undoo Adaikkundhaazh Aarvalar",
+            "line2": "PunkanNeer Poosal Tharum."
           },
           "hi": {
-            "line1": "अन्बिर्क्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलरिऩ्",
-            "line2": "पुऩ्कण्णीर् पूसल् तरुम्."
+            "line1": "अन्बिर्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्",
+            "line2": "पुन्कण्णीर् पूसल् तरुम्."
           }
         }
       },
       "explanation": {
-        "ta": "அன்பை மறைத்து வைக்க எந்தத் தாழ்ப்பாளாலும் முடியாது; அன்புடையவரின் துன்பத்தைக் கண்டதும் கண்களிலிருந்து வழியும் சிறு கண்ணீர்த் துளியே அதை உலகறியச் செய்துவிடும்.",
-        "en": "No door or lock can conceal genuine love; the sympathetic tear shed upon seeing a beloved in distress instantly reveals the heart's hidden tenderness.",
-        "hi": "हृदय के प्रेम को किसी भी पर्दे या कुंडी में छिपाया नहीं जा सकता; जब किसी आत्मीय को कष्ट में देखा जाता है, तो आँखों से छलकते हुए आँसू उस गुप्त प्रेम को सबके सामने उजागर कर देते हैं।"
+        "ta": "அன்பை உள்ளே அடைத்து வைக்கக்கூடிய தாழ்ப்பாள் உண்டோ? அன்புடையவரின் துன்பத்தைக் காணும்போது கண்களில் வழியும் சிறிய கண்ணீரே அவருடைய அன்பைப் பலருக்கும் வெளிப்படுத்திவிடும்.",
+        "en": "No lock can confine true love; even a small tear of sympathy reveals the depth of affection in one's heart.",
+        "hi": "क्या कोई ऐसा बंधन या अर्गला है जो प्रेमी के हृदय में छिपे प्रेम को रोक सके? आँखों से बहने वाली छोटी-सी अश्रु-धारा ही उस प्रेम को स्पष्ट रूप से प्रकट कर देती है।"
       }
     },
     {
       "num": 72,
       "line1": "அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்",
       "line2": "என்பும் உரியர் பிறர்க்கு.",
-      "enLine1": "Anbilaar Ellaam Thamakkuriyar Anbudaiyaar",
-      "enLine2": "Enbum Uriyar Pirarkku.",
-      "hiLine1": "अन्बिला़र् ऎल्लाम् तमक्कुरियर् अन्बुडैयार्",
-      "hiLine2": "ऎन्बुम् उरियर् पिऱर्क्कु.",
-      "general": "அன்பு இல்லாதவர்கள் எல்லாப் பொருட்களையும் தமக்கே உரியது என்று எண்ணுவர்; அன்பு உடையவர்களோ தம் உடம்பின் எலும்பையும் பிறர்க்கு உரியதாக்கி மகிழ்வர்.",
-      "en": "The loveless claim everything for themselves; but the loving yield even their very bones to the service of others.",
-      "hi": "जिनके हृदय में प्रेम नहीं होता, वे हर वस्तु केवल अपने लिए ही चाहते हैं; किंतु जो प्रेमवान होते हैं, वे अपनी अस्थियाँ (शरीर) भी दूसरों के हित के लिए समर्पित कर देते हैं।",
+      "enLine1": "The loveless to themselves belong alone;",
+      "enLine2": "The loving men are others' to the very bone.",
+      "hiLine1": "प्रेम-शून्य जन स्वार्थरत, साधें सब निज काम ।",
+      "hiLine2": "प्रेमी अन्यों के लिये, त्यागें हड्डी-चाम ॥",
+      "general": "அன்பு இல்லாதவர்கள் எல்லாப் பொருள்களையும் தமக்கே உரியனவாகக் கொள்வர்; அன்பு உடையவர்களோ தம் உடம்பையும் (எலும்பையும்) பிறர்க்கே உரியதாக்கி உதவுவர்.",
+      "en": "The loveless keep everything for themselves; the loving give even their very bones for the sake of others.",
+      "hi": "प्रेम-रहित स्वार्थी लोग सब कुछ केवल अपने ही लिए चाहते हैं, जबकि प्रेम से भरे व्यक्ति दूसरों की भलाई के लिए अपना शरीर (हड्डी-चाम) तक न्योछावर कर देते हैं।",
       "words": [
         {
           "no": 1,
-          "word": "அன்பிலார் (Anbilaar)",
+          "word": "அன்பிலார் <br>(Anbilaar)",
           "ta": "அன்பு இல்லாதவர்கள்",
           "en": "The loveless",
-          "hi": "प्रेम-रहित जन"
+          "hi": "प्रेम-शून्य जन"
         },
         {
           "no": 2,
-          "word": "எல்லாம் (Ellaam)",
-          "ta": "எல்லாப் பொருட்களையும்",
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாப் பொருள்களையும்",
           "en": "Everything",
           "hi": "सब कुछ"
         },
         {
           "no": 3,
-          "word": "தமக்கு உரியர் (Thamakkuriyar)",
-          "ta": "தமக்கே உரியது என்பர்",
-          "en": "Claim as their own",
-          "hi": "अपने लिए रखते हैं"
+          "word": "தமக்குரியர் <br>(Thamakuriyar)",
+          "ta": "தமக்கே உரியவர் ஆவர்",
+          "en": "Belong to themselves",
+          "hi": "अपने ही लिए रखते हैं"
         },
         {
           "no": 4,
-          "word": "அன்புடையார் (Anbudaiyaar)",
+          "word": "அன்புடையார் <br>(Anbudaiyaar)",
           "ta": "அன்பு உடையவர்கள்",
           "en": "The loving ones",
-          "hi": "प्रेमवान लोग"
+          "hi": "प्रेमी जन"
         },
         {
           "no": 5,
-          "word": "என்பும் (Enbum)",
-          "ta": "தம் உடம்பின் எலும்பையும் கூட",
-          "en": "Even their bones / body",
-          "hi": "अपनी अस्थियाँ भी"
+          "word": "என்பும் <br>(Enbum)",
+          "ta": "தம் எலும்பையும் (உடம்பையும்)",
+          "en": "Even their bones",
+          "hi": "हड्डी-चाम भी"
         },
         {
           "no": 6,
-          "word": "உரியர் (Uriyar)",
-          "ta": "உரியதாக்கித் தருவர்",
-          "en": "Yield up as belonging",
-          "hi": "अर्पित कर देते हैं"
+          "word": "உரியர் <br>(Uriyar)",
+          "ta": "உரியவர் ஆவர்",
+          "en": "Belong / dedicate",
+          "hi": "त्याग देते हैं"
         },
         {
           "no": 7,
-          "word": "பிறர்க்கு (Pirarkku)",
-          "ta": "மற்றவர்களுக்கு",
-          "en": "Unto others",
+          "word": "பிறர்க்கு <br>(Pirarkku)",
+          "ta": "பிறர்க்கே",
+          "en": "To others",
           "hi": "दूसरों के लिए"
         }
       ],
@@ -166,90 +166,90 @@
           "line2": "என்பும் உரியர் பிறர்க்கு."
         },
         "en": {
-          "line1": "The loveless to themselves alone belong in selfish pride;",
-          "line2": "The loving give their very bones to serve the world outside."
+          "line1": "The loveless to themselves belong alone;",
+          "line2": "The loving men are others' to the very bone."
         },
         "hi": {
-          "line1": "प्रेम-रहित जो जन रहें, सब पर अपना हक।",
-          "line2": "प्रेम-युक्त जो जन रहें, पर-हित अस्थि तलक ॥"
+          "line1": "प्रेम-शून्य जन स्वार्थरत, साधें सब निज काम ।",
+          "line2": "प्रेमी अन्यों के लिये, त्यागें हड्डी-चाम ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Anbilaar Ellaam Thamakkuriyar Anbudaiyaar",
+            "line1": "Anbilaar Ellaam Thamakuriyar Anbudaiyaar",
             "line2": "Enbum Uriyar Pirarkku."
           },
           "hi": {
-            "line1": "अन्बिला़र् ऎल्लाम् तमक्कुरियर् अन्बुडैयार्",
-            "line2": "ऎन्बुम् उरियर् पिऱर्क्कु."
+            "line1": "अन्बिलार् एल्लाम् तमक्कुरियर् अन्बुडैयार्",
+            "line2": "एन्बुम् उरियर् पिरर्क्कु."
           }
         }
       },
       "explanation": {
-        "ta": "அன்பற்ற சுயநலவாதிகள் எல்லாவற்றையும் தமக்கே உரியதாகப் பற்றிக்கொள்வர்; பிறரிடம் அன்பு பூண்டவர்களோ தம் எலும்பு, உடல் உள்ளிட்ட அனைத்தையும் பிறர் நன்மைக்காக மனமுவந்து அர்ப்பணிப்பர்.",
-        "en": "Men without love hoard every advantage for their narrow self, whereas compassionate souls gladly surrender even their physical beings for the upliftment of their fellows.",
-        "hi": "स्वार्थी लोग हर सुख-सुविधा पर केवल अपना अधिकार जताते हैं, जबकि सच्चे प्रेमी व परोपकारी व्यक्ति दूसरों की भलाई के लिए अपना सर्वस्व यहाँ तक कि अपनी देह भी न्योछावर कर देते हैं।"
+        "ta": "அன்பு இல்லாதவர்கள் எல்லாப் பொருள்களையும் தமக்கே உரியனவாகக் கொள்வர்; அன்பு உடையவர்களோ தம் உடம்பையும் (எலும்பையும்) பிறர்க்கே உரியதாக்கி உதவுவர்.",
+        "en": "Selfish people without love keep everything for themselves, while loving people dedicate even their very being to others.",
+        "hi": "प्रेम-रहित स्वार्थी लोग सब कुछ केवल अपने ही लिए चाहते हैं, जबकि प्रेम से भरे व्यक्ति दूसरों की भलाई के लिए अपना शरीर (हड्डी-चाम) तक न्योछावर कर देते हैं।"
       }
     },
     {
       "num": 73,
       "line1": "அன்போடு இயைந்த வழக்கென்ப ஆருயிர்க்கு",
       "line2": "என்போடு இயைந்த தொடர்பு.",
-      "enLine1": "Anbodu Iyaindha Vazhakkenba Aaruyirkku",
-      "enLine2": "Enbodu Iyaindha Thodarpu.",
-      "hiLine1": "अन्बोडु इयैन्द वऴक्केऩ्ब आरुयिर्क्कु",
-      "hiLine2": "ऎन्बोडु इयैन्द तॊडर्पु.",
-      "general": "அரிய உயிரானது உடம்போடு பொருந்தி வாழ்ந்து வரும் தொடர்பானது, இவ்வுலகில் பிறருடன் அன்போடு கூடி வாழும் நல்வழிக்காகவே என்று பெரியோர் கூறுவர்.",
-      "en": "They say that the soul's union with the body is for the sole purpose of walking in loving harmony with all beings.",
-      "hi": "विद्वानों का कहना है कि जीवात्मा का इस अस्थि-पंजर युक्त शरीर से जो संयोग हुआ है, उसका एकमात्र उद्देश्य संसार में प्रेमपूर्वक जीवन बिताना ही है।",
+      "enLine1": "Of precious soul with body's flesh and bone,",
+      "enLine2": "The union yields one fruit, the life of love alone.",
+      "hiLine1": "सिद्ध हुआ प्रिय जीव का, जो तन से संयोग ।",
+      "hiLine2": "मिलन-यत्न-फल प्रेम से, कहते हैं बुध लोग ॥",
+      "general": "அரிய உயிர்க்கு உடம்போடு ஏற்பட்ட தொடர்பானது, அன்போடு பொருந்தி வாழும் வாழ்க்கையின் பயனே என்று பெரியோர் கூறுவர்.",
+      "en": "The wise say that the union of the precious soul with the body is for the purpose of living in accordance with love.",
+      "hi": "बुद्धिमान लोग कहते हैं कि इस शरीर के साथ प्रिय जीव (आत्मा) का जो संयोग हुआ है, उसका वास्तविक फल प्रेमपूर्वक जीवन जीना ही है।",
       "words": [
         {
           "no": 1,
-          "word": "அன்போடு இயைந்த (Anbodu Iyaindha)",
-          "ta": "அன்போடு பொருந்திய",
-          "en": "Harmonious in love",
-          "hi": "प्रेम से युक्त"
+          "word": "அன்போடு <br>(Anbodu)",
+          "ta": "அன்போடு",
+          "en": "With love",
+          "hi": "प्रेम से"
         },
         {
           "no": 2,
-          "word": "வழக்கு என்ப (Vazhakku Enba)",
-          "ta": "இல்வாழ்க்கை நெறி என்பர்",
-          "en": "Is the rule of life, say they",
-          "hi": "जीवन-मार्ग कहते हैं"
+          "word": "இயைந்த <br>(Iyaindha)",
+          "ta": "பொருந்திய",
+          "en": "Harmonized / united",
+          "hi": "जुड़ा हुआ"
         },
         {
           "no": 3,
-          "word": "ஆர் உயிர்க்கு (Aar Uyirkku)",
-          "ta": "அரிய உயிர்க்கு",
-          "en": "To the precious soul",
-          "hi": "दुर्लभ जीवात्मा का"
+          "word": "வழக்கென்ப <br>(Vazhakkenba)",
+          "ta": "வாழ்க்கையின் பயன் என்பர்",
+          "en": "They say is the purpose/life",
+          "hi": "फल कहते हैं बुध लोग"
         },
         {
           "no": 4,
-          "word": "என்போடு இயைந்த (Enbodu Iyaindha)",
-          "ta": "எலும்போடு (உடலோடு) பொருந்திய",
-          "en": "United with bone / body",
-          "hi": "हड्डियों (देह) से जुड़ा"
+          "word": "ஆருயிர்க்கு <br>(Aaruyirkku)",
+          "ta": "அரிய உயிருக்கு",
+          "en": "For the precious soul",
+          "hi": "प्रिय जीव का"
         },
         {
           "no": 5,
-          "word": "தொடர்பு (Thodarpu)",
-          "ta": "தொடர்பான வாழ்வாகும்",
-          "en": "Connection",
-          "hi": "संबंध"
+          "word": "என்போடு <br>(Enbodu)",
+          "ta": "உடம்போடு (எலும்போடு)",
+          "en": "With the body/bone",
+          "hi": "तन से"
         },
         {
           "no": 6,
-          "word": "ஆர் (Aar)",
-          "ta": "அரிய",
-          "en": "Precious / rare",
-          "hi": "अमूल्य"
+          "word": "இயைந்த <br>(Iyaindha)",
+          "ta": "பொருந்திய",
+          "en": "Joined / united",
+          "hi": "हुआ"
         },
         {
           "no": 7,
-          "word": "என்பு (Enbu)",
-          "ta": "எலும்பு / உடல்",
-          "en": "Bone",
-          "hi": "अस्थि"
+          "word": "தொடர்பு <br>(Thodarbu)",
+          "ta": "தொடர்பு",
+          "en": "Union / connection",
+          "hi": "संयोग / मिलन"
         }
       ],
       "poetic": {
@@ -258,182 +258,182 @@
           "line2": "என்போடு இயைந்த தொடர்பு."
         },
         "en": {
-          "line1": "The union of the precious soul with earthly bone and frame,",
-          "line2": "Is meant to yield the fruit of love, in duty's righteous name."
+          "line1": "Of precious soul with body's flesh and bone,",
+          "line2": "The union yields one fruit, the life of love alone."
         },
         "hi": {
-          "line1": "जीवात्मा को देह से, मिला जो यह संबंध।",
-          "line2": "प्रेम-युक्त आचार हित, ज्ञानी कहें संबंध ॥"
+          "line1": "सिद्ध हुआ प्रिय जीव का, जो तन से संयोग ।",
+          "line2": "मिलन-यत्न-फल प्रेम से, कहते हैं बुध लोग ॥"
         },
         "transliteration": {
           "en": {
             "line1": "Anbodu Iyaindha Vazhakkenba Aaruyirkku",
-            "line2": "Enbodu Iyaindha Thodarpu."
+            "line2": "Enbodu Iyaindha Thodarbu."
           },
           "hi": {
-            "line1": "अन्बोडु इयैन्द वऴक्केऩ्ब आरुयिर्क्कु",
-            "line2": "ऎन्बोडु इयैन्द तॊडर्पु."
+            "line1": "अन्बोडु इयैन्द वऴक्कॆन्ब आरुयिर्क्कु",
+            "line2": "एन्बोडु इयैन्द तॊडर्बु."
           }
         }
       },
       "explanation": {
-        "ta": "அரிய ஆன்மா உடம்பைப் பெற்று இவ்வுலகில் வாழ்வதன் நோக்கமே, பிற எல்லா உயிர்களிடமும் அன்பைப் பகிர்ந்து உலக நன்மைக்காக வாழ்வதற்காகத்தான்.",
-        "en": "The noble union of an immortal soul with an earthly body has no higher justification than to experience and dispense the grace of love.",
-        "hi": "मनुष्य की आत्मा को यह नश्वर शरीर केवल इसलिए प्राप्त हुआ है ताकि वह सांसारिक जीवन में सभी प्राणियों के साथ प्रेम और करुणा का व्यवहार कर सके।"
+        "ta": "அரிய உயிர்க்கு உடம்போடு ஏற்பட்ட தொடர்பானது, அன்போடு பொருந்தி வாழும் வாழ்க்கையின் பயனே என்று பெரியோர் கூறுவர்.",
+        "en": "The very purpose of the soul's union with the human body is to live a life rooted in love.",
+        "hi": "बुद्धिमान लोग कहते हैं कि इस शरीर के साथ प्रिय जीव (आत्मा) का जो संयोग हुआ है, उसका वास्तविक फल प्रेमपूर्वक जीवन जीना ही है।"
       }
     },
     {
       "num": 74,
-      "line1": "அன்பீனும் ஆர்வ உடைமை அதுஈனும்",
+      "line1": "அன்பீனும் ஆர்வம் உடைமை அதுஈனும்",
       "line2": "நண்பென்னும் நாடாச் சிறப்பு.",
-      "enLine1": "Anbeenum Aarva Udaimai Adhueenum",
-      "enLine2": "Nanbennum Naadaach Chirappu.",
-      "hiLine1": "अन्बीऩुम् आर्व उडैमै अदुईऩुम्",
-      "hiLine2": "नण्बॆऩ्ऩुम् नाडाच् चिरप्पु.",
-      "general": "அன்பானது அனைவரிடத்தும் விருப்பத்தை உண்டாக்கும்; அந்த விருப்பமானது யாவரிடமும் அளவற்ற நட்பு என்னும் ஈடற்ற பெரும் சிறப்பை உண்டாக்கும்.",
-      "en": "Love begets yearning desire for mutual fellowship; and that yearning brings forth the priceless blessing of universal friendship.",
-      "hi": "प्रेम से सबके प्रति अनुराग उत्पन्न होता है, और वही अनुराग अंततः विश्व-मैत्री रूपी अनमोल और दुर्लभ प्रतिष्ठा को जन्म देता है।",
+      "enLine1": "From love fond yearning springs for union sweet of minds;",
+      "enLine2": "And that the bond of rare excelling friendship binds.",
+      "hiLine1": "मिलनसार के भाव को, जनन करेगा प्रेम ।",
+      "hiLine2": "वह मैत्री को जन्म दे, जो है उत्तम क्षेम ॥",
+      "general": "அன்பு, பிறரிடம் விருப்பம் கொள்ளும் பண்பைத் தரும்; அந்த விருப்பம் எல்லோரிடமும் நட்பு என்னும் அளவற்ற சிறப்பைத் தரும்.",
+      "en": "Love begets desire (for union with others), and that desire begets the immeasurable excellence of friendship.",
+      "hi": "प्रेम हृदय में मिलनसारिता और आत्मीयता का भाव उत्पन्न करता है, और वह आत्मीयता ऐसी उत्तम मैत्री को जन्म देती है जो परम कल्याणकारी होती है।",
       "words": [
         {
           "no": 1,
-          "word": "அன்பு ஈனும் (Anbu Eenum)",
-          "ta": "அன்பானது உண்டாக்கும்",
-          "en": "Love produces",
+          "word": "அன்பீனும் <br>(Anbeenum)",
+          "ta": "அன்பு உண்டாக்கும்",
+          "en": "Love begets",
           "hi": "प्रेम उत्पन्न करता है"
         },
         {
           "no": 2,
-          "word": "ஆர்வ உடைமை (Aarva Udaimai)",
-          "ta": "அனைவரிடத்தும் உண்டாகும் விருப்பத்தை",
-          "en": "Affectionate desire",
-          "hi": "स्नेह व अनुराग"
+          "word": "ஆர்வம் <br>(Aarvam)",
+          "ta": "பிறரிடம் விருப்பம்",
+          "en": "Fond yearning / affection",
+          "hi": "मिलनसार का भाव"
         },
         {
           "no": 3,
-          "word": "அது ஈனும் (Adhu Eenum)",
-          "ta": "அந்த விருப்பமானது தரும்",
-          "en": "That yields",
-          "hi": "वह प्रदान करता है"
+          "word": "உடைமை <br>(Udaimai)",
+          "ta": "உடையவராதலை",
+          "en": "Possessing",
+          "hi": "होना"
         },
         {
           "no": 4,
-          "word": "நண்பு என்னும் (Nanbu Ennum)",
-          "ta": "நட்பு என்று சொல்லப்படும்",
-          "en": "Called friendship",
-          "hi": "मित्रता रूपी"
+          "word": "அதுஈனும் <br>(Adhueenum)",
+          "ta": "அந்த ஆர்வம் உண்டாக்கும்",
+          "en": "That begets",
+          "hi": "वह जन्म देता है"
         },
         {
           "no": 5,
-          "word": "நாடாச் சிறப்பு (Naadaach Chirappu)",
-          "ta": "தேடிப் பெற முடியாத பெருஞ்சிறப்பை",
-          "en": "Inestimable excellence",
-          "hi": "अतुलनीय महिमा"
+          "word": "நண்பென்னும் <br>(Nanbennum)",
+          "ta": "நட்பு என்று சொல்லப்படும்",
+          "en": "Called friendship",
+          "hi": "मैत्री नामक"
         },
         {
           "no": 6,
-          "word": "ஆர்வ (Aarva)",
-          "ta": "ஆசை / பற்று",
-          "en": "Desire / yearning",
-          "hi": "चाव"
+          "word": "நாடாச் <br>(Naadaach)",
+          "ta": "அளவிட முடியாத",
+          "en": "Unmeasurable / rare",
+          "hi": "उत्तम"
         },
         {
           "no": 7,
-          "word": "நண்பு (Nanbu)",
-          "ta": "நட்புத்தன்மை",
-          "en": "Friendliness",
-          "hi": "मैत्री"
+          "word": "சிறப்பு <br>(Sirappu)",
+          "ta": "சிறப்பை",
+          "en": "Excellence",
+          "hi": "कल्याण / श्रेष्ठता को"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "அன்பீனும் ஆர்வ உடைமை அதுஈனும்",
+          "line1": "அன்பீனும் ஆர்வம் உடைமை அதுஈனும்",
           "line2": "நண்பென்னும் நாடாச் சிறப்பு."
         },
         "en": {
-          "line1": "Love begets fond desire which draws all hearts allied;",
-          "line2": "And from that fond desire springs friend-worth far and wide."
+          "line1": "From love fond yearning springs for union sweet of minds;",
+          "line2": "And that the bond of rare excelling friendship binds."
         },
         "hi": {
-          "line1": "प्रेम भाव उपजा रहा, सब जीवों से चाह।",
-          "line2": "वह उपजाता मित्रता, जिसकी नहीं अथाह ॥"
+          "line1": "मिलनसार के भाव को, जनन करेगा प्रेम ।",
+          "line2": "वह मैत्री को जन्म दे, जो है उत्तम क्षेम ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Anbeenum Aarva Udaimai Adhueenum",
-            "line2": "Nanbennum Naadaach Chirappu."
+            "line1": "Anbeenum Aarvam Udaimai Adhueenum",
+            "line2": "Nanbennum Naadaach Sirappu."
           },
           "hi": {
-            "line1": "अन्बीऩुम् आर्व उडैमै अदुईऩुम्",
-            "line2": "नण्बॆऩ्ऩुम् नाडाच् चिरप्पु."
+            "line1": "अन्बीनुम् आर्वम् उडैमै अदुईनुम्",
+            "line2": "नण्बॆन्नुम् नाडाच् सिरप्पु."
           }
         }
       },
       "explanation": {
-        "ta": "உள்ளத்தில் சுரக்கும் அன்பானது பிறரிடத்தில் ஈர்ப்பையும் விருப்பத்தையும் தோற்றுவிக்கும்; அந்த விருப்பம் எல்லைகளற்ற நட்புறவு என்ற இணையற்ற பெருஞ்சிறப்பைத் தரும்.",
-        "en": "From genuine love blossoms a deep and earnest regard for others, and this regard ripens into the sublime excellence of universal amity.",
-        "hi": "प्रेम से दूसरों के प्रति आत्मीयता का भाव पनपता है, और यही आत्मीयता मनुष्य को सच्ची मित्रता तथा सर्वप्रिय होने का अनुपम सम्मान दिलाती है।"
+        "ta": "அன்பு, பிறரிடம் விருப்பம் கொள்ளும் பண்பைத் தரும்; அந்த விருப்பம் எல்லோரிடமும் நட்பு என்னும் அளவற்ற சிறப்பைத் தரும்.",
+        "en": "Love nurtures warmth and care toward others, which in turn blossoms into the priceless treasure of true friendship.",
+        "hi": "प्रेम हृदय में मिलनसारिता और आत्मीयता का भाव उत्पन्न करता है, और वह आत्मीयता ऐसी उत्तम मैत्री को जन्म देती है जो परम कल्याणकारी होती है।"
       }
     },
     {
       "num": 75,
       "line1": "அன்புற்று அமர்ந்த வழக்கென்ப வையகத்து",
       "line2": "இன்புற்றார் எய்தும் சிறப்பு.",
-      "enLine1": "Anbutru Amarndha Vazhakkenba Vaiyakaththu",
-      "enLine2": "Inbutraar Eydhum Sirappu.",
-      "hiLine1": "अन्बुट्रु अमर्न्द वऴक्केऩ्ब वैयकत्तु",
-      "hiLine2": "इन्बुट्रार् ऎय्दुम् चिरप्पु.",
-      "general": "இவ்வுலகத்தில் வாழ்ந்து இன்பம் அடைந்தவர்கள் பெற்ற அந்தச் சிறப்பானது, அவர்கள் முற்பிறவியில் பிறரிடம் அன்புகொண்டு வாழ்ந்ததன் பயனே என்று அறிஞர் கூறுவர்.",
-      "en": "The blessed state enjoyed by those who taste true joy on earth is said to be the fruit of having walked in love in former days.",
-      "hi": "इस संसार में जो लोग सुख और सम्मान का जीवन बिताते हैं, वह उनके द्वारा पूर्व में प्रेमपूर्ण धर्म-मार्ग पर चलने का ही सुफल कहा जाता है।",
+      "enLine1": "Sweetness on earth and rarest bliss above,",
+      "enLine2": "These are the fruits of tranquil life of love.",
+      "hiLine1": "इहलौकिक सुख भोगते, निश्रेयस का योग ।",
+      "hiLine2": "प्रेमपूर्ण गार्हस्थ्य का, फल मानें बुध लोग ॥",
+      "general": "இவ்வுலகத்தில் இன்பம் அடைந்தவர் பெறும் சிறப்பு என்பது, அன்போடு பொருந்தி வாழ்ந்த வாழ்க்கையின் பயனே என்று பெரியோர் கூறுவர்.",
+      "en": "The bliss enjoyed in heaven by those who have lived happily in this world is the fruit of a life devoted to love.",
+      "hi": "बुद्धिमान लोग कहते हैं कि इस संसार के सुख और परलोक के परम कल्याण (निःश्रेयस) की प्राप्ति प्रेमपूर्ण गृहस्थ जीवन का ही सुफल है।",
       "words": [
         {
           "no": 1,
-          "word": "அன்புற்று (Anbutru)",
-          "ta": "அன்பு பூண்டு",
-          "en": "Having attained love",
-          "hi": "प्रेम से युक्त होकर"
+          "word": "அன்புற்று <br>(Anbutru)",
+          "ta": "அன்பு கொண்டு",
+          "en": "Possessing love",
+          "hi": "प्रेमपूर्ण होकर"
         },
         {
           "no": 2,
-          "word": "அமர்ந்த (Amarndha)",
+          "word": "அமர்ந்த <br>(Amarndha)",
           "ta": "பொருந்தி வாழ்ந்த",
-          "en": "Settled / established",
-          "hi": "स्थिर हुआ"
+          "en": "Tranquil / settled",
+          "hi": "बसे हुए"
         },
         {
           "no": 3,
-          "word": "வழக்கு என்ப (Vazhakku Enba)",
-          "ta": "அறநெறியின் பயன் என்பர்",
-          "en": "Is the result of that way, say they",
-          "hi": "जीवन-क्रम कहते हैं"
+          "word": "வழக்கென்ப <br>(Vazhakkenba)",
+          "ta": "வாழ்க்கையின் பயன் என்பர்",
+          "en": "They say is the fruit of life",
+          "hi": "फल कहते हैं बुध लोग"
         },
         {
           "no": 4,
-          "word": "வையகத்து (Vaiyakaththu)",
-          "ta": "இவ்வுலகத்தின்கண்",
-          "en": "In this world",
-          "hi": "इस पृथ्वी पर"
+          "word": "வையகத்து <br>(Vaiyakaththu)",
+          "ta": "இவ்வுலகத்தில்",
+          "en": "On earth",
+          "hi": "इहलोक में"
         },
         {
           "no": 5,
-          "word": "இன்புற்றார் (Inbutraar)",
-          "ta": "இன்பம் அடைந்தவர்கள்",
-          "en": "Those who have gained happiness",
-          "hi": "सुखी मनुष्य"
+          "word": "இன்புற்றார் <br>(Inbutraar)",
+          "ta": "இன்புற்று வாழ்ந்தவர்",
+          "en": "Those who enjoyed bliss",
+          "hi": "सुख भोगने वाले"
         },
         {
           "no": 6,
-          "word": "எய்தும் (Eydhum)",
-          "ta": "பெறுகின்ற",
-          "en": "Attained",
-          "hi": "पाते हैं"
+          "word": "எய்தும் <br>(Eydhum)",
+          "ta": "அடையும்",
+          "en": "Attain",
+          "hi": "प्राप्त करते हैं"
         },
         {
           "no": 7,
-          "word": "சிறப்பு (Sirappu)",
-          "ta": "மேலான பெருஞ்சிறப்பு",
-          "en": "Glory / excellence",
-          "hi": "महान फल"
+          "word": "சிறப்பு <br>(Sirappu)",
+          "ta": "பேரின்பச் சிறப்பு",
+          "en": "Rarest bliss / glory",
+          "hi": "निःश्रेयस (परम कल्याण)"
         }
       ],
       "poetic": {
@@ -442,12 +442,12 @@
           "line2": "இன்புற்றார் எய்தும் சிறப்பு."
         },
         "en": {
-          "line1": "The bliss of those who taste true peace upon the earthly plain,",
-          "line2": "Is but the fruit of loving deeds that with them still remain."
+          "line1": "Sweetness on earth and rarest bliss above,",
+          "line2": "These are the fruits of tranquil life of love."
         },
         "hi": {
-          "line1": "इस जग में जो भी मनुज, भोगे सुख-संभार।",
-          "line2": "प्रेम-युक्त आचार का, है यह फल साकार ॥"
+          "line1": "इहलौकिक सुख भोगते, निश्रेयस का योग ।",
+          "line2": "प्रेमपूर्ण गार्हस्थ्य का, फल मानें बुध लोग ॥"
         },
         "transliteration": {
           "en": {
@@ -455,77 +455,77 @@
             "line2": "Inbutraar Eydhum Sirappu."
           },
           "hi": {
-            "line1": "अन्बुट्रु अमर्न्द वऴक्केऩ्ब वैयकत्तु",
-            "line2": "इन्बुट्रार् ऎय्दुम् चिरप्पु."
+            "line1": "अन्बुत्रु अमर्न्द वऴक्कॆन्ब वैयगत्तु",
+            "line2": "इन्बुत्रार् एय्दुम् सिरप्पु."
           }
         }
       },
       "explanation": {
-        "ta": "இப்பூவுலகில் நல்வாழ்வும் பேரின்பமும் எய்தியவர்கள் பெற்ற அந்த மேன்மையானது, அவர்கள் அன்போடு ஒன்றி வாழ்ந்த நல்வாழ்க்கை முறையால் விளைந்த நற்பயனேயாகும்.",
-        "en": "The felicitous condition of mortals who enjoy uninterrupted peace and prosperity on earth is the direct recompense of an affectionate, benevolent lifestyle.",
-        "hi": "इस संसार में जो लोग शांति और सुखमय जीवन का उपभोग कर रहे हैं, वह किसी दैवीय कृपा मात्र से नहीं बल्कि उनके प्रेमपूर्ण व्यवहार और सत्कर्मों का ही स्वाभाविक परिणाम है।"
+        "ta": "இவ்வுலகத்தில் இன்பம் அடைந்தவர் பெறும் சிறப்பு என்பது, அன்போடு பொருந்தி வாழ்ந்த வாழ்க்கையின் பயனே என்று பெரியோர் கூறுவர்.",
+        "en": "Joy in this world and supreme bliss in the next are the natural rewards of a peaceful life lived in love.",
+        "hi": "बुद्धिमान लोग कहते हैं कि इस संसार के सुख और परलोक के परम कल्याण (निःश्रेयस) की प्राप्ति प्रेमपूर्ण गृहस्थ जीवन का ही सुफल है।"
       }
     },
     {
       "num": 76,
       "line1": "அறத்திற்கே அன்புசார் பென்ப அறியார்",
       "line2": "மறத்திற்கும் அஃதே துணை.",
-      "enLine1": "Araththirkae Anbusaar Penba Ariyaar",
-      "enLine2": "Maraththirkum Ahdhae Thunai.",
-      "hiLine1": "अऱत्तिर्के अन्बुसार् पॆन्ब अऱियार्",
-      "hiLine2": "मऱत्तिर्क्कुम् अஃदे तुणै.",
-      "general": "அன்பு அறச்செயல்களுக்கு மட்டுமே துணையானது என்று அறிவில்லாதவர்கள் கூறுவர்; ஆராய்ந்து பார்த்தால் மறத்தை (வீரத்தை / தீமையை) வெல்வதற்கும் அந்த அன்பே சிறந்த துணையாகும்.",
-      "en": "The ignorant say that love is an ally only to virtue; but it is also the mightiest weapon against vice and wrath.",
-      "hi": "अज्ञानी लोग कहते हैं कि प्रेम केवल धर्म का ही साधन है; किंतु विचार करें तो पाप और वैर-भाव को शांत करने में भी प्रेम ही सबसे बड़ा सहायक है।",
+      "enLine1": "The unwise deem love virtue only can sustain,",
+      "enLine2": "It also helps the man who evil would restrain.",
+      "hiLine1": "साथी केवल धर्म का, मानेंप्रेम, अजान ।",
+      "hiLine2": "त्राण करे वह प्रेम ही, अधर्म से भी जान ॥",
+      "general": "அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று அறியாதவர்கள் கூறுவர்; ஆராய்ந்து பார்த்தால், பாவம் (மறம்) நிகழாமல் தடுப்பதற்கும் அந்த அன்பே துணையாகும்.",
+      "en": "The ignorant say that love is an ally to virtue only; it is also a help to restrain one from vice.",
+      "hi": "अज्ञानी लोग प्रेम को केवल धर्म का ही साथी मानते हैं, परंतु जान लो कि वही प्रेम मनुष्य को अधर्म (पाप) से भी बचाता है।",
       "words": [
         {
           "no": 1,
-          "word": "அறத்திற்கே (Araththirkae)",
-          "ta": "அறச்செயலுக்கு மட்டுமே",
-          "en": "To virtue alone",
-          "hi": "धर्म के लिए ही"
+          "word": "அறத்திற்கே <br>(Araththirkke)",
+          "ta": "அறத்திற்கு மட்டுமே",
+          "en": "To virtue only",
+          "hi": "केवल धर्म का ही"
         },
         {
           "no": 2,
-          "word": "அன்பு சார்பு என்ப (Anbu Saarpu Enba)",
-          "ta": "அன்பு துணையானது என்று கூறுவர்",
-          "en": "Say that love is a helper",
-          "hi": "प्रेम सहायक है कहते हैं"
+          "word": "அன்புசார் <br>(Anbusaar)",
+          "ta": "அன்பு துணையாகும்",
+          "en": "Love is the support",
+          "hi": "प्रेम साथी है"
         },
         {
           "no": 3,
-          "word": "அறியார் (Ariyaar)",
-          "ta": "மெய்யறிவு இல்லாதவர்",
-          "en": "The ignorant",
-          "hi": "अज्ञानी जन"
+          "word": "பென்ப <br>(Benba)",
+          "ta": "என்று கூறுவர்",
+          "en": "They say",
+          "hi": "मानते हैं"
         },
         {
           "no": 4,
-          "word": "மறத்திற்கும் (Maraththirkum)",
-          "ta": "வீரத்திற்கும் / தீமையை நீக்குவதற்கும்",
-          "en": "Even unto wrath / valor",
-          "hi": "शत्रुता व अधर्म को जीतने में"
+          "word": "அறியார் <br>(Ariyaar)",
+          "ta": "அறியாதவர்கள்",
+          "en": "The unwise / ignorant",
+          "hi": "अजान (अज्ञानी)"
         },
         {
           "no": 5,
-          "word": "அஃதே (Ahdhae)",
-          "ta": "அந்த அன்பே தான்",
-          "en": "That very love",
-          "hi": "वह प्रेम ही"
+          "word": "மறத்திற்கும் <br>(Maraththirkum)",
+          "ta": "மறத்தை (தீமையை) நீக்கவும்",
+          "en": "Against evil / vice too",
+          "hi": "अधर्म से भी"
         },
         {
           "no": 6,
-          "word": "துணை (Thunai)",
-          "ta": "உற்ற துணையாகும்",
-          "en": "Is the true ally",
-          "hi": "सच्चा सहायक है"
+          "word": "அஃதே <br>(Aqdhe)",
+          "ta": "அந்த அன்பே",
+          "en": "That very love",
+          "hi": "वही प्रेम"
         },
         {
           "no": 7,
-          "word": "மறம் (Maram)",
-          "ta": "வீரம் / பாவம்",
-          "en": "Wrath / Vice / Valor",
-          "hi": "कठोरता / वैर"
+          "word": "துணை <br>(Thunai)",
+          "ta": "துணையாகும்",
+          "en": "Is the helper / support",
+          "hi": "रक्षा / त्राण करता है"
         }
       ],
       "poetic": {
@@ -534,90 +534,90 @@
           "line2": "மறத்திற்கும் அஃதே துணை."
         },
         "en": {
-          "line1": "'Love is for virtue's help alone,' the foolish mortals say;",
-          "line2": "Against the force of hatred too, love is the surest stay."
+          "line1": "The unwise deem love virtue only can sustain,",
+          "line2": "It also helps the man who evil would restrain."
         },
         "hi": {
-          "line1": "धर्म-कर्म का प्रेम ही, अज्ञानी कहें अंग।",
-          "line2": "शत्रु-नाश भी प्रेम से, होता है निःशंक ॥"
+          "line1": "साथी केवल धर्म का, मानेंप्रेम, अजान ।",
+          "line2": "त्राण करे वह प्रेम ही, अधर्म से भी जान ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Araththirkae Anbusaar Penba Ariyaar",
-            "line2": "Maraththirkum Ahdhae Thunai."
+            "line1": "Araththirkke Anbusaar Benba Ariyaar",
+            "line2": "Maraththirkum Aqdhe Thunai."
           },
           "hi": {
-            "line1": "अऱत्तिर्के अन्बुसार् पॆन्ब अऱियार्",
-            "line2": "मऱत्तिर्क्कुम् अஃदे तुणै."
+            "line1": "अरत्तिर्क्के अन्बुसार् बॆन्ब अरियार्",
+            "line2": "मरत्तिर्कुम् अक़्दे तुणै."
           }
         }
       },
       "explanation": {
-        "ta": "அன்பானது நற்செயல்களுக்கு மட்டுமே துணை நிற்கும் என்று அறியாதவர்கள் சொல்வர்; உண்மையில் கொடுமையையும் பகையையும் வென்று நீக்குவதற்கும் அன்பே ஆற்றல் வாய்ந்த கருவியாக அமைகிறது.",
-        "en": "Only the unenlightened imagine that love serves righteousness alone; in reality, love is equally potent in conquering hostility, subduing wrath, and inspiring true valor.",
-        "hi": "अल्पज्ञानी लोग समझते हैं कि प्रेम केवल पुण्य-कर्मों में ही काम आता है; किंतु सच्चाई यह है कि क्रूरता, शत्रुता और अन्याय पर विजय प्राप्त करने का सबसे अचूक अस्त्र भी प्रेम ही है।"
+        "ta": "அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று அறியாதவர்கள் கூறுவர்; ஆராய்ந்து பார்த்தால், பாவம் (மறம்) நிகழாமல் தடுப்பதற்கும் அந்த அன்பே துணையாகும்.",
+        "en": "Only the naive think love supports good deeds alone; love equally protects a person by restraining them from wrongdoing.",
+        "hi": "अज्ञानी लोग प्रेम को केवल धर्म का ही साथी मानते हैं, परंतु जान लो कि वही प्रेम मनुष्य को अधर्म (पाप) से भी बचाता है।"
       }
     },
     {
       "num": 77,
       "line1": "என்பி லதனை வெயில்போலக் காயுமே",
       "line2": "அன்பி லதனை அறம்.",
-      "enLine1": "Enbi Ladhanai Veyilpoalak Kaayumae",
-      "enLine2": "Anbi Ladhanai Aram.",
-      "hiLine1": "ऎन्बि लदऩै वॆयिल्पोलक् कायुमे",
-      "hiLine2": "अन्बि लदऩै अऱम्.",
-      "general": "எலும்பு இல்லாத புழு போன்ற உயிர்களை வெயில் சுட்டெரிப்பது போல, உள்ளத்தில் அன்பு இல்லாத மனிதனை அறக்கடவுள் வதைத்து அழிக்கும்.",
-      "en": "As the hot sun scorches the boneless worm, so does virtue burn and torment the loveless man.",
-      "hi": "जिस प्रकार प्रचंड धूप हड्डियों से रहित कीड़े (केंचुए आदि) को सुखाकर नष्ट कर देती है, उसी प्रकार धर्मदेव प्रेम-रहित मनुष्य को भस्म कर देता है।",
+      "enLine1": "As sun's fierce ray dries up the boneless things,",
+      "enLine2": "So loveless beings virtue's power to nothing brings.",
+      "hiLine1": "कीड़े अस्थिविहीन को, झुलसेगा ज्यों घर्म ।",
+      "hiLine2": "प्राणी प्रेम विहीन को, भस्म करेगा धर्म ॥",
+      "general": "எலும்பு இல்லாத புழுவை வெயில் சுட்டு வருத்துவதைப்போல, அன்பு இல்லாத உயிர்களை அறக்கடவுள் வருத்தும்.",
+      "en": "As the sun dries up the boneless worm, so does virtue burn up the soul that is without love.",
+      "hi": "जिस प्रकार तेज धूप हड्डी-रहित कीड़े को झुलसाकर नष्ट कर देती है, उसी प्रकार धर्म भी प्रेम-विहीन प्राणी को भस्म कर देता है।",
       "words": [
         {
           "no": 1,
-          "word": "என்பிலதனை (Enbiladhanai)",
-          "ta": "எலும்பு இல்லாத புழு போன்ற உடலை",
-          "en": "The boneless creature (worm)",
-          "hi": "अस्थि-हीन जीव को"
+          "word": "என்பி <br>(Enbi)",
+          "ta": "எலும்பு",
+          "en": "Bone",
+          "hi": "अस्थि"
         },
         {
           "no": 2,
-          "word": "வெயில் போல (Veyil Poala)",
-          "ta": "கடுமையான வெயில் சுடுவது போல",
-          "en": "As the sun",
-          "hi": "जैसे कड़ी धूप"
+          "word": "லதனை <br>(Ladhanai)",
+          "ta": "இல்லாத புழுவை",
+          "en": "Without (thing/worm)",
+          "hi": "विहीन कीड़े को"
         },
         {
           "no": 3,
-          "word": "காயுமே (Kaayumae)",
-          "ta": "சுட்டெரித்து வருத்துமே",
-          "en": "Burns / scorches",
-          "hi": "तपा देती है"
+          "word": "வெயில்போலக் <br>(Veyilpolak)",
+          "ta": "வெயில் சுடுவதுபோல",
+          "en": "Like the fierce sun",
+          "hi": "धूप (घर्म) के समान"
         },
         {
           "no": 4,
-          "word": "அன்பிலதனை (Anbiladhanai)",
-          "ta": "அன்பு இல்லாத மனிதனை",
-          "en": "The loveless person",
-          "hi": "प्रेम-शून्य जन को"
+          "word": "காயுமே <br>(Kaayume)",
+          "ta": "சுட்டு வருத்துமே",
+          "en": "Will burn / dry up",
+          "hi": "झुलसाएगा / भस्म करेगा"
         },
         {
           "no": 5,
-          "word": "அறம் (Aram)",
-          "ta": "அறக்கடவுள்",
-          "en": "Virtue / justice",
-          "hi": "धर्म"
+          "word": "அன்பி <br>(Anbi)",
+          "ta": "அன்பு",
+          "en": "Love",
+          "hi": "प्रेम"
         },
         {
           "no": 6,
-          "word": "என்பு இலது (Enbu Iladhu)",
-          "ta": "எலும்பு அற்றது",
-          "en": "Without bone",
-          "hi": "बिना हड्डी का"
+          "word": "லதனை <br>(Ladhanai)",
+          "ta": "இல்லாத உயிரை",
+          "en": "Without (being)",
+          "hi": "विहीन प्राणी को"
         },
         {
           "no": 7,
-          "word": "அன்பு இலது (Anbu Iladhu)",
-          "ta": "அன்பு அற்றது",
-          "en": "Without love",
-          "hi": "बिना प्रेम का"
+          "word": "அறம் <br>(Aram)",
+          "ta": "அறக்கடவுள்",
+          "en": "Virtue",
+          "hi": "धर्म"
         }
       ],
       "poetic": {
@@ -626,274 +626,274 @@
           "line2": "அன்பி லதனை அறம்."
         },
         "en": {
-          "line1": "As burning sunbeams scorch the worm that crawl without a bone,",
-          "line2": "So virtue withers up the man whose heart no love has known."
+          "line1": "As sun's fierce ray dries up the boneless things,",
+          "line2": "So loveless beings virtue's power to nothing brings."
         },
         "hi": {
-          "line1": "अस्थि-हीन कीड़े को ज्यों, धूप जलाती खूब।",
-          "line2": "प्रेम-रहित जो जन रहे, उसे जलाता धर्म ॥"
+          "line1": "कीड़े अस्थिविहीन को, झुलसेगा ज्यों घर्म ।",
+          "line2": "प्राणी प्रेम विहीन को, भस्म करेगा धर्म ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Enbi Ladhanai Veyilpoalak Kaayumae",
+            "line1": "Enbi Ladhanai Veyilpolak Kaayume",
             "line2": "Anbi Ladhanai Aram."
           },
           "hi": {
-            "line1": "ऎन्बि लदऩै वॆयिल्पोलक् कायुमे",
-            "line2": "अन्बि लदऩै अऱम्."
+            "line1": "एन्बि लदनै वॆयिल्पोलक् कायुमे",
+            "line2": "अन्बि लदनै अरम्."
           }
         }
       },
       "explanation": {
-        "ta": "எலும்பில்லாத புழுவைக் கொடிய வெயில் சுட்டுக் கருக்குவதுபோல, இதயத்தில் இரக்கமும் அன்பும் இல்லாத மனிதனை நீதி நெறியாகிய அறக்கடவுள் வதைத்து உருத்தெரியாமல் அழித்துவிடும்.",
-        "en": "Just as the helpless, boneless insect shrivels helplessly under the scorching glare of the noon sun, so does moral retribution wither the unfeeling and loveless heart.",
-        "hi": "बिना रीढ़ या हड्डी वाले दुर्बल कीट को सूर्य का प्रखर ताप जिस तरह झुलसाकर मार देता है, उसी प्रकार हृदयहीन और कठोर व्यक्ति को धर्म का नियम भीतर ही भीतर जलाकर नष्ट कर देता है।"
+        "ta": "எலும்பு இல்லாத புழுவை வெயில் சுட்டு வருத்துவதைப்போல, அன்பு இல்லாத உயிர்களை அறக்கடவுள் வருத்தும்.",
+        "en": "Just as the scorching sun withers a boneless worm, moral law consumes a soul devoid of love.",
+        "hi": "जिस प्रकार तेज धूप हड्डी-रहित कीड़े को झुलसाकर नष्ट कर देती है, उसी प्रकार धर्म भी प्रेम-विहीन प्राणी को भस्म कर देता है।"
       }
     },
     {
       "num": 78,
-      "line1": "அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்",
+      "line1": "அன்பகத்து இல்லா உயிர்வாழ்க்கை வன்பாற்கண்",
       "line2": "வற்றல் மரந்தளிர்த் தற்று.",
-      "enLine1": "Anbakath Thillaa Uyirvaazhkkai Vanpaarkann",
-      "enLine2": "Vatral Marandhalirth Thatru.",
-      "hiLine1": "अन्बगत् तिल्ला उयिर्वाऴ्क्कै वन्पा़र्कण्",
-      "hiLine2": "वट़्रल् मरन्दळिर्त् तत्ऱु.",
-      "general": "மனதில் அன்பு இல்லாத ஒருவனின் இல்லற வாழ்க்கையானது, பாலைவனத்தின் பாறை நிலத்தில் காய்ந்துபோன பட்டமரம் மீண்டும் தளிர் பூத்தது போன்றதாகும்.",
-      "en": "The domestic life of a man whose heart is destitute of love is like the sprouting of a withered tree in a barren desert.",
-      "hi": "जिसके अंतःकरण में प्रेम का भाव नहीं है, उसका गृहस्थ जीवन ऐसा ही निष्फल है जैसे बंजर मरुभूमि में खड़ा सूखा ठूंठ पेड़ कभी हरा-भरा नहीं हो सकता।",
+      "enLine1": "The loveless soul, the very joys of life may know,",
+      "enLine2": "When flowers, in barren soil, on sapless trees, shall blow.",
+      "hiLine1": "नीरस तरु मरु भूमि पर, क्या हो किसलय-युक्त ।",
+      "hiLine2": "गृही जीव वैसा समझ, प्रेम-रहित मन-युक्त ॥",
+      "general": "உள்ளத்தில் அன்பு இல்லாத உயிர்வாழ்க்கை செழிப்பது என்பது, பாலைநிலத்தில் பட்ட மரம் தளிர்ப்பதைப் போன்றது (அதாவது, ஒருபோதும் நடக்காதது).",
+      "en": "The domestic life of a soul without love within is as impossible of thriving as a withered tree in a barren desert putting forth leaves.",
+      "hi": "जिस प्रकार मरुभूमि पर खड़ा सूखा और नीरस वृक्ष कभी नए पत्तों से हरा-भरा नहीं हो सकता, उसी प्रकार प्रेम-रहित मन वाले व्यक्ति का गृहस्थ जीवन कभी फल-फूल नहीं सकता।",
       "words": [
         {
           "no": 1,
-          "word": "அன்பு அகத்து இல்லா (Anbu Akaththu Illaa)",
-          "ta": "உள்ளத்தில் அன்பு இல்லாதவனின்",
-          "en": "Lacking love in the heart",
-          "hi": "हृदय में प्रेम न रखने वाले का"
+          "word": "அன்பகத்து <br>(Anbakaththu)",
+          "ta": "மனத்தினுள்ளே அன்பு",
+          "en": "Love within the heart",
+          "hi": "मन में प्रेम"
         },
         {
           "no": 2,
-          "word": "உயிர் வாழ்க்கை (Uyir Vaazhkkai)",
-          "ta": "உயிரோடு வாழும் வாழ்க்கையானது",
-          "en": "Life / domestic living",
-          "hi": "जीवन"
+          "word": "இல்லா <br>(Illaa)",
+          "ta": "இல்லாத",
+          "en": "Without",
+          "hi": "रहित"
         },
         {
           "no": 3,
-          "word": "வன்பாற்கண் (Vanpaarkann)",
-          "ta": "வறண்ட பாறை நிலத்தில்",
-          "en": "In a dry barren soil",
-          "hi": "कठोर मरुभूमि में"
+          "word": "உயிர்வாழ்க்கை <br>(Uyirvaazhkkai)",
+          "ta": "உயிர்வாழ்க்கை செழித்தல்",
+          "en": "Life of the soul",
+          "hi": "गृही जीवन"
         },
         {
           "no": 4,
-          "word": "வற்றல் மரம் (Vatral Maram)",
-          "ta": "பட்டுப்போன காய்ந்த மரம்",
-          "en": "A withered sapless tree",
-          "hi": "सूखा पेड़"
+          "word": "வன்பாற்கண் <br>(Vanpaarkan)",
+          "ta": "வறண்ட பாலை நிலத்தில்",
+          "en": "In barren soil",
+          "hi": "मरुभूमि पर"
         },
         {
           "no": 5,
-          "word": "தளிர்த்தற்று (Thalirththatru)",
-          "ta": "தளிர்த்ததைப் போன்றது",
-          "en": "Is like putting forth shoots",
-          "hi": "पल्लवित होने के समान"
+          "word": "வற்றல் <br>(Vatral)",
+          "ta": "பட்டுப்போன",
+          "en": "Sapless / withered",
+          "hi": "सूखा / नीरस"
         },
         {
           "no": 6,
-          "word": "அகம் (Akam)",
-          "ta": "உள்ளம்",
-          "en": "Heart / mind",
-          "hi": "मन"
+          "word": "மரந்தளிர்த் <br>(Marandhalirth)",
+          "ta": "மரம் தளிர்த்",
+          "en": "Tree sprouting / blooming",
+          "hi": "वृक्ष किसलय-युक्त"
         },
         {
           "no": 7,
-          "word": "வன்பால் (Vanpaal)",
-          "ta": "பாலை நிலம்",
-          "en": "Hard desert ground",
-          "hi": "ऊसर भूमि"
+          "word": "தற்று <br>(Thatru)",
+          "ta": "தது போன்றது",
+          "en": "Is like",
+          "hi": "होने के समान है"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்",
+          "line1": "அன்பகத்து இல்லா உயிர்வாழ்க்கை வன்பாற்கண்",
           "line2": "வற்றல் மரந்தளிர்த் தற்று."
         },
         "en": {
-          "line1": "The domestic life where sweet love dwells not within the heart,",
-          "line2": "Is like a sapless withered tree in desert lands apart."
+          "line1": "The loveless soul, the very joys of life may know,",
+          "line2": "When flowers, in barren soil, on sapless trees, shall blow."
         },
         "hi": {
-          "line1": "हृदय में प्रेम न हो यदि, जीवन व्यर्थ ही जान।",
-          "line2": "ऊसर में सूखा तरु, पनपे कैसे आन ॥"
+          "line1": "नीरस तरु मरु भूमि पर, क्या हो किसलय-युक्त ।",
+          "line2": "गृही जीव वैसा समझ, प्रेम-रहित मन-युक्त ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Anbakath Thillaa Uyirvaazhkkai Vanpaarkann",
+            "line1": "Anbakaththu Illaa Uyirvaazhkkai Vanpaarkan",
             "line2": "Vatral Marandhalirth Thatru."
           },
           "hi": {
-            "line1": "अन्बगत् तिल्ला उयिर्वाऴ्क्कै वन्पा़र्कण्",
-            "line2": "वट़्रल् मरन्दळिर्त् तत्ऱु."
+            "line1": "अन्बगत्तु इल्ला उयिर्वाऴ्क्कै वन्बार्कण्",
+            "line2": "वत्रल् मरन्दळिर्त् तत्रु."
           }
         }
       },
       "explanation": {
-        "ta": "நெஞ்சில் அன்பில்லாத ஒருவனின் வாழ்வு, பாலைவனத்து வறண்ட பாறையில் உள்ள பட்டமரம் தழைக்க முயல்வதைப் போன்றது; அது ஒருபோதும் மலர்ந்து பயன்தராது.",
-        "en": "To seek joy and moral fulfillment in a home devoid of mutual affection is as futile as expecting fresh green shoots to blossom from a dead tree on stony desert sand.",
-        "hi": "जिस व्यक्ति के मन में दया और स्नेह का अभाव है, उसका जीवन उस सूखे वृक्ष की तरह व्यर्थ है जो मरुस्थल की पथरीली भूमि में कभी नए पत्ते या फल नहीं ला सकता।"
+        "ta": "உள்ளத்தில் அன்பு இல்லாத உயிர்வாழ்க்கை செழிப்பது என்பது, பாலைநிலத்தில் பட்ட மரம் தளிர்ப்பதைப் போன்றது (அதாவது, ஒருபோதும் நடக்காதது).",
+        "en": "A life without love in the heart can no more flourish than a dead, sapless tree can bloom in barren desert sand.",
+        "hi": "जिस प्रकार मरुभूमि पर खड़ा सूखा और नीरस वृक्ष कभी नए पत्तों से हरा-भरा नहीं हो सकता, उसी प्रकार प्रेम-रहित मन वाले व्यक्ति का गृहस्थ जीवन कभी फल-फूल नहीं सकता।"
       }
     },
     {
       "num": 79,
-      "line1": "புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை",
-      "line2": "அகத்துறுப் பன்பி லவர்க்கு.",
-      "enLine1": "Puraththurup Pellaam Evanseyyum Yaakkai",
-      "enLine2": "Akaththurup Panbi Lavarkku.",
-      "hiLine1": "पुऱत्तुरुप् पॆल्लाम् ऎवन्सॆய்யुम् याक्कै",
-      "hiLine2": "अगत्तुरुप् पन्बि लवर्क्यु.",
-      "general": "மனதில் இருக்க வேண்டிய சிறந்த அகத்துறுப்பாகிய அன்பு இல்லாதவர்க்கு, உடலில் வெளிப்புறத்தில் உள்ள உறுப்புகள் அனைத்தும் இருந்து என்ன பயன்?",
-      "en": "Of what avail are all the outer limbs of the body to those who lack the inward limb of love within their heart?",
-      "hi": "जिस मनुष्य के अंतःकरण का मुख्य अंग—प्रेम ही नहीं है, उसके शरीर के सभी बाहरी सुंदर अंग-प्रत्यंग किस काम के?",
+      "line1": "புறத்துறுப்பு எல்லாம் எவன்செய்யும் யாக்கை",
+      "line2": "அகத்துறுப்பு அன்பி லவர்க்கு.",
+      "enLine1": "Though every outward part complete, the body 's fitly framed ;",
+      "enLine2": "What good, when soul within, of love devoid, lies halt and maimed ?",
+      "hiLine1": "प्रेम देह में यदि नहीं, बन भीतर का अंग ।",
+      "hiLine2": "क्या फल हो यदि पास हों, सब बाहर के अंग ॥",
+      "general": "உள்ளத்தில் அன்பு என்னும் அகத்துறுப்பு இல்லாதவர்களுக்கு, உடம்பில் உள்ள கை, கால் முதலிய புறத்துறுப்புகள் எல்லாம் முழுமையாக இருந்தும் என்ன பயன்?",
+      "en": "Of what avail are all the external members of the body to those who are destitute of love, the internal member?",
+      "hi": "यदि शरीर के भीतर प्रेम रूपी आंतरिक अंग न हो, तो बाहर के सभी अंगों के स्वस्थ और सुंदर होने का भी क्या लाभ है?",
       "words": [
         {
           "no": 1,
-          "word": "புறத்து உறுப்பு எல்லாம் (Puraththu Uruppu Ellaam)",
-          "ta": "வெளிப்புற உறுப்புகள் எல்லாம்",
-          "en": "All the outward limbs",
-          "hi": "बाहरी सब अंग"
+          "word": "புறத்துறுப்பு <br>(Puraththuruppu)",
+          "ta": "வெளியே உள்ள உறுப்புகள்",
+          "en": "Outward limbs / parts",
+          "hi": "बाहर के अंग"
         },
         {
           "no": 2,
-          "word": "எவன் செய்யும் (Evan Seyyum)",
-          "ta": "என்ன பயன் செய்துவிடும்?",
-          "en": "Of what avail will they be?",
-          "hi": "क्या कर सकते हैं?"
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All",
+          "hi": "सभी"
         },
         {
           "no": 3,
-          "word": "யாக்கை (Yaakkai)",
-          "ta": "உடம்பின்கண்",
-          "en": "Of the body",
-          "hi": "शरीर में"
+          "word": "எவன்செய்யும் <br>(Evanseyyum)",
+          "ta": "என்ன பயன் செய்யும்",
+          "en": "What good will they do",
+          "hi": "क्या फल देंगे"
         },
         {
           "no": 4,
-          "word": "அகத்து உறுப்பு (Akaththu Uruppu)",
-          "ta": "உள்ளத்து உறுப்பான",
-          "en": "Inward essential limb",
-          "hi": "आंतरिक अंग"
+          "word": "யாக்கை <br>(Yaakkai)",
+          "ta": "உடம்பின்",
+          "en": "Of the body",
+          "hi": "देह के"
         },
         {
           "no": 5,
-          "word": "அன்பு இலவர்க்கு (Anbu Ilavarkku)",
-          "ta": "அன்பு இல்லாதவர்களுக்கு",
-          "en": "To those without love",
-          "hi": "प्रेम-विहीन लोगों के लिए"
+          "word": "அகத்துறுப்பு <br>(Akaththuruppu)",
+          "ta": "உள்ளுறுப்பாகிய",
+          "en": "The inner organ / part",
+          "hi": "भीतर का अंग"
         },
         {
           "no": 6,
-          "word": "புறத்து (Puraththu)",
-          "ta": "வெளியே",
-          "en": "External",
-          "hi": "बाह्य"
+          "word": "அன்பி <br>(Anbi)",
+          "ta": "அன்பு",
+          "en": "Love",
+          "hi": "प्रेम"
         },
         {
           "no": 7,
-          "word": "உறுப்பு (Uruppu)",
-          "ta": "அங்கங்கள்",
-          "en": "Organs / Limbs",
-          "hi": "अवयव"
+          "word": "லவர்க்கு <br>(Lavarkku)",
+          "ta": "இல்லாதவர்க்கு",
+          "en": "To those devoid of",
+          "hi": "यदि नहीं है तो"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை",
-          "line2": "அகத்துறுப் பன்பி லவர்க்கு."
+          "line1": "புறத்துறுப்பு எல்லாம் எவன்செய்யும் யாக்கை",
+          "line2": "அகத்துறுப்பு அன்பி லவர்க்கு."
         },
         "en": {
-          "line1": "What can the outer limbs of grace or beauty's form impart,",
-          "line2": "To those who lack the soul's true limb—the love within the heart?"
+          "line1": "Though every outward part complete, the body 's fitly framed ;",
+          "line2": "What good, when soul within, of love devoid, lies halt and maimed ?"
         },
         "hi": {
-          "line1": "आंतरिक अंग जो प्रेम है, उसका रहा अभाव।",
-          "line2": "बाह्य अंग सब क्या करें, देह बनी निष्भाव ॥"
+          "line1": "प्रेम देह में यदि नहीं, बन भीतर का अंग ।",
+          "line2": "क्या फल हो यदि पास हों, सब बाहर के अंग ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Puraththurup Pellaam Evanseyyum Yaakkai",
-            "line2": "Akaththurup Panbi Lavarkku."
+            "line1": "Puraththuruppu Ellaam Evanseyyum Yaakkai",
+            "line2": "Akaththuruppu Anbi Lavarkku."
           },
           "hi": {
-            "line1": "पुऱत्तुरुप् पॆल्लाम् ऎवन्सॆய்யुम् याक्कै",
-            "line2": "अगत्तुरुप् पन्बि लवर्क्यु."
+            "line1": "पुरत्तुरुप्पु एल्लाम् एवन्सॆय्युम् याक्कै",
+            "line2": "अगत्तुरुप्पु अन्बि लवर्क्कु."
           }
         }
       },
       "explanation": {
-        "ta": "கண், காது, வாய் போன்ற வெளிப்புற உடலுறுப்புகள் முழுமையாக இருந்தாலும், உள்ளத்தில் இருக்க வேண்டிய தலையாய உறுப்பான அன்பு இல்லாதவருக்கு அந்த உறுப்புகளால் ஒரு பயனும் இல்லை.",
-        "en": "External beauty and physical senses are completely meaningless ornaments if the vital spiritual organ of human affection is missing from the chest.",
-        "hi": "आँख, कान, हाथ-पैर जैसे बाहरी अंग चाहे कितने भी पुष्ट और सुंदर क्यों न हों, यदि मनुष्य के भीतर प्रेम रूपी आत्मा का अंग नहीं है, तो वह जीवित रहते हुए भी निष्प्राण पुतले के समान है।"
+        "ta": "உள்ளத்தில் அன்பு என்னும் அகத்துறுப்பு இல்லாதவர்களுக்கு, உடம்பில் உள்ள கை, கால் முதலிய புறத்துறுப்புகள் எல்லாம் முழுமையாக இருந்தும் என்ன பயன்?",
+        "en": "What use are healthy external limbs if the heart lacks its vital inner organ—love?",
+        "hi": "यदि शरीर के भीतर प्रेम रूपी आंतरिक अंग न हो, तो बाहर के सभी अंगों के स्वस्थ और सुंदर होने का भी क्या लाभ है?"
       }
     },
     {
       "num": 80,
       "line1": "அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு",
       "line2": "என்புதோல் போர்த்த உடம்பு.",
-      "enLine1": "Anbin Vazhiyadhu Uyirnilai Ahdhilaarkku",
-      "enLine2": "Enbuthoal Poarththa Udambu.",
-      "hiLine1": "अन्बिऩ् वऴियदु उयिर्निलै अஃदिला़र्क्कु",
-      "hiLine2": "ऎन्बुतोल् पोर्त्त उडम्बु.",
-      "general": "அன்பு நிறைந்த வழியில் இயங்குவதே உயிருள்ள உடம்பாகும்; அந்த அன்பு இல்லாதவர்க்கு உள்ள உடம்பு வெறும் எலும்பின் மேல் தோலைப் போர்த்திய சடலமே ஆகும்.",
-      "en": "That body alone which is moved by love possesses life; to those without love, it is merely a frame of bones clad with skin.",
-      "hi": "जिस शरीर में प्रेम का वास है, वही वास्तव में जीवित शरीर है; प्रेम-रहित देह तो केवल हड्डियों पर मढ़ी हुई चमड़ी का एक ढांचा मात्र है।",
+      "enLine1": "Bodies of loveless men are bony framework clad with skin;",
+      "enLine2": "Then is the body seat of life, when love resides within.",
+      "hiLine1": "प्रेम-मार्ग पर जो चले, देह वही सप्राण ।",
+      "hiLine2": "चर्म-लपेटी अस्थि है, प्रेम-हीन की मान ॥",
+      "general": "அன்பின் வழியில் இயங்கும் உடம்பே உயிர் நின்ற உடம்பாகும்; அன்பு இல்லாதவர்க்கு உள்ள உடம்பு வெறும் எலும்பைத் தோல் போர்த்திய கூடு மட்டுமே ஆகும்.",
+      "en": "That body alone is the seat of life which follows the path of love; to those without love, it is merely a framework of bones covered with skin.",
+      "hi": "जो देह प्रेम के मार्ग पर चलती है, वही वास्तव में सप्राण है; प्रेम-हीन व्यक्ति का शरीर तो केवल चमड़े से मढ़ी हुई हड्डियों का ढाँचा मात्र है।",
       "words": [
         {
           "no": 1,
-          "word": "அன்பின் வழியது (Anbin Vazhiyadhu)",
-          "ta": "அன்பின் வழியில் இயங்குவதே",
-          "en": "That which walks in love",
-          "hi": "प्रेम के मार्ग पर चलना ही"
+          "word": "அன்பின் <br>(Anbin)",
+          "ta": "அன்பின்",
+          "en": "Of love",
+          "hi": "प्रेम के"
         },
         {
           "no": 2,
-          "word": "உயிர்நிலை (Uyirnilai)",
-          "ta": "உயிருள்ள உடம்பாகும்",
-          "en": "Is the seat of life",
-          "hi": "सजीव शरीर है"
+          "word": "வழியது <br>(Vazhiyadhu)",
+          "ta": "வழியில் இயங்குவதே",
+          "en": "In the path",
+          "hi": "मार्ग पर चलने वाली"
         },
         {
           "no": 3,
-          "word": "அஃது இலார்க்கு (Ahdhu Ilaarkku)",
-          "ta": "அந்த அன்பு இல்லாதவர்க்கு",
-          "en": "To those devoid of it",
-          "hi": "उस प्रेम से हीनों का"
+          "word": "உயிர்நிலை <br>(Uyirnilai)",
+          "ta": "உயிர் நிலைத்த உடம்பு",
+          "en": "Seat of life",
+          "hi": "सप्राण देह है"
         },
         {
           "no": 4,
-          "word": "என்பு தோல் (Enbu Thoal)",
-          "ta": "எலும்பின் மேல் தோல்",
-          "en": "Skin over bones",
-          "hi": "हड्डी और चमड़ी से"
+          "word": "அஃதிலார்க்கு <br>(Aqdhilaarkku)",
+          "ta": "அந்த அன்பு இல்லாதவர்க்கு",
+          "en": "To those without it",
+          "hi": "प्रेम-हीन की"
         },
         {
           "no": 5,
-          "word": "போர்த்த (Poarththa)",
-          "ta": "போர்த்தப்பட்ட",
-          "en": "Clad / covered",
-          "hi": "ढका हुआ"
+          "word": "என்புதோல் <br>(Enbudhol)",
+          "ta": "எலும்பை மேல் தோல்",
+          "en": "Bone and skin",
+          "hi": "चर्म-लपेटी अस्थि"
         },
         {
           "no": 6,
-          "word": "உடம்பு (Udambu)",
-          "ta": "வெறும் சடல உடம்பாகும்",
-          "en": "Mere fleshly frame",
-          "hi": "मात्र एक ढांचा है"
+          "word": "போர்த்த <br>(Porththa)",
+          "ta": "மூடிய",
+          "en": "Covered / clad with",
+          "hi": "ढकी हुई"
         },
         {
           "no": 7,
-          "word": "உயிர் (Uyir)",
-          "ta": "ஜீவன்",
-          "en": "Living soul",
-          "hi": "प्राण"
+          "word": "உடம்பு <br>(Udambu)",
+          "ta": "வெற்று உடம்பே",
+          "en": "Body",
+          "hi": "देह है"
         }
       ],
       "poetic": {
@@ -902,28 +902,28 @@
           "line2": "என்புதோல் போர்த்த உடம்பு."
         },
         "en": {
-          "line1": "Where love abides, the body lives with animated breath;",
-          "line2": "Where love is void, 'tis skin-clad bone, companion fit for death."
+          "line1": "Bodies of loveless men are bony framework clad with skin;",
+          "line2": "Then is the body seat of life, when love resides within."
         },
         "hi": {
-          "line1": "प्रेम-युक्त जो देह है, वही सजीव शरीर।",
-          "line2": "प्रेम बिना वह देह तो, अस्थि-चर्म कुटीर ॥"
+          "line1": "प्रेम-मार्ग पर जो चले, देह वही सप्राण ।",
+          "line2": "चर्म-लपेटी अस्थि है, प्रेम-हीन की मान ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Anbin Vazhiyadhu Uyirnilai Ahdhilaarkku",
-            "line2": "Enbuthoal Poarththa Udambu."
+            "line1": "Anbin Vazhiyadhu Uyirnilai Aqdhilaarkku",
+            "line2": "Enbudhol Porththa Udambu."
           },
           "hi": {
-            "line1": "अन्बिऩ् वऴियदु उयिर्निलै अஃदिला़र्क्कु",
-            "line2": "ऎन्बुतोल् पोर्त्त उडम्बु."
+            "line1": "अन्बिन् वऴियदु उयिर्निलै अक़्दिलार्क्कु",
+            "line2": "एन्बुदोल् पोर्त्त उडम्बु."
           }
         }
       },
       "explanation": {
-        "ta": "அன்போடு இயங்கும் மனமும் செயலும் கொண்ட உடம்பே உயிருள்ள உண்மையான உடம்பாகும்; அன்பு இல்லாத மனிதனின் உடம்பு வெறும் எலும்புகளின் மீது தோலைப் போர்த்தி வைத்துள்ள வெற்றுக்கூடு போன்றதே.",
-        "en": "A body animated by empathy and tender affection is truly alive; absent love, a person is nothing more than a walking skeleton wrapped in skin.",
-        "hi": "सच्चा जीवन वही है जिसमें प्रेम की धड़कन हो; जिस व्यक्ति के भीतर प्रेम, करुणा और स्नेह नहीं है, उसका शरीर केवल अस्थियों पर मढ़ी हुई खाल का एक निर्जीव पिंजरा मात्र है।"
+        "ta": "அன்பின் வழியில் இயங்கும் உடம்பே உயிர் நின்ற உடம்பாகும்; அன்பு இல்லாதவர்க்கு உள்ள உடம்பு வெறும் எலும்பைத் தோல் போர்த்திய கூடு மட்டுமே ஆகும்.",
+        "en": "Only a body animated by love is truly alive; without love, it is nothing more than bones wrapped in skin.",
+        "hi": "जो देह प्रेम के मार्ग पर चलती है, वही वास्तव में सप्राण है; प्रेम-हीन व्यक्ति का शरीर तो केवल चमड़े से मढ़ी हुई हड्डियों का ढाँचा मात्र है।"
       }
     }
   ]

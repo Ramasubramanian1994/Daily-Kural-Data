@@ -4,78 +4,71 @@
   "nameEn": "The Greatness of Ascetics",
   "nameHi": "सन्यासी-महिमा",
   "paal": "அறத்துப்பால்",
-  "iyal": "பாயிரவியல்",
+  "iyal": "பாயிறவியல்",
   "kurals": [
     {
       "num": 21,
-      "line1": "ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து",
+      "line1": "ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்துத்",
       "line2": "வேண்டும் பனுவல் துணிவு.",
-      "enLine1": "Ozhukkaththu Neeththaar Perumai Vizhuppaththu",
-      "enLine2": "Veandum Panuval Thunivu.",
-      "hiLine1": "ओऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु",
-      "hiLine2": "वेण्डुम् पनुवल् तुणिवु.",
-      "general": "தமக்குரிய ஒழுக்க நெறியில் நின்று ஆசைகளைத் துறந்த முனிவர்களின் பெருமையே, சிறந்ததாகப் போற்றப்படும் எல்லா நூல்களின் துணிந்த முடிவாகும்.",
-      "en": "The end of all scriptures declares the supreme greatness of those who, abiding in virtuous conduct, have renounced all desires.",
-      "hi": "सदाचार के नियमों का पालन करते हुए जिन्होंने वासनाओं का त्याग कर दिया है, उन संन्यासियों की महिमा को ही सभी धर्मग्रंथ सर्वोपरि मानते हैं।",
+      "enLine1": "The greatness of the men who leave the world in righteous ways,",
+      "enLine2": "Is what all sacred books declare as worthy of chief praise.",
+      "hiLine1": "सदाचार संपन्न जो, यदि यति हों वे श्रेष्ठ।",
+      "hiLine2": "धर्मशास्त्र सब मानते, उनकी महिमा श्रेष्ठ ॥",
+      "general": "உள்ளத்து ஒழுக்கத்தோடு பற்றுகளைத் துறந்த பெரியோர்களின் பெருமையே, நூல்களில் போற்றப்படும் உயர்வான பொருளாகும்.",
+      "en": "The greatness of those who have renounced worldly attachments with true discipline is the foremost theme of scriptures.",
+      "hi": "सदाचार के साथ सांसारिक बंधनों को त्यागने वाले संन्यासियों की महिमा ही सभी ग्रंथों का मुख्य और श्रेष्ठ निष्कर्ष है।",
       "words": [
         {
           "no": 1,
-          "word": "ஒழுக்கத்து (Ozhukkaththu)",
-          "ta": "தமக்குரிய ஒழுக்க நெறியில் நின்று",
-          "en": "In proper conduct",
-          "hi": "सदाचार में रहकर"
+          "word": "ஒழுக்கத்து <br>(Ozhukkaththu)",
+          "ta": "மெய்யொழுக்கத்தோடு",
+          "en": "With true discipline",
+          "hi": "सदाचार के साथ"
         },
         {
           "no": 2,
-          "word": "நீத்தார் (Neeththaar)",
-          "ta": "ஆசைகளைத் துறந்தவர்களின்",
+          "word": "நீத்தார் <br>(Neeththaar)",
+          "ta": "பற்றுகளைத் துறந்தவர்களின்",
           "en": "Of those who renounced",
           "hi": "त्यागियों की"
         },
         {
           "no": 3,
-          "word": "பெருமை (Perumai)",
-          "ta": "பெருமையை",
-          "en": "The greatness",
-          "hi": "महिमा को"
+          "word": "பெருமை <br>(Perumai)",
+          "ta": "உயர்ந்த பெருமையை",
+          "en": "Greatness",
+          "hi": "महिमा"
         },
         {
           "no": 4,
-          "word": "விழுப்பத்து (Vizhuppaththu)",
+          "word": "விழுப்பத்துத் <br>(Vizhuppaththuth)",
           "ta": "சிறந்ததாகக் கொண்டு",
-          "en": "As supreme excellence",
+          "en": "As the foremost",
           "hi": "सर्वश्रेष्ठ मानकर"
         },
         {
           "no": 5,
-          "word": "வேண்டும் (Veandum)",
-          "ta": "விரும்பி உரைக்க வேண்டும் என்பது",
-          "en": "Desires to extol",
-          "hi": "चाहते हैं"
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "கூற விரும்புகின்றன",
+          "en": "It is desired",
+          "hi": "चाहिए"
         },
         {
           "no": 6,
-          "word": "பனுவல் (Panuval)",
-          "ta": "அறநூல்களின்",
-          "en": "Of scriptures",
-          "hi": "धर्मशास्त्रों का"
-        },
-        {
-          "no": 7,
-          "word": "துணிவு (Thunivu)",
-          "ta": "துணிந்த முடிவாகும்",
-          "en": "Is the resolved conclusion",
-          "hi": "दृढ़ निश्चय है"
+          "word": "பனுவல் துணிவு <br>(Panuval Thunivu)",
+          "ta": "அறநூல்களின் துணிபுப் பொருளாகும்",
+          "en": "The conclusion of scriptures",
+          "hi": "शास्त्रों का निर्णय"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து",
+          "line1": "ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்துத்",
           "line2": "வேண்டும் பனுவல் துணிவு."
         },
         "en": {
-          "line1": "The sacred books' resolved design would crown as highest prize,",
-          "line2": "The greatness of the saint who from all worldly longing flies."
+          "line1": "The greatness of the men who leave the world in righteous ways,",
+          "line2": "Is what all sacred books declare as worthy of chief praise."
         },
         "hi": {
           "line1": "सदाचार संपन्न जो, यदि यति हों वे श्रेष्ठ।",
@@ -83,81 +76,74 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Ozhukkaththu Neeththaar Perumai Vizhuppaththu",
-            "line2": "Veandum Panuval Thunivu."
+            "line1": "Ozhukkaththu Neeththaar Perumai Vizhuppaththuth",
+            "line2": "Vendum Panuval Thunivu."
           },
           "hi": {
-            "line1": "ओऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु",
-            "line2": "वेण्डुम् पनुवल् तुणिवु."
+            "line1": "सदाचार संपन्न जो, यदि यति हों वे श्रेष्ठ।",
+            "line2": "धर्मशास्त्र सब मानते, उनकी महिमा श्रेष्ठ ॥"
           }
         }
       },
       "explanation": {
-        "ta": "தமக்குரிய ஒழுக்க நெறியில் வழுவாமல் நின்று ஆசைகளைத் துறந்த பெரியோரின் பெருமையை முதன்மையாகக் கூறுவதே உயர்ந்த நூல்களின் தீர்மானமாகும்.",
-        "en": "The firm verdict of all sacred books is to proclaim the supreme glory of those who have attained renunciation through unwavering virtue.",
-        "hi": "सदाचार के मार्ग पर अडिग रहकर जिन्होंने सांसारिक सुखों का परित्याग कर दिया है, ऐसे श्रेष्ठ संतों की महिमा का बखान करना ही सब शास्त्रों का परम लक्ष्य है।"
+        "ta": "மெய்யொழுக்கத்தோடு பற்றுகளைத் துறந்துவிட்ட பெரியோர்களின் பெருமையைச் சொல்வதே, அறநூல்கள் அனைத்தின் முடிவான கருத்தாகும்.",
+        "en": "To describe the greatness of those who have discarded worldly desires through strict moral discipline is the primary objective of all ethical scriptures.",
+        "hi": "सदाचार के मार्ग पर चलकर सांसारिक मोह-माया का त्याग करने वाले संन्यासियों की महिमा का वर्णन करना ही सभी शास्त्रों का प्रमुख निष्कर्ष है।"
       }
     },
     {
       "num": 22,
       "line1": "துறந்தார் பெருமை துணைக்கூறின் வையத்து",
       "line2": "இறந்தாரை எண்ணிக்கொண் டற்று.",
-      "enLine1": "Thurandhaar Perumai Thunaikkoorin Vaiyaththu",
-      "enLine2": "Irandhaarai Ennikkon Datru.",
-      "hiLine1": "तुऱन्दार् पॆरुमै तुणैक्कूऱिन् वैयत्तु",
-      "hiLine2": "इऱन्दारे ऎण्णिक्कॊण् डट्रु.",
-      "general": "பற்றுகளைத் துறந்த பெரியோரின் பெருமைக்கு அளவுகூற முயல்வது, இவ்வுலகில் பிறந்து இறந்துபோன மனிதர்களை எண்ணிக் கணக்கிடுவது போன்றதாகும்.",
-      "en": "To reckon the boundless greatness of those who have renounced the world is like attempting to number all the dead who ever lived.",
-      "hi": "संन्यासियों की महिमा की थाह लेना संसार में आज तक मरे हुए सभी प्राणियों की गणना करने जैसा ही असंभव कार्य है।",
+      "enLine1": "As counting those that from the earth have passed away,",
+      "enLine2": "'Tis vain attempt the might of holy men to say.",
+      "hiLine1": "यति-महिमा को आंकने, यदि हो कोई यत्न।",
+      "hiLine2": "जग में मृत-जन-गणन सम, होता है वह यत्न ॥",
+      "general": "துறவிகளின் பெருமைக்கு இவ்வளவு என்று அளவு கூற விரும்பினால், அது இறந்தவர்களை எண்ணிக்கொண்டு கணக்கிடுவதைப் போன்றது.",
+      "en": "To measure the greatness of ascetics is like trying to count the number of all the dead who have ever lived.",
+      "hi": "त्यागियों की महिमा की सीमा बताना वैसा ही है, जैसे इस संसार में अब तक जन्म लेकर मर चुके लोगों की गिनती करना।",
       "words": [
         {
           "no": 1,
-          "word": "துறந்தார் (Thurandhaar)",
-          "ta": "ஆசைகளைத் துறந்தவரின்",
-          "en": "Of those who renounced",
+          "word": "துறந்தார் <br>(Thurandhaar)",
+          "ta": "பற்றுகளைத் துறந்தவரின்",
+          "en": "Of ascetics",
           "hi": "त्यागियों की"
         },
         {
           "no": 2,
-          "word": "பெருமை (Perumai)",
-          "ta": "பெருமையின் அளவை",
+          "word": "பெருமை <br>(Perumai)",
+          "ta": "பெருமையை",
           "en": "Greatness",
-          "hi": "महिमा को"
+          "hi": "महिमा"
         },
         {
           "no": 3,
-          "word": "துணைக்கூறின் (Thunaikkoorin)",
-          "ta": "அளவிட்டுச் சொல்லப் புகின்",
+          "word": "துணை கூறின் <br>(Thunai Koorin)",
+          "ta": "அளவு என்று கூறினால்",
           "en": "If one attempts to measure",
-          "hi": "यदि आँकना चाहें"
+          "hi": "यदि तुलना की जाए"
         },
         {
           "no": 4,
-          "word": "வையத்து (Vaiyaththu)",
-          "ta": "இப்பூவுலகில்",
+          "word": "வையத்து <br>(Vaiyaththu)",
+          "ta": "இந்த உலகில்",
           "en": "In this world",
-          "hi": "पृथ्वी पर"
+          "hi": "इस संसार में"
         },
         {
           "no": 5,
-          "word": "இறந்தாரை (Irandhaarai)",
-          "ta": "இறந்துபோனவர்களை",
-          "en": "Those who have died",
-          "hi": "मृत लोगों की"
+          "word": "இறந்தாரை <br>(Irandhaarai)",
+          "ta": "இந்து உலகத்தில் இறந்தவர்களை",
+          "en": "The dead",
+          "hi": "मृत लोगों को"
         },
         {
           "no": 6,
-          "word": "எண்ணிக்கொண்டற்று (Ennikkondatru)",
-          "ta": "எண்ணிக் கணக்கிடுவது போன்றது",
-          "en": "Is like numbering them",
-          "hi": "गिनती करने के समान"
-        },
-        {
-          "no": 7,
-          "word": "அற்று (Atru)",
-          "ta": "அத்தன்மையதாகும்",
-          "en": "Such as that",
-          "hi": "वैसा ही है"
+          "word": "எண்ணிக்கொண்டற்று <br>(Ennikkon Dattru)",
+          "ta": "எண்ணி அளவிட்டாற் போன்றது",
+          "en": "Is counting",
+          "hi": "गिनने के समान है"
         }
       ],
       "poetic": {
@@ -166,8 +152,8 @@
           "line2": "இறந்தாரை எண்ணிக்கொண் டற்று."
         },
         "en": {
-          "line1": "To count their glory who have cast the world away in peace,",
-          "line2": "'Tis like as reckoning all the dead whose lives on earth did cease."
+          "line1": "As counting those that from the earth have passed away,",
+          "line2": "'Tis vain attempt the might of holy men to say."
         },
         "hi": {
           "line1": "यति-महिमा को आंकने, यदि हो कोई यत्न।",
@@ -176,90 +162,76 @@
         "transliteration": {
           "en": {
             "line1": "Thurandhaar Perumai Thunaikkoorin Vaiyaththu",
-            "line2": "Irandhaarai Ennikkon Datru."
+            "line2": "Irandhaarai Ennikkon Dattru."
           },
           "hi": {
-            "line1": "तुऱन्दार् पॆरुमै तुणैक्कूऱिन् वैयत्तु",
-            "line2": "इऱन्दारे ऎण्णिक्कॊण् डट्रु."
+            "line1": "यति-महिमा को आंकने, यदि हो कोई यत्न।",
+            "line2": "जग में मृत-जन-गणन सम, होता है वह यत्न ॥"
           }
         }
       },
       "explanation": {
-        "ta": "உலகப் பற்றுக்களைத் துறந்த பெரியவர்களின் பெருமையின் எல்லையைக் கணக்கிட்டுக் கூறுவது, இதுவரை உலகில் இறந்துபோனவர்களின் தொகையைக் கணக்கிட முயல்வதைப் போல இயலாததாகும்.",
-        "en": "Attempting to define the limit of ascetics' greatness is as impossible as counting all the people who have ever died upon the earth.",
-        "hi": "जिन्होंने सांसारिक बंधनों को त्याग दिया है, उनकी असीम महिमा की सीमा तय करना उतना ही असंभव है जितना सृष्टि के आरंभ से अब तक मरे हुए सभी मनुष्यों की गिनती करना।"
+        "ta": "துறவிகளின் பெருமைக்கு இவ்வளவு என்று அளவு காட்டிச் சொல்ல முயன்றால், அது இவ்வுலகில் இறந்துபோனவர்களின் எண்ணிக்கையைக் கணக்கிட்டுக் கூறுவதைப் போன்றது; அதாவது அளவிட முடியாதது.",
+        "en": "Attempting to measure the boundless greatness of ascetics is as futile as trying to count the total number of people who have died throughout human history.",
+        "hi": "त्यागियों और संन्यासियों के महान चरित्र की थाह पाना असंभव है; उसका प्रयास करना वैसा ही है जैसे इतिहास में अब तक मर चुके समस्त इंसानों को गिनने बैठ जाना।"
       }
     },
     {
       "num": 23,
       "line1": "இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்",
-      "line2": "பெருமை பிறங்கிற்று உலகு.",
-      "enLine1": "Irumai Vakaitherinthu Eenduarqm Poondaar",
-      "enLine2": "Perumai Pirangitru Ulaku.",
-      "hiLine1": "इरुमै वगैतॆरिन्दु ईण्डुअऱम् पूण्डार्",
-      "hiLine2": "पॆरुमै पिऱङ्गिट्रु उलगु.",
-      "general": "பிறப்பு, வீடுபேறு என்னும் இரண்டின் இயல்புகளையும் ஆராய்ந்துணர்ந்து, இவ்வுலகில் துறவறத்தை மேற்கொண்டவர்களின் பெருமையே உலகத்தில் சிறந்து விளங்குகிறது.",
-      "en": "The greatness of those who have discerned the nature of birth and release and embraced renunciation here shines foremost throughout the universe.",
-      "hi": "जन्म और मोक्ष दोनों के मूल तत्त्व को भली-भाँति समझकर जिन्होंने संन्यास धारण किया है, उनकी महिमा संपूर्ण संसार में सबसे उज्ज्वल रूप में प्रकाशित होती है।",
+      "line2": "பெருமை பிறங்கு உலகு.",
+      "enLine1": "The world shines with the greatness of those who have understood both worlds and embraced virtue.",
+      "enLine2": "Who weighed both worlds and chose the path of virtue, strict and pure,",
+      "hiLine1": "जन्म-मोक्ष के ज्ञान से, ग्रहण किया सन्यास।",
+      "hiLine2": "उनकी महिमा का बहुत, जग में रहा प्रकाश ॥",
+      "general": "இம்மை மறுமை என்னும் இருவகை வாழ்க்கையின் தன்மையை ஆராய்ந்து அறிந்து, துறவறக் கோலத்தை மேற்கொண்டவர்களின் பெருமையே உலகில் மிகச் சிறந்தது.",
+      "en": "The world shines with the greatness of those who have understood both worlds and embraced virtue.",
+      "hi": "इस लोक और परलोक दोनों के स्वरूप को भली-भाँति समझकर जिन्होंने संन्यास धर्म अपनाया है, उनकी महिमा संपूर्ण संसार में प्रदीप्त होती है।",
       "words": [
         {
           "no": 1,
-          "word": "இருமை வகை (Irumai Vakai)",
-          "ta": "பிறப்பு, வீடுபேறு எனும் இரண்டின் தன்மையை",
-          "en": "Nature of birth and release",
-          "hi": "जन्म और मोक्ष का तत्त्व"
+          "word": "இருமை வகை தெரிந்து <br>(Irumai Vakai Therinthu)",
+          "ta": "இம்மை மறுமை என்னும் இருவகை நெறியையும் அறிந்து",
+          "en": "Knowing the nature of both worlds",
+          "hi": "दोनों लोकों (इहलोक-परलोक) को जानकर"
         },
         {
           "no": 2,
-          "word": "தெரிந்து (Therinthu)",
-          "ta": "ஆராய்ந்து அறிந்து",
-          "en": "Having discerned",
-          "hi": "जानकर"
+          "word": "ஈண்டு <br>(Eendu)",
+          "ta": "இவ்வுலகில்",
+          "en": "Here",
+          "hi": "यहाँ इस संसार में"
         },
         {
           "no": 3,
-          "word": "ஈண்டு (Eendu)",
-          "ta": "இவ்வுலகத்தில்",
-          "en": "Here in this world",
-          "hi": "यहाँ संसार में"
+          "word": "அறம் பூண்டார் <br>(Aram Poontaar)",
+          "ta": "துறவறத்தை மேற்கொண்டவர்களின்",
+          "en": "Who embraced ascetic virtue",
+          "hi": "धर्म को धारण करने वाले"
         },
         {
           "no": 4,
-          "word": "அறம் பூண்டார் (Aram Poondaar)",
-          "ta": "துறவறத்தை மேற்கொண்டோரின்",
-          "en": "Those who embraced virtue",
-          "hi": "संन्यास अपनाने वालों की"
-        },
-        {
-          "no": 5,
-          "word": "பெருமை (Perumai)",
-          "ta": "உயர்ந்த பெருமை",
-          "en": "Greatness",
+          "word": "பெருமை <br>(Perumai)",
+          "ta": "பெருமையை",
+          "en": "The greatness",
           "hi": "महिमा"
         },
         {
-          "no": 6,
-          "word": "பிறங்கிற்று (Pirangitru)",
-          "ta": "விளங்கி நிற்கிறது",
-          "en": "Shines pre-eminent",
-          "hi": "प्रकाशित है"
-        },
-        {
-          "no": 7,
-          "word": "உலகு (Ulaku)",
-          "ta": "இவ்வுலகத்தின் கண்",
-          "en": "In this world",
-          "hi": "संसार में"
+          "no": 5,
+          "word": "பிறங்கு உலகு <br>(Pirangu Ulaku)",
+          "ta": "இந்த உலகம் போற்றிப் புகழும்",
+          "en": "Shines in the world",
+          "hi": "संसार में सुशोभित है"
         }
       ],
       "poetic": {
         "ta": {
           "line1": "இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்",
-          "line2": "பெருமை பிறங்கிற்று உலகு."
+          "line2": "பெருமை பிறங்கு உலகு."
         },
         "en": {
-          "line1": "Who weigh the twofold state of things—rebirth and freedom's goal,",
-          "line2": "Their glory shines throughout the world, exalted in the soul."
+          "line1": "Who weighed both worlds and chose the path of virtue, strict and pure,",
+          "line2": "Their glorious greatness shines across the earth forevermore."
         },
         "hi": {
           "line1": "जन्म-मोक्ष के ज्ञान से, ग्रहण किया सन्यास।",
@@ -267,91 +239,84 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Irumai Vakaitherinthu Eenduarqm Poondaar",
-            "line2": "Perumai Pirangitru Ulaku."
+            "line1": "Irumai Vakaitherinthu Eenduaram Poontaar",
+            "line2": "Perumai Pirangu Ulaku."
           },
           "hi": {
-            "line1": "इरुमै वगैतॆरिन्दु ईण्डुअऱम् पूण्डार्",
-            "line2": "पॆरुमै पिऱङ्गिट्रु उलगु."
+            "line1": "जन्म-मोक्ष के ज्ञान से, ग्रहण किया सन्यास।",
+            "line2": "उनकी महिमा का बहुत, जग में रहा प्रकाश ॥"
           }
         }
       },
       "explanation": {
-        "ta": "இம்மை, மறுமை அல்லது பிறப்பு, வீடுபேறு ஆகியவற்றின் இயல்புகளை அறிந்து, இவ்வுலகிலேயே மெய்யான அறவழியைத் தழுவியவர்களின் புகழானது உலகெங்கும் ஓங்கி நிற்கிறது.",
-        "en": "Those who have understood the reality of worldly bondage and ultimate liberation, and have taken up the path of selflessness, hold supreme esteem in this world.",
-        "hi": "सांसारिक जन्म और मोक्ष के भेद को जानकर जिन्होंने इस संसार में संन्यास और धर्म का आचरण किया है, उनका यश संपूर्ण जगत में आलोकित रहता है।"
+        "ta": "இம்மை மற்றும் மறுமை வாழ்வின் உண்மைகளை ஆராய்ந்து தெளிந்து, இவ்வுலகில் துறவறக் கோலத்தை ஏற்று நடப்பவர்களின் பெருமையே உலகத்தில் மிக உயர்வாக விளங்கும்.",
+        "en": "The greatness of those enlightened souls who understood the nature of this life and the afterlife, and embraced asceticism, shines brilliantly throughout the world.",
+        "hi": "इस जीवन और परलोक के रहस्यों को गहराई से समझकर जिन्होंने संसार में संन्यास और तपस्या का मार्ग अपनाया है, उनका यश इस दुनिया में सर्वोपरि चमकता है।"
       }
     },
     {
       "num": 24,
-      "line1": "உரனென்னும் தோட்டியான் ஓரைந்தும் காப்பான்",
-      "line2": "வரனென்னும் வைப்பிற்கோர் வித்து.",
-      "enLine1": "Uranennum Thottiyaan Orhainthum Kaappaan",
-      "enLine2": "Varanennum Vaippirkor Viththu.",
-      "hiLine1": "उरऩॆन्नुम् तोट्टियान् ओरैन्दुम् काप्पा़न्",
-      "hiLine2": "वरनॆन्नुम् वैप्पिर्कोर् वित्त्तु.",
-      "general": "அறிவு என்னும் அங்குசத்தால் ஐம்பொறிகளாகிய யானைகளை அடக்கிக் காப்பவன், மேலான முக்தி உலகத்திற்கு ஒரு வித்து போன்றவன் ஆவான்.",
-      "en": "He who with the hook of firm wisdom restrains the five wild senses is a seed fit for the highest heavenly realm.",
-      "hi": "दृढ़ ज्ञान रूपी अंकुश से जो अपनी पाँचों इंद्रियों को वश में रखता है, वह महाज्ञानी स्वर्ग और मोक्ष रूपी लोक का श्रेष्ठ बीज बनता है।",
+      "line1": "உரன்என்னும் தோட்டியான் ஓம்பும் ஐந்தும்",
+      "line2": "காப்பான் சினைக்கெடும் ஏறு.",
+      "enLine1": "He, who with firmness' curb the five restrains,",
+      "enLine2": "Is seed for soil of yonder happy plains.",
+      "hiLine1": "अंकुश से दृढ़ ज्ञान के, इन्द्रिय राखे आप।",
+      "hiLine2": "ज्ञानी वह वर लोक का, बीज बनेगा आप ॥",
+      "general": "மன உறுதி ஆகிய அங்குசத்தைக் கொண்டு ஐம்பொறிகளையும் அடக்கிக் காப்பவனே, அடுத்த பிறவியாகிய கட்டில் இருந்து நீங்குவான்.",
+      "en": "He who guards the five senses with the goad of fortitude shall be a seed for liberation.",
+      "hi": "जो अपनी मानसिक दृढ़ता रूपी अंकुश से पाँचों इंद्रियों को वश में रखता है, वह मोक्ष रूपी फल प्राप्त करने का बीज बनता है।",
       "words": [
         {
           "no": 1,
-          "word": "உரன் என்னும் (Uran Ennum)",
-          "ta": "உறுதியான அறிவு எனும்",
-          "en": "Firm wisdom",
-          "hi": "दृढ़ ज्ञान रूपी"
+          "word": "உரன் என்னும் <br>(Uran Ennum)",
+          "ta": "மன உறுதி எனப்படும்",
+          "en": "Called fortitude / mental strength",
+          "hi": "दृढ़संकल्प रूपी"
         },
         {
           "no": 2,
-          "word": "தோட்டியான் (Thottiyaan)",
-          "ta": "அங்குசத்தினால்",
-          "en": "With the elephant-hook",
+          "word": "தோட்டியான் <br>(Thottiyaan)",
+          "ta": "அங்குசத்தைக் கொண்டு",
+          "en": "With the elephant-goad",
           "hi": "अंकुश से"
         },
         {
           "no": 3,
-          "word": "ஓரைந்தும் (Orhainthum)",
-          "ta": "ஐம்பொறிகளையும்",
-          "en": "The senses five",
-          "hi": "पाँचों इंद्रियों को"
+          "word": "ஓம்பும் <br>(Oampum)",
+          "ta": "வழிகெடாமல் பாதுகாத்து",
+          "en": "Guarding",
+          "hi": "सुरक्षित रखते हुए"
         },
         {
           "no": 4,
-          "word": "காப்பான் (Kaappaan)",
-          "ta": "அடக்கி ஆள்பவன்",
-          "en": "He who controls",
-          "hi": "वश में रखने वाला"
+          "word": "ஐந்தும் <br>(Ainthum)",
+          "ta": "ஐம்பொறிகளையும்",
+          "en": "The five senses",
+          "hi": "पाँचों इंद्रियों को"
         },
         {
           "no": 5,
-          "word": "வரன் என்னும் (Varan Ennum)",
-          "ta": "மேலான மோட்சம் எனும்",
-          "en": "Called supreme bliss",
-          "hi": "श्रेष्ठ मोक्ष रूपी"
+          "word": "காப்பான் <br>(Kaappaan)",
+          "ta": "காத்து நடத்துவான்",
+          "en": "He who controls",
+          "hi": "जो वश में करता है"
         },
         {
           "no": 6,
-          "word": "வைப்பிற்கு (Vaippirku)",
-          "ta": "உலகுக்கு",
-          "en": "To that realm",
-          "hi": "लोक के लिए"
-        },
-        {
-          "no": 7,
-          "word": "ஓர் வித்து (Or Viththu)",
-          "ta": "ஒரு நல் விதையாவான்",
-          "en": "A fruitful seed",
-          "hi": "एक उत्तम बीज है"
+          "word": "சினைக்கெடும் ஏறு <br>(Sinaikkedum Eru)",
+          "ta": "வானுலகம் அடைவதற்கான விதை போன்றவன்",
+          "en": "Is a seed for heaven",
+          "hi": "वह मुक्ति का अधिकारी है"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "உரனென்னும் தோட்டியான் ஓரைந்தும் காப்பான்",
-          "line2": "வரனென்னும் வைப்பிற்கோர் வித்து."
+          "line1": "உரன்என்னும் தோட்டியான் ஓம்பும் ஐந்தும்",
+          "line2": "காப்பான் சினைக்கெடும் ஏறு."
         },
         "en": {
-          "line1": "He who with wisdom's hook restrains the senses' unruly drive,",
-          "line2": "Is seed of virtue where the highest heavenly blessings thrive."
+          "line1": "He, who with firmness' curb the five restrains,",
+          "line2": "Is seed for soil of yonder happy plains."
         },
         "hi": {
           "line1": "अंकुश से दृढ़ ज्ञान के, इन्द्रिय राखे आप।",
@@ -359,173 +324,145 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Uranennum Thottiyaan Orhainthum Kaappaan",
-            "line2": "Varanennum Vaippirkor Viththu."
+            "line1": "Uranennum Thottiyaan Oorupa Ainthum",
+            "line2": "Kaappaan Sinaikkedum Eru."
           },
           "hi": {
-            "line1": "उरऩॆन्नुम् तोट्टियान् ओरैन्दुम् काप्पा़न्",
-            "line2": "वरनॆन्नुम् वैप्पिर्कोर् वित्त्तु."
+            "line1": "अंकुश से दृढ़ ज्ञान के, इन्द्रिय राखे आप।",
+            "line2": "ज्ञानी वह वर लोक का, बीज बनेगा आप ॥"
           }
         }
       },
       "explanation": {
-        "ta": "திடமான மனஉறுதி என்ற அங்குசத்தைக் கொண்டு ஐம்புலன்களின் ஆசைகளை அடக்கிக் காக்கின்றவன், மேலான வீட்டுலகத்திற்குச் சிறந்த விதையாகத் திகழ்வான்.",
-        "en": "Whoever tames the unruly senses five with the elephant-goad of wisdom becomes the very seed of life that blossoms in liberation.",
-        "hi": "जो संयम और ज्ञान के अंकुश से अपनी पाँचों ज्ञानेंद्रियों पर पूर्ण नियंत्रण रखता है, वह मोक्ष रूपी परमधाम का आदि बीज बन जाता है।"
+        "ta": "மன உறுதி என்னும் அங்குசத்தைக் கொண்டு ஐம்பொறி வாயில்களாகிய யானையை அடக்கிக் காக்க வல்லவன், பிறவிப்பிணியில் இருந்து விலகி வீடுபேறு அடைவான்.",
+        "en": "He who uses the goad of mental strength to control the five senses will secure the seed for liberation from worldly rebirth.",
+        "hi": "जो व्यक्ति अपनी मानसिक शक्ति रूपी अंकुश से पाँचों इंद्रियरूपी हाथियों को नियंत्रण में रखता है, वह जन्म-मरण के बंधन से मुक्त होकर मोक्ष का मार्ग प्रशस्त करता है।"
       }
     },
     {
       "num": 25,
-      "line1": "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்",
+      "line1": "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கள்மான",
       "line2": "இந்திரனே சாலுங் கரி.",
-      "enLine1": "Ainthaviththaan Aatral Akalvisumbu Laarkomaan",
-      "enLine2": "Inthirane Saalung Kari.",
-      "hiLine1": "ऐन्दवित्थान् आट्रल् अकल्विचुम्बु ळा़र्कोमान्",
-      "hiLine2": "इन्दिरने सालुङ् करि.",
-      "general": "ஐம்பொறிகளின் வழியே எழும் ஆசைகளை அடக்கிய முனிவரின் ஆற்றலுக்கு, பரந்த வானுலகின் தலைவனான இந்திரனே போதுமான சான்றாவான்.",
-      "en": "Indra himself, the king of the vast expanse of heaven, is witness enough to the mighty power of him who has quelled the five desires.",
-      "hi": "पाँचों इंद्रियों की वासनाओं को जीतने वाले तपस्वी की प्रचंड शक्ति का प्रमाण देने के लिए स्वर्ग का राजा इंद्र स्वयं साक्षात गवाह है।",
+      "enLine1": "Their might who have destroyed 'the five,' shall soothly tell",
+      "enLine2": "Indra, the king of those in heaven's wide realms that dwell.",
+      "hiLine1": "पाँचों इन्द्रिय दमन किये जो, शक्ति अपार है पाता।",
+      "hiLine2": "देवलोक के वासी भी फिर, उसका यश है गाता ॥",
+      "general": "ஐம்பொறிகளையும் அடக்கியவனின் ஆற்றல் முன்பாக, மற்றவர்களின் ஆற்றல் சிறியது; அவரே வானுலகத்திலும் உயர்ந்தவராக மதிக்கப்படுவார்.",
+      "en": "The power of him who has subdued the five senses is revered even by the denizens of the wide heavens.",
+      "hi": "पाँचों इंद्रियों को वश में करने वाले तपस्वी की शक्ति के आगे देवता भी नतमस्तक होते हैं; वही सर्वश्रेष्ठा है।",
       "words": [
         {
           "no": 1,
-          "word": "ஐந்து அவித்தான் (Ainthu Aviththaan)",
-          "ta": "ஐம்பொறிகளின் ஆசைகளை அறுத்தவனுடைய",
-          "en": "Of him who subdued the five",
-          "hi": "पाँचों इंद्रियों को जीतने वाले का"
+          "word": "ஐந்து அவித்தான் <br>(Ainthaviththaan)",
+          "ta": "ஐம்பொறி ஆசைகளை அவித்த துறவியின்",
+          "en": "Of him who subdued the five senses",
+          "hi": "इन्द्रियों को जीतने वाले"
         },
         {
           "no": 2,
-          "word": "ஆற்றல் (Aatral)",
-          "ta": "ஆற்றலுக்கு",
-          "en": "Power / prowess",
-          "hi": "सामर्थ्य"
+          "word": "ஆற்றல் <br>(Aatral)",
+          "ta": "தவ வலிமையானது",
+          "en": "The spiritual power",
+          "hi": "की शक्ति"
         },
         {
           "no": 3,
-          "word": "அகல்விசும்புளார் (Akalvisumbulaar)",
-          "ta": "அகன்ற விண் உலகத்தவர்க்கு",
-          "en": "Of the wide sky dwellers",
-          "hi": "विशाल स्वर्ग के वासियों का"
+          "word": "அகல் விசும்பு <br>(Akal Visumbu)",
+          "ta": "பரந்த வானுலகத்தில் உள்ள",
+          "en": "In the wide heavens",
+          "hi": "विशाल आकाश में"
         },
         {
           "no": 4,
-          "word": "கோமான் (Komaan)",
-          "ta": "அரசனாகிய",
-          "en": "The sovereign king",
-          "hi": "राजा"
+          "word": "உளார் கோமான் <br>(Ulaar Komaan)",
+          "ta": "தேவர்களின் தலைவனான",
+          "en": "King of those who dwell",
+          "hi": "निवास करने वालों के स्वामी"
         },
         {
           "no": 5,
-          "word": "இந்திரனே (Inthirane)",
-          "ta": "இந்திரனே கூட",
-          "en": "Indra himself",
-          "hi": "इंद्र ही"
-        },
-        {
-          "no": 6,
-          "word": "சாலும் (Saalum)",
-          "ta": "போதுமான",
-          "en": "Is ample",
-          "hi": "पर्याप्त"
-        },
-        {
-          "no": 7,
-          "word": "கரி (Kari)",
-          "ta": "சான்றாவான்",
-          "en": "Witness",
-          "hi": "गवाह है"
+          "word": "இந்திரனே சாலுங் கரி <br>(Indrane Saalung Kari)",
+          "ta": "இந்திரனே அதற்குச் சான்று ஆவான்",
+          "en": "Indra is sufficient witness",
+          "hi": "इन्द्र ही इसका प्रमाण है"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்",
+          "line1": "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கள்மான",
           "line2": "இந்திரனே சாலுங் கரி."
         },
         "en": {
-          "line1": "The strength of him who subdued all senses five in sway,",
-          "line2": "Let Indra, king of heaven's broad expanse, bear witness today."
+          "line1": "Their might who have destroyed 'the five,' shall soothly tell",
+          "line2": "Indra, the king of those in heaven's wide realms that dwell."
         },
         "hi": {
-          "line1": "जो है इन्द्रिय-निग्रही, उसकी शक्ति अथाह।",
-          "line2": "स्वर्गाधीश्वर इन्द्र ही, इसका रहा गवाह ॥"
+          "line1": "पाँचों इन्द्रिय दमन किये जो, शक्ति अपार है पाता।",
+          "line2": "देवलोक के वासी भी फिर, उसका यश है गाता ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Ainthaviththaan Aatral Akalvisumbu Laarkomaan",
-            "line2": "Inthirane Saalung Kari."
+            "line1": "Ainthaviththaan Aatral Akalvisumbu Ulaarkomaan",
+            "line2": "Indrane Saalung Kari."
           },
           "hi": {
-            "line1": "ऐन्दवित्थान् आट्रल् अकल्विचुम्बु ळा़र्कोमान्",
-            "line2": "इन्दिरने सालुङ् करि."
+            "line1": "पाँचों इन्द्रिय दमन किये जो, शक्ति अपार है पाता।",
+            "line2": "देवलोक के वासी भी फिर, उसका यश है गाता ॥"
           }
         }
       },
       "explanation": {
-        "ta": "ஐம்புலன்களின் ஆசைகளை ஒழித்த துறவியின் தவவலிமைக்கு, வானுலகத் தலைவனான இந்திரனின் கதையே தகுந்த சாட்சியாக விளங்குகிறது.",
-        "en": "Indra, the sovereign ruler of the celestial realms, stands as living testimony to the immeasurable spiritual power of a sage who mastered the senses.",
-        "hi": "जिसने पाँचों इंद्रियों की उद्दंड प्रवृत्तियों को जीत लिया है, उसकी आध्यात्मिक शक्ति कितनी प्रचंड होती है, इसका सबसे बड़ा प्रमाण देवराज इंद्र की गाथा है।"
+        "ta": "ஐம்பொறி ஆசைகளை அழித்துவிட்ட துறவியின் தவ வலிமையின் முன்பு, பரந்த வானுலகில் உள்ள தேவர்களின் தலைவனான இந்திரனே சான்று ஆவான்.",
+        "en": "The spiritual power of an ascetic who has conquered his senses is so immense that Indra, the king of the gods, is a sufficient witness to it.",
+        "hi": "जिन्होंने अपनी पाँचों इंद्रियों पर पूर्ण विजय प्राप्त कर ली है, उनकी तपस्या और आत्मबल के आगे देवराज इन्द्र स्वयं प्रमाण हैं।"
       }
     },
     {
       "num": 26,
       "line1": "செயற்கரிய செய்வார் பெரியர் சிறியர்",
       "line2": "செயற்கரிய செய்கலா தார்.",
-      "enLine1": "Seyarkariya Seyvaar Periyar Siriyar",
-      "enLine2": "Seyarkariya Seykalaa Thaar.",
-      "hiLine1": "सॆयर्क़रिय सॆय्वार् पॆरियर् सिऱियर्",
-      "hiLine2": "सॆयर्क़रिय सॆय्कला तार्.",
-      "general": "செய்வதற்கு அரிய செயல்களைச் செய்து முடிப்பவரே பெரியோர்; செய்வதற்கு அரிய காரியங்களைச் செய்ய இயலாதவர் சிறியோர் ஆவர்.",
-      "en": "The great are those who accomplish deeds difficult to achieve; the small are those who cannot accomplish them.",
-      "hi": "जो अत्यंत कठिन और दुष्कर कार्यों को सिद्ध कर दिखाते हैं वे ही महान पुरुष हैं; जो ऐसा नहीं कर पाते, वे साधारण या अधम माने जाते हैं।",
+      "enLine1": "Things hard in the doing will great men do;",
+      "enLine2": "Things hard in the doing the mean eschew.",
+      "hiLine1": "असंभव को संभव कर दें, वे ही महाप्रतापी लोग।",
+      "hiLine2": "कुछ न कर सकें जो जग में, वे तुच्छ मनुष्य अन्योंग ॥",
+      "general": "மற்றவர்களால் செய்ய முடியாத கடினமான செயல்களைச் செய்ய வல்லவரே பெரியோர்கள்; செய்ய இயலாதவரே சிறியோர்கள்.",
+      "en": "The great are those who can perform deeds deemed impossible; the small are unable to do such things.",
+      "hi": "जो कार्य दूसरों के लिए असंभव हैं, उन्हें कर दिखाने वाले ही महान (बड़े) हैं; जो ऐसा नहीं कर सकते, वे छोटे हैं।",
       "words": [
         {
           "no": 1,
-          "word": "செயற்கரிய (Seyarkariya)",
-          "ta": "செய்வதற்கு அருமையான செயல்களை",
-          "en": "Deeds hard to perform",
-          "hi": "कठिन कर्मों को"
+          "word": "செயற்கரிய <br>(Seyarkariya)",
+          "ta": "செய்தற்கரிய செயல்களை",
+          "en": "Things hard to do",
+          "hi": "असंभव कार्य"
         },
         {
           "no": 2,
-          "word": "செய்வார் (Seyvaar)",
-          "ta": "செய்து முடிப்பவர்",
-          "en": "Those who accomplish",
-          "hi": "कर दिखाने वाले"
+          "word": "செய்வார் <br>(Seyvaar)",
+          "ta": "செய்து முடிப்பவரே",
+          "en": "Those who perform",
+          "hi": "जो कर दिखाते हैं"
         },
         {
           "no": 3,
-          "word": "பெரியர் (Periyar)",
-          "ta": "பெரிய மனிதராவர்",
-          "en": "Are the great ones",
-          "hi": "महान पुरुष हैं"
+          "word": "பெரியர் <br>(Periyar)",
+          "ta": "பெரியோர்கள் ஆவர்",
+          "en": "Are the great",
+          "hi": "वे ही महान हैं"
         },
         {
           "no": 4,
-          "word": "சிறியர் (Siriyar)",
-          "ta": "சிறிய மனிதர் என்போர்",
-          "en": "The small / mean ones",
-          "hi": "अधम लोग"
+          "word": "சிறியர் <br>(Siriyar)",
+          "ta": "சிறியோர்கள் ஆவர்",
+          "en": "The small / ordinary",
+          "hi": "छोटे लोग"
         },
         {
           "no": 5,
-          "word": "செயற்கரிய (Seyarkariya)",
-          "ta": "அரிய செயல்களை",
-          "en": "Difficult tasks",
-          "hi": "दुष्कर कार्यों को"
-        },
-        {
-          "no": 6,
-          "word": "செய்கலாதார் (Seykalaadhaar)",
-          "ta": "செய்ய மாட்டாதவர்",
-          "en": "Who cannot perform",
-          "hi": "न कर सकने वाले"
-        },
-        {
-          "no": 7,
-          "word": "தார் (Thaar)",
-          "ta": "மனிதர்கள் ஆவர்",
-          "en": "Persons",
-          "hi": "होते हैं"
+          "word": "செய்கலாதார் <br>(Seykalaadhaar)",
+          "ta": "அவற்றைச் செய்ய இயலாதவர்கள்",
+          "en": "Those unable to do",
+          "hi": "जो नहीं कर पाते"
         }
       ],
       "poetic": {
@@ -534,12 +471,12 @@
           "line2": "செயற்கரிய செய்கலா தார்."
         },
         "en": {
-          "line1": "Things that are hard to do, the truly great achieve;",
-          "line2": "The petty minds in weakness fail, and unaccomplished leave."
+          "line1": "Things hard in the doing will great men do;",
+          "line2": "Things hard in the doing the mean eschew."
         },
         "hi": {
-          "line1": "करते दुष्कर कर्म हैं, जो हैं साधु महान।",
-          "line2": "दुष्कर जो नहिं कर सके, अधम लोक वे जान ॥"
+          "line1": "असंभव को संभव कर दें, वे ही महाप्रतापी लोग।",
+          "line2": "कुछ न कर सकें जो जग में, वे तुच्छ मनुष्य अन्योंग ॥"
         },
         "transliteration": {
           "en": {
@@ -547,383 +484,341 @@
             "line2": "Seyarkariya Seykalaa Thaar."
           },
           "hi": {
-            "line1": "सॆयर्क़रिय सॆय्वार् पॆरियर् सिऱियर्",
-            "line2": "सॆयर्क़रिय सॆय्कला तार्."
+            "line1": "असंभव को संभव कर दें, वे ही महाप्रतापी लोग।",
+            "line2": "कुछ न कर सकें जो जग में, वे तुच्छ मनुष्य अन्योंग ॥"
           }
         }
       },
       "explanation": {
-        "ta": "பிறரால் செய்ய முடியாத அரிய நற்செயல்களைத் துணிந்து செய்து முடிப்பவர்களே பெரியோர்கள்; அத்தகைய அரிய காரியங்களைச் செய்ய இயலாதவர்கள் சிறியோர்கள் ஆவர்.",
-        "en": "Those who can accomplish great and noble tasks which others deem impossible are truly great; those who shrink from them are small-minded.",
-        "hi": "साधारण लोगों के लिए जो काम असंभव और दुष्कर होते हैं, उन्हें कर दिखाने वाले ही महापुरुष कहलाते हैं; जो कठिनाइयों से हार मान जाते हैं, वे लघु हैं।"
+        "ta": "மற்றவர்களால் செய்து முடிக்க முடியாத கடினமான செயல்களைச் செய்து காட்டுபவரே பெரியோர்கள்; அதனைச் செய்ய இயலாதவரே சிறியோர்கள் ஆவர்.",
+        "en": "Those who accomplish extraordinary tasks that others find impossible are truly great; those who cannot are ordinary or small.",
+        "hi": "जो लोग साधारण मनुष्यों के लिए असंभव लगने वाले कठिन कार्यों को भी करके दिखा देते हैं, वे ही महान हैं; जो ऐसा नहीं कर पाते, वे साधारण या छोटे हैं।"
       }
     },
     {
       "num": 27,
-      "line1": "சுவைஒளி ஊறுஓசை நாற்றமென ஐந்தின்",
+      "line1": "சுவையொளி ஊறுஓசை நாற்றம்என்று ஐந்தின்",
       "line2": "வகைதெரிவான் கட்டே உலகு.",
-      "enLine1": "Suvaiyoli Ooruoasai Naatramena Ainthin",
-      "enLine2": "Vakaitherivaan Katte Ulaku.",
-      "hiLine1": "सुवैयॊळि ऊऱुओसै नाट्रमॆन ऐन्दिन्",
-      "hiLine2": "वगैतॆरिवाऩ् कट्टे उलगु.",
-      "general": "சுவை, ஒளி, தொடுதல், ஓசை, வாசனை ஆகிய ஐந்தின் தன்மைகளையும் நுட்பமாக ஆராய்ந்து உணர்பவனுடைய கட்டுப்பாட்டிலேயே இந்த உலகம் அடங்கியுள்ளது.",
-      "en": "The world lies within the grasp and comprehension of him who knows the essential nature of the five: taste, light, touch, sound, and smell.",
-      "hi": "रस, रूप, स्पर्श, शब्द और गंध—इन पाँचों इंद्रिय-विषयों के गूढ़ रहस्य को जो भली-भाँति समझ लेता है, समस्त संसार उसके ज्ञान के वश में होता है।",
+      "enLine1": "Taste, light touch, sound, and smell: who knows the way",
+      "enLine2": "Of all the five, the world submissive owns his sway.",
+      "hiLine1": "रस, रूप, स्पर्श, शब्द, गंध - इन पाँचों का ज्ञान।",
+      "hiLine2": "रखता जो वश में उसे, वह जग का है महान ॥",
+      "general": "சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்னும் ஐவகைப் புலன்களின் தன்மையை முழுமையாக உணர்ந்து வென்றவனின் கட்டுப்பாட்டுக்குள் இவ்வுலகம் அடங்கும்.",
+      "en": "The world rests under the control of him who has fully understood the nature of the five senses.",
+      "hi": "स्वाद, रूप, स्पर्श, शब्द और गंध - इन पाँचों इंद्रिय विषयों के असली स्वरूप को जानने वाले के अधीन यह संसार है।",
       "words": [
         {
           "no": 1,
-          "word": "சுவை (Suvai)",
-          "ta": "சுவை",
+          "word": "சுவை <br>(Suvai)",
+          "ta": "சுவை (நாவு)",
           "en": "Taste",
-          "hi": "रस"
+          "hi": "स्वाद"
         },
         {
           "no": 2,
-          "word": "ஒளி (Oli)",
-          "ta": "பார்வை / ஒளி",
-          "en": "Sight / light",
-          "hi": "रूप / दृष्टि"
+          "word": "ஒளி <br>(Oli)",
+          "ta": "ஒளி (கண்)",
+          "en": "Sight / Light",
+          "hi": "रूप / प्रकाश"
         },
         {
           "no": 3,
-          "word": "ஊறு (Ooru)",
-          "ta": "தொடு உணர்ச்சி",
+          "word": "ஊறு <br>(Ooru)",
+          "ta": "ஊறு (மெய் / ஸ்பரிசம்)",
           "en": "Touch",
           "hi": "स्पर्श"
         },
         {
           "no": 4,
-          "word": "ஓசை (Oasai)",
-          "ta": "கேட்கும் ஓசை",
+          "word": "ஓசை <br>(Osai)",
+          "ta": "ஓசை (செவி)",
           "en": "Sound",
           "hi": "शब्द"
         },
         {
           "no": 5,
-          "word": "நாற்றம் என (Naatram Ena)",
-          "ta": "நறுமணம் எனப்படுகின்ற",
+          "word": "நாற்றம் என்று <br>(Naatram Endru)",
+          "ta": "நாற்றம் (மூக்கு) ஆகிய",
           "en": "And smell",
-          "hi": "तथा गंध"
+          "hi": "गंध"
         },
         {
           "no": 6,
-          "word": "ஐந்தின் வகைதெரிவான் கட்டே (Ainthin Vakaitherivaan Katte)",
-          "ta": "ஐந்தின் தன்மையை உணர்வோனிடத்தே",
-          "en": "With him who knows the five",
-          "hi": "पाँचों को जानने वाले के अधीन"
+          "word": "ஐந்தின் வகை தெரிவான் <br>(Ainthin Vakai Therivaan)",
+          "ta": "ஐந்தன் தன்மையையும் ஆராய்ந்து அறிந்தவனின்",
+          "en": "Who knows the nature of the five",
+          "hi": "इन पाँचों को जानने वाले"
         },
         {
           "no": 7,
-          "word": "உலகு (Ulaku)",
-          "ta": "இந்த உலகம் இயங்கும்",
-          "en": "Lies the world",
-          "hi": "संसार है"
+          "word": "கட்டே உலகு <br>(Kattae Ulaku)",
+          "ta": "கட்டுப்பாட்டுக்குள் அடங்கும் உலகம்",
+          "en": "The world is bound to him",
+          "hi": "के अधीन पूरा संसार है"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "சுவைஒளி ஊறுஓசை நாற்றமென ஐந்தின்",
+          "line1": "சுவையொளி ஊறுஓசை நாற்றம்என்று ஐந்தின்",
           "line2": "வகைதெரிவான் கட்டே உலகு."
         },
         "en": {
-          "line1": "Taste, light, touch, sound, and smell: who knows the ways of each,",
-          "line2": "Has brought the whole vast world within his wisdom's noble reach."
+          "line1": "Taste, light touch, sound, and smell: who knows the way",
+          "line2": "Of all the five, the world submissive owns his sway."
         },
         "hi": {
-          "line1": "स्पर्श रूप रस गन्ध औ', शब्द मिला कर पंच।",
-          "line2": "समझे इनके तत्व जो, समझे वही प्रपंच ॥"
+          "line1": "रस, रूप, स्पर्श, शब्द, गंध - इन पाँचों का ज्ञान।",
+          "line2": "रखता जो वश में उसे, वह जग का है महान ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Suvaiyoli Ooruoasai Naatramena Ainthin",
-            "line2": "Vakaitherivaan Katte Ulaku."
+            "line1": "Suvaioli Ooruosai Naatramendru Ainthin",
+            "line2": "Vakaitherivaan Kattae Ulaku."
           },
           "hi": {
-            "line1": "सुवैयॊळि ऊऱुओसै नाट्रमॆन ऐन्दिन्",
-            "line2": "वगैतॆरिवाऩ् कट्टे उलगु."
+            "line1": "रस, रूप, स्पर्श, शब्द, गंध - इन पाँचों का ज्ञान।",
+            "line2": "रखता जो वश में उसे, वह जग का है महान ॥"
           }
         }
       },
       "explanation": {
-        "ta": "சுவை, பார்வை, தொடுதல், கேட்பது, நுகர்வது ஆகிய ஐம்புலன்களின் இயக்கங்களையும் அவற்றின் மாயையையும் பகுத்தறியும் ஞானியிடமே இந்த உலகத்தின் உண்மை அடங்கியுள்ளது.",
-        "en": "He who masterfully discerns and controls the sensory impressions of taste, sight, touch, sound, and smell perceives the true nature of reality.",
-        "hi": "जो पुरुष स्पर्श, रूप, रस, गंध और शब्द—इन पाँचों इंद्रिय-विषयों के प्रभाव और वास्तविक स्वरूप को समझ लेता है, वही इस संपूर्ण सृष्टि के रहस्य को जान पाता है।"
+        "ta": "சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்னும் ஐவகைப் புலன்களின் இயல்பை முழுமையாக உணர்ந்து அவற்றைத் தன்வசப்படுத்திய ஞானியின் கட்டுப்பாட்டிற்குள் இந்த உலகமே அடங்கும்.",
+        "en": "The entire world remains under the sway of the sage who has thoroughly understood and mastered the nature of the five sense impressions.",
+        "hi": "जो व्यक्ति स्वाद, रूप, स्पर्श, शब्द और गंध - इन पाँचों इंद्रिय विषयों के मूल स्वरूप को भली-भाँति समझकर उन पर विजय पा लेता है, यह पूरा संसार उसके वश में रहता है।"
       }
     },
     {
       "num": 28,
-      "line1": "நிறைமொழி மாந்தர் பெருமை நிலத்து",
-      "line2": "மறைமொழி காட்டி விடும்.",
-      "enLine1": "Niraimozhi Maandhar Perumai Nilaththu",
-      "enLine2": "Maraimozhi Kaatti Vidum.",
-      "hiLine1": "निऱैमॊऴि मान्दर् पॆरुमै निलत्तु",
-      "hiLine2": "मऱैमॊऴि काट्टि विडुम्.",
-      "general": "சொல் ஆற்றல் மிகுந்த முனிவர்களின் பெருமையை, இவ்வுலகில் அவர்கள் அருளிய மறைமொழிகளாகிய வேத மந்திரங்களே எடுத்துக்காட்டிவிடும்.",
-      "en": "The sacred mantras and profound words left behind upon the earth reveal the enduring greatness of men of perfected speech.",
-      "hi": "अमोघ वाणी वाले सिद्ध पुरुषों की महिमा उनके द्वारा कहे गए गूढ़ वचनों और वेदमंत्रों से संसार में स्वतः सिद्ध हो जाती है।",
+      "line1": "நிறம்கோ ளவர்க்கும் அறம்என் மற்றும்",
+      "line2": "பிறர்பிறவா தவர்க்கும் உள.",
+      "enLine1": "The might of men whose word is never vain,",
+      "enLine2": "The 'secret word' shall to the earth proclaim.",
+      "hiLine1": "वचनों के बंधनों में फँसा है सारा संसार।",
+      "hiLine2": "किंतु ज्ञानी और त्यागी जीते हैं धर्म आधार ॥",
+      "general": "உள்ளத்தில் பற்றுக்களை விட்டுவிட்ட துறவிகளுக்குத் துறவறமே சிறந்த அறமாகும்; மற்றவர்க்கும் அதுவே நல்வழியாகும்.",
+      "en": "The world is bound by words; but ascetics who have conquered desire are bound by virtue.",
+      "hi": "संसार के सभी लोग वचनों और बंधनों से बँधे हैं, किंतु महान त्यागियों का आचरण धर्म और सत्य पर आधारित होता है।",
       "words": [
         {
           "no": 1,
-          "word": "நிறைமொழி (Niraimozhi)",
-          "ta": "பயன் நிறைந்த வாக்கினையுடைய",
-          "en": "Of perfected speech",
-          "hi": "सत्य व अमोघ वाणी वाले"
+          "word": "நிறம்கோள் <br>(Niramkol)",
+          "ta": "பண்பில் சிறந்த",
+          "en": "Qualities / form",
+          "hi": "गुणों से युक्त"
         },
         {
           "no": 2,
-          "word": "மாந்தர் (Maandhar)",
-          "ta": "முனிவர்களின்",
-          "en": "Of great sages",
-          "hi": "महापुरुषों की"
+          "word": "அவர்க்கும் <br>(Avarkkum)",
+          "ta": "அவர்களுக்கும் கூட",
+          "en": "To them",
+          "hi": "उनके लिए भी"
         },
         {
           "no": 3,
-          "word": "பெருமை (Perumai)",
-          "ta": "பெருமையை",
-          "en": "The greatness",
-          "hi": "महिमा को"
+          "word": "அறம் <br>(Aram)",
+          "ta": "அறநெறியே",
+          "en": "Virtue / duty",
+          "hi": "धर्म"
         },
         {
           "no": 4,
-          "word": "நிலத்து (Nilaththu)",
-          "ta": "இவ்வுலகத்தில்",
-          "en": "On earth",
-          "hi": "पृथ्वी पर"
+          "word": "பிறவா தவர்க்கும் <br>(Piravaa Thavarkkum)",
+          "ta": "பிறப்பு அறுத்த துறவிகளுக்கும்",
+          "en": "To those exempt from birth",
+          "hi": "जन्म से मुक्त संन्यासियों के लिए"
         },
         {
           "no": 5,
-          "word": "மறைமொழி (Maraimozhi)",
-          "ta": "அவர்கள் கூறிய மறைமொழிகள் / மந்திரங்கள்",
-          "en": "Their hidden words / mantras",
-          "hi": "गूढ़ मंत्र"
-        },
-        {
-          "no": 6,
-          "word": "காட்டிவிடும் (Kaattividum)",
-          "ta": "விளங்கக் காட்டிவிடும்",
-          "en": "Will clearly demonstrate",
-          "hi": "प्रसिद्ध कर देते हैं"
-        },
-        {
-          "no": 7,
-          "word": "மறை (Marai)",
-          "ta": "வேதம் போன்ற ரகசியங்கள்",
-          "en": "Sacred scripture",
-          "hi": "गुप्त वेद"
+          "word": "உள <br>(Ula)",
+          "ta": "உரியதாகும்",
+          "en": "Exist",
+          "hi": "उपस्थित है"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "நிறைமொழி மாந்தர் பெருமை நிலத்து",
-          "line2": "மறைமொழி காட்டி விடும்."
+          "line1": "நிறம்கோ ளவர்க்கும் அறம்என் மற்றும்",
+          "line2": "பிறர்பிறவா தவர்க்கும் உள."
         },
         "en": {
-          "line1": "The greatness of the men whose words are never spoken in vain,",
-          "line2": "Their secret scriptures through the world forever will explain."
+          "line1": "The might of men whose word is never vain,",
+          "line2": "The 'secret word' shall to the earth proclaim."
         },
         "hi": {
-          "line1": "भाषी वचन अमोघ की, जो है महिमा सिद्ध।",
-          "line2": "गूढ़ मंत्र उनके कहे, जग में करें प्रसिद्ध ॥"
+          "line1": "वचनों के बंधनों में फँसा है सारा संसार।",
+          "line2": "किंतु ज्ञानी और त्यागी जीते हैं धर्म आधार ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Niraimozhi Maandhar Perumai Nilaththu",
-            "line2": "Maraimozhi Kaatti Vidum."
+            "line1": "Niramko Laavarkkum Aramen Mattum",
+            "line2": "Pirappiravaa Thavarkkum Ula."
           },
           "hi": {
-            "line1": "निऱैमॊऴि मान्दर् पॆरुमै निलत्तु",
-            "line2": "मऱैमॊऴि काट्टि विडुम्."
+            "line1": "वचनों के बंधनों में फँसा है सारा संसार।",
+            "line2": "किंतु ज्ञानी और त्यागी जीते हैं धर्म आधार ॥"
           }
         }
       },
       "explanation": {
-        "ta": "பயன்மிக்க சத்திய வாக்குகளை உடைய பெரியோர்களின் பெருமையை, அவர்கள் இவ்வுலகிற்கு அருளிய ஆழமான மறைமொழிகளும் மந்திரங்களுமே வெளிப்படுத்திவிடும்.",
-        "en": "The infallible words and spiritual mantras pronounced by enlightened sages stand as lasting proof of their moral height and wisdom.",
-        "hi": "सत्य और सिद्धि से युक्त वाणी बोलने वाले महात्माओं की श्रेष्ठता उनके द्वारा कहे गए रहस्यमयी और कल्याणकारी मंत्रों से सदा प्रमाणित रहती है।"
+        "ta": "உலகத்தார் அனைவரும் சொல்லுக்குக் கட்டுப்பட்டவர்கள்; ஆனால் பற்றுகளைத் துறந்து பிறப்பைப் போக்கிய பெரியோர்களோ அறத்தின் மூலமே உலகைக் கட்டுப்படுத்துகின்றனர்.",
+        "en": "While ordinary people are bound by worldly attachments and words, great ascetics who have ended rebirth are bound solely by supreme virtue.",
+        "hi": "साधारण लोग सांसारिक बंधनों और वचनों से बँधे रहते हैं, किंतु जिन्होंने जन्म-मरण का चक्र जीत लिया है, वे परम धर्म और सदाचार से ही संचालित होते हैं।"
       }
     },
     {
       "num": 29,
-      "line1": "குணமென்னும் குன்றேறி நின்றார் வெகுளி",
-      "line2": "கணமேயும் காத்தல் அரிது.",
-      "enLine1": "Gunamennum Kundreri Nindraar Vekuli",
-      "enLine2": "Kanamaeyum Kaaththal Arithu.",
-      "hiLine1": "गुणमॆन्नुम् कुन्ड्रेऱि निन्ड्रार् वॆगुळि",
-      "hiLine2": "कणमेय्म् कात्तल् अरिदु.",
-      "general": "நற்குணங்கள் என்னும் மலையின்மீது ஏறி நின்ற பெரியோர்கள் ஒரு நொடிப்பொழுது கோபம் கொண்டாலும், அந்தச் சினத்தை எவராலும் தடுத்துத் தப்ப முடியாது.",
-      "en": "The wrath of those who stand upon the mountain peak of virtue, though it lasts but for a single moment, is impossible to withstand.",
-      "hi": "सद्गुण रूपी पर्वत के शिखर पर आरूढ़ महात्मा यदि एक क्षण के लिए भी कुपित हो जाएँ, तो उनके उस अल्पकालिक क्रोध को सह पाना भी अत्यंत कठिन है।",
+      "line1": "குணமென்னுங் குன்றேறி நின்றார் வெகுளி",
+      "line2": "கணமேயும் காத்த லரிது.",
+      "enLine1": "The wrath 'tis hard e'en for an instant to endure",
+      "enLine2": "Of those who virtue's hill have scaled, and stand secure.",
+      "hiLine1": "जो करते हैं गान त्यागियों की महानता का।",
+      "hiLine2": "वे वचन सभी वचनों में उत्तम हैं जगता का ॥",
+      "general": "பிறவித் துன்பத்தை அறுத்துத் துறவியானவர்களின் பெருமையைச் எடுத்துச் சொல்பவர்களின் சொற்களே, நூல்களில் தலைசிறந்த சொற்களாகும்.",
+      "en": "The words of those who describe the greatness of ascetics who have cut off rebirth are supreme among words.",
+      "hi": "जन्म-मरण के बंधन को काट चुके त्यागियों की महिमा का वर्णन करने वाले विद्वानों के वचन सभी वचनों में श्रेष्ठ हैं।",
       "words": [
         {
           "no": 1,
-          "word": "குணம் என்னும் (Gunam Ennum)",
-          "ta": "நற்பண்புகள் என்னும்",
-          "en": "Called virtue",
-          "hi": "सद्गुण रूपी"
+          "word": "குணம் என்னும் <br>(Gunam Ennum)",
+          "ta": "நற்குணங்கள் எனப்படும்",
+          "en": "Called virtues",
+          "hi": "गुणों रूपी"
         },
         {
           "no": 2,
-          "word": "குன்று ஏறி (Kundru Eari)",
-          "ta": "மலையின் உச்சி மீது ஏறி",
-          "en": "Having ascended the mount",
-          "hi": "पर्वत पर चढ़कर"
+          "word": "குன்று ஏறி நின்றார் <br>(Kundru Eeri Nintraar)",
+          "ta": "மலையின் உச்சியில் நின்றோரைப் போன்றவரின்",
+          "en": "Who have scaled virtue's hill",
+          "hi": "पर्वत पर चढ़ने वाले"
         },
         {
           "no": 3,
-          "word": "நின்றார் (Nindraar)",
-          "ta": "நிலைத்து நின்ற பெரியோரின்",
-          "en": "Those who stand firm",
-          "hi": "स्थित सुजानों का"
-        },
-        {
-          "no": 4,
-          "word": "வெகுளி (Vekuli)",
-          "ta": "கோபத்தை",
+          "word": "வெகுளி <br>(Vekuli)",
+          "ta": "சினமானது",
           "en": "The wrath",
           "hi": "क्रोध"
         },
         {
+          "no": 4,
+          "word": "கணமேயும் <br>(Kanameyum)",
+          "ta": "ஒரு கண நேரமேனும்",
+          "en": "Even for a second",
+          "hi": "एक पल के लिए भी"
+        },
+        {
           "no": 5,
-          "word": "கணமேயும் (Kanamaeyum)",
-          "ta": "ஒரு நொடிப்பொழுதானாலும்",
-          "en": "Even for a moment",
-          "hi": "एक क्षण का भी"
-        },
-        {
-          "no": 6,
-          "word": "காத்தல் (Kaaththal)",
-          "ta": "தடுத்துத் தாங்குதல்",
-          "en": "To withstand / endure",
-          "hi": "सहन करना"
-        },
-        {
-          "no": 7,
-          "word": "அரிது (Arithu)",
-          "ta": "முடியாத காரியம்",
-          "en": "Is impossible",
-          "hi": "दुष्कर है"
+          "word": "காத்தல் அரிது <br>(Kaathal Aridhu)",
+          "ta": "பொறுத்துத் தங்குவது கடினம்",
+          "en": "Hard to endure",
+          "hi": "सहन करना कठिन है"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "குணமென்னும் குன்றேறி நின்றார் வெகுளி",
-          "line2": "கணமேயும் காத்தல் அரிது."
+          "line1": "குணமென்னுங் குன்றேறி நின்றார் வெகுளி",
+          "line2": "கணமேயும் காத்த லரிது."
         },
         "en": {
-          "line1": "The wrath of those who scale the lofty mount of virtue high,",
-          "line2": "Cannot be borne, though for a fleeting moment it pass by."
+          "line1": "The wrath 'tis hard e'en for an instant to endure",
+          "line2": "Of those who virtue's hill have scaled, and stand secure."
         },
         "hi": {
-          "line1": "सद्‌गुण रूपी अचल पर, जो हैं चढ़े सुजान।",
-          "line2": "उनके क्षण का क्रोध भी, सहना दुष्कर जान ॥"
+          "line1": "जो करते हैं गान त्यागियों की महानता का।",
+          "line2": "वे वचन सभी वचनों में उत्तम हैं जगता का ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Gunamennum Kundreri Nindraar Vekuli",
-            "line2": "Kanamaeyum Kaaththal Arithu."
+            "line1": "Gunamennung Kundreeri Nintraar Vekuli",
+            "line2": "Kanameyum Kaaththa Larithu."
           },
           "hi": {
-            "line1": "गुणमॆन्नुम् कुन्ड्रेऱि निन्ड्रार् वॆगुळि",
-            "line2": "कणमेय्म् कात्तल् अरिदु."
+            "line1": "जो करते हैं गान त्यागियों की महानता का।",
+            "line2": "वे वचन सभी वचनों में उत्तम हैं जगता का ॥"
           }
         }
       },
       "explanation": {
-        "ta": "சகல நற்குணங்களும் ஒருங்கே அமைந்த மலையென உயர்ந்த சான்றோர்கள் ஒரு கணம் கோபம் கொண்டாலும், அதன் விளைவைத் தாங்கிக் கொள்வது எவருக்கும் இயலாததாகும்.",
-        "en": "Even momentary anger from spiritual masters standing atop the mountain of virtues carries an irresistible and fearsome force.",
-        "hi": "सद्गुणों के अचल पर्वत पर विराजमान संतों का क्रोध भले ही एक क्षण का हो, किंतु उस क्षणिक कोप का प्रभाव सह सकना किसी के वश की बात नहीं होती।"
+        "ta": "நற்குணங்களாகிய மலர் உச்சியில் ஏறி நிலைபெற்ற பெரியோர்களின் கோபமானது, ஒரு கண நேரம்கூட தாங்க முடியாதபடி அழிவைத் தரும்.",
+        "en": "It is difficult to endure even for a moment the anger of those who have ascended the hill of virtues and stand firm.",
+        "hi": "सदाचार और सद्गुणों के पर्वत पर पहुँच चुके महात्माओं के क्रोध को एक पल के लिए भी सहन करना असंभव है।"
       }
     },
     {
       "num": 30,
-      "line1": "அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்",
+      "line1": "அந்தண ரென்போ ரறவோர்மற் றெவ்வுயிர்க்குங்",
       "line2": "செந்தண்மை பூண்டொழுக லான்.",
-      "enLine1": "Andhanar Enbor Aravormat Revvuyirkkum",
-      "enLine2": "Senthanmai Poondozhuka Laan.",
-      "hiLine1": "अन्दणर् ऎन्बोर् अऱवोर्मट्र ऱॆव्வுயிर्क्कुम्",
-      "hiLine2": "सॆन्दण्मै पूण्डॊऴुक लान्.",
-      "general": "எல்லா உயிர்களிடத்தும் கருணையும் அருளும் பூண்டு வாழ்வதால், துறவிகளே அந்தணர் என்று போற்றப்படுவர்.",
-      "en": "The virtuous are truly the revered ones, because they conduct themselves with sweet compassion toward all living beings.",
-      "hi": "जो संसार के सभी प्राणियों के प्रति दया और करुणा का भाव रखकर आचरण करते हैं, वे ही सच्चे साधु और दया के आगार कहलाते हैं।",
+      "enLine1": "Towards all that breathe, with seemly graciousness adorned they live;",
+      "enLine2": "And thus to virtue's sons the name of 'Anthanar' men give.",
+      "hiLine1": "तपस्वियों के चरणों में जो नहीं झुकाते शीश।",
+      "hiLine2": "अन्यों के आगे उनको झुकना पड़े हमेशा रीश ॥",
+      "general": "அறநெறியில் நின்று தவம்புரிந்த பெரியோர்களின் திருவடிகளில் வீழ்ந்து வணங்காதவர்கள், உலகில் எவரிடமும் தாழ்ந்து நிற்பார்கள்.",
+      "en": "All other beings must bow down to the feet of great ascetics who practice supreme penance.",
+      "hi": "कठोर तपस्या करने वाले महान संन्यासियों के चरणों में झुकने वालों के अलावा अन्य लोगों के लिए यह संसार नतमस्तक होता है।",
       "words": [
         {
           "no": 1,
-          "word": "அந்தணர் (Andhanar)",
-          "ta": "சான்றோர்கள் / துறவிகள்",
-          "en": "The noble righteous ones",
-          "hi": "सच्चे साधु"
+          "word": "அந்தணர் என்போர் <br>(Andhanar Enpor)",
+          "ta": "அந்தணர் என்று அழைக்கப்படுவோர்",
+          "en": "Those called Anthanar",
+          "hi": "जिन्हें ब्राह्मण या संत कहा जाता है"
         },
         {
           "no": 2,
-          "word": "என்போர் (Enbor)",
-          "ta": "என்று சொல்லப்படுவோர்",
-          "en": "Those who are called",
-          "hi": "कहलाने वाले"
+          "word": "அறவோர் <br>(Aravor)",
+          "ta": "அறவோர் ஆவர்",
+          "en": "Are men of virtue",
+          "hi": "वे धर्मवान हैं"
         },
         {
           "no": 3,
-          "word": "அறவோர் (Aravor)",
-          "ta": "அறநெறியில் நிற்பவரே",
-          "en": "The virtuous",
-          "hi": "धर्मात्मा ही"
+          "word": "மற்று எவ்வுயிர்க்கும் <br>(Matru Evvuyirkkum)",
+          "ta": "மற்ற எல்லா உயிர்களிடத்தும்",
+          "en": "Towards all living things",
+          "hi": "तथा सभी जीवों के प्रति"
         },
         {
           "no": 4,
-          "word": "மற்று (Matru)",
-          "ta": "ஏனென்றால்",
-          "en": "Because",
-          "hi": "क्योंकि"
+          "word": "செந்தண்மை பூண்டு <br>(Senthanmai Poontu)",
+          "ta": "செவ்விய அருளைப் பூண்டு",
+          "en": "Endowed with graciousness",
+          "hi": "दया भाव धारण करके"
         },
         {
           "no": 5,
-          "word": "எவ்வுயிர்க்கும் (Evvuyirkkum)",
-          "ta": "எல்லா உயிர்களிடத்திலும்",
-          "en": "Toward every living being",
-          "hi": "सब जीवों से"
-        },
-        {
-          "no": 6,
-          "word": "செந்தண்மை (Senthanmai)",
-          "ta": "செம்மையான இரக்கப் பண்பை",
-          "en": "Gracious kindness / mercy",
-          "hi": "करुणामय भाव"
-        },
-        {
-          "no": 7,
-          "word": "பூண்டொழுகலான் (Poondozhukalaan)",
-          "ta": "மேற்கொண்டு வாழ்வதால்",
-          "en": "By walking in compassion",
-          "hi": "रखकर जीने से"
+          "word": "ஒழுகலான் <br>(Ozhukalaan)",
+          "ta": "நடந்து கொள்வதால்",
+          "en": "Because they live",
+          "hi": "वे आचरण करते हैं"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்",
+          "line1": "அந்தண ரென்போ ரறவோர்மற் றெவ்வுயிர்க்குங்",
           "line2": "செந்தண்மை பூண்டொழுக லான்."
         },
         "en": {
-          "line1": "The righteous men are called the truly noble and the blest,",
-          "line2": "Who walk in sweet compassion towards all creatures manifest."
+          "line1": "Towards all that breathe, with seemly graciousness adorned they live;",
+          "line2": "And thus to virtue's sons the name of 'Anthanar' men give."
         },
         "hi": {
-          "line1": "करते हैं सब जीव से, करुणामय व्यवहार।",
-          "line2": "कहलाते हैं तो तभी, साधु दया-आगार ॥"
+          "line1": "तपस्वियों के चरणों में जो नहीं झुकाते शीश।",
+          "line2": "अन्यों के आगे उनको झुकना पड़े हमेशा रीश ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Andhanar Enbor Aravormat Revvuyirkkum",
-            "line2": "Senthanmai Poondozhuka Laan."
+            "line1": "Andhanar Enpor Aravormatr Evvuyirkkum",
+            "line2": "Senthanmai Poontozhuku Laan."
           },
           "hi": {
-            "line1": "अन्दणर् ऎन्बोर् अऱवोर्मट्र ऱॆव्வுயிर्क्कुम्",
-            "line2": "सॆन्दण्मै पूण्डॊऴुक लान्."
+            "line1": "तपस्वियों के चरणों में जो नहीं झुकाते शीश।",
+            "line2": "अन्यों के आगे उनको झुकना पड़े हमेशा रीश ॥"
           }
         }
       },
       "explanation": {
-        "ta": "உலகில் உள்ள அனைத்து உயிர்களிடமும் இரக்கமும் அருளும் கொண்டு நல்லொழுக்கத்தோடு வாழ்வதால், துறவிகளையே மெய்யான அந்தணர் என்று அறநூல்கள் அழைக்கின்றன.",
-        "en": "They alone are true sages who wear kindness like a garment and extend gracious goodwill to every living soul without distinction.",
-        "hi": "संसार के प्रत्येक प्राणी के प्रति जो प्रेम, अहिंसा और करुणा का व्यवहार करते हैं, वास्तव में वे ही पूज्य साधु और दया के भंडार कहलाने के योग्य हैं।"
+        "ta": "அனைத்து உயிர்களிடத்தும் செவ்விய அருட்குணத்தைக் கைக்கொண்டு நடப்பவரே அறவோரான அந்தணர் எனப்படுவர்.",
+        "en": "Those who practice universal kindness and compassion toward all living creatures are truly known as 'Anthanar' (men of virtue and grace).",
+        "hi": "समस्त प्राणियों के प्रति दया और करुणा का भाव रखने वाले संतों को ही ज्ञानी पुरुष 'संत' या 'ब्राह्मण' कहते हैं।"
       }
     }
   ]

@@ -147,10 +147,17 @@
         },
         {
           "no": 6,
-          "word": "எண்ணிக்கொண் டற்று <br>(Ennikkon Dattru)",
-          "ta": "எண்ணிக் கணக்கிட்டது போன்றதாகும்",
-          "en": "Is like counting them",
-          "hi": "गिनने के समान है"
+          "word": "எண்ணிக்கொண் <br>(Ennikkon)",
+          "ta": "எண்ணிக் கணக்கிட்டு",
+          "en": "Counting",
+          "hi": "गिनने"
+        },
+        {
+          "no": 7,
+          "word": "டற்று <br>(Dattru)",
+          "ta": "கணக்கிட்டது போன்றதாகும்",
+          "en": "Is like",
+          "hi": "के समान है"
         }
       ],
       "poetic": {
@@ -508,10 +515,17 @@
         },
         {
           "no": 6,
-          "word": "செய்கலாதார் <br>(Seykalaadhaar)",
-          "ta": "செய்ய முடியாதவர்",
-          "en": "Those who cannot do",
-          "hi": "न कर पाने वाले"
+          "word": "செய்கலா <br>(Seykalaa)",
+          "ta": "செய்ய முடியாத",
+          "en": "Cannot do",
+          "hi": "न कर पाने"
+        },
+        {
+          "no": 7,
+          "word": "தார் <br>(Dhaar)",
+          "ta": "அவர்கள்",
+          "en": "Those who",
+          "hi": "वाले"
         }
       ],
       "poetic": {
@@ -685,10 +699,17 @@
         },
         {
           "no": 6,
-          "word": "காட்டி விடும் <br>(Kaatti Vidum)",
-          "ta": "அடையாளம் காட்டிவிடும்",
-          "en": "Will proclaim / reveal",
-          "hi": "प्रसिद्ध कर देते हैं"
+          "word": "காட்டி <br>(Kaatti)",
+          "ta": "அடையாளம் காட்டி",
+          "en": "Proclaiming / showing",
+          "hi": "प्रसिद्ध कर"
+        },
+        {
+          "no": 7,
+          "word": "விடும் <br>(Vidum)",
+          "ta": "விடும் (வெளிப்படுத்தும்)",
+          "en": "Will",
+          "hi": "देते हैं"
         }
       ],
       "poetic": {
@@ -770,10 +791,17 @@
         },
         {
           "no": 6,
-          "word": "காத்தல் அரிது <br>(Kaaththal Arithu)",
-          "ta": "தடுத்துத் தாங்குதல் அரிது",
-          "en": "Hard to endure / resist",
-          "hi": "सहना कठिन है"
+          "word": "காத்தல் <br>(Kaaththal)",
+          "ta": "தடுத்துத் தாங்குதல்",
+          "en": "Enduring / guarding against",
+          "hi": "सहना / रोकना"
+        },
+        {
+          "no": 7,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "அரிது (கடினம்)",
+          "en": "Is hard / difficult",
+          "hi": "कठिन है"
         }
       ],
       "poetic": {

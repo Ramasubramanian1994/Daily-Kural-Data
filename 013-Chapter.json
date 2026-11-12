@@ -1,7 +1,7 @@
 {
   "chapterNum": 13,
   "nameTa": "அடக்கமுடைமை",
-  "nameEn": "Self-Control",
+  "nameEn": "The Possession of Self-restraint",
   "nameHi": "संयमशीलता",
   "paal": "அறத்துப்பால்",
   "iyal": "இல்லறவியல்",
@@ -9,247 +9,247 @@
     {
       "num": 121,
       "line1": "அடக்கம் அமரருள் உய்க்கும் அடங்காமை",
-      "line2": "ஆர்இருள் உய்த்து விடும்.",
-      "enLine1": "Adakkam Amararul Uykkum Adangaamai",
-      "enLine2": "Aarirul Uyiththu Vidum.",
-      "hiLine1": "अडक्कम् अमररुळ् उयक्कुम् अडङ्गामै",
-      "hiLine2": "आर्इरुळ् उयित्त्तु विडुम्.",
-      "general": "மன அடக்கம் ஒருவனைத் தேவர்களோடு சேர்த்து வைக்கும்; புலனடக்கம் இல்லாதிருத்தலோ அவனை மீள முடியாத இருள் போன்ற நரகத்தில் தள்ளிவிடும்.",
-      "en": "Self-control will place a man among the gods; lack of self-control will lead him into the deepest darkness of hell.",
-      "hi": "मन और इंद्रियों का संयम मनुष्य को स्वर्ग के देवताओं के समान उच्च पद पर पहुँचा देता है; जबकि असंयम उसे घोर अंधकारमय नरक में गिरा देता है।",
+      "line2": "ஆரிருள் உய்த்து விடும்.",
+      "enLine1": "Controul of self does man conduct to bliss th' immortals share ;",
+      "enLine2": "Indulgence leads to deepest night, and leaves him there.",
+      "hiLine1": "संयम देता मनुज को, अमर लोक का वास ।",
+      "hiLine2": "झोंक असंयम नरक में, करता सत्यानास ॥",
+      "general": "அடக்கம் ஒருவனைத் தேவருலகத்தில் சேர்க்கும்; அடக்கம் இல்லாமை அவனைக் கொடிய இருளாகிய நரகத்தில் கொண்டுபோய்ச் சேர்த்துவிடும்.",
+      "en": "Self-control will place a man among the gods; the want of it will drive him into the darkest hell.",
+      "hi": "संयम मनुष्य को अमर लोक (स्वर्ग) में वास दिलाता है, जबकि असंयम उसे नरक के घोर अंधकार में झोंककर उसका सर्वनाश कर देता है।",
       "words": [
         {
           "no": 1,
-          "word": "அடக்கம் (Adakkam)",
-          "ta": "புலன் அடக்கமானது",
-          "en": "Self-control / Humility",
-          "hi": "इंद्रिय-संयम"
+          "word": "அடக்கம் <br>(Adakkam)",
+          "ta": "அடக்கமுடைமை",
+          "en": "Self-control / restraint",
+          "hi": "संयम"
         },
         {
           "no": 2,
-          "word": "அமரருள் (Amararul)",
-          "ta": "தேவர்களுக்கு நடுவே",
-          "en": "Among the immortal gods",
-          "hi": "देवताओं के मध्य"
+          "word": "அமரருள் <br>(Amararul)",
+          "ta": "தேவர்கள் உலகத்தில்",
+          "en": "Among the immortals",
+          "hi": "अमर लोक में"
         },
         {
           "no": 3,
-          "word": "உய்க்கும் (Uykkum)",
+          "word": "உய்க்கும் <br>(Uykkum)",
           "ta": "கொண்டுபோய்ச் சேர்க்கும்",
-          "en": "Will lead and elevate",
-          "hi": "पहुँचा देगा"
+          "en": "Will conduct / lead",
+          "hi": "वास देता है"
         },
         {
           "no": 4,
-          "word": "அடங்காமை (Adangaamai)",
-          "ta": "அடக்கமில்லாத செருக்கு",
-          "en": "Lack of self-control",
+          "word": "அடங்காமை <br>(Adangaamai)",
+          "ta": "அடக்கமில்லாமை",
+          "en": "Lack of restraint",
           "hi": "असंयम"
         },
         {
           "no": 5,
-          "word": "ஆர் இருள் (Aar Irul)",
-          "ta": "மிக்க கொடிய இருள் போன்ற நரகத்தில்",
-          "en": "Into deep, dense darkness",
-          "hi": "घोर अंधकारमय नरक में"
+          "word": "ஆரிருள் <br>(Aarirul)",
+          "ta": "கொடிய நரக இருளில்",
+          "en": "Into deepest darkness",
+          "hi": "नरक के घोर अंधकार में"
         },
         {
           "no": 6,
-          "word": "உய்த்துவிடும் (Uyiththuvidum)",
-          "ta": "கொண்டுபோய்த் தள்ளிவிடும்",
-          "en": "Will cast him down",
-          "hi": "गिरा देगा"
+          "word": "உய்த்து <br>(Uyththu)",
+          "ta": "கொண்டு செலுத்தி",
+          "en": "Leading / driving",
+          "hi": "झोंककर"
         },
         {
           "no": 7,
-          "word": "அமரர் (Amarar)",
-          "ta": "இறப்பில்லாத தேவர்",
-          "en": "Immortals",
-          "hi": "देवगण"
+          "word": "விடும் <br>(Vidum)",
+          "ta": "விட்டுவிடும்",
+          "en": "Will leave",
+          "hi": "सत्यानाश कर देता है"
         }
       ],
       "poetic": {
         "ta": {
           "line1": "அடக்கம் அமரருள் உய்க்கும் அடங்காமை",
-          "line2": "ஆர்இருள் உய்த்து விடும்."
+          "line2": "ஆரிருள் உய்த்து விடும்."
         },
         "en": {
-          "line1": "Self-rule will place a mortal man among the gods of light;",
-          "line2": "Unbridled pride will cast him down into the darkest night."
+          "line1": "Controul of self does man conduct to bliss th' immortals share ;",
+          "line2": "Indulgence leads to deepest night, and leaves him there."
         },
         "hi": {
-          "line1": "संयम ले जाता मनुज, अमर-लोक के पास।",
-          "line2": "किन्तु असंयम ढकेल दे, तमिस्र-नरक-अवास ॥"
+          "line1": "संयम देता मनुज को, अमर लोक का वास ।",
+          "line2": "झोंक असंयम नरक में, करता सत्यानास ॥"
         },
         "transliteration": {
           "en": {
             "line1": "Adakkam Amararul Uykkum Adangaamai",
-            "line2": "Aarirul Uyiththu Vidum."
+            "line2": "Aarirul Uyththu Vidum."
           },
           "hi": {
-            "line1": "अडक्कम् अमररुळ् उयक्कुम् अडङ्गामै",
-            "line2": "आर्इरुळ् उयित्त्तु विडुम्."
+            "line1": "अडक्कम् अमररुळ् उय्क्कुम् अडङ्गामै",
+            "line2": "आरिरुळ् उय्त्तु विडुम्."
           }
         }
       },
       "explanation": {
-        "ta": "மெய், வாய், கண், மூக்கு, செவி என்னும் ஐம்பொறிகளையும் நல்வழியில் அடக்கி வாழ்பவன் தேவர்களுக்கு ஒப்பாக மதிக்கப்படுவான்; அடக்கமில்லாமல் வரம்புமீறி வாழ்பவன் கொடிய நரக இருளில் வீழ்ந்து கெடுவான்.",
-        "en": "Restraining one's desires and speech elevates a person to the divine realm of honor, whereas unrestrained hubris and indulgence hurl the soul into abysmal ruin.",
-        "hi": "जो व्यक्ति अपनी इंद्रियों और अहंकार को वश में रखता है, वह देवतुल्य आदर और सद्गति प्राप्त करता है; परंतु जो स्वच्छंद और असंयमी हो जाता है, वह दुःखों के अथाह अंधकार में डूब जाता है।"
+        "ta": "அடக்கம் ஒருவனைத் தேவருலகத்தில் சேர்க்கும்; அடக்கம் இல்லாமை அவனைக் கொடிய இருளாகிய நரகத்தில் கொண்டுபோய்ச் சேர்த்துவிடும்.",
+        "en": "Self-restraint elevates a person to the realm of the immortals, whereas lack of restraint plunges them into deep darkness.",
+        "hi": "संयम मनुष्य को अमर लोक (स्वर्ग) में वास दिलाता है, जबकि असंयम उसे नरक के घोर अंधकार में झोंककर उसका सर्वनाश कर देता है।"
       }
     },
     {
       "num": 122,
       "line1": "காக்க பொருளா அடக்கத்தை ஆக்கம்",
-      "line2": "அதினூங்கு இல்லை உயிர்க்கு.",
-      "enLine1": "Kaakka Porulaa Adakkaththai Aakkam",
-      "enLine2": "Adhinoonku Illai Uyirkku.",
-      "hiLine1": "काक्क पॊरुळा अडक्कत्तै आक्कम्",
-      "hiLine2": "अदिनूङ्कु इल्लै उयिर्क्कु.",
-      "general": "அடக்கமுடைமையைப் பெறுதற்குரிய அரிய செல்வமாகக் கருதிப் போற்றிக் காக்க வேண்டும்; உயிர்க்கு அந்த அடக்கத்தைவிட மேலான செல்வம் வேறு எதுவும் இல்லை.",
-      "en": "Guard self-control as your most treasured wealth; for there is no greater gain than this for any living being.",
-      "hi": "संयम को अमूल्य संपत्ति मानकर उसकी यत्नपूर्वक रक्षा करो; क्योंकि संसार में मनुष्य के लिए इससे बढ़कर कल्याणकारी कोई अन्य धन नहीं है।",
+      "line2": "அதனினூஉங்கு இல்லை உயிர்க்கு.",
+      "enLine1": "Guard thou as wealth the power of self-controul ;",
+      "enLine2": "Than this no greater gain to living soul !",
+      "hiLine1": "संयम की रक्षा करो, निधि अनमोल समान ।",
+      "hiLine2": "श्रेय नहीं है जीव को, उससे अधिक महान ॥",
+      "general": "அடக்கத்தை உயர்ந்த செல்வமாகக் கருதிப் போற்றிக் காக்க வேண்டும்; உயிருக்கு அந்த அடக்கத்தைவிடச் சிறந்த ஆக்கம் வேறு எதுவும் இல்லை.",
+      "en": "Guard self-control as a precious treasure; there is no greater source of good to a living soul than that.",
+      "hi": "संयम की रक्षा एक अनमोल निधि (खजाने) के समान करनी चाहिए, क्योंकि जीव के लिए उससे बढ़कर कोई अन्य महान कल्याण नहीं है।",
       "words": [
         {
           "no": 1,
-          "word": "காக்க (Kaakka)",
-          "ta": "பாதுகாத்துக் கொள்க",
-          "en": "Guard carefully",
+          "word": "காக்க <br>(Kaakka)",
+          "ta": "போற்றிக் காக்க வேண்டும்",
+          "en": "Guard / preserve",
           "hi": "रक्षा करो"
         },
         {
           "no": 2,
-          "word": "பொருளா (Porulaa)",
+          "word": "பொருளா <br>(Porulaa)",
           "ta": "உயர்ந்த செல்வமாகக் கருதி",
-          "en": "As a precious treasure",
-          "hi": "संपत्ति मानकर"
+          "en": "As wealth / treasure",
+          "hi": "अनमोल निधि के समान"
         },
         {
           "no": 3,
-          "word": "அடக்கத்தை (Adakkaththai)",
-          "ta": "மன அடக்கத்தினை",
+          "word": "அடக்கத்தை <br>(Adakkaththai)",
+          "ta": "அடக்கத்தை",
           "en": "Self-control",
-          "hi": "संयम को"
+          "hi": "संयम की"
         },
         {
           "no": 4,
-          "word": "ஆக்கம் (Aakkam)",
-          "ta": "உயர்ந்த நன்மை",
-          "en": "Gain / prosperity",
-          "hi": "कल्याण / लाभ"
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "நன்மை / ஆக்கம்",
+          "en": "Gain / good",
+          "hi": "श्रेय / कल्याण"
         },
         {
           "no": 5,
-          "word": "அதினூங்கு (Adhinoonku)",
-          "ta": "அதைக் காட்டிலும் மேலாக",
-          "en": "Beyond that",
-          "hi": "उससे बढ़कर"
+          "word": "அதனினூஉங்கு <br>(Adhaninooungu)",
+          "ta": "அவ்வடக்கத்தைவிட மேலானது",
+          "en": "Greater than that",
+          "hi": "उससे अधिक महान"
         },
         {
           "no": 6,
-          "word": "இல்லை (Illai)",
-          "ta": "வேறு ஒன்றும் இல்லை",
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
           "en": "There is none",
           "hi": "नहीं है"
         },
         {
           "no": 7,
-          "word": "உயிர்க்கு (Uyirkku)",
-          "ta": "மனித உயிருக்கு",
-          "en": "To the soul",
-          "hi": "जीवात्मा के लिए"
+          "word": "உயிர்க்கு <br>(Uyirkku)",
+          "ta": "உயிருக்கு",
+          "en": "To the living soul",
+          "hi": "जीव को"
         }
       ],
       "poetic": {
         "ta": {
           "line1": "காக்க பொருளா அடக்கத்தை ஆக்கம்",
-          "line2": "அதினூங்கு இல்லை உயிர்க்கு."
+          "line2": "அதனினூஉங்கு இல்லை உயிர்க்கு."
         },
         "en": {
-          "line1": "Guard well self-rule as treasure rare that wealth and peace confers;",
-          "line2": "No greater blessing to the soul than what restraint stirs."
+          "line1": "Guard thou as wealth the power of self-controul ;",
+          "line2": "Than this no greater gain to living soul !"
         },
         "hi": {
-          "line1": "संयम ही है सम्पदा, रक्षा करो सनेह।",
-          "line2": "इससे बढ़कर श्रेय नहिं, पा सकता कोई देह ॥"
+          "line1": "संयम की रक्षा करो, निधि अनमोल समान ।",
+          "line2": "श्रेय नहीं है जीव को, उससे अधिक महान ॥"
         },
         "transliteration": {
           "en": {
             "line1": "Kaakka Porulaa Adakkaththai Aakkam",
-            "line2": "Adhinoonku Illai Uyirkku."
+            "line2": "Adhaninooungu Illai Uyirkku."
           },
           "hi": {
             "line1": "काक्क पॊरुळा अडक्कत्तै आक्कम्",
-            "line2": "अदिनूङ्कु इल्लै उयिर्क्कु."
+            "line2": "अदनिनूउङ्गु इल्लै उयिर्क्कु."
           }
         }
       },
       "explanation": {
-        "ta": "அடக்கத்தை ஒருவன் மிக உயர்ந்த செல்வமாகக் கருதி எப்போதும் காத்துக் கொள்ள வேண்டும்; மனிதனுக்கு அந்தப் பண்பைவிடச் சிறந்த வாழ்க்கைப் பேறு வேறொன்றும் இல்லை.",
-        "en": "A wise man diligently protects his humility and self-possession as his truest asset, knowing that mortal existence yields no richer fortune than self-mastery.",
-        "hi": "संयम और नम्रता ही जीवन की सच्ची निधि हैं; इनका हर परिस्थिति में पालन करना चाहिए, क्योंकि आत्मा के उत्थान के लिए इससे बढ़कर कोई अन्य साधन नहीं है।"
+        "ta": "அடக்கத்தை உயர்ந்த செல்வமாகக் கருதிப் போற்றிக் காக்க வேண்டும்; உயிருக்கு அந்த அடக்கத்தைவிடச் சிறந்த ஆக்கம் வேறு எதுவும் இல்லை.",
+        "en": "Protect self-discipline like your greatest wealth; nothing brings greater good to a living being than self-mastery.",
+        "hi": "संयम की रक्षा एक अनमोल निधि (खजाने) के समान करनी चाहिए, क्योंकि जीव के लिए उससे बढ़कर कोई अन्य महान कल्याण नहीं है।"
       }
     },
     {
       "num": 123,
       "line1": "செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து",
       "line2": "ஆற்றின் அடங்கப் பெறின்.",
-      "enLine1": "Serivarindhu Seermai Payakkum Arivarindhu",
-      "enLine2": "Aatrin Adangap Perin.",
-      "hiLine1": "सॆऱिवऱिन्दु सीर्मै पयक्कुम् अऱिवऱिन्दु",
-      "hiLine2": "आट्रिन् अडङ्गप् पॆऱिन्.",
-      "general": "அறிய வேண்டிய நல்லறிவை அறிந்து, நல்வழியிலே நின்று ஒருவன் அடக்கத்தோடு வாழப்பெற்றால், அந்த அடக்கம் அவனுடைய சிறப்பை உணர்ந்து அவனுக்குப் பெரும் புகழைத் தரும்.",
-      "en": "Knowing what ought to be known, if one conducts oneself with self-restraint in the path of virtue, that very restraint will yield lasting honor.",
-      "hi": "कर्तव्य-अकर्तव्य का विवेक जानकर यदि मनुष्य धर्म के मार्ग पर संयमपूर्वक चले, तो उसका यह संयम उसके महत्व को पहचानकर उसे असीम यश प्रदान करेगा।",
+      "enLine1": "If versed in wisdom's lore by virtue's law you self restrain,",
+      "enLine2": "Your self-repression known will yield you glory's gain.",
+      "hiLine1": "कोई संयमशील हो, अगर जानकर तत्व ।",
+      "hiLine2": "संयम पा कर मान्यता, देगा उसे महत्व ॥",
+      "general": "அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடங்கி ஒழுகப் பெற்றால், அந்த அடக்கம் அறிஞர்களால் அறியப்பட்டுச் சிறப்பைத் தரும்.",
+      "en": "Knowing what is to be known, if a man restrains himself in the right path, his self-control will be recognized by the wise and yield him distinction.",
+      "hi": "यदि कोई व्यक्ति जीवन के वास्तविक तत्व को जानकर संयमशील बने, तो संसार उसके संयम को मान्यता देकर उसे विशेष महत्व और गौरव प्रदान करता है।",
       "words": [
         {
           "no": 1,
-          "word": "செறிவு அறிந்து (Serivu Arindhu)",
-          "ta": "அடக்கத்தின் சிறப்பினை அறிந்து",
-          "en": "Knowing the worth of self-restraint",
-          "hi": "संयम के महत्व को जान"
+          "word": "செறிவறிந்து <br>(Serivarindhu)",
+          "ta": "அடக்கத்தை அறிந்து",
+          "en": "Self-repression being known",
+          "hi": "तत्व जानकर"
         },
         {
           "no": 2,
-          "word": "சீர்மை பயக்கும் (Seermai Payakkum)",
-          "ta": "அவனுக்குப் பெரும் புகழைத் தரும்",
-          "en": "Will confer greatness / honor",
-          "hi": "यश प्रदान करेगा"
+          "word": "சீர்மை <br>(Seermai)",
+          "ta": "சிறப்பை",
+          "en": "Glory / distinction",
+          "hi": "मान्यता / महत्व"
         },
         {
           "no": 3,
-          "word": "அறிவு அறிந்து (Arivu Arindhu)",
-          "ta": "அறிய வேண்டிய நல்லறிவை உணர்ந்து",
-          "en": "Knowing what is wise",
-          "hi": "सद्ज्ञान को पहचानकर"
+          "word": "பயக்கும் <br>(Payakkum)",
+          "ta": "தரும்",
+          "en": "Will yield",
+          "hi": "देगा"
         },
         {
           "no": 4,
-          "word": "ஆற்றின் (Aatrin)",
-          "ta": "அறவழியின்படி",
-          "en": "In the virtuous path",
-          "hi": "सदाचार के मार्ग पर"
+          "word": "அறிவறிந்து <br>(Arivarindhu)",
+          "ta": "அறிய வேண்டியவற்றை அறிந்து",
+          "en": "Versed in wisdom",
+          "hi": "संयमशील होकर"
         },
         {
           "no": 5,
-          "word": "அடங்கப் பெறின் (Adangap Perin)",
-          "ta": "அடங்கி வாழப்பெற்றால்",
-          "en": "If one walks with restraint",
-          "hi": "यदि संयम से रहे"
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "நல்வழியில்",
+          "en": "By virtue's law/path",
+          "hi": "संयम के मार्ग पर"
         },
         {
           "no": 6,
-          "word": "சீர்மை (Seermai)",
-          "ta": "சிறப்பு / பெருமை",
-          "en": "Greatness",
-          "hi": "महिमा"
+          "word": "அடங்கப் <br>(Adangap)",
+          "ta": "அடங்கி ஒழுகப்",
+          "en": "Self-restrained",
+          "hi": "संयम पाकर"
         },
         {
           "no": 7,
-          "word": "செறிவு (Serivu)",
-          "ta": "அடக்கம் / செறிவுடைமை",
-          "en": "Restraint",
-          "hi": "संयम"
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "If one achieves",
+          "hi": "यदि हो तो"
         }
       ],
       "poetic": {
@@ -258,12 +258,12 @@
           "line2": "ஆற்றின் அடங்கப் பெறின்."
         },
         "en": {
-          "line1": "Knowing wisdom, walk the path of true self-rule and peace;",
-          "line2": "And glory, knowing your restraint, shall richly still increase."
+          "line1": "If versed in wisdom's lore by virtue's law you self restrain,",
+          "line2": "Your self-repression known will yield you glory's gain."
         },
         "hi": {
-          "line1": "सदाचार का ज्ञान रख, जो संयम अपनाय।",
-          "line2": "उसका संयम ही उसे, आदर-मान दिलाय ॥"
+          "line1": "कोई संयमशील हो, अगर जानकर तत्व ।",
+          "line2": "संयम पा कर मान्यता, देगा उसे महत्व ॥"
         },
         "transliteration": {
           "en": {
@@ -271,169 +271,169 @@
             "line2": "Aatrin Adangap Perin."
           },
           "hi": {
-            "line1": "सॆऱिवऱिन्दु सीर्मै पयक्कुम् अऱिवऱिन्दु",
-            "line2": "आट्रिन् अडङ्गप् पॆऱिन्."
+            "line1": "सॆरिवरिन्दु सीर्मै पयक्कुम् अरिवरिन्दु",
+            "line2": "आत्रिन् अडङ्गप् पॆरिन्."
           }
         }
       },
       "explanation": {
-        "ta": "கற்க வேண்டிய நல்லறிவைக் கற்று உணர்ந்து, ஒழுக்க வழியில் நின்று தன்னடக்கத்துடன் வாழ்பவனுக்கு, அந்த அடக்கமே சிறந்த நன்மைகளையும் அழியாத புகழையும் பெற்றுத்தரும்.",
-        "en": "He who acts prudently according to moral insight and bridles his impulses within rightful bounds will find his dignified self-discipline yielding universal respect.",
-        "hi": "जो मनुष्य ज्ञान और विवेक का आश्रय लेकर मर्यादा के भीतर रहकर जीवन जीता है, उसका वही संयमी आचरण समाज में उसकी कीर्ति और गौरव को बढ़ाता है।"
+        "ta": "அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடங்கி ஒழுகப் பெற்றால், அந்த அடக்கம் அறிஞர்களால் அறியப்பட்டுச் சிறப்பைத் தரும்.",
+        "en": "When you practice self-control wisely along the path of righteousness, that restraint becomes recognized and brings lasting honor.",
+        "hi": "यदि कोई व्यक्ति जीवन के वास्तविक तत्व को जानकर संयमशील बने, तो संसार उसके संयम को मान्यता देकर उसे विशेष महत्व और गौरव प्रदान करता है।"
       }
     },
     {
       "num": 124,
-      "line1": "நிலையின் திரியாது அடங்கியான் தோற்றம்",
+      "line1": "நிலையில் திரியாது அடங்கியான் தோற்றம்",
       "line2": "மலையினும் மாணப் பெரிது.",
-      "enLine1": "Nilaiyin Thiriyaadhu Adangiyaan Thoatram",
-      "enLine2": "Malaiyinum Maanap Peridhu.",
-      "hiLine1": "निलैयिऩ् तिरियादु अडङ्गियाऩ् तोट्रम्",
-      "hiLine2": "मलैयिनुम् माणप् पॆரிது.",
-      "general": "தன்னுடைய நன்னிலையிலிருந்து வழுவாமல் நின்று புலன்களை அடக்கியவனுடைய பெருமையானது, உயர்ந்த மலையின் பெருமையைவிட மிகவும் பெரிதாகும்.",
-      "en": "The spiritual majesty of him who swerves not from his steadfast station and controls himself is far loftier than a mountain.",
-      "hi": "अपने धर्म और कर्तव्य से विचलित न होकर जो पुरुष संयमी बना रहता है, उसका गौरव और बड़प्पन विशाल पर्वत से भी कहीं अधिक ऊँचा होता है।",
+      "enLine1": "In his station, all unswerving, if man self subdue,",
+      "enLine2": "Greater he than mountain proudly rising to the view.",
+      "hiLine1": "बिना टले निज धर्म से, जो हो संयमशील ।",
+      "hiLine2": "पर्वत से भी उच्चतर, होगा उसका डील ॥",
+      "general": "தனக்குரிய அறநிலையிலிருந்து மாறுபடாமல் அடங்கி ஒழுகுபவனின் உயர்வு, மலையைவிட மிகவும் பெரியதாகும்.",
+      "en": "The dignity of him who, without swerving from his proper state, controls himself is far loftier than a mountain.",
+      "hi": "जो मनुष्य अपने धर्म-मार्ग से तनिक भी विचलित हुए बिना संयमशील रहता है, उसका व्यक्तित्व और गौरव विशाल पर्वत से भी अधिक ऊँचा होता है।",
       "words": [
         {
           "no": 1,
-          "word": "நிலையின் (Nilaiyin)",
-          "ta": "தனக்குரிய நன்னிலையிலிருந்து",
-          "en": "From his righteous station",
-          "hi": "अपनी मर्यादा से"
+          "word": "நிலையில் <br>(Nilaiyil)",
+          "ta": "தன் அறநிலையிலிருந்து",
+          "en": "In his station",
+          "hi": "निज धर्म से"
         },
         {
           "no": 2,
-          "word": "திரியாது (Thiriyaadhu)",
+          "word": "திரியாது <br>(Thiriyaadhu)",
           "ta": "மாறுபடாமல்",
-          "en": "Without wavering / swerving",
-          "hi": "डिगे बिना"
+          "en": "Unswerving",
+          "hi": "बिना टले"
         },
         {
           "no": 3,
-          "word": "அடங்கியான் (Adangiyaan)",
-          "ta": "அடக்கத்தோடு வாழ்பவனின்",
-          "en": "Of him who is self-controlled",
-          "hi": "संयमी पुरुष का"
+          "word": "அடங்கியான் <br>(Adangiyaan)",
+          "ta": "அடங்கி ஒழுகுபவனின்",
+          "en": "Who subdues himself",
+          "hi": "जो संयमशील है"
         },
         {
           "no": 4,
-          "word": "தோற்றம் (Thoatram)",
-          "ta": "உயர்ந்த பெருமை",
-          "en": "Dignity / spiritual stature",
-          "hi": "गौरव / बड़प्पन"
+          "word": "தோற்றம் <br>(Thotram)",
+          "ta": "உயர்வு / தோற்றம்",
+          "en": "Dignity / stature",
+          "hi": "उसका डील (व्यक्तित्व)"
         },
         {
           "no": 5,
-          "word": "மலையினும் (Malaiyinum)",
-          "ta": "பெரிய மலையைக் காட்டிலும்",
+          "word": "மலையினும் <br>(Malaiyinum)",
+          "ta": "மலையைவிட",
           "en": "Than a mountain",
           "hi": "पर्वत से भी"
         },
         {
           "no": 6,
-          "word": "மாண (Maana)",
+          "word": "மாணப் <br>(Maanap)",
           "ta": "மிகவும்",
           "en": "Exceedingly",
-          "hi": "अत्यधिक"
+          "hi": "अधिक"
         },
         {
           "no": 7,
-          "word": "பெரிது (Peridhu)",
-          "ta": "மிகப் பெரியதாகும்",
-          "en": "Is grander / greater",
-          "hi": "महान है"
+          "word": "பெரிது <br>(Peridhu)",
+          "ta": "பெரியதாகும்",
+          "en": "Is greater",
+          "hi": "उच्चतर होगा"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "நிலையின் திரியாது அடங்கியான் தோற்றம்",
+          "line1": "நிலையில் திரியாது அடங்கியான் தோற்றம்",
           "line2": "மலையினும் மாணப் பெரிது."
         },
         "en": {
-          "line1": "Who from his duty wavers not, in self-control arrayed,",
-          "line2": "His grandeur rises loftier than the mountain's highest shade."
+          "line1": "In his station, all unswerving, if man self subdue,",
+          "line2": "Greater he than mountain proudly rising to the view."
         },
         "hi": {
-          "line1": "निज मर्यादा में अटल, रहे जो संयम-युक्त।",
-          "line2": "पर्वत से भी उच्च है, उसका गौरव मुक्त ॥"
+          "line1": "बिना टले निज धर्म से, जो हो संयमशील ।",
+          "line2": "पर्वत से भी उच्चतर, होगा उसका डील ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Nilaiyin Thiriyaadhu Adangiyaan Thoatram",
+            "line1": "Nilaiyil Thiriyaadhu Adangiyaan Thotram",
             "line2": "Malaiyinum Maanap Peridhu."
           },
           "hi": {
-            "line1": "निलैयिऩ् तिरियादु अडङ्गियाऩ् तोट्रम्",
-            "line2": "मलैयिनुम् माणप् पॆரிது."
+            "line1": "निलैयिल् तिरियादु अडङ्गियान् तोत्रम्",
+            "line2": "मलैयिनुम् माणप् पॆरिदु."
           }
         }
       },
       "explanation": {
-        "ta": "தமக்குரிய ஒழுக்க நெறியிலிருந்து சிறிதும் விலகாமல் புலனடக்கத்தோடு வாழும் ஒருவனின் ஆளுமையும் பெருமிதமும், விண்ணை முட்டும் மாமலையைவிட உயர்ந்ததாகும்.",
-        "en": "A person firmly rooted in righteousness who holds his passions in check possesses an inner stature that dwarfs the highest peaks on earth.",
-        "hi": "जो व्यक्ति सुख-दुःख या प्रलोभन में अपनी मर्यादा नहीं छोड़ता और आत्म-नियंत्रण बनाए रखता है, उसका नैतिक चरित्र गगनचुंबी हिमालय से भी अधिक विशाल माना जाता है।"
+        "ta": "தனக்குரிய அறநிலையிலிருந்து மாறுபடாமல் அடங்கி ஒழுகுபவனின் உயர்வு, மலையைவிட மிகவும் பெரியதாகும்.",
+        "en": "The stature of someone who remains steadfast in duty and practices self-restraint towers higher than any mountain.",
+        "hi": "जो मनुष्य अपने धर्म-मार्ग से तनिक भी विचलित हुए बिना संयमशील रहता है, उसका व्यक्तित्व और गौरव विशाल पर्वत से भी अधिक ऊँचा होता है।"
       }
     },
     {
       "num": 125,
       "line1": "எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்",
       "line2": "செல்வர்க்கே செல்வம் தகைத்து.",
-      "enLine1": "Ellaarkkum Nandraam Panidhal Avarullum",
-      "enLine2": "Selvarkkae Selvam Thakaththu.",
-      "hiLine1": "ऎल्ला़र्क्कुम् नन्ड्राम् पणिदल् अवरुळ्ळुम्",
-      "hiLine2": "सॆल्वर्क्के सॆल्वम् तकैत्तु.",
-      "general": "பணிவுடைமை என்பது எல்லா மனிதர்க்கும் நன்மையே தரும்; ஆயினும் அந்தப் பணிவானது செல்வந்தர்களுக்கு அமைந்தால் அது செல்வத்திற்குள் மற்றொரு சிறந்த செல்வமாகும்.",
-      "en": "Humility is good for all; yet among them, for the rich to be humble is like possessing an added treasure of wealth.",
-      "hi": "विनम्र होना सभी मनुष्यों के लिए कल्याणकारी है; किंतु धनवानों में यदि विनम्रता हो, तो वह उनके वैभव का सबसे सुंदर और दूसरा श्रेष्ठ आभूषण बन जाती है।",
+      "enLine1": "To all humility is goodly grace ; but chief to them",
+      "enLine2": "With fortune blessed,—'tis fortune's diadem.",
+      "hiLine1": "संयम उत्तम वस्तु है, जन के लिये अशेष ।",
+      "hiLine2": "वह भी धनिकों में रहे, तो वह धन सुविशेष ॥",
+      "general": "பணிவுடன் நடத்தல் எல்லோர்க்கும் நன்மை தருவதாகும்; அதிலும் செல்வமுடையவர்களுக்கு அந்தப் பணிவு மேலும் ஒரு சிறந்த செல்வத்தைப் போன்றதாகும்.",
+      "en": "Humility is good for all; but especially to the rich, it adds the grace of another wealth.",
+      "hi": "संयम और विनम्रता सभी लोगों के लिए उत्तम गुण है, परंतु यदि यह गुण धनवान लोगों में भी हो, तो वह उनके धन की शोभा को और अधिक बढ़ा देता है।",
       "words": [
         {
           "no": 1,
-          "word": "எல்லார்க்கும் (Ellaarkkum)",
-          "ta": "எல்லா மனிதர்களுக்கும்",
-          "en": "To all people",
-          "hi": "सबके लिए"
+          "word": "எல்லார்க்கும் <br>(Ellaarkkum)",
+          "ta": "எல்லோருக்கும்",
+          "en": "To all",
+          "hi": "सभी जनों के लिए"
         },
         {
           "no": 2,
-          "word": "நன்றாம் (Nandraam)",
-          "ta": "நன்மையே தரும்",
-          "en": "Is good and fitting",
-          "hi": "कल्याणकारी है"
+          "word": "நன்றாம் <br>(Nandraam)",
+          "ta": "நல்லதாகும்",
+          "en": "Is goodly grace",
+          "hi": "उत्तम वस्तु है"
         },
         {
           "no": 3,
-          "word": "பணிதல் (Panidhal)",
-          "ta": "பணிவோடு அடங்கி இருத்தல்",
-          "en": "Humility / modesty",
-          "hi": "विनम्र होना"
+          "word": "பணிதல் <br>(Panidhal)",
+          "ta": "பணிவுடன் நடத்தல்",
+          "en": "Humility",
+          "hi": "संयम / विनम्रता"
         },
         {
           "no": 4,
-          "word": "அவருள்ளும் (Avarullum)",
-          "ta": "அவர்களுள்ளும் குறிப்பாக",
-          "en": "Even among them",
+          "word": "அவருள்ளும் <br>(Avarullum)",
+          "ta": "அவர்களுள்ளும்",
+          "en": "Among them",
           "hi": "उनमें भी"
         },
         {
           "no": 5,
-          "word": "செல்வர்க்கே (Selvarkkae)",
-          "ta": "செல்வம் உடையவர்களுக்கு",
-          "en": "To the wealthy",
-          "hi": "धनवानों के लिए"
+          "word": "செல்வர்க்கே <br>(Selvarkke)",
+          "ta": "செல்வர்களுக்கே",
+          "en": "To the rich / blessed",
+          "hi": "धनिकों में रहे तो"
         },
         {
           "no": 6,
-          "word": "செல்வம் தகைத்து (Selvam Thakaththu)",
-          "ta": "செல்வத்திற்குள் சிறந்த செல்வமாகும்",
-          "en": "Is a treasure added to wealth",
-          "hi": "संपत्ति का भूषण है"
+          "word": "செல்வம் <br>(Selvam)",
+          "ta": "மற்றொரு செல்வம் போன்ற",
+          "en": "Wealth / fortune's diadem",
+          "hi": "वह धन"
         },
         {
           "no": 7,
-          "word": "தகைத்து (Thakaththu)",
-          "ta": "தன்மை உடையது",
-          "en": "Has the quality of",
-          "hi": "समान है"
+          "word": "தகைத்து <br>(Thakaiththu)",
+          "ta": "சிறப்புடையதாகும்",
+          "en": "Possesses excellence",
+          "hi": "सुविशेष (श्रेष्ठ) है"
         }
       ],
       "poetic": {
@@ -442,274 +442,366 @@
           "line2": "செல்வர்க்கே செல்வம் தகைத்து."
         },
         "en": {
-          "line1": "Humility is good for all, a grace of precious sight;",
-          "line2": "In wealthy men it shines as wealth with double treasure bright."
+          "line1": "To all humility is goodly grace ; but chief to them",
+          "line2": "With fortune blessed,—'tis fortune's diadem."
         },
         "hi": {
-          "line1": "विनम्रता तो सर्वदा, सबको ही दे लाभ।",
-          "line2": "धनवानों में यह गुण रहे, दूना करे प्रभाव ॥"
+          "line1": "संयम उत्तम वस्तु है, जन के लिये अशेष ।",
+          "line2": "वह भी धनिकों में रहे, तो वह धन सुविशेष ॥"
         },
         "transliteration": {
           "en": {
             "line1": "Ellaarkkum Nandraam Panidhal Avarullum",
-            "line2": "Selvarkkae Selvam Thakaththu."
+            "line2": "Selvarkke Selvam Thakaiththu."
           },
           "hi": {
-            "line1": "ऎल्ला़र्क्कुम् नन्ड्राम् पणिदल् अवरुळ्ळुम्",
-            "line2": "सॆल्वर्क्के सॆल्वम् तकैत्तु."
+            "line1": "एल्लार्क्कुम् नन्द्राम् पणिदल् अवरुळ्ळुम्",
+            "line2": "सॆल्वर्क्के सॆल्वम् तगैत्तु."
           }
         }
       },
       "explanation": {
-        "ta": "பணிவோடு வாழ்வது அனைவருக்கும் பெருமை தரும்; ஆயினும் செருக்கு கொள்ள வாய்ப்புள்ள செல்வந்தர்கள் அடக்கத்தோடு பணிந்து ஒழுகினால், அது அவர்களது செல்வத்திற்கே மேலும் ஒரு சிறந்த செல்வமாகும்.",
-        "en": "While humble modesty graces every soul, it becomes an incomparable jewel when manifested by the wealthy, whose position so easily breeds arrogance.",
-        "hi": "नम्रता हर किसी के व्यक्तित्व को निखारती है; परंतु जब कोई धनी व्यक्ति अहंकार त्यागकर विनम्र व्यवहार करता है, तो यह गुण उसके धन को कई गुना अधिक सार्थक और आदरणीय बना देता है।"
+        "ta": "பணிவுடன் நடத்தல் எல்லோர்க்கும் நன்மை தருவதாகும்; அதிலும் செல்வமுடையவர்களுக்கு அந்தப் பணிவு மேலும் ஒரு சிறந்த செல்வத்தைப் போன்றதாகும்.",
+        "en": "Humility graces everyone, and in those blessed with wealth, it shines as an even greater treasure.",
+        "hi": "संयम और विनम्रता सभी लोगों के लिए उत्तम गुण है, परंतु यदि यह गुण धनवान लोगों में भी हो, तो वह उनके धन की शोभा को और अधिक बढ़ा देता है।"
       }
     },
     {
       "num": 126,
       "line1": "ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்",
-      "line2": "எழுமையும் ஏமாப் புடைத்து.",
-      "enLine1": "Orumaiyul Aamaipoal Aindhadakkal Aatrin",
-      "enLine2": "Ezhumaiyum Eamaap Pudaiththu.",
-      "hiLine1": "ऒरुमैयुळ् आमैपोल् ऐन्दडक्कल् आट्रिन्",
-      "hiLine2": "ऎऴुमैयुम् एमाप् पुडैत्तु.",
-      "general": "ஓர் ஆமையானது ஆபத்து வரும்போது தன் ஐந்து உறுப்புகளையும் ஓட்டுக்குள் அடக்கிக் கொள்வது போல, ஒருவன் தன் ஐந்து பொறிகளையும் அடக்கிக் காக்க வல்லவனானால், அது அவனுக்கு ஏழு பிறவிகளிலும் நற்பாதுகாவலாய் நிற்கும்.",
-      "en": "If a man can withdraw his five senses within himself like a tortoise drawing in its limbs, it will be a shield of protection through all his seven births.",
-      "hi": "जिस प्रकार कछुआ भय के समय अपने पाँचों अंगों को अपने भीतर समेट लेता है, वैसे ही जो मनुष्य अपनी पाँचों इंद्रियों को वश में कर लेता है, उसका यह संयम सातों जन्मों तक उसकी रक्षा करता है।",
+      "line2": "எழுமையும் ஏமாப்பு உடைத்து.",
+      "enLine1": "Like tortoise, who the five restrains",
+      "enLine2": "In one, through seven worlds bliss obtains.",
+      "hiLine1": "पंचेन्द्रिय-निग्राह किया, कछुआ सम इस जन्म ।",
+      "hiLine2": "तो उससे रक्षा सुदृढ़, होगी सातों जन्म ॥",
+      "general": "ஒரு பிறவியில் ஆமையைப்போலத் தன் ஐம்பொறிகளையும் அடக்கி ஆள வல்லவனானால், அது அவனுக்கு ஏழு பிறவிகளிலும் பாதுகாப்பாக அமையும்.",
+      "en": "If, like a tortoise, a man can draw in his five senses in this one birth, that will prove a safeguard to him through sevenfold births.",
+      "hi": "जिस प्रकार कछुआ अपने अंगों को समेट लेता है, उसी प्रकार यदि मनुष्य इस एक जन्म में अपनी पाँचों इंद्रियों पर नियंत्रण कर ले, तो सात जन्मों तक उसकी सुदृढ़ रक्षा होती है।",
       "words": [
         {
           "no": 1,
-          "word": "ஒருமையுள் (Orumaiyul)",
-          "ta": "ஒரு பிறவியிலே",
-          "en": "In a single birth",
-          "hi": "एक ही जन्म में"
+          "word": "ஒருமையுள் <br>(Orumaiyul)",
+          "ta": "ஒரு பிறவியிலேயே",
+          "en": "In one birth",
+          "hi": "इस एक जन्म में"
         },
         {
           "no": 2,
-          "word": "ஆமை போல் (Aamai Poal)",
+          "word": "ஆமைபோல் <br>(Aamaipol)",
           "ta": "ஆமையைப் போல",
           "en": "Like a tortoise",
           "hi": "कछुए के समान"
         },
         {
           "no": 3,
-          "word": "ஐந்து அடக்கல் (Aindhu Adakkal)",
-          "ta": "ஐம்பொறிகளையும் அடக்கி",
-          "en": "Withdrawing the five senses",
-          "hi": "पाँचों इंद्रियों को समेटना"
+          "word": "ஐந்தடக்கல் <br>(Aindhadakkal)",
+          "ta": "ஐம்பொறிகளையும் அடக்குதலை",
+          "en": "Restraining the five senses",
+          "hi": "पंचेन्द्रिय-निग्रह"
         },
         {
           "no": 4,
-          "word": "ஆற்றின் (Aatrin)",
-          "ta": "காக்க வல்லவனானால்",
-          "en": "If one can accomplish",
-          "hi": "यदि साध ले"
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "செய்ய வல்லவனானால்",
+          "en": "If one is able to do",
+          "hi": "किया तो"
         },
         {
           "no": 5,
-          "word": "எழுமையும் (Ezhumaiyum)",
+          "word": "எழுமையும் <br>(Ezhumaiyum)",
           "ta": "ஏழு பிறவிகளிலும்",
-          "en": "Through all seven births",
+          "en": "Through seven births",
           "hi": "सातों जन्मों तक"
         },
         {
           "no": 6,
-          "word": "ஏமாப்பு உடைத்து (Eamaap Pudaiththu)",
-          "ta": "அவனுக்குப் பாதுகாப்பாய் அமையும்",
-          "en": "Will be a sure defense",
-          "hi": "सुरक्षा कवच बनता है"
+          "word": "ஏமாப்பு <br>(Emaappu)",
+          "ta": "பாதுகாப்பு",
+          "en": "Safeguard / bliss",
+          "hi": "सुदृढ़ रक्षा"
         },
         {
           "no": 7,
-          "word": "ஏமாப்பு (Eamaappu)",
-          "ta": "பாதுகாப்பு / அரண்",
-          "en": "Safety / Shield",
-          "hi": "रक्षा"
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உடையதாகும்",
+          "en": "Obtains / possesses",
+          "hi": "होगी"
         }
       ],
       "poetic": {
         "ta": {
           "line1": "ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்",
-          "line2": "எழுமையும் ஏமாப் புடைத்து."
+          "line2": "எழுமையும் ஏமாப்பு உடைத்து."
         },
         "en": {
-          "line1": "Like tortoise drawing in its limbs, if in this single life,",
-          "line2": "You curb the senses five, 'twill shield through seven births of strife."
+          "line1": "Like tortoise, who the five restrains",
+          "line2": "In one, through seven worlds bliss obtains."
         },
         "hi": {
-          "line1": "कच्छप ज्यों निज अंग को, रखता भीतर फेर।",
-          "line2": "पाँचों इन्द्रिय जो दमे, सातों जन्म सुबेर ॥"
+          "line1": "पंचेन्द्रिय-निग्राह किया, कछुआ सम इस जन्म ।",
+          "line2": "तो उससे रक्षा सुदृढ़, होगी सातों जन्म ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Orumaiyul Aamaipoal Aindhadakkal Aatrin",
-            "line2": "Ezhumaiyum Eamaap Pudaiththu."
+            "line1": "Orumaiyul Aamaipol Aindhadakkal Aatrin",
+            "line2": "Ezhumaiyum Emaappu Udaiththu."
           },
           "hi": {
-            "line1": "ऒरुमैयुळ् आमैपोल् ऐन्दडक्कल् आट्रिन्",
-            "line2": "ऎऴुमैयुम् एमाप् पुडैत्तु."
+            "line1": "ऒरुमैयुळ् आमैपोल् ऐन्दडक्कल् आत्रिन्",
+            "line2": "एऴुमैयुम् एमाप्पु उडैत्तु."
           }
         }
       },
       "explanation": {
-        "ta": "ஆமை தன் நான்கு கால்களையும் தலையையும் தன் கடினமான ஓட்டுக்குள் சுருக்கிக் காத்துக் கொள்வதைப் போல, மனிதன் தன் ஐம்பொறிகளையும் தீய வழியில் செல்லாமல் அடக்கிக் காத்தால், அந்த நல்வினையானது அவனுடைய ஏழு பிறவிகளிலும் மாறாத பாதுகாப்பாய் விளங்கும்.",
-        "en": "If a person masters the art of pulling the five senses away from harmful enticements just as a tortoise retreats into its protective shell, that discipline serves as an invulnerable armor across all lifetimes.",
-        "hi": "जैसे कछुआ संकट देखकर अपने हाथ, पैर और सिर को अपने कठोर कवच में छिपा लेता है, वैसे ही जो मनुष्य विषय-वासनाओं से अपनी पाँचों इंद्रियों को सुरक्षित रखता है, वह अनेक जन्मों तक पाप और ताप से बचा रहता है।"
+        "ta": "ஒரு பிறவியில் ஆமையைப்போலத் தன் ஐம்பொறிகளையும் அடக்கி ஆள வல்லவனானால், அது அவனுக்கு ஏழு பிறவிகளிலும் பாதுகாப்பாக அமையும்.",
+        "en": "If one learns in a single lifetime to withdraw the five senses like a tortoise into its shell, that discipline protects them across seven births.",
+        "hi": "जिस प्रकार कछुआ अपने अंगों को समेट लेता है, उसी प्रकार यदि मनुष्य इस एक जन्म में अपनी पाँचों इंद्रियों पर नियंत्रण कर ले, तो सात जन्मों तक उसकी सुदृढ़ रक्षा होती है।"
       }
     },
     {
       "num": 127,
-      "line1": "யாகாவா ராயினும் நாகாக்க காவாக்கால்",
+      "line1": "யாகாவார் ஆயினும் நாகாக்க காவாக்கால்",
       "line2": "சோகாப்பர் சொல்லிழுக்குப் பட்டு.",
-      "enLine1": "Yaakaavaa Raayinum Naakaakka Kaavaakkaal",
-      "enLine2": "Soakaappar Sollizhukkup Pattu.",
-      "hiLine1": "याकावा रायिनुम् नाकाक्क कावाक्काल्",
-      "hiLine2": "सोकाप्पर् सॊल्लिऴुक्कुप् पट्टु.",
-      "general": "எவற்றைக் காக்க முடியாவிட்டாலும் நாவையாவது அடக்கிக் காக்க வேண்டும்; அப்படிக் காக்கத் தவறினால் தீய சொற்களைப் பேசி அதனால் விளையும் துன்பத்தில் உழன்று வருந்துவர்.",
-      "en": "Whatever else you fail to guard, guard your tongue; if you do not guard it, you will fall into misery through the guilt of your words.",
-      "hi": "चाहे किसी अन्य वस्तु पर नियंत्रण रहे या न रहे, अपनी जीभ को अवश्य वश में रखो; यदि वाणी पर संयम न रखा, तो कटु वचनों के दोष के कारण अत्यंत दुःख भोगना पड़ेगा।",
+      "enLine1": "Whate'er they fail to guard, o'er lips men guard should keep ;",
+      "enLine2": "If not, through fault of tongue, they bitter tears shall weep.",
+      "hiLine1": "चाहे औरोंको नहीं, रख लें वश में जीभ ।",
+      "hiLine2": "शब्द-दोष से हों दुखी, यदि न वशी हो जीभ ॥",
+      "general": "ஒருவர் வேறு எவற்றைக் காக்காவிட்டாலும், தம் நாவையாவது காக்க வேண்டும்; காக்கத் தவறினால் சொற்குற்றத்தில் அகப்பட்டுத் துன்பப்படுவார்கள்.",
+      "en": "Whatever else a man may fail to guard, let him guard his tongue; otherwise he will fall into error of speech and suffer sorrow.",
+      "hi": "चाहे अन्य इंद्रियों को वश में न भी रख सकें, पर अपनी जीभ को अवश्य वश में रखना चाहिए; यदि जीभ वश में न रहे, तो शब्द-दोष के कारण दुख भोगना पड़ता है।",
       "words": [
         {
           "no": 1,
-          "word": "யாகாவாராயினும் (Yaakaavaaraayinum)",
-          "ta": "எவற்றையும் காக்காதவரானாலும்",
-          "en": "Though you guard nothing else",
-          "hi": "चाहे कुछ न संभाल सको"
+          "word": "யாகாவார் <br>(Yaakaavaar)",
+          "ta": "வேறு எவற்றைக் காக்காதவர்",
+          "en": "Whatever they fail to guard",
+          "hi": "चाहे औरों को न रखें"
         },
         {
           "no": 2,
-          "word": "நா காக்க (Naa Kaakka)",
-          "ta": "நாவையாவது அடக்கிக் காக்க வேண்டும்",
-          "en": "Guard your tongue",
-          "hi": "जिह्वा पर संयम रखो"
+          "word": "ஆயினும் <br>(Aayinum)",
+          "ta": "ஆனாலும்",
+          "en": "Even if",
+          "hi": "फिर भी"
         },
         {
           "no": 3,
-          "word": "காவாக்கால் (Kaavaakkaal)",
-          "ta": "அப்படிக் காக்காமல் போனால்",
-          "en": "If you fail to guard it",
-          "hi": "यदि ऐसा न किया"
+          "word": "நாகாக்க <br>(Naakaakka)",
+          "ta": "தம் நாவையாவது காக்க வேண்டும்",
+          "en": "Keep guard over the tongue",
+          "hi": "जीभ को वश में रख लें"
         },
         {
           "no": 4,
-          "word": "சோகாப்பர் (Soakaappar)",
-          "ta": "துன்பப்பட்டு வருந்துவர்",
-          "en": "They will suffer distress",
-          "hi": "शोक में पड़ेंगे"
+          "word": "காவாக்கால் <br>(Kaavaakkaal)",
+          "ta": "அவ்வாறு காக்காவிட்டால்",
+          "en": "If not guarded",
+          "hi": "यदि वश में न हो"
         },
         {
           "no": 5,
-          "word": "சொல் இழுக்குப் பட்டு (Sol Izhukkup Pattu)",
-          "ta": "சொற்குற்றத்திற்கு ஆளாகி",
-          "en": "Falling into the guilt of evil words",
-          "hi": "वाणी के दोष में फँसकर"
+          "word": "சோகாப்பர் <br>(Sokaappar)",
+          "ta": "துன்பப்படுவார்கள்",
+          "en": "They shall weep / suffer",
+          "hi": "दुखी होंगे"
         },
         {
           "no": 6,
-          "word": "நா (Naa)",
-          "ta": "நாக்கு",
-          "en": "Tongue",
-          "hi": "जीभ"
+          "word": "சொல்லிழுக்குப் <br>(Sollizhukkup)",
+          "ta": "சொற்குற்றத்தில்",
+          "en": "Fault of speech",
+          "hi": "शब्द-दोष में"
         },
         {
           "no": 7,
-          "word": "இழுக்கு (Izhukku)",
-          "ta": "குற்றம் / வழு",
-          "en": "Fault / Error",
-          "hi": "दोष / त्रुटि"
+          "word": "பட்டு <br>(Pattu)",
+          "ta": "அகப்பட்டு",
+          "en": "Falling into",
+          "hi": "पड़कर"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "யாகாவா ராயினும் நாகாக்க காவாக்கால்",
+          "line1": "யாகாவார் ஆயினும் நாகாக்க காவாக்கால்",
           "line2": "சோகாப்பர் சொல்லிழுக்குப் பட்டு."
         },
         "en": {
-          "line1": "Whate'er you fail to keep, keep well the tongue from strife;",
-          "line2": "For careless words bring bitter shame and ruin in this life."
+          "line1": "Whate'er they fail to guard, o'er lips men guard should keep ;",
+          "line2": "If not, through fault of tongue, they bitter tears shall weep."
         },
         "hi": {
-          "line1": "वश में कुछ भी नहिं रहे, जिह्वा को रख बांध।",
-          "line2": "वाणी के जो दोष हैं, वे दुख देते साध ॥"
+          "line1": "चाहे औरोंको नहीं, रख लें वश में जीभ ।",
+          "line2": "शब्द-दोष से हों दुखी, यदि न वशी हो जीभ ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Yaakaavaa Raayinum Naakaakka Kaavaakkaal",
-            "line2": "Soakaappar Sollizhukkup Pattu."
+            "line1": "Yaakaavaar Aayinum Naakaakka Kaavaakkaal",
+            "line2": "Sokaappar Sollizhukkup Pattu."
           },
           "hi": {
-            "line1": "याकावा रायिनुम् नाकाक्क कावाक्काल्",
-            "line2": "सोकाप्पर् सॊल्लिऴुक्कुप् पट्टु."
+            "line1": "यागावार आयिनुम् नाकाक्क कावाक्काल्",
+            "line2": "सोगाप्पर् सॊल्लिऴुक्कुप् पट्टु."
           }
         }
       },
       "explanation": {
-        "ta": "ஒருவர் வேறு எதையும் கட்டுப்படுத்த முடியாவிட்டாலும், தன் நாவையாவது தவறிப் பேசாமல் அடக்கிக் காக்க வேண்டும்; அவ்வாறு நாவடக்கமின்றிப் பேசினால் சொற்குற்றத்தால் அவமதிப்பும் பெருந்துன்பமும் வந்து சேரும்.",
-        "en": "Even if self-discipline eludes you in other spheres, diligently govern your speech; an unbridled tongue inevitably stumbles into damaging utterances that invite profound remorse.",
-        "hi": "मनुष्य को सबसे पहले अपनी जिह्वा पर नियंत्रण रखना सीखना चाहिए; क्योंकि बिना विचारे बोले गए कटु और अनुचित शब्द जीवन भर पछतावे और अशांति का कारण बनते हैं।"
+        "ta": "ஒருவர் வேறு எவற்றைக் காக்காவிட்டாலும், தம் நாவையாவது காக்க வேண்டும்; காக்கத் தவறினால் சொற்குற்றத்தில் அகப்பட்டுத் துன்பப்படுவார்கள்.",
+        "en": "Even if you fail to guard anything else, guard your tongue; careless words inevitably bring deep regret.",
+        "hi": "चाहे अन्य इंद्रियों को वश में न भी रख सकें, पर अपनी जीभ को अवश्य वश में रखना चाहिए; यदि जीभ वश में न रहे, तो शब्द-दोष के कारण दुख भोगना पड़ता है।"
       }
     },
     {
       "num": 128,
-      "line1": "தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே",
-      "line2": "நாவினாற் சுட்ட வடு.",
-      "enLine1": "Theeyinaar Suttapun Ullaarum Aaraadhae",
-      "enLine2": "Naavinaar Sutta Vadu.",
-      "hiLine1": "तीयिऩाऱ् सुट्टपुण् उळ्ळा़रुम् आऱादे",
-      "hiLine2": "नाविऩाऱ् सुट्ट वडु.",
-      "general": "தீயினால் சுடப்பட்ட புண் உடம்பின் வெளிப்புறத்தில் காலப்போக்கில் ஆறிவிடும்; ஆனால் நாவினால் சுட்ட கொடிய வன்சொல் வடுவானது உள்ளத்தில் ஒருபோதும் ஆறாது.",
-      "en": "The wound that has been burned in by fire will heal within; but the burn caused by the tongue leaves an imperishable scar.",
-      "hi": "अग्नि से जला हुआ घाव तो समय के साथ भर जाता है; किंतु कठोर जिह्वा द्वारा बोला गया कड़वा वचन मन में ऐसा घाव कर देता है जो कभी नहीं भरता।",
+      "line1": "ஒன்றானும் தீச்சொல் பொருட்பயன் உண்டாயின்",
+      "line2": "நன்றாகா தாகி விடும்.",
+      "enLine1": "Though some small gain of good it seem to bring,",
+      "enLine2": "The evil word is parent still of evil thing.",
+      "hiLine1": "एक बार भी कटुवचन, पहुँचाये यदि कष्ट ।",
+      "hiLine2": "सत्कर्मों के सुफल सब, हो जायेंगे नष्ट ॥",
+      "general": "ஒருவன் பேசும் சொற்களில் ஒன்றேயானாலும் அது பிறர்க்குத் தீமை பயக்கும் தீய சொல்லாக இருக்குமானால், அவனுடைய நன்மைகள் எல்லாம் தீயனவாகிவிடும்.",
+      "en": "Even if a single evil word produces harmful consequences, all the good deeds of a person will turn to nothing.",
+      "hi": "यदि एक बार भी बोला गया कोई कटु वचन किसी को कष्ट पहुँचा दे, तो मनुष्य के समस्त सत्कर्मों के सुफल नष्ट हो जाते हैं।",
       "words": [
         {
           "no": 1,
-          "word": "தீயினால் (Theeyinaal)",
-          "ta": "நெருப்பினால்",
-          "en": "By fire",
-          "hi": "अग्नि से"
+          "word": "ஒன்றானும் <br>(Ondraanum)",
+          "ta": "ஒரு சொல்லேயானாலும்",
+          "en": "Even one / a single",
+          "hi": "एक बार भी"
         },
         {
           "no": 2,
-          "word": "சுட்ட புண் (Sutta Pun)",
-          "ta": "சுடப்பட்ட காயமானது",
-          "en": "A wound burned in",
-          "hi": "जला हुआ घाव"
+          "word": "தீச்சொல் <br>(Theechchol)",
+          "ta": "தீய சொல்",
+          "en": "Evil / bitter word",
+          "hi": "कटु वचन"
         },
         {
           "no": 3,
-          "word": "உள் ஆறும் (Ul Aarum)",
-          "ta": "உள்ளே ஆறிப் போய்விடும்",
-          "en": "Will heal inside",
-          "hi": "भीतर भर जाता है"
+          "word": "பொருட்பயன் <br>(Porutpayan)",
+          "ta": "தீய பயனைத் தருவது",
+          "en": "Yielding harmful result",
+          "hi": "कष्ट"
         },
         {
           "no": 4,
-          "word": "ஆறாதே (Aaraadhae)",
-          "ta": "ஒருபோதும் ஆறவே ஆறாது",
-          "en": "Will never heal",
-          "hi": "कभी नहीं भरता"
+          "word": "உண்டாயின் <br>(Undaayin)",
+          "ta": "இருக்குமானால்",
+          "en": "If it brings",
+          "hi": "पहुँचाए यदि"
         },
         {
           "no": 5,
-          "word": "நாவினால் (Naavinaal)",
-          "ta": "நாவினால் (கொடுஞ்சொல்லால்)",
-          "en": "By the tongue",
-          "hi": "जीभ के वचनों से"
+          "word": "நன்றாகா <br>(Nandraakaa)",
+          "ta": "நல்லன எல்லாம் தீயன",
+          "en": "Good turns to evil",
+          "hi": "सत्कर्मों के सुफल"
         },
         {
           "no": 6,
-          "word": "சுட்ட வடு (Sutta Vadu)",
-          "ta": "சுடப்பட்ட சொல்லின் வடு",
-          "en": "The scar burned by bitter speech",
-          "hi": "लगाया गया कलंक-घाव"
+          "word": "தாகி <br>(Dhaaki)",
+          "ta": "ஆகி",
+          "en": "Becoming",
+          "hi": "नष्ट हो"
         },
         {
           "no": 7,
-          "word": "வடு (Vadu)",
-          "ta": "தழும்பு",
-          "en": "Scar",
-          "hi": "निशान / घाव"
+          "word": "விடும் <br>(Vidum)",
+          "ta": "விடும்",
+          "en": "Will become",
+          "hi": "जाएँगे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒன்றானும் தீச்சொல் பொருட்பயன் உண்டாயின்",
+          "line2": "நன்றாகா தாகி விடும்."
+        },
+        "en": {
+          "line1": "Though some small gain of good it seem to bring,",
+          "line2": "The evil word is parent still of evil thing."
+        },
+        "hi": {
+          "line1": "एक बार भी कटुवचन, पहुँचाये यदि कष्ट ।",
+          "line2": "सत्कर्मों के सुफल सब, हो जायेंगे नष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ondraanum Theechchol Porutpayan Undaayin",
+            "line2": "Nandraakaa Dhaaki Vidum."
+          },
+          "hi": {
+            "line1": "ऒन्द्रानुम् तीच्चॊल् पॊरुट्पयन् उण्डायिन्",
+            "line2": "नन्द्रागा दागि विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் பேசும் சொற்களில் ஒன்றேயானாலும் அது பிறர்க்குத் தீமை பயக்கும் தீய சொல்லாக இருக்குமானால், அவனுடைய நன்மைகள் எல்லாம் தீயனவாகிவிடும்.",
+        "en": "Even a single hurtful word that inflicts pain on another undoes all the good one has built up.",
+        "hi": "यदि एक बार भी बोला गया कोई कटु वचन किसी को कष्ट पहुँचा दे, तो मनुष्य के समस्त सत्कर्मों के सुफल नष्ट हो जाते हैं।"
+      }
+    },
+    {
+      "num": 129,
+      "line1": "தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே",
+      "line2": "நாவினாற் சுட்ட வடு.",
+      "enLine1": "In flesh by fire inflamed, nature may throughly heal the sore ;",
+      "enLine2": "In soul by tongue inflamed, the ulcer healeth nevermore.",
+      "hiLine1": "घाव लगा जो आग से, संभव है भर जाय ।",
+      "hiLine2": "चोट लगी यदि जीभ की, कभी न मोटी जाय ॥",
+      "general": "நெருப்பினால் சுட்ட புண் உடம்பில் ஆறிவிடும்; ஆனால் கடுமையான சொற்களைக் கொண்டு நாவினால் சுட்ட வடு உள்ளத்தில் ஆறவே ஆறாது.",
+      "en": "The wound burnt by fire may heal within; but the scar burnt in by the tongue will never heal.",
+      "hi": "आग से जलने पर लगा हुआ घाव तो समय के साथ भर सकता है, किंतु जीभ (कड़वे वचनों) से लगी हुई चोट कभी नहीं भरती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தீயினாற் <br>(Theeyinaar)",
+          "ta": "நெருப்பினால்",
+          "en": "By fire",
+          "hi": "आग से"
+        },
+        {
+          "no": 2,
+          "word": "சுட்டபுண் <br>(Suttapun)",
+          "ta": "சுட்ட புண்",
+          "en": "Burnt wound / sore",
+          "hi": "लगा घाव"
+        },
+        {
+          "no": 3,
+          "word": "உள்ளாறும் <br>(Ullaarum)",
+          "ta": "உள்ளே ஆறிவிடும்",
+          "en": "May heal within",
+          "hi": "भर सकता है"
+        },
+        {
+          "no": 4,
+          "word": "ஆறாதே <br>(Aaraadhe)",
+          "ta": "ஆறவே ஆறாது",
+          "en": "Never heals",
+          "hi": "कभी नहीं भरती"
+        },
+        {
+          "no": 5,
+          "word": "நாவினாற் <br>(Naavinaar)",
+          "ta": "கடுஞ்சொல்லாகிய நாவினால்",
+          "en": "By the tongue",
+          "hi": "जीभ की"
+        },
+        {
+          "no": 6,
+          "word": "சுட்ட <br>(Sutta)",
+          "ta": "சுட்ட",
+          "en": "Inflicted / inflamed",
+          "hi": "लगी हुई"
+        },
+        {
+          "no": 7,
+          "word": "வடு <br>(Vadu)",
+          "ta": "தழும்பு (வடு)",
+          "en": "Scar / ulcer",
+          "hi": "चोट"
         }
       ],
       "poetic": {
@@ -718,212 +810,120 @@
           "line2": "நாவினாற் சுட்ட வடு."
         },
         "en": {
-          "line1": "The burn from blazing flame will heal as passing days go by;",
-          "line2": "The scar burned in by bitter tongue will never fade or die."
+          "line1": "In flesh by fire inflamed, nature may throughly heal the sore ;",
+          "line2": "In soul by tongue inflamed, the ulcer healeth nevermore."
         },
         "hi": {
-          "line1": "अग्नि-दग्ध जो घाव है, भर जाता कुछ काल।",
-          "line2": "जिह्वा-दग्ध जो घाव है, मिटे न किसी भी काल ॥"
+          "line1": "घाव लगा जो आग से, संभव है भर जाय ।",
+          "line2": "चोट लगी यदि जीभ की, कभी न मोटी जाय ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Theeyinaar Suttapun Ullaarum Aaraadhae",
+            "line1": "Theeyinaar Suttapun Ullaarum Aaraadhe",
             "line2": "Naavinaar Sutta Vadu."
           },
           "hi": {
-            "line1": "तीयिऩाऱ् सुट्टपुण् उळ्ळा़रुम् आऱादे",
-            "line2": "नाविऩाऱ् सुट्ट वडु."
+            "line1": "तीयिनार् सुट्टपुण् उळ्ळारुम् आरादे",
+            "line2": "नाविनार् सुट्ट वडु."
           }
         }
       },
       "explanation": {
-        "ta": "நெருப்பு பட்டதால் உடலில் ஏற்பட்ட புண் மருந்துகளாலும் காலத்தாலும் ஆறிவிடும்; ஆனால் கொடிய நாவினால் பேசப்பட்ட நிந்தனைச் சொற்கள் நெஞ்சில் உண்டாக்கிய வடுவானது சாகும் வரையிலும் ஆறாது.",
-        "en": "Flesh scorched by fire eventually repairs itself and the pain subsides; but an insult or malicious utterance brands the human heart with an indelible wound that never ceases to ache.",
-        "hi": "आग से जली हुई देह की पीड़ा औषधि से ठीक हो जाती है और घाव सूख जाता है; परंतु कठोर और अपमानजनक शब्दों से किसी के हृदय पर जो ठेस लगती है, उसकी टीस जीवन भर बनी रहती है।"
-      }
-    },
-    {
-      "num": 129,
-      "line1": "கதம்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி",
-      "line2": "அறம்பார்க்கும் ஆற்றின் நுழைந்து.",
-      "enLine1": "Kadhamkaaththuk Katradangal Aatruvaan Sevvi",
-      "enLine2": "Arampaarkkum Aatrin Nuzhaindhu.",
-      "hiLine1": "कदम्का़त्तुक् कट्रडङ्गल् आट्रुवाऩ् सॆव्वि",
-      "hiLine2": "अऱम्पा़र्क्कुम् आट्रिन् नुऴैन्दु.",
-      "general": "சினத்தை அடக்கிக் காத்து, நல்ல நூல்களைக் கற்று, அடக்கத்துடன் ஒழுக வல்லவனுடைய நல்வாய்ப்பை அறிந்து, தர்மதேவதையே அவனை நாடிச் சென்று அவனுடன் தங்கும்.",
-      "en": "Virtue itself will watch for an opportune season and enter the path of him who knows how to restrain anger, acquires learning, and walks in self-control.",
-      "hi": "जो क्रोध पर नियंत्रण रखता है, विद्या अर्जित करता है और विनयशीलता के साथ रहता है, धर्म स्वयं सही अवसर देखकर उसके पास आकर निवास करता है।",
-      "words": [
-        {
-          "no": 1,
-          "word": "கதம் காத்து (Kadham Kaaththu)",
-          "ta": "கோபத்தை அடக்கிக் காத்து",
-          "en": "Guarding against wrath",
-          "hi": "क्रोध को रोककर"
-        },
-        {
-          "no": 2,
-          "word": "கற்று (Katru)",
-          "ta": "நல்ல நூல்களைக் கற்று",
-          "en": "Learning good wisdom",
-          "hi": "विद्या सीखकर"
-        },
-        {
-          "no": 3,
-          "word": "அடங்கல் ஆற்றுவான் (Adangal Aatruvaan)",
-          "ta": "அடக்கத்தோடு வாழ வல்லவனுடைய",
-          "en": "He who practices self-restraint",
-          "hi": "संयम साधने वाले का"
-        },
-        {
-          "no": 4,
-          "word": "செவ்வி (Sevvi)",
-          "ta": "தக்க சமயத்தை / நல்வாய்ப்பை",
-          "en": "Opportune time / season",
-          "hi": "शुभ अवसर"
-        },
-        {
-          "no": 5,
-          "word": "அறம் பார்க்கும் (Aram Paarkkum)",
-          "ta": "அறக்கடவுள் எதிர்நோக்கிப் பார்க்கும்",
-          "en": "Virtue will look out for",
-          "hi": "धर्म देखता है"
-        },
-        {
-          "no": 6,
-          "word": "ஆற்றின் நுழைந்து (Aatrin Nuzhaindhu)",
-          "ta": "அவன் வழியில் தேடிச் சென்று அடையும்",
-          "en": "Entering into his way",
-          "hi": "उसके जीवन में प्रवेश करके"
-        },
-        {
-          "no": 7,
-          "word": "கதம் (Kadham)",
-          "ta": "சினக்குணம்",
-          "en": "Anger / Wrath",
-          "hi": "क्रोध"
-        }
-      ],
-      "poetic": {
-        "ta": {
-          "line1": "கதம்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி",
-          "line2": "அறம்பார்க்கும் ஆற்றின் நுழைந்து."
-        },
-        "en": {
-          "line1": "Who curbs his wrath, seeks knowledge pure, and walks in quiet grace,",
-          "line2": "Virtue herself will seek him out to bless his dwelling place."
-        },
-        "hi": {
-          "line1": "क्रोध रोक, विद्या पढ़े, संयम से जो चले।",
-          "line2": "धर्म स्वयं अवसर लखे, आकर उसको मिले ॥"
-        },
-        "transliteration": {
-          "en": {
-            "line1": "Kadhamkaaththuk Katradangal Aatruvaan Sevvi",
-            "line2": "Arampaarkkum Aatrin Nuzhaindhu."
-          },
-          "hi": {
-            "line1": "कदम्का़त्तुक् कट्रडङ्गल् आट्रुवाऩ् सॆव्वि",
-            "line2": "अऱम्पा़र्क्कुम् आट्रिन् नुऴैन्दु."
-          }
-        }
-      },
-      "explanation": {
-        "ta": "கோபம் எழாமல் மனத்தைக் கட்டுப்படுத்தி, கல்வி கேள்விகளில் சிறந்து, அடக்கத்தோடு வாழ்பவனின் வாழ்க்கையை நோக்கி, நல்வாழ்வு தரும் அறக்கடவுளே விரும்பி வந்து அடைக்கலம் தரும்.",
-        "en": "Righteousness eagerly watches for an opportunity to reward and abide with that disciplined individual who masters his temper, enriches his mind with study, and lives humbly.",
-        "hi": "जो मनुष्य क्रोध को जीतकर, शास्त्रों का अध्ययन कर विनम्रता से जीवन व्यतीत करता है, धर्म और सौभाग्य स्वयं सही समय पर उसके द्वार पर आकर उसका कल्याण करते हैं।"
+        "ta": "நெருப்பினால் சுட்ட புண் உடம்பில் ஆறிவிடும்; ஆனால் கடுமையான சொற்களைக் கொண்டு நாவினால் சுட்ட வடு உள்ளத்தில் ஆறவே ஆறாது.",
+        "en": "A burn from fire heals over time, but a wound inflicted by cruel words leaves a scar on the heart that never heals.",
+        "hi": "आग से जलने पर लगा हुआ घाव तो समय के साथ भर सकता है, किंतु जीभ (कड़वे वचनों) से लगी हुई चोट कभी नहीं भरती।"
       }
     },
     {
       "num": 130,
-      "line1": "கதம்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி",
+      "line1": "கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி",
       "line2": "அறம்பார்க்கும் ஆற்றின் நுழைந்து.",
-      "enLine1": "Kadhamkaaththuk Katradangal Aatruvaan Sevvi",
-      "enLine2": "Arampaarkkum Aatrin Nuzhaindhu.",
-      "hiLine1": "आमायिरुप्पार् अरुळ्काक्क ताङ्काक्कुम्",
-      "hiLine2": "तामायिनुम् ताङ्काविक् काल्.",
-      "general": "கோபத்தை விலக்கி, கல்வியறிவு பெற்று, தன்னைத்தானே கட்டுப்படுத்தி அடக்கத்தோடு வாழ்பவனைத் தர்மமானது உரிய சமயம் பார்த்து அவனுக்குத் துணையாக வந்து சேரும்.",
-      "en": "He who subdues his anger, gains wholesome learning, and keeps himself restrained will find that righteousness itself seeks his companionship.",
-      "hi": "जो क्रोध का त्याग कर, सद्विद्या का अभ्यास करता है और अपने आचरण को वश में रखता है, धर्म स्वयं अनुकूल समय देखकर उसकी सहायता के लिए तत्पर रहता है।",
+      "enLine1": "Who learns restraint, and guards his soul from wrath,",
+      "enLine2": "Virtue, a timely aid, attends his path.",
+      "hiLine1": "क्रोध दमन कर जो हुआ, पंडित यमी समर्थ ।",
+      "hiLine2": "धर्म-देव भी जोहता, बाट भेंट के अर्थ ॥",
+      "general": "சினத்தைக் காத்து, கல்வி கற்று, அடக்கத்துடன் வாழவல்லவனின் நல்வழியில் நுழைந்து, அறக்கடவுள் அவனைச் சேரத் தகுந்த சமயத்தை எதிர்பார்த்து நிற்கும்.",
+      "en": "Virtue, entering the path of him who guards against anger and learns self-control, watches for an opportunity to bless him.",
+      "hi": "जो विद्वान और समर्थ संयमी अपने क्रोध का दमन कर लेता है, धर्म-देव भी उससे भेंट करने के लिए उसके मार्ग में प्रतीक्षा करते रहते हैं।",
       "words": [
         {
           "no": 1,
-          "word": "கதம் காத்து (Kadham Kaaththu)",
-          "ta": "கோபத்தை விலக்கிக் காத்து",
-          "en": "Guarding against anger",
-          "hi": "क्रोध को वश में कर"
+          "word": "கதங்காத்துக் <br>(Kadhangaaththuk)",
+          "ta": "சினத்தைக் காத்து",
+          "en": "Guarding from wrath",
+          "hi": "क्रोध दमन कर"
         },
         {
           "no": 2,
-          "word": "கற்று (Katru)",
-          "ta": "நல்ல நூல்களைக் கற்று",
-          "en": "Having learned",
-          "hi": "सद्विद्या सीखकर"
+          "word": "கற்றடங்கல் <br>(Katradangal)",
+          "ta": "கல்வி கற்று அடங்குதலை",
+          "en": "Learning self-restraint",
+          "hi": "पंडित व संयमी"
         },
         {
           "no": 3,
-          "word": "அடங்கல் ஆற்றுவான் (Adangal Aatruvaan)",
-          "ta": "அடக்கத்தோடு வாழ்பவனின்",
-          "en": "He who practices restraint",
-          "hi": "संयमी पुरुष का"
+          "word": "ஆற்றுவான் <br>(Aatruvaan)",
+          "ta": "செய்ய வல்லவனின்",
+          "en": "Of him who practises",
+          "hi": "जो समर्थ हुआ"
         },
         {
           "no": 4,
-          "word": "செவ்வி (Sevvi)",
-          "ta": "தக்க சமயத்தை நோக்கி",
-          "en": "The opportune hour",
-          "hi": "उचित समय देखकर"
+          "word": "செவ்வி <br>(Sevvi)",
+          "ta": "தகுந்த சமயத்தை",
+          "en": "Timely opportunity",
+          "hi": "भेंट का अवसर"
         },
         {
           "no": 5,
-          "word": "அறம் பார்க்கும் (Aram Paarkkum)",
-          "ta": "அறமானது எதிர்பார்த்திருக்கும்",
-          "en": "Virtue will look upon him",
-          "hi": "धर्म दृष्टि रखता है"
+          "word": "அறம்பார்க்கும் <br>(Arampaarkkum)",
+          "ta": "அறக்கடவுள் எதிர்பார்க்கும்",
+          "en": "Virtue watches for",
+          "hi": "धर्म-देव भी जोहता है"
         },
         {
           "no": 6,
-          "word": "ஆற்றின் நுழைந்து (Aatrin Nuzhaindhu)",
-          "ta": "அவன் வழியில் துணைநிற்கும்",
-          "en": "Entering his path",
-          "hi": "मार्ग में आकर मिलता है"
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "அவன் செல்லும் வழியில்",
+          "en": "On his path",
+          "hi": "उसके मार्ग में"
         },
         {
           "no": 7,
-          "word": "செவ்வி (Sevvi)",
-          "ta": "சமயம் / பருவம்",
-          "en": "Occasion / Season",
-          "hi": "अवसर"
+          "word": "நுழைந்து <br>(Nuzhaindhu)",
+          "ta": "நுழைந்து நின்று",
+          "en": "Entering / attending",
+          "hi": "प्रवेश कर"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "கதம்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி",
+          "line1": "கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி",
           "line2": "அறம்பார்க்கும் ஆற்றின் நுழைந்து."
         },
         "en": {
-          "line1": "He who holds anger in, seeks learning, walks in peace,",
-          "line2": "To him will virtue come and all his joys increase."
+          "line1": "Who learns restraint, and guards his soul from wrath,",
+          "line2": "Virtue, a timely aid, attends his path."
         },
         "hi": {
-          "line1": "क्रोध निवारण, ज्ञान-संचय, संयम-युक्त आचार।",
-          "line2": "धर्म स्वयं सम्मुख खड़ा, खोले मंगल-द्वार ॥"
+          "line1": "क्रोध दमन कर जो हुआ, पंडित यमी समर्थ ।",
+          "line2": "धर्म-देव भी जोहता, बाट भेंट के अर्थ ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Kadhamkaaththuk Katradangal Aatruvaan Sevvi",
+            "line1": "Kadhangaaththuk Katradangal Aatruvaan Sevvi",
             "line2": "Arampaarkkum Aatrin Nuzhaindhu."
           },
           "hi": {
-            "line1": "आमायिरुप्पार् अरुळ्काक्क ताङ्काक्कुम्",
-            "line2": "तामायिनुम् ताङ्काविक् काल्."
+            "line1": "कदङ्गात्तुक् कत्रडङ्गल् आत्रुवान् सॆव्वि",
+            "line2": "अरम्बार्क्कुम् आत्रिन् नुऴैन्दु."
           }
         }
       },
       "explanation": {
-        "ta": "சினத்தைத் தடுத்து, மெய்ஞ்ஞானத்தைக் கற்று, அடக்கத்தோடு வாழ்பவனுக்கு உதவ அறக்கடவுளே தக்க காலத்தை எதிர்பார்த்துக் காத்திருந்து நற்பயன்களை அளிக்கும்.",
-        "en": "To the disciplined seeker who overcomes bitter fury and enriches his character through learning and modest self-restraint, righteous grace unfailingly joins his journey.",
-        "hi": "क्रोध को शांत रखकर, सत्संग और ज्ञान के माध्यम से जो स्वयं पर अधिकार पा लेता है, उसका जीवन धर्म की छाया में सुरक्षित और सदा आलोकित रहता है।"
+        "ta": "சினத்தைக் காத்து, கல்வி கற்று, அடக்கத்துடன் வாழவல்லவனின் நல்வழியில் நுழைந்து, அறக்கடவுள் அவனைச் சேரத் தகுந்த சமயத்தை எதிர்பார்த்து நிற்கும்.",
+        "en": "Virtue itself waits eagerly along the path of the wise person who masters anger and practices self-restraint.",
+        "hi": "जो विद्वान और समर्थ संयमी अपने क्रोध का दमन कर लेता है, धर्म-देव भी उससे भेंट करने के लिए उसके मार्ग में प्रतीक्षा करते रहते हैं।"
       }
     }
   ]

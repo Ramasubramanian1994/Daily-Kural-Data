@@ -2,6 +2,7 @@
   "chapterNum": 2,
   "nameTa": "வான்சிறப்பு",
   "nameEn": "The Excellence of Rain",
+  "nameHi": "वर्षा की महिमा",
   "paal": "அறத்துப்பால்",
   "iyal": "பாயிறவியல்",
   "kurals": [
@@ -19,49 +20,49 @@
       "words": [
         {
           "no": 1,
-          "word": "வான்நின்று \n (Vaannindru)",
+          "word": "வான்நின்று <br>(Vaannindru)",
           "ta": "மேகத்திலிருந்து பெய்து",
           "en": "From the sky",
           "hi": "आकाश से"
         },
         {
           "no": 2,
-          "word": "உலகம் \n (Ulakam)",
+          "word": "உலகம் <br>(Ulakam)",
           "ta": "இந்த உலகம்",
           "en": "The world",
           "hi": "संसार"
         },
         {
           "no": 3,
-          "word": "வழங்கி \n (Vazhangi)",
+          "word": "வழங்கி <br>(Vazhangi)",
           "ta": "உணவு முதலியவற்றை வழங்கி",
           "en": "By yielding sustenance",
           "hi": "पोषण करके"
         },
         {
           "no": 4,
-          "word": "வருதலால் \n (Varudhalaal)",
+          "word": "வருதலால் <br>(Varudhalaal)",
           "ta": "நிலைபெற்று வருவதால்",
           "en": "Because it comes",
           "hi": "बना रहता है"
         },
         {
           "no": 5,
-          "word": "தான் \n (Thaan)",
+          "word": "தான் <br>(Thaan)",
           "ta": "அந்த மழை",
           "en": "Itself",
           "hi": "स्वयं"
         },
         {
           "no": 6,
-          "word": "அமிழ்தம் \n (Amizhdham)",
+          "word": "அமிழ்தம் <br>(Amizhdham)",
           "ta": "அமிழ்தமே ஆகும்",
           "en": "Nectar",
           "hi": "अमृत"
         },
         {
           "no": 7,
-          "word": "என்று உணரற் பாற்று \n (Endru Unarar Paatru)",
+          "word": "என்று உணரற் பாற்று <br>(Endru Unarar Paatru)",
           "ta": "என்று அறியத் தக்கதாகும்",
           "en": "Should be regarded",
           "hi": "मानना चाहिए"
@@ -111,49 +112,49 @@
       "words": [
         {
           "no": 1,
-          "word": "துப்பார்க்கு \n (Thuppaarkku)",
+          "word": "துப்பார்க்கு <br>(Thuppaarkku)",
           "ta": "உண்பவர்க்கு",
           "en": "To consumers / eaters",
           "hi": "खाने वालों को"
         },
         {
           "no": 2,
-          "word": "துப்பாய \n (Thuppaaya)",
+          "word": "துப்பாய <br>(Thuppaaya)",
           "ta": "தகுந்த உணவுப் பொருட்களை",
           "en": "Suitable food",
           "hi": "उपयुक्त भोजन"
         },
         {
           "no": 3,
-          "word": "துப்பாக்கி \n (Thuppaakki)",
+          "word": "துப்பாக்கி <br>(Thuppaakki)",
           "ta": "விளைவித்துத் தந்து",
           "en": "Causing to produce",
           "hi": "उत्पन्न करके"
         },
         {
           "no": 4,
-          "word": "துப்பார்க்கு \n (Thuppaarkku)",
+          "word": "துப்பார்க்கு <br>(Thuppaarkku)",
           "ta": "உண்போர்க்குத்",
           "en": "To the same consumers",
           "hi": "भोजन करने वालों के लिए"
         },
         {
           "no": 5,
-          "word": "துப்பாய \n (Thuppaaya)",
+          "word": "துப்பாய <br>(Thuppaaya)",
           "ta": "தாமும் உணவாகி",
           "en": "As drink/food itself",
           "hi": "स्वयं जल रूप में"
         },
         {
           "no": 6,
-          "word": "தூஉம் \n (Thooum)",
+          "word": "தூஉம் <br>(Thooum)",
           "ta": "தருவதாகும்",
           "en": "It gives",
           "hi": "प्रदान करती है"
         },
         {
           "no": 7,
-          "word": "மழை \n (Mazhai)",
+          "word": "மழை <br>(Mazhai)",
           "ta": "மழை",
           "en": "Rain",
           "hi": "वर्षा"
@@ -203,49 +204,49 @@
       "words": [
         {
           "no": 1,
-          "word": "விண் \n (Vin)",
+          "word": "விண் <br>(Vin)",
           "ta": "வானம் (மழை)",
           "en": "Rain / Sky",
           "hi": "आकाश / वर्षा"
         },
         {
           "no": 2,
-          "word": "இன்று \n (Indru)",
+          "word": "இன்று <br>(Indru)",
           "ta": "பெய்யாது",
           "en": "Fails",
           "hi": "बिना"
         },
         {
           "no": 3,
-          "word": "பொய்ப்பின் \n (Poippin)",
+          "word": "பொய்ப்பின் <br>(Poippin)",
           "ta": "ஏமாற்றுமானால்",
           "en": "If it deceives",
           "hi": "यदि धोखा दे"
         },
         {
           "no": 4,
-          "word": "விரி நீர் \n (Viri Neer)",
+          "word": "விரி நீர் <br>(Viri Neer)",
           "ta": "பரந்த கடலை உடைய",
           "en": "Vast waters / sea",
           "hi": "विशाल जल राशि"
         },
         {
           "no": 5,
-          "word": "வியன் உலகத்து \n (Viyan Ulakaththu)",
+          "word": "வியன் உலகத்து <br>(Viyan Ulakaththu)",
           "ta": "அகன்ற இந்த உலகத்தில்",
           "en": "In the wide world",
           "hi": "विशाल संसार में"
         },
         {
           "no": 6,
-          "word": "உள் நின்று \n (Ul Nindru)",
+          "word": "உள் நின்று <br>(Ul Nindru)",
           "ta": "உயிர்களின் உள்ளே நிலைபெற்று",
           "en": "Dwelling within",
           "hi": "भीतर रहकर"
         },
         {
           "no": 7,
-          "word": "உடற்றும் \n (Utatrum)",
+          "word": "உடற்றும் <br>(Utatrum)",
           "ta": "வருத்துவதாகும்",
           "en": "Shall afflict with famine",
           "hi": "कष्ट देगी"
@@ -295,42 +296,42 @@
       "words": [
         {
           "no": 1,
-          "word": "ஏரின் \n (Erin)",
+          "word": "ஏரின் <br>(Erin)",
           "ta": "ஏர்கொண்டு",
           "en": "With the plough",
           "hi": "हल से"
         },
         {
           "no": 2,
-          "word": "உழாஅர் \n (Uzhaaar)",
+          "word": "உழாஅர் <br>(Uzhaaar)",
           "ta": "உழவு செய்ய மாட்டார்கள்",
           "en": "Will not plough",
           "hi": "नहीं जोतेंगे"
         },
         {
           "no": 3,
-          "word": "உழவர் \n (Uzhavar)",
+          "word": "உழவர் <br>(Uzhavar)",
           "ta": "உழவர்கள்",
           "en": "Ploughmen / Farmers",
           "hi": "किसान"
         },
         {
           "no": 4,
-          "word": "புயல் என்னும் \n (Puyal Ennum)",
+          "word": "புயல் என்னும் <br>(Puyal Ennum)",
           "ta": "மழை என்று சொல்லப்படும்",
           "en": "Called rain storm",
           "hi": "वर्षा नामक"
         },
         {
           "no": 5,
-          "word": "வாரி \n (Vaari)",
+          "word": "வாரி <br>(Vaari)",
           "ta": "வருவாய் வளமானது",
           "en": "Stream of wealth",
           "hi": "संपदा / धन"
         },
         {
           "no": 6,
-          "word": "வளம் குன்றிக் கால் \n (Valam Kundrik Kaal)",
+          "word": "வளம் குன்றிக் கால் <br>(Valam Kundrik Kaal)",
           "ta": "குறைந்து போனால்",
           "en": "If it fails / decreases",
           "hi": "यदि कम हो जाए"
@@ -380,49 +381,49 @@
       "words": [
         {
           "no": 1,
-          "word": "கெடுப்பதூஉம் \n (Ketuppadhooum)",
+          "word": "கெடுப்பதூஉம் <br>(Ketuppadhooum)",
           "ta": "உயிர்களைக் கெடுப்பதும்",
           "en": "That which ruins",
           "hi": "नष्ट करने वाली"
         },
         {
           "no": 2,
-          "word": "கெட்டார்க்குச் \n (Kettaarkkuch)",
+          "word": "கெட்டார்க்குச் <br>(Kettaarkkuch)",
           "ta": "கெட்டவர்க்கு (துன்பப்படுவோர்க்கு)",
           "en": "To the ruined ones",
           "hi": "आपदाग्रस्त लोगों को"
         },
         {
           "no": 3,
-          "word": "சார்வாய் \n (Chaarvaay)",
+          "word": "சார்வாய் <br>(Chaarvaay)",
           "ta": "துணையாய் நின்று",
           "en": "As a help",
           "hi": "सहायक बनकर"
         },
         {
           "no": 4,
-          "word": "மற்று ஆங்கே \n (Matru Aange)",
+          "word": "மற்று ஆங்கே <br>(Matru Aange)",
           "ta": "அவ்விடத்தே",
           "en": "And there itself",
           "hi": "और तुरंत"
         },
         {
           "no": 5,
-          "word": "எடுப்பதூஉம் \n (Etuppadhooum)",
+          "word": "எடுப்பதூஉம் <br>(Etuppadhooum)",
           "ta": "காப்பாற்றுவதும்",
           "en": "That which raises up",
           "hi": "पुनरुत्थान करने वाली"
         },
         {
           "no": 6,
-          "word": "எல்லாம் \n (Ellaam)",
+          "word": "எல்லாம் <br>(Ellaam)",
           "ta": "ஆகிய இரண்டும்",
           "en": "All these",
           "hi": "सब कुछ"
         },
         {
           "no": 7,
-          "word": "மழை \n (Mazhai)",
+          "word": "மழை <br>(Mazhai)",
           "ta": "மழையாகும்",
           "en": "Is rain",
           "hi": "वर्षा है"
@@ -472,49 +473,49 @@
       "words": [
         {
           "no": 1,
-          "word": "விசும்பின் \n (Visumpin)",
+          "word": "விசும்பின் <br>(Visumpin)",
           "ta": "வானத்திலிருந்து",
           "en": "From the sky",
           "hi": "आकाश से"
         },
         {
           "no": 2,
-          "word": "துளி வீழின் \n (Thuli Veezhin)",
+          "word": "துளி வீழின் <br>(Thuli Veezhin)",
           "ta": "நீர்த்துளி விழுந்தால்",
           "en": "If drops fall",
           "hi": "बूँद गिरने पर"
         },
         {
           "no": 3,
-          "word": "அல்லால் \n (Allaal)",
+          "word": "அல்லால் <br>(Allaal)",
           "ta": "அன்றி",
           "en": "Other than",
           "hi": "के बिना"
         },
         {
           "no": 4,
-          "word": "மற்று ஆங்கே \n (Matru Aange)",
+          "word": "மற்று ஆங்கே <br>(Matru Aange)",
           "ta": "அவ்விடத்தே",
           "en": "And there",
           "hi": "तुरंत"
         },
         {
           "no": 5,
-          "word": "பசும்புல் \n (Pasumpul)",
+          "word": "பசும்புல் <br>(Pasumpul)",
           "ta": "பசிய புல்",
           "en": "Green grass",
           "hi": "हरी घास"
         },
         {
           "no": 6,
-          "word": "தலைகாண்பு \n (Thalaikaanpu)",
+          "word": "தலைகாண்பு <br>(Thalaikaanpu)",
           "ta": "முளைத்துத் தலைகாட்டுவது",
           "en": "To show its head",
           "hi": "दिखाई देना"
         },
         {
           "no": 7,
-          "word": "அரிது \n (Aridhu)",
+          "word": "அரிது <br>(Aridhu)",
           "ta": "அரிதாகும்",
           "en": "Is rare / impossible",
           "hi": "कठिन है"
@@ -564,42 +565,42 @@
       "words": [
         {
           "no": 1,
-          "word": "நெடுங்கடலும் \n (Netungatalum)",
+          "word": "நெடுங்கடலும் <br>(Netungatalum)",
           "ta": "பெரிய கடலும் கூட",
           "en": "Even the vast sea",
           "hi": "विशाल समुद्र भी"
         },
         {
           "no": 2,
-          "word": "தன் நீர்மை \n (Than Neermai)",
+          "word": "தன் நீர்மை <br>(Than Neermai)",
           "ta": "தன் தன்மையை (வளத்தை)",
           "en": "Its nature / richness",
           "hi": "अपनी विशेषता"
         },
         {
           "no": 3,
-          "word": "குன்றும் \n (Kundrum)",
+          "word": "குன்றும் <br>(Kundrum)",
           "ta": "குறைந்துவிடும்",
           "en": "Will shrink",
           "hi": "घट जाएगी"
         },
         {
           "no": 4,
-          "word": "தடிந்து எழிலி \n (Thatindhu Ezhili)",
+          "word": "தடிந்து எழிலி <br>(Thatindhu Ezhili)",
           "ta": "மேகமாக எழுந்து சென்று",
           "en": "The clouds having drawn",
           "hi": "मेघों द्वारा जल खींचकर"
         },
         {
           "no": 5,
-          "word": "தான் நல்காது \n (Thaan Nalkaadhu)",
+          "word": "தான் நல்காது <br>(Thaan Nalkaadhu)",
           "ta": "தான் மழை பெய்யாமல்",
           "en": "If they fail to pour",
           "hi": "यदि न बरसाएँ"
         },
         {
           "no": 6,
-          "word": "ஆகி விடின் \n (Aaki Vitin)",
+          "word": "ஆகி விடின் <br>(Aaki Vitin)",
           "ta": "இருந்து விடுமானால்",
           "en": "Should it happen",
           "hi": "तो ऐसा हो जाएगा"
@@ -625,7 +626,7 @@
           },
           "hi": {
             "line1": "नेडुङ्कदलुम तन्नीरमै कुन्द्रुम तदिन्तेझिलि",
-            "hiLine2": "थाननल्का ताकि विटिन."
+            "line2": "थाननल्का ताकि विटिन."
           }
         }
       },
@@ -649,49 +650,49 @@
       "words": [
         {
           "no": 1,
-          "word": "சிறப்பொடு \n (Sirappotu)",
+          "word": "சிறப்பொடு <br>(Sirappotu)",
           "ta": "திருவிழாக்களுடன்",
           "en": "With festival / pomp",
           "hi": "उत्सव और समारोह"
         },
         {
           "no": 2,
-          "word": "பூசனை \n (Poosanai)",
+          "word": "பூசனை <br>(Poosanai)",
           "ta": "வழிபாடுகளும்",
           "en": "Worship / offerings",
           "hi": "पूजा-अर्चना"
         },
         {
           "no": 3,
-          "word": "செல்லாது \n (Sellaadhu)",
+          "word": "செல்லாது <br>(Sellaadhu)",
           "ta": "நடைபெறாது",
           "en": "Will cease",
           "hi": "नहीं होगी"
         },
         {
           "no": 4,
-          "word": "வானம் \n (Vaanam)",
+          "word": "வானம் <br>(Vaanam)",
           "ta": "மழை",
           "en": "Rain / Sky",
           "hi": "वर्षा"
         },
         {
           "no": 5,
-          "word": "வறக்குமேல் \n (Varakkumel)",
+          "word": "வறக்குமேல் <br>(Varakkumel)",
           "ta": "பெய்யாமல் வறண்டு போனால்",
           "en": "If it dries up",
           "hi": "यदि सूख जाए"
         },
         {
           "no": 6,
-          "word": "வானோர்க்கும் \n (Vaanorkkum)",
+          "word": "வானோர்க்கும் <br>(Vaanorkkum)",
           "ta": "தேவர்களுக்கும்",
           "en": "Even to the gods",
           "hi": "देवताओं के लिए भी"
         },
         {
           "no": 7,
-          "word": "ஈண்டு \n (Eentu)",
+          "word": "ஈண்டு <br>(Eentu)",
           "ta": "இவ்வுலகத்தில்",
           "en": "Here on earth",
           "hi": "इस लोक में"
@@ -741,42 +742,42 @@
       "words": [
         {
           "no": 1,
-          "word": "தானம் \n (Thaanam)",
+          "word": "தானம் <br>(Thaanam)",
           "ta": "ஏழைகளுக்கு வழங்கும் கொடையும்",
           "en": "Charity",
           "hi": "दान"
         },
         {
           "no": 2,
-          "word": "தவம் இரண்டும் \n (Thavam Irantum)",
+          "word": "தவம் இரண்டும் <br>(Thavam Irantum)",
           "ta": "தவமும் ஆகிய இரண்டும்",
           "en": "And penance both",
           "hi": "और तपस्या दोनों"
         },
         {
           "no": 3,
-          "word": "தங்கா \n (Thangaa)",
+          "word": "தங்கா <br>(Thangaa)",
           "ta": "நிலைபெறாது அழியும்",
           "en": "Will not endure",
           "hi": "नहीं टिकेंगे"
         },
         {
           "no": 4,
-          "word": "வியன் உலகம் \n (Viyan Ulakam)",
+          "word": "வியன் உலகம் <br>(Viyan Ulakam)",
           "ta": "அகன்ற இந்த உலகத்தில்",
           "en": "In this vast world",
           "hi": "इस विशाल संसार में"
         },
         {
           "no": 5,
-          "word": "வானம் \n (Vaanam)",
+          "word": "வானம் <br>(Vaanam)",
           "ta": "மழை",
           "en": "Rain / Clouds",
           "hi": "वर्षा"
         },
         {
           "no": 6,
-          "word": "வழங்காது எனின் \n (Vazhangaa Enin)",
+          "word": "வழங்காது எனின் <br>(Vazhangaa Enin)",
           "ta": "பெய்யாது விடுமானால்",
           "en": "If it fails to give",
           "hi": "यदि न दे"
@@ -826,43 +827,43 @@
       "words": [
         {
           "no": 1,
-          "word": "நீர் இன்று \n (Neer Indru)",
+          "word": "நீர் இன்று <br>(Neer Indru)",
           "ta": "நீர் இல்லாமல்",
           "en": "Without water",
           "hi": "जल के बिना"
         },
         {
           "no": 2,
-          "word": "அமையாது \n (Amaiyaadhu)",
+          "word": "அமையாது <br>(Amaiyaadhu)",
           "ta": "இயங்காது",
           "en": "Cannot exist",
           "hi": "नहीं चल सकता"
         },
         {
           "no": 3,
-          "word": "உலகு எனின் \n (Ulaku Enin)",
+          "word": "உலகு எனின் <br>(Ulaku Enin)",
           "ta": "உலகம் என்று கூறுவாராயின்",
           "en": "If the world",
           "hi": "यदि संसार"
         },
         {
           "no": 4,
-          "word": "யார் யார்க்கும் \n (Yaaryaarkkum)",
+          "word": "யார் யார்க்கும் <br>(Yaaryaarkkum)",
           "ta": "எந்த மனிதருக்கும்",
           "en": "To anyone / everyone",
           "hi": "किसी के लिए भी"
         },
         {
           "no": 5,
-          "word": "வான் இன்று \n (Vaan Indru)",
+          "word": "வான் இன்று <br>(Vaan Indru)",
           "ta": "மழை இல்லாமல்",
           "en": "Without rain",
           "hi": "वर्षा के बिना"
         },
         {
           "no": 6,
-          "word": "அமையாது ஒழுக்கு \n (Amaiyaadhu Ozhukku)",
-          "ta": "வாழ்க்கை முறை நிலைபெறாது",
+          "word": "அமையாது ஒழுக்கு <br>(Amaiyaadhu Ozhukku)",
+          "ta": "வாழ்வு முறை நிலைபெறாது",
           "en": "True life / order fails",
           "hi": "जीवन मर्यादा नहीं टिकती"
         }

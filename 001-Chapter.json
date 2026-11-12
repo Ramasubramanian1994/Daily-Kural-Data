@@ -1,7 +1,8 @@
 {
   "chapterNum": 1,
   "nameTa": "கடவுள் வாழ்த்து",
-  "nameEn": "God",
+  "nameEn": "The Praise of God",
+  "nameHi": "ईश्वर-स्तुति",
   "paal": "அறத்துப்பால்",
   "iyal": "பாயிறவியல்",
   "kurals": [
@@ -9,12 +10,12 @@
       "num": 1,
       "line1": "அகர முதல எழுத்தெல்லாம் ஆதி",
       "line2": "பகவன் முதற்றே உலகு.",
-      "enLine1": "Akara Muthala Ezhuthellaam Aathi",
-      "enLine2": "Pakavan Mutratre Ulaku.",
-      "hiLine1": "अगर मुदल एषुतेल्लाम आदि",
-      "hiLine2": "पगवन मुट्रे उलकु.",
+      "enLine1": "A, as its first of letters, every speech maintains;",
+      "enLine2": "The 'Primal Deity' is first through all the world's domains.",
+      "hiLine1": "अक्षर सबके आदि में, है अकार का स्थान।",
+      "hiLine2": "अखिल लोक का आदि तो, रहा आदि भगवान ॥",
       "general": "அகர எழுத்துக்களுக்கு முதலாக இருப்பது போல, உலகமானது கடவுளாகிய முதற்பொருளை அடிப்படையாகக் கொண்டுள்ளது.",
-      "en": "As the letter 'A' is the first of all letters, so is the eternal God the first of the world.",
+      "en": "As all letters have the letter A for their first, so the world has the eternal God for its first.",
       "hi": "जैसे सभी वर्णों की शुरुआत 'अ' से होती है, वैसे ही यह संसार आदि भगवान (ईश्वर) पर आधारित है।",
       "words": [
         {
@@ -73,8 +74,8 @@
           "line2": "பகவன் முதற்றே உலகு."
         },
         "en": {
-          "line1": "As 'A' stands first among the letters, leading all in place,",
-          "line2": "So God stands first in all the world, the source of every trace."
+          "line1": "A, as its first of letters, every speech maintains;",
+          "line2": "The 'Primal Deity' is first through all the world's domains."
         },
         "hi": {
           "line1": "अक्षर सबके आदि में, है अकार का स्थान।",
@@ -86,8 +87,8 @@
             "line2": "Pakavan Mutratre Ulaku."
           },
           "hi": {
-            "line1": "अगर मुदल एषुतेल्लाम आदि",
-            "line2": "पगवन मुट्रे उलकु."
+            "line1": "अक्षर सबके आदि में, है अकार का स्थान।",
+            "line2": "अखिल लोक का आदि तो, रहा आदि भगवान ॥"
           }
         }
       },
@@ -101,10 +102,10 @@
       "num": 2,
       "line1": "கற்றதனால் ஆய பயனென்கொல் வாலறிவன்",
       "line2": "நற்றாள் தொழாஅர் எனின்.",
-      "enLine1": "Katrathanaal Aaya Payanenkol Vaalarivan",
-      "enLine2": "Nattraal Thozhaar Enin.",
-      "hiLine1": "कत्रथनाल आाया पयनेन्कोल वालरीवन",
-      "hiLine2": "नट्राळ तोळआर एनिन.",
+      "enLine1": "No fruit have men of all the studied lore,",
+      "enLine2": "Save they the 'Pure Wise One's' feet adore.",
+      "hiLine1": "वि‌द्योपार्जन भी भला, क्या आयेगा काम।",
+      "hiLine2": "श्रीपद पर सत्याज्ञ के, यदि नहिं किया प्रणाम ॥",
       "general": "தூய அறிவு வடிவாய் விளங்கும் இறைவனின் நல்ல திருவடிகளைத் தொழுது வணங்காதவர்கள், தாம் கற்ற கல்வியால் பெற்ற பயன் என்ன?",
       "en": "What is the use of learning if one does not worship the good feet of Him who is possessed of pure intelligence?",
       "hi": "शुद्ध ज्ञानस्वरूप ईश्वर के चरणों की वंदना न करने वालों द्वारा शिक्षा प्राप्त करने का क्या लाभ है?",
@@ -165,12 +166,12 @@
           "line2": "நற்றாள் தொழாஅர் எனின்."
         },
         "en": {
-          "line1": "What good is learning all the books, or knowledge one may gain,",
-          "line2": "If one does not bow to the feet of Wisdom free from stain?"
+          "line1": "No fruit have men of all the studied lore,",
+          "line2": "Save they the 'Pure Wise One's' feet adore."
         },
         "hi": {
-          "line1": "विद्योपार्जन भी भला, क्या आयेगा काम।",
-          "line2": "श्रीपद पर सत्याज्ञ के, यदि नहीं किया प्रणाम ॥"
+          "line1": "वि‌द्योपार्जन भी भला, क्या आयेगा काम।",
+          "line2": "श्रीपद पर सत्याज्ञ के, यदि नहिं किया प्रणाम ॥"
         },
         "transliteration": {
           "en": {
@@ -178,8 +179,8 @@
             "line2": "Nattraal Thozhaar Enin."
           },
           "hi": {
-            "line1": "कत्रथनाल आाया पयनेन्कोल वालरीवन",
-            "line2": "नट्राळ तोळआर एनिन."
+            "line1": "वि‌द्योपार्जन भी भला, क्या आयेगा काम।",
+            "line2": "श्रीपद पर सत्याज्ञ के, यदि नहिं किया प्रणाम ॥"
           }
         }
       },
@@ -195,8 +196,8 @@
       "line2": "நிலமிசை நீடுவாழ் வார்.",
       "enLine1": "Malamisai Yekinaan Maanadi Serndhaar",
       "enLine2": "Nilamisai Needuvaal Vaar.",
-      "hiLine1": "मलरमिसे येकीनान मानडी सेर्न्दार",
-      "hiLine2": "निलमिसे नीडुवाल वार.",
+      "hiLine1": "हृदय-पद्म-गत ईश के, पाद-पद्म जो पाय।",
+      "hiLine2": "श्रेयस्कर वरलोक में, चिरजीवी रह जाय ॥",
       "general": "அன்பர்களின் மனமாகிய மலரில் எழுந்தருளும் இறைவனின் பெருமைமிக்க திருவடிகளைப் பொருந்திப் பொருத்துவோர், நிலவுலகில் நெடுங்காலம் வாழ்வர்.",
       "en": "Those who reach the glorious feet of Him who passes over the lotus of the heart will live long upon the earth.",
       "hi": "भक्तों के हृदय रूपी कमल पर विराजमान ईश्वर के महान चरणों की शरण लेते हैं, वे इस पृथ्वी पर दीर्घकाल तक जीवित रहते हैं.",
@@ -257,8 +258,8 @@
           "line2": "நிலமிசை நீடுவாழ் வார்."
         },
         "en": {
-          "line1": "Those who reach the noble feet of Him in the heart's lotus bright,",
-          "line2": "Shall live enduring lives on earth, blessed by that sacred light."
+          "line1": "His feet, 'Who o'er the full-blown flower hath past,' who gain,",
+          "line2": "In bliss long date shall dwell above this earthly plain."
         },
         "hi": {
           "line1": "हृदय-पद्म-गत ईश के, पाद-पद्म जो पाय।",
@@ -270,8 +271,8 @@
             "line2": "Nilamisai Needuvaal Vaar."
           },
           "hi": {
-            "line1": "मलरमिसे येकीनान मानडी सेर्न्दार",
-            "line2": "निलमिसे नीडुवाल वार."
+            "line1": "हृदय-पद्म-गत ईश के, पाद-पद्म जो पाय।",
+            "line2": "श्रेयस्कर वरलोक में, चिरजीवी रह जाय ॥"
           }
         }
       },
@@ -287,8 +288,8 @@
       "line2": "யாண்டும் இடும்பை இல.",
       "enLine1": "Veanduthal VeandAamai Ilanadi Serndhaarkku",
       "enLine2": "Yaandum Idumpai Ila.",
-      "hiLine1": "वेन्दुदल वेण्डामै इलानडि सेर्न्दार্ক্কு",
-      "hiLine2": "यान्दुम् इडुम्बै इल.",
+      "hiLine1": "राग-द्वेष विहीन के, चरणाश्रित जो लोग।",
+      "hiLine2": "दुःख न दे उनको कभी, भव-बाधा का रोग ॥",
       "general": "விருப்பமும் வெறுப்பும் இல்லாத கடவுளின் திருவடிகளைப் பொருந்திச் சேர்ந்தவர்க்கு, எக்காலத்திலும் எந்தத் துன்பமும் வராது.",
       "en": "To those who are united to the feet of Him who is free from desire and aversion, no evil shall happen at any time.",
       "hi": "जो राग और द्वेष (इच्छा और अनिच्छा) से मुक्त ईश्वर के चरणों से जुड़े हैं, उन्हें कभी भी कोई दुःख नहीं होता。",
@@ -349,8 +350,8 @@
           "line2": "யாண்டும் இடும்பை இல."
         },
         "en": {
-          "line1": "Those who seek the feet of Him untouched by want or hate,",
-          "line2": "Will find that grief and worldly woes no longer seal their fate."
+          "line1": "His feet, 'Whom want affects not, irks not grief,' who gain,",
+          "line2": "Shall not, through every time, of any woes complain."
         },
         "hi": {
           "line1": "राग-द्वेष विहीन के, चरणाश्रित जो लोग।",
@@ -362,8 +363,8 @@
             "line2": "Yaandum Idumpai Ila."
           },
           "hi": {
-            "line1": "वेन्दुदल वेण्डामै इलानडि सेर्न्दार্ক্কு",
-            "line2": "यान्दुम् इडुम्बै इल."
+            "line1": "राग-द्वेष विहीन के, चरणाश्रित जो लोग。",
+            "line2": "दुःख न दे उनको कभी, भव-बाधा का रोग ॥"
           }
         }
       },
@@ -379,8 +380,8 @@
       "line2": "பொருள்சேர் புகழ்ப புரிந்தார் மாட்டு.",
       "enLine1": "Irulser Iruvinaiyum Seraa Iraivan",
       "enLine2": "Porulser Pukazha Purindhaar Maattu.",
-      "hiLine1": "इरुलसेर इरुविनैयुम सेरा इलैवन",
-      "hiLine2": "पोरुलसेर पुकळ पुरिन्द्वार माट्टु.",
+      "hiLine1": "जो रहते हैं ईश के, सत्य भजन में लिप्त।",
+      "hiLine2": "अज्ञानाश्रित कर्म दो, उनको करें न लिप्त ॥",
       "general": "மெய்ப்பொருளான கடவுளின் புகழை இடைவிடாமல் விரும்பிப் போற்றுபவரை அறியாமையாகிய இருவினைகளும் சேர்வதில்லை.",
       "en": "The two-fold deeds born of darkness shall not cling to those who delight in the true praise of God.",
       "hi": "सत्य स्वरूप ईश्वर की महिमा का गुणगान करने वालों को अज्ञान और कर्म के दोनों बंधन कभी नहीं छूते.",
@@ -441,8 +442,8 @@
           "line2": "பொருள்சேர் புகழ்ப புரிந்தார் மாட்டு."
         },
         "en": {
-          "line1": "The deeds of darkness cling not to those whose hearts in worship stay,",
-          "line2": "Who praise the Lord with truthful love and walk the righteous way."
+          "line1": "The two-fold deeds that spring from darkness shall not adhere",
+          "line2": "To those who praise God's truth with love sincere."
         },
         "hi": {
           "line1": "जो रहते हैं ईश के, सत्य भजन में लिप्त।",
@@ -454,8 +455,8 @@
             "line2": "Porulser Pukazha Purindhaar Maattu."
           },
           "hi": {
-            "line1": "इरुलसेर इरुविनैयुम सेरा इलैवन",
-            "line2": "पोरुलसेर पुकळ पुरिन्द्वार माट्टु."
+            "line1": "जो रहते हैं ईश के, सत्य भजन में लिप्त।",
+            "line2": "अज्ञानाश्रित कर्म दो, उनको करें न लिप्त ॥"
           }
         }
       },
@@ -471,7 +472,8 @@
       "line2": "நெறிநின்றார் நீடுவாழ் வார்.",
       "enLine1": "Porivaayil Ainthaviththaan Poytheer Ozhukkaththu",
       "enLine2": "Nerinintraar Needuvaal Vaar.",
-      "hiLine1": "पोरिवायिल ऐन्थविத்தான் பொयदीर ओझुक्कत्थु",
+      "hiLine1": "पंचेन्द्रिय-निग्रह किये, प्रभु का किया विधान।",
+      "hiLine2": "धर्म-पंथ के पथिक जो, हों चिर आयुष्मान ॥",
       "general": "ஐம்பொறிகளின் வழியாக எழும் தீய ஆசைகளை அவித்த கடவுளின் மெய்யான ஒழுக்க நெறியில் நிற்பவர்கள் நிலைபெற்று வாழ்வர்.",
       "en": "Those who stand firmly in the true code of conduct of Him who has subdued the five senses will live long.",
       "hi": "पाँच इंद्रियों की इच्छाओं को वश में करने वाले ईश्वर के सच्चे मार्ग पर जो लोग चलते हैं, वे दीर्घायु होते हैं。",
@@ -532,8 +534,8 @@
           "line2": "நெறிநின்றார் நீடுவாழ் வார்."
         },
         "en": {
-          "line1": "Those who follow the path laid down by Him who mastered every sense,",
-          "line2": "Shall live long lives in virtue, guided by His wisdom hence."
+          "line1": "Long live they blest, who 've stood in path from falsehood freed,",
+          "line2": "His, 'Who quenched lusts that from the sense-gates five proceed'."
         },
         "hi": {
           "line1": "पंचेन्द्रिय-निग्रह किये, प्रभु का किया विधान।",
@@ -545,8 +547,8 @@
             "line2": "Nerinintraar Needuvaal Vaar."
           },
           "hi": {
-            "line1": "पोरिवायिल ऐन्थविத்தான் பொयदीर ओझुक्कत्थु",
-            "line2": "नेरिनिन्ट्रार नीडुवाल वार."
+            "line1": "पंचेन्द्रिय-निग्रह किये, प्रभु का किया विधान।",
+            "line2": "धर्म-पंथ के पथिक जो, हों चिर आयुष्मान ॥"
           }
         }
       },
@@ -562,8 +564,8 @@
       "line2": "மனக்கவலை மாற்றல் அரிது.",
       "enLine1": "Thanakkuvamai Illaadaan Thaalserndhaark Kallaal",
       "enLine2": "Manakkavalai Maatral Arithu.",
-      "hiLine1": "तनक्कुवमै इल्लादान ताळसेर्न्दार्क् कल्लाल",
-      "hiLine2": "मनक्कवलै माट्रल अरिदु.",
+      "hiLine1": "ईश्वर उपमारहित का, नहीं पदाश्रय-युक्त।",
+      "hiLine2": "तो निश्चय संभव नहीं, होना चिंता-मुक्त ॥",
       "general": "தனக்கு ஒப்புமை இல்லாத தனிப்பெருங் கடவுளின் திருவடிகளைப் பொருந்தியவர்க்கு, மனத்துயரங்களை நீக்குவது எளிதாகும்.",
       "en": "It is difficult to remove the mental grief of those who have not reached the feet of Him who has no equal.",
       "hi": "जिसके समान कोई दूसरा नहीं है, ऐसे अद्वितीय ईश्वर के चरणों की शरण न लेने वालों के मानसिक कष्टों को दूर करना कठिन है.",
@@ -624,8 +626,8 @@
           "line2": "மனக்கவலை மாற்றல் அரிது."
         },
         "en": {
-          "line1": "For those who do not reach the feet of Him beyond compare,",
-          "line2": "The restless grief within the mind is difficult to bear."
+          "line1": "His feet, whose likeness none can find,",
+          "line2": "Alone can ease the anxious mind."
         },
         "hi": {
           "line1": "ईश्वर उपमारहित का, नहीं पदाश्रय-युक्त।",
@@ -637,8 +639,8 @@
             "line2": "Manakkavalai Maatral Arithu."
           },
           "hi": {
-            "line1": "तनक्कुवमै इल्लादान ताळसेर्न्दार्क् कल्लाल",
-            "line2": "मनक्कवलै माट्रल अरिदु."
+            "line1": "ईश्वर उपमारहित का, नहीं पदाश्रय-युक्त।",
+            "line2": "तो निश्चय संभव नहीं, होना चिंता-मुक्त ॥"
           }
         }
       },
@@ -654,7 +656,8 @@
       "line2": "பிறவாழி நீந்தல் அரிது.",
       "enLine1": "Aravaazhi Andhanan Thaalserndhaar Kallaal",
       "enLine2": "Piravaazhi Neenthal Arithu.",
-      "hiLine1": "अरवाळि अन्थणन ताळसेर्न्दार कल्लाल",
+      "hiLine1": "धर्म-सिन्धु करुणेश के, शरणागत हैं धन्य।",
+      "hiLine2": "उसे छोड़ दुख-सिन्धु को, पार न पाये अन्य ॥",
       "general": "அறக்கடலாக விளங்கும் அந்தணனின் (கடவுளின்) திருவடிகளைப் பற்றினவர் அல்லாமல், மற்றவர்கள் பிறவியாகிய கடலைக் கடத்தல் அரிது.",
       "en": "None can cross the ocean of births except those who reach the feet of Him who is an ocean of virtue.",
       "hi": "धर्म के समुद्र रूप ईश्वर के चरणों की शरण लेने वालों के अतिरिक्त अन्य लोगों के लिए भवसागर (जन्म-मरण का सागर) पार करना कठिन है.",
@@ -715,8 +718,8 @@
           "line2": "பிறவாழி நீந்தல் அரிது."
         },
         "en": {
-          "line1": "None easily crosses birth's vast sea, its currents deep and wide,",
-          "line2": "Except those who seek the gracious Lord, the ocean of virtue's tide."
+          "line1": "Who swims the sea of vice is he",
+          "line2": "Who clasps the feet of Virtue's sea."
         },
         "hi": {
           "line1": "धर्म-सिन्धु करुणेश के, शरणागत हैं धन्य।",
@@ -728,8 +731,8 @@
             "line2": "Piravaazhi Neenthal Arithu."
           },
           "hi": {
-            "line1": "अरवाळि अन्थणन ताळसेर्न्दार कल्लाल",
-            "line2": "पिरवाळि नीन्तल अरितु."
+            "line1": "धर्म-सिन्धु करुणेश के, शरणागत हैं धन्य।",
+            "line2": "उसे छोड़ दुख-सिन्धु को, पार न पाये अन्य ॥"
           }
         }
       },
@@ -741,12 +744,12 @@
     },
     {
       "num": 9,
-      "line1": "கோளில் பொறியில் குணமிலவே எண்குணத்தான்",
-      "line2": "தாளைத் தொழாஅர் எனின்.",
+      "line1": "கோளில் பொறியின் குணமிலவே எண்குணத்தான்",
+      "line2": "தாளை வணங்காத் தலை.",
       "enLine1": "Kolil Poriyil Gunamilave Enkunaththaan",
-      "enLine2": "Thalaith Thozhaar Enin.",
-      "hiLine1": "कोलिल पोरियिल गुणमिलवे एङ्कुणत्थान",
-      "hiLine2": "ताळैत् तोळआर एनिन.",
+      "enLine2": "Thaalai Vanangaath Thalai.",
+      "hiLine1": "निष्क्रिय इन्द्रिय सदृश ही, 'सिर' है केवल नाम।",
+      "hiLine2": "अष्टगुणी के चरण पर, यदि नहीं किया प्रणाम ॥",
       "general": "எட்டு குணங்களை உடைய கடவுளின் திருவடிகளைத் தொழுது வணங்காதவரின் தலைப் பொறிகள் (ஐம்புலன்கள்) பயனில்லாதவையாம்.",
       "en": "The head and senses that do not worship the feet of Him who possesses the eight attributes are lifeless senses.",
       "hi": "आठ गुणों से युक्त ईश्वर के चरणों की वंदना न करने वाले सिर और उसकी इंद्रियां गुणहीन और निष्फल होती हैं.",
@@ -788,27 +791,20 @@
         },
         {
           "no": 6,
-          "word": "தொழுது <br>(Thozhuthu)",
-          "ta": "வணங்கி",
-          "en": "Worship",
-          "hi": "वंदना न करने पर"
-        },
-        {
-          "no": 7,
-          "word": "தொழாஅர் எனின் <br>(Thozhaar Enin)",
-          "ta": "வணங்காது விட்டால்",
-          "en": "If they fail to adore",
-          "hi": "यदि कोई"
+          "word": "வணங்காத் தலை <br>(Vanangaath Thalai)",
+          "ta": "வணங்காத தலையானது",
+          "en": "Head that bows not",
+          "hi": "जो सिर प्रणाम नहीं करता"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "கோளில் பொறியில் குணமிலவே எண்குணத்தான்",
-          "line2": "தாளைத் தொழாஅர் எனின்."
+          "line1": "கோளில் பொறியின் குணமிலவே எண்குணத்தான்",
+          "line2": "தாளை வணங்காத் தலை."
         },
         "en": {
-          "line1": "The head is but a name, the senses serve no worthy aim,",
-          "line2": "If one does not bow to the feet of Him of virtues eight in name."
+          "line1": "Before His foot, 'the Eight-fold Excellence,' with unbent head",
+          "line2": "Who stands, like palsied sense, is to all living functions dead."
         },
         "hi": {
           "line1": "निष्क्रिय इन्द्रिय सदृश ही, 'सिर' है केवल नाम।",
@@ -817,11 +813,11 @@
         "transliteration": {
           "en": {
             "line1": "Kolil Poriyil Gunamilave Enkunaththaan",
-            "line2": "Thalaith Thozhaar Enin."
+            "line2": "Thaalai Vanangaath Thalai."
           },
           "hi": {
-            "line1": "कोलिल पोरियिल गुणमिलवे एङ्कुणत्थान",
-            "line2": "ताळैत् तोळआर एनिन."
+            "line1": "निष्क्रिय इन्द्रिय सदृश ही, 'सिर' है केवल नाम।",
+            "line2": "अष्टगुणी के चरण पर, यदि नहीं किया प्रणाम ॥"
           }
         }
       },
@@ -837,8 +833,8 @@
       "line2": "இறைவன் அடிசேரா தார்.",
       "enLine1": "Piravipperunkadal Neenthuvar Neenthaar",
       "enLine2": "Iraivan Adisera Thaar.",
-      "hiLine1": "पिरविप्पेरुङ्कदल् नीन्थुवर नीन्तार",
-      "hiLine2": "इलैवन अडिसेरा थार.",
+      "hiLine1": "भव-सागर विस्तार से, पाते हैं निस्तार।",
+      "hiLine2": "ईश-शरण बिन जीव तो, कर नहीं पाये पार ॥",
       "general": "இறைவனின் திருவடிகளைச் சேர்ந்தவர்கள் பிறவியாகிய பெருங்கடலைக் கடந்து இன்பம் அடைவர்; சேராதவர் கடக்க முடியாமல் வீழ்வர்.",
       "en": "They shall swim the great ocean of births who reach the feet of God; none others shall swim across.",
       "hi": "जो ईश्वर के चरणों की शरण लेते हैं, वे भवसागर को पार कर लेते हैं; जो शरण नहीं लेते, वे पार नहीं हो सकते.",
@@ -899,8 +895,8 @@
           "line2": "இறைவன் அடிசேரா தார்."
         },
         "en": {
-          "line1": "Those who reach the feet of God shall cross life's ocean wide,",
-          "line2": "Those who do not seek His feet cannot reach the other side."
+          "line1": "They swim the sea of births, the Monarch's foot who gain;",
+          "line2": "None others reach the shore of being's mighty main."
         },
         "hi": {
           "line1": "भव-सागर विस्तार से, पाते हैं निस्तार।",
@@ -912,8 +908,8 @@
             "line2": "Iraivan Adisera Thaar."
           },
           "hi": {
-            "line1": "पिरविप्पेरुङ्कदल् नीन्थुवर नीन्तार",
-            "line2": "इलैवन अडिसेरा थार."
+            "line1": "भव-सागर विस्तार से, पाते हैं निस्तार।",
+            "line2": "ईश-शरण बिन जीव तो, कर नहीं पाये पार ॥"
           }
         }
       },

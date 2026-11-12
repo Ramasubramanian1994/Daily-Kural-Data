@@ -20,41 +20,48 @@
       "words": [
         {
           "no": 1,
-          "word": "சிறப்பு ஈனும் <br>(Sirappu Eenum)",
+          "word": "சிறப்பீனும் <br>(Sirappeenum)",
           "ta": "சிறப்பைத் தரும்",
           "en": "Yields distinction / heaven",
           "hi": "मोक्ष / श्रेष्ठता देता है"
         },
         {
           "no": 2,
-          "word": "செல்வமும் ஈனும் <br>(Selvamum Eenum)",
-          "ta": "செல்வத்தையும் தரும்",
-          "en": "Yields prosperity too",
-          "hi": "धन भी देता है"
+          "word": "செல்வமும் <br>(Selvamum)",
+          "ta": "செல்வத்தையும்",
+          "en": "Prosperity too",
+          "hi": "धन भी"
         },
         {
           "no": 3,
+          "word": "ஈனும் <br>(Eenum)",
+          "ta": "தரும்",
+          "en": "Yields / gives",
+          "hi": "देता है"
+        },
+        {
+          "no": 4,
           "word": "அறத்தினூஉங்கு <br>(Araththinooungu)",
           "ta": "அறத்தைவிட மேலான",
           "en": "Greater than virtue",
           "hi": "धर्म से बढ़कर"
         },
         {
-          "no": 4,
+          "no": 5,
           "word": "ஆக்கம் <br>(Aakkam)",
           "ta": "நன்மை / ஆக்கம்",
           "en": "Gain / source of good",
           "hi": "लाभ / कल्याण"
         },
         {
-          "no": 5,
+          "no": 6,
           "word": "எவனோ <br>(Evano)",
           "ta": "வேறு என்ன உள்ளது",
           "en": "What else is there",
           "hi": "और क्या है"
         },
         {
-          "no": 6,
+          "no": 7,
           "word": "உயிர்க்கு <br>(Uyirkku)",
           "ta": "உயிர்களுக்கு",
           "en": "For living beings",
@@ -112,34 +119,41 @@
         },
         {
           "no": 2,
-          "word": "ஆக்கமும் இல்லை <br>(Aakkamum Illai)",
-          "ta": "ஆக்கமும் இல்லை",
-          "en": "There is no gain",
-          "hi": "कोई लाभ नहीं है"
+          "word": "ஆக்கமும் <br>(Aakkamum)",
+          "ta": "நன்மையும்",
+          "en": "Gain",
+          "hi": "कोई कल्याण"
         },
         {
           "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "There is no",
+          "hi": "नहीं है"
+        },
+        {
+          "no": 4,
           "word": "அதனை <br>(Adhanai)",
           "ta": "அந்த அறத்தை",
           "en": "That virtue",
           "hi": "उस धर्म को"
         },
         {
-          "no": 4,
+          "no": 5,
           "word": "மறத்தலின் <br>(Maraththalin)",
           "ta": "மறப்பதைவிட",
           "en": "Than forgetting",
           "hi": "भूलने से"
         },
         {
-          "no": 5,
-          "word": "ஊங்கு இல்லை <br>(Oongu Illai)",
+          "no": 6,
+          "word": "ஊங்கில்லை <br>(Oongillai)",
           "ta": "மிகுதியானது இல்லை",
-          "en": "There is nothing greater",
+          "en": "Nothing is greater",
           "hi": "बढ़कर नहीं है"
         },
         {
-          "no": 6,
+          "no": 7,
           "word": "கேடு <br>(Kedu)",
           "ta": "கேடு / தீமை",
           "en": "Loss / evil",
@@ -190,34 +204,48 @@
       "words": [
         {
           "no": 1,
-          "word": "ஒல்லும் வகையான் <br>(Ollum Vakaiyaan)",
-          "ta": "இயன்ற வழிகளில் எல்லாம்",
-          "en": "In every possible way",
-          "hi": "यथाशक्ति हर प्रकार से"
+          "word": "ஒல்லும் <br>(Ollum)",
+          "ta": "இயன்ற",
+          "en": "Possible",
+          "hi": "यथाशक्ति"
         },
         {
           "no": 2,
+          "word": "வகையான் <br>(Vakaiyaan)",
+          "ta": "வழிகளில் எல்லாம்",
+          "en": "In every way",
+          "hi": "हर प्रकार से"
+        },
+        {
+          "no": 3,
           "word": "அறவினை <br>(Aravinai)",
           "ta": "அறச்செயலை",
           "en": "Virtuous deeds",
           "hi": "धर्मयुक्त कर्म को"
         },
         {
-          "no": 3,
+          "no": 4,
           "word": "ஓவாதே <br>(Ovaadhe)",
           "ta": "இடைவிடாமல்",
           "en": "Incessantly",
           "hi": "निरंतर"
         },
         {
-          "no": 4,
-          "word": "செல்லும்வாய் எல்லாம் <br>(Sellumvaai Ellaam)",
-          "ta": "செல்லும் இடங்களில் எல்லாம்",
-          "en": "Wherever it is possible",
-          "hi": "जहाँ भी संभव हो"
+          "no": 5,
+          "word": "செல்லும்வாய் <br>(Sellumvaai)",
+          "ta": "செல்லும் இடங்களில்",
+          "en": "Wherever one goes",
+          "hi": "जहाँ भी अवसर हो"
         },
         {
-          "no": 5,
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All / everywhere",
+          "hi": "सब जगह"
+        },
+        {
+          "no": 7,
           "word": "செயல் <br>(Seyal)",
           "ta": "செய்ய வேண்டும்",
           "en": "Do / practise",
@@ -275,27 +303,41 @@
         },
         {
           "no": 2,
-          "word": "மாசு இலன் ஆதல் <br>(Maasu Ilan Aadhal)",
-          "ta": "குற்றம் இல்லாதவனாதல்",
-          "en": "Being spotless",
-          "hi": "मल-रहित होना"
+          "word": "மாசிலன் <br>(Maasilan)",
+          "ta": "குற்றம் இல்லாதவன்",
+          "en": "Spotless person",
+          "hi": "मल-रहित"
         },
         {
           "no": 3,
-          "word": "அனைத்து அறன் <br>(Anaiththu Aran)",
+          "word": "ஆதல் <br>(Aadhal)",
+          "ta": "ஆதல் (இருத்தல்)",
+          "en": "Being",
+          "hi": "होना"
+        },
+        {
+          "no": 4,
+          "word": "அனைத்தறன் <br>(Anaiththaran)",
           "ta": "அவ்வளவே அறம் ஆகும்",
           "en": "That much is virtue",
           "hi": "इतना ही धर्म है"
         },
         {
-          "no": 4,
-          "word": "ஆகுல நீர <br>(Aakula Neera)",
-          "ta": "ஆரவாரத் தன்மையுடையன",
-          "en": "Of the nature of vain pomp",
-          "hi": "केवल आडंबर हैं"
+          "no": 5,
+          "word": "ஆகுல <br>(Aakula)",
+          "ta": "ஆரவார",
+          "en": "Vain pomp",
+          "hi": "केवल आडंबर"
         },
         {
-          "no": 5,
+          "no": 6,
+          "word": "நீர <br>(Neera)",
+          "ta": "தன்மையுடையன",
+          "en": "Of the nature of",
+          "hi": "के समान हैं"
+        },
+        {
+          "no": 7,
           "word": "பிற <br>(Pira)",
           "ta": "மற்றவை எல்லாம்",
           "en": "All else",
@@ -438,9 +480,9 @@
       "words": [
         {
           "no": 1,
-          "word": "அன்று அறிவாம் <br>(Andru Arivaam)",
+          "word": "அன்றறிவாம் <br>(Andrarivaam)",
           "ta": "பின்னால் பார்த்துக்கொள்ளலாம்",
-          "en": "We will know / see then",
+          "en": "We will see later",
           "hi": "बाद में करेंगे"
         },
         {
@@ -452,14 +494,14 @@
         },
         {
           "no": 3,
-          "word": "அறம் செய்க <br>(Aram Seyka)",
+          "word": "அறஞ்செய்க <br>(Aranjeyka)",
           "ta": "அறத்தைச் செய்க",
           "en": "Do deeds of virtue",
           "hi": "धर्म का आचरण करो"
         },
         {
           "no": 4,
-          "word": "மற்று அது <br>(Matru Adhu)",
+          "word": "மற்றது <br>(Matradhu)",
           "ta": "அவ்வறமே",
           "en": "That itself",
           "hi": "वही धर्म"
@@ -473,10 +515,17 @@
         },
         {
           "no": 6,
-          "word": "பொன்றாத் துணை <br>(Pondraath Thunai)",
-          "ta": "அழியாத துணையாகும்",
-          "en": "An undying companion",
-          "hi": "चिरस्थायी साथी है"
+          "word": "பொன்றாத் <br>(Pondraath)",
+          "ta": "அழியாத",
+          "en": "Undying",
+          "hi": "चिरस्थायी"
+        },
+        {
+          "no": 7,
+          "word": "துணை <br>(Thunai)",
+          "ta": "துணையாகும்",
+          "en": "Companion",
+          "hi": "साथी है"
         }
       ],
       "poetic": {
@@ -523,38 +572,52 @@
       "words": [
         {
           "no": 1,
-          "word": "அறத்தாறு இதுவென <br>(Araththaaru Idhuvena)",
-          "ta": "அறத்தின் பயன் இது என்று",
-          "en": "That this is virtue's fruit",
-          "hi": "धर्म का सुफल यह है"
+          "word": "அறத்தாறு <br>(Araththaaru)",
+          "ta": "அறத்தின் பயன்",
+          "en": "Virtue's fruit / way",
+          "hi": "धर्म का सुफल"
         },
         {
           "no": 2,
+          "word": "இதுவென <br>(Idhuvena)",
+          "ta": "இது என்று",
+          "en": "That this is",
+          "hi": "यह है ऐसा"
+        },
+        {
+          "no": 3,
           "word": "வேண்டா <br>(Vendaa)",
           "ta": "கூற வேண்டியதில்லை",
           "en": "Needs not (be told)",
           "hi": "बताने की आवश्यकता नहीं"
         },
         {
-          "no": 3,
+          "no": 4,
           "word": "சிவிகை <br>(Sivikai)",
           "ta": "பல்லக்கை",
           "en": "Palanquin / litter",
           "hi": "पालकी (शिविका)"
         },
         {
-          "no": 4,
+          "no": 5,
           "word": "பொறுத்தானோடு <br>(Poruththaanodu)",
           "ta": "சுமப்பவனுக்கும்",
           "en": "With him who bears",
           "hi": "ढोने वाले कहार के"
         },
         {
-          "no": 5,
-          "word": "ஊர்ந்தான் இடை <br>(Oorndhaan Idai)",
-          "ta": "அதில் ஊர்ந்து செல்பவனுக்கும் இடையே",
-          "en": "Between him who rides",
-          "hi": "सवार के बीच (अंतर से)"
+          "no": 6,
+          "word": "ஊர்ந்தான் <br>(Oorndhaan)",
+          "ta": "அதில் ஊர்ந்து செல்பவனுக்கும்",
+          "en": "Him who rides",
+          "hi": "सवार के"
+        },
+        {
+          "no": 7,
+          "word": "இடை <br>(Idai)",
+          "ta": "இடையே (காணலாம்)",
+          "en": "Between (compare)",
+          "hi": "बीच (अंतर से जानो)"
         }
       ],
       "poetic": {
@@ -615,14 +678,14 @@
         },
         {
           "no": 3,
-          "word": "நன்று ஆற்றின் <br>(Nandru Aatrin)",
+          "word": "நன்றாற்றின் <br>(Nandraatrin)",
           "ta": "அறத்தைச் செய்தால்",
           "en": "If one does good",
           "hi": "धर्म करने पर"
         },
         {
           "no": 4,
-          "word": "அஃது ஒருவன் <br>(Aqdhu Oruvan)",
+          "word": "அஃதொருவன் <br>(Aqdhoruvan)",
           "ta": "அது ஒருவனுக்கு",
           "en": "That for a person",
           "hi": "वह मनुष्य के"
@@ -636,10 +699,17 @@
         },
         {
           "no": 6,
-          "word": "வழி அடைக்கும் கல் <br>(Vazhi Adaikkum Kal)",
-          "ta": "வழியை அடைக்கும் கல்லாகும்",
-          "en": "Stone blocking the way",
-          "hi": "रोकने वाली शिला है"
+          "word": "வழியடைக்கும் <br>(Vazhiyadaikkum)",
+          "ta": "வழியை அடைக்கும்",
+          "en": "Blocking the way",
+          "hi": "रोकने वाली"
+        },
+        {
+          "no": 7,
+          "word": "கல் <br>(Kal)",
+          "ta": "கல்லாகும்",
+          "en": "Stone",
+          "hi": "शिला है"
         }
       ],
       "poetic": {
@@ -694,7 +764,7 @@
         {
           "no": 2,
           "word": "வருவதே <br>(Varuvadhe)",
-          "ta": "வரும் இன்பமே",
+          "ta": "வருவதே",
           "en": "That which comes",
           "hi": "जो प्राप्त होता है"
         },
@@ -707,7 +777,7 @@
         },
         {
           "no": 4,
-          "word": "மற்று எல்லாம் <br>(Matru Ellaam)",
+          "word": "மற்றெல்லாம் <br>(Matrellaam)",
           "ta": "மற்றவை எல்லாம்",
           "en": "All else",
           "hi": "अन्य सब कर्म"
@@ -721,10 +791,17 @@
         },
         {
           "no": 6,
-          "word": "புகழும் இல <br>(Pukazhum Ila)",
-          "ta": "புகழும் இல்லாதவை",
-          "en": "Devoid of glory/praise",
-          "hi": "कीर्ति से भी रहित हैं"
+          "word": "புகழும் <br>(Pukazhum)",
+          "ta": "புகழும்",
+          "en": "Glory / praise",
+          "hi": "कीर्ति भी"
+        },
+        {
+          "no": 7,
+          "word": "இல <br>(Ila)",
+          "ta": "இல்லாதவை",
+          "en": "Devoid of / without",
+          "hi": "रहित हैं"
         }
       ],
       "poetic": {
@@ -771,35 +848,49 @@
       "words": [
         {
           "no": 1,
-          "word": "செயற்பாலது <br>(Seyarpaaladhu)",
+          "word": "செயற்பால <br>(Seyarpaala)",
           "ta": "செய்யத்தக்கது",
           "en": "That which should be done",
           "hi": "करने योग्य कर्म"
         },
         {
           "no": 2,
-          "word": "ஓரும் அறனே <br>(Orum Arane)",
-          "ta": "அறமே ஆகும்",
-          "en": "Is virtue indeed",
-          "hi": "धर्म ही है"
+          "word": "தோரும் <br>(Dhorum)",
+          "ta": "ஆராய்ந்து பார்த்தால்",
+          "en": "Indeed / upon reflection",
+          "hi": "ही मानो"
         },
         {
           "no": 3,
+          "word": "அறனே <br>(Arane)",
+          "ta": "அறமே ஆகும்",
+          "en": "Is virtue",
+          "hi": "धर्म ही है"
+        },
+        {
+          "no": 4,
           "word": "ஒருவற்கு <br>(Oruvarku)",
           "ta": "ஒருவனுக்கு",
           "en": "For a person",
           "hi": "मनुष्य के लिए"
         },
         {
-          "no": 4,
-          "word": "உயற்பாலது <br>(Uyarpaaladhu)",
+          "no": 5,
+          "word": "உயற்பால <br>(Uyarpaala)",
           "ta": "தவிர்க்கத்தக்கது",
           "en": "That which should be shunned",
           "hi": "त्यागने योग्य"
         },
         {
-          "no": 5,
-          "word": "ஓரும் பழி <br>(Orum Pazhi)",
+          "no": 6,
+          "word": "தோரும் <br>(Dhorum)",
+          "ta": "ஆராய்ந்து பார்த்தால்",
+          "en": "Indeed / upon reflection",
+          "hi": "ही जानो"
+        },
+        {
+          "no": 7,
+          "word": "பழி <br>(Pazhi)",
           "ta": "பழியான தீவினையே",
           "en": "Is vice / blameworthy deeds",
           "hi": "निंदनीय कर्म ही है"

@@ -1,163 +1,162 @@
 {
   "chapterNum": 2,
-  "nameTa": "வான் சிறப்பு",
+  "nameTa": "வான்சிறப்பு",
   "nameEn": "The Excellence of Rain",
-  "nameHi": "वर्षा-महत्व",
   "paal": "அறத்துப்பால்",
-  "iyal": "பாயிரவியல்",
+  "iyal": "பாயிறவியல்",
   "kurals": [
     {
       "num": 11,
-      "line1": "வானின் றுலகம் வழங்கி வருதலால்",
-      "line2": "தானமிழ்தம் என்றுணரற் பாற்று.",
-      "enLine1": "Vaanin Rulakam Vazhanki Varudhalaal",
-      "enLine2": "Thaanamizhtham Endrunarar Paatru.",
-      "hiLine1": "वानिन् ऱुलकम् वऴङ्कि वरुदलाल",
-      "hiLine2": "तानमिऴ्दम् एन्रुणरर् पाट्रु.",
-      "general": "மழை பெய்வதால் உலகம் நிலைபெற்று வாழ்ந்து வருவதால், மழையே உலக உயிர்களுக்கு அமிழ்தம் என்று உணரத்தக்கதாகும்.",
-      "en": "As rain sustains the world in its living course, it may well be esteemed as the nectar of life.",
-      "hi": "समय पर वर्षा होने से ही यह संसार जीवित रहता है, इसलिए वर्षा को अमृत की पावन धार माना जाता है।",
+      "line1": "வான்நின்று உலகம் வழங்கி வருதலால்",
+      "line2": "தான்அமிழ்தம் என்றுணரற் பாற்று.",
+      "enLine1": "Vaannindru Ulakam Vazhangi Varudhalaal",
+      "enLine2": "Thaanamizhdham Endrunarar Paatru.",
+      "hiLine1": "वान्निन्द्रु उल्लकम वजंगी करुदलाल",
+      "hiLine2": "थानअमिळ्तम एन्द्रुनरर पाट्रु.",
+      "general": "மழை பெய்து உலகம் இயங்கி வருதலால், அந்த மழையே உலகத்தார்க்கு அமிழ்தமாகும்.",
+      "en": "Rain is deemed a nectar of life as its unfailing fall sustains the world.",
+      "hi": "वर्षा के कारण ही यह संसार चल रहा है, इसलिए वर्षा ही अमृत है।",
       "words": [
         {
           "no": 1,
-          "word": "வானின்று (Vaanindru)",
-          "ta": "மழையினால்",
-          "en": "By the rain",
-          "hi": "वर्षा से"
+          "word": "வான்நின்று \n (Vaannindru)",
+          "ta": "மேகத்திலிருந்து பெய்து",
+          "en": "From the sky",
+          "hi": "आकाश से"
         },
         {
           "no": 2,
-          "word": "உலகம் (Ulakam)",
-          "ta": "இவ்வுலகம்",
+          "word": "உலகம் \n (Ulakam)",
+          "ta": "இந்த உலகம்",
           "en": "The world",
           "hi": "संसार"
         },
         {
           "no": 3,
-          "word": "வழங்கி வருதலால் (Vazhanki Varudhalaal)",
-          "ta": "நிலைபெற்று வருவதால்",
-          "en": "Since it continues to exist",
-          "hi": "जीवित रहने के कारण"
+          "word": "வழங்கி \n (Vazhangi)",
+          "ta": "உணவு முதலியவற்றை வழங்கி",
+          "en": "By yielding sustenance",
+          "hi": "पोषण करके"
         },
         {
           "no": 4,
-          "word": "தான் (Thaan)",
-          "ta": "அம்மழையே",
-          "en": "That very rain",
-          "hi": "वह वर्षा ही"
+          "word": "வருதலால் \n (Varudhalaal)",
+          "ta": "நிலைபெற்று வருவதால்",
+          "en": "Because it comes",
+          "hi": "बना रहता है"
         },
         {
           "no": 5,
-          "word": "அமிழ்தம் (Amizhtham)",
-          "ta": "தேவாமிர்தம்",
-          "en": "Nectar / Ambrosia",
-          "hi": "अमृत"
+          "word": "தான் \n (Thaan)",
+          "ta": "அந்த மழை",
+          "en": "Itself",
+          "hi": "स्वयं"
         },
         {
           "no": 6,
-          "word": "என்று (Endru)",
-          "ta": "என்று சொல்லி",
-          "en": "As such",
-          "hi": "ऐसा"
+          "word": "அமிழ்தம் \n (Amizhdham)",
+          "ta": "அமிழ்தமே ஆகும்",
+          "en": "Nectar",
+          "hi": "अमृत"
         },
         {
           "no": 7,
-          "word": "உணரற்பாற்று (Unararpaatru)",
-          "ta": "உணரத்தக்க இயல்புடையது",
-          "en": "Ought to be regarded",
-          "hi": "जानना चाहिए"
+          "word": "என்று உணரற் பாற்று \n (Endru Unarar Paatru)",
+          "ta": "என்று அறியத் தக்கதாகும்",
+          "en": "Should be regarded",
+          "hi": "मानना चाहिए"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "வானின் றுலகம் வழங்கி வருதலால்",
-          "line2": "தானமிழ்தம் என்றுணரற் பாற்று."
+          "line1": "வான்நின்று உலகம் வழங்கி வருதலால்",
+          "line2": "தான்அமிழ்தம் என்றுணரற் பாற்று."
         },
         "en": {
-          "line1": "The world its course maintains through gift that freely falls from skies;",
-          "line2": "And so by mortals turned to nectar, rain they truly prize."
+          "line1": "Rain is deemed a nectar of life as its unfailing fall sustains the world.",
+          "line2": "It gives life to all beings."
         },
         "hi": {
-          "line1": "उचित समय की वृष्टि से, जीवित है संसार।",
-          "line2": "मानी जाती है तभी, वृष्टि अमृत की धार ॥"
+          "line1": "वर्षा के कारण ही यह संसार चल रहा है।",
+          "line2": "इसलिए वर्षा ही अमृत है।"
         },
         "transliteration": {
           "en": {
-            "line1": "Vaanin Rulakam Vazhanki Varudhalaal",
-            "line2": "Thaanamizhtham Endrunarar Paatru."
+            "line1": "Vaannindru Ulakam Vazhangi Varudhalaal",
+            "line2": "Thaanamizhdham Endrunarar Paatru."
           },
           "hi": {
-            "line1": "वानिन् ऱुलकम् वऴङ्कि वरुदलाल",
-            "line2": "तानमिऴ्दम् एन्रुणरर् पाट्रु."
+            "line1": "वान्निन्द्रु उल्लकम वजंगी करुदलाल",
+            "line2": "थानअमिळ्तम एन्द्रुनरर पाट्रु."
           }
         }
       },
       "explanation": {
-        "ta": "மழை தவறாமல் பொழிந்து உலகத்தை வாழ வைப்பதால், அதுவே உலகத்து உயிர்களுக்கு அமிர்தமாக விளங்குகிறது.",
-        "en": "Because rain preserves the continuity of all worldly life, it is deservedly called the immortal nectar.",
-        "hi": "उचित समय पर होने वाली वर्षा से ही संपूर्ण संसार टिका हुआ है, इसलिए वर्षा अमृत के समान मानी जाती है।"
+        "ta": "மழை பெய்து உலகம் இயங்கி வருதலால், அந்த மழையே உலகத்தார்க்கு அமிழ்தமாகும்.",
+        "en": "Rain is considered the nectar of immortality because it sustains the world by providing food and water.",
+        "hi": "वर्षा के कारण ही यह संसार जीवित है और चल रहा है, अतः यह अमृत के समान है।"
       }
     },
     {
       "num": 12,
       "line1": "துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்",
       "line2": "துப்பாய தூஉம் மழை.",
-      "enLine1": "Thuppaarkkuth Thuppaaya Thuppaakkith Thuppaarkkuth",
-      "enLine2": "Thuppaaya Thoooum Mazhai.",
-      "hiLine1": "तुप्पा़र्क्कुत् तुप्पाय तुप्पा़क्कित् तुप्पा़र्क्कुत्",
-      "hiLine2": "तुप्पाय तूउम् मऴै.",
-      "general": "உண்பவருக்கு நல்ல உணவுகளை உற்பத்தி செய்து தந்து, தானும் ஓர் உணவாக அமைய வல்லது மழையாகும்.",
-      "en": "Rain produces pleasant food for those who eat, and itself becomes drink and food for all.",
-      "hi": "वर्षा खाने वालों के लिए अन्न उत्पन्न करती है और स्वयं भी जल के रूप में जीवनदायिनी बनती है।",
+      "enLine1": "Thuppaarkkuth Thuppaaya Thuppaakkith",
+      "enLine2": "Thuppaarkkuth Thuppaaya Thooum Mazhai.",
+      "hiLine1": "थुप्पार्ककुथ थुप्पाय थुप्पाक्किथ",
+      "hiLine2": "थुप्पार्ककुथ थुप्पाय थूउम मळै.",
+      "general": "உண்பவர்க்குத் தகுந்த உணவுப் பொருட்களை விளைவித்துத் தருவதோடு, மழையே தானும் உணவாகித் தருவதாகும்.",
+      "en": "Rain is not only a consumable for the consumer, but also begets other consumables.",
+      "hi": "वर्षा मनुष्य के लिए भोजन उत्पन्न करती है और आवश्यकता पड़ने पर स्वयं जल रूप में पेय बनती है।",
       "words": [
         {
           "no": 1,
-          "word": "துப்பார்க்கு (Thuppaarkku)",
-          "ta": "உண்பவர்களுக்கு",
-          "en": "To those who eat",
-          "hi": "उपभोग करने वालों को"
+          "word": "துப்பார்க்கு \n (Thuppaarkku)",
+          "ta": "உண்பவர்க்கு",
+          "en": "To consumers / eaters",
+          "hi": "खाने वालों को"
         },
         {
           "no": 2,
-          "word": "துப்பு ஆய (Thuppu Aaya)",
-          "ta": "உணவாகிய பொருட்களை",
-          "en": "Pleasant foods",
-          "hi": "रुचिकर अन्न"
+          "word": "துப்பாய \n (Thuppaaya)",
+          "ta": "தகுந்த உணவுப் பொருட்களை",
+          "en": "Suitable food",
+          "hi": "उपयुक्त भोजन"
         },
         {
           "no": 3,
-          "word": "துப்பு ஆக்கி (Thuppu Aakki)",
-          "ta": "உண்டாக்கித் தந்து",
-          "en": "Producing as food",
-          "hi" : "उत्पन्न करके"
+          "word": "துப்பாக்கி \n (Thuppaakki)",
+          "ta": "விளைவித்துத் தந்து",
+          "en": "Causing to produce",
+          "hi": "उत्पन्न करके"
         },
         {
           "no": 4,
-          "word": "துப்பார்க்கு (Thuppaarkku)",
-          "ta": "அருந்துவோருக்கு",
-          "en": "To the consumers",
-          "hi": "प्राणियों के लिए"
+          "word": "துப்பார்க்கு \n (Thuppaarkku)",
+          "ta": "உண்போர்க்குத்",
+          "en": "To the same consumers",
+          "hi": "भोजन करने वालों के लिए"
         },
         {
           "no": 5,
-          "word": "துப்பு ஆய (Thuppu Aaya)",
-          "ta": "தானும் உணவாக",
-          "en": "Becoming food itself",
-          "hi": "स्वयं आहार बनकर"
+          "word": "துப்பாய \n (Thuppaaya)",
+          "ta": "தாமும் உணவாகி",
+          "en": "As drink/food itself",
+          "hi": "स्वयं जल रूप में"
         },
         {
           "no": 6,
-          "word": "தூஉம் (Thoooum)",
-          "ta": "விளங்குவதும்",
-          "en": "Serving as drink",
-          "hi": "रहने वाली"
+          "word": "தூஉம் \n (Thooum)",
+          "ta": "தருவதாகும்",
+          "en": "It gives",
+          "hi": "प्रदान करती है"
         },
         {
           "no": 7,
-          "word": "மழை (Mazhai)",
-          "ta": "மழையே ஆகும்",
-          "en": "Is the rain",
-          "hi": "वर्षा है"
+          "word": "மழை \n (Mazhai)",
+          "ta": "மழை",
+          "en": "Rain",
+          "hi": "वर्षा"
         }
       ],
       "poetic": {
@@ -166,182 +165,175 @@
           "line2": "துப்பாய தூஉம் மழை."
         },
         "en": {
-          "line1": "Rain makes pleasant food for those who feed thereon in joy;",
-          "line2": "And rain itself forms drink and food that hunger will destroy."
+          "line1": "Rain produces food for all that eat and drink below,",
+          "line2": "And acts as drink itself when parched desires begin to grow."
         },
         "hi": {
-          "line1": "आहारी को अति रुचिर, अन्नरूप आहार।",
-          "line2": "वृष्टि सृष्टि कर फिर स्वयं, बनती है आहार ॥"
+          "line1": "अन्न उपजाती है वर्षा, सबके हित प्रकार।",
+          "line2": "जल रूप में स्वयं पिये सब, अद्भुत है उपहार ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Thuppaarkkuth Thuppaaya Thuppaakkith Thuppaarkkuth",
-            "line2": "Thuppaaya Thoooum Mazhai."
+            "line1": "Thuppaarkkuth Thuppaaya Thuppaakkith",
+            "line2": "Thuppaarkkuth Thuppaaya Thooum Mazhai."
           },
           "hi": {
-            "line1": "तुप्पा़र्क्कुत् तुप्पाय तुप्पा़क्कित् तुप्पा़र्क्कुत्",
-            "line2": "तुप्पाय तूउम् मऴै."
+            "line1": "थुप्पार्ककुथ थुप्पाय थुप्पाक्किथ",
+            "line2": "थुप्पार्ककुथ थुप्पाय थूउम मळै."
           }
         }
       },
       "explanation": {
-        "ta": "உண்பவருக்குத் தேவையான உணவுகளை விளைவித்துத் தருவதோடு, அமையப்பெற்ற நீராகத் தானும் உணவாகி வாழ்வளிப்பது மழையாகும்.",
-        "en": "Rain produces agreeable foods for consumers, and itself serves as sustaining nourishment.",
-        "hi": "वर्षा प्राणियों के लिए स्वादिष्ट अन्न उत्पन्न करती है और स्वयं भी जल रूपी आहार बनकर जीवन देती है।"
+        "ta": "உண்பவர்க்குத் தகுந்த உணவுப் பொருட்களை விளைவித்துத் தருவதோடு, மழையே தானும் நீராகி உண்பவர்க்கு உணவாகவும் உதவுவதாகும்.",
+        "en": "Rain provides food for living creatures and also serves as water to drink.",
+        "hi": "वर्षा खाने वालों के लिए उपयुक्त भोजन पैदा करती है और आवश्यकता पड़ने पर स्वयं पीने योग्य जल बनती है।"
       }
     },
     {
       "num": 13,
       "line1": "விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து",
-      "line2": "உள்நின் றுடற்றும் பசி.",
-      "enLine1": "Vinnindru Poyppin Virineer Viyanulakaththu",
-      "enLine2": "Ulnin Rudratrum Pasi.",
-      "hiLine1": "विण्णिन्ड्रु पोय्प्पिन् विरिनीर् वियनुलकत्तु",
-      "hiLine2": "उळ्निन् ऱुडट्रुम् पसि.",
-      "general": "மழைக்காலத்தில் பெய்யாமல் மழை பொய்த்துப்போனால், கடல் சூழ்ந்த இந்த அகன்ற உலகிலும் பசி உள்ளே நின்று உயிர்களை வருத்தும்.",
-      "en": "If clouds refuse their bounties, hunger will stalk through the wide world, girdled though it be by ocean waters.",
-      "hi": "यदि समय पर बादल न बरसें, तो सागर से घिरे इस विशाल संसार में भी भयंकर भुखमरी और अकाल फैल जाएगा।",
+      "line2": "உள்நின்று உடற்றும் பசி.",
+      "enLine1": "Vinindru Poippin Virineer Viyanulakaththu",
+      "enLine2": "Ulnindru Utatrum Pasi.",
+      "hiLine1": "विन्निन्द्रु पोयप्पिन विरिनीर वियन्नुलकथथु",
+      "hiLine2": "उळ्निन्द्रु उटट्रुम पसि.",
+      "general": "மழை பெய்யாது பொய்த்துப் போனால், பரந்த கடலை உடைய இவ்வுலகில் உயிர்களின் உள்ளே நிலைபெற்றுப் பசி வருத்தும்.",
+      "en": "This vast world, with expanse of seas, will still suffer with famine if clouds deceive rain.",
+      "hi": "यदि समय पर वर्षा न हो, तो समुद्रों से घिरे इस विशाल संसार में भयंकर अकाल और भूख की पीड़ा उत्पन्न होगी।",
       "words": [
         {
           "no": 1,
-          "word": "விண் நின்று (Vinnindru)",
-          "ta": "மேகத்திலிருந்து மழை",
-          "en": "Rain from sky",
-          "hi": "आकाश से वर्षा"
+          "word": "விண் \n (Vin)",
+          "ta": "வானம் (மழை)",
+          "en": "Rain / Sky",
+          "hi": "आकाश / वर्षा"
         },
         {
           "no": 2,
-          "word": "பொய்ப்பின் (Poyppin)",
-          "ta": "பெய்யாது பொய்த்தால்",
-          "en": "Fails to fall",
-          "hi": "यदि न बरसे"
+          "word": "இன்று \n (Indru)",
+          "ta": "பெய்யாது",
+          "en": "Fails",
+          "hi": "बिना"
         },
         {
           "no": 3,
-          "word": "விரிநீர் (Virineer)",
-          "ta": "பரந்த கடலையுடைய",
-          "en": "Surrounded by ocean",
-          "hi": "सागर से घिरे"
+          "word": "பொய்ப்பின் \n (Poippin)",
+          "ta": "ஏமாற்றுமானால்",
+          "en": "If it deceives",
+          "hi": "यदि धोखा दे"
         },
         {
           "no": 4,
-          "word": "வியன் உலகத்து (Viyan Ulakaththu)",
-          "ta": "பெரிய இவ்வுலகில்",
-          "en": "In this spacious world",
-          "hi": "विशाल संसार में"
+          "word": "விரி நீர் \n (Viri Neer)",
+          "ta": "பரந்த கடலை உடைய",
+          "en": "Vast waters / sea",
+          "hi": "विशाल जल राशि"
         },
         {
           "no": 5,
-          "word": "உள் நின்று (Ul Nindru)",
-          "ta": "உள்ளே தங்கி நின்று",
-          "en": "Staying within",
-          "hi": "भीतर रहकर"
+          "word": "வியன் உலகத்து \n (Viyan Ulakaththu)",
+          "ta": "அகன்ற இந்த உலகத்தில்",
+          "en": "In the wide world",
+          "hi": "विशाल संसार में"
         },
         {
           "no": 6,
-          "word": "உடற்றும் (Udratrum)",
-          "ta": "வருத்தித் துன்புறுத்தும்",
-          "en": "Will torment",
-          "hi": "पीड़ित करेगी"
+          "word": "உள் நின்று \n (Ul Nindru)",
+          "ta": "உயிர்களின் உள்ளே நிலைபெற்று",
+          "en": "Dwelling within",
+          "hi": "भीतर रहकर"
         },
         {
           "no": 7,
-          "word": "பசி (Pasi)",
-          "ta": "கொடிய பசித்துன்பம்",
-          "en": "Hunger",
-          "hi": "भूख"
+          "word": "உடற்றும் \n (Utatrum)",
+          "ta": "வருத்துவதாகும்",
+          "en": "Shall afflict with famine",
+          "hi": "कष्ट देगी"
         }
       ],
       "poetic": {
         "ta": {
           "line1": "விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து",
-          "line2": "உள்நின் றுடற்றும் பசி."
+          "line2": "உள்நின்று உடற்றும் பசி."
         },
         "en": {
-          "line1": "If from the skies the rain-drop fails to pour upon the main,",
-          "line2": "Hunger will scourge the wide world round with prolonged inner pain."
+          "line1": "If heavens fail and rain delays its bounty from the sky,",
+          "line2": "Across the sea-girt peopled earth, will hunger multiply."
         },
         "hi": {
-          "line1": "बादल-दल बरसे नहीं, यदि मौसम में चूक।",
-          "line2": "जलधि-घिरे भूलोक में, क्षुध से हो अति हूक ॥"
+          "line1": "समय पर जो मेघ न बरसे, अकाल आ जाए।",
+          "line2": "समस्त वसुधा पर भूखों की, पीड़ा बढ़ जाए ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Vinnindru Poyppin Virineer Viyanulakaththu",
-            "line2": "Ulnin Rudratrum Pasi."
+            "line1": "Vinindru Poippin Virineer Viyanulakaththu",
+            "line2": "Ulnindru Utatrum Pasi."
           },
           "hi": {
-            "line1": "विण्णिन्ड्रु पोय्प्पिन् विरिनीर् वियनुलकत्तु",
-            "line2": "उळ्निन् ऱुडट्रुम् पसि."
+            "line1": "विन्निन्द्रु पोयप्पिन विरिनीर वियन्नुलकथथु",
+            "line2": "उळ्निन्द्रु उटट्रुम पसि."
           }
         }
       },
       "explanation": {
-        "ta": "மழை உரிய காலத்தில் பெய்யாமல் போனால், கடல் சூழ்ந்த இப்பெரிய உலகத்தில்கூட பசி நின்று நிலைத்து உயிர்களைத் துன்புறுத்தும்.",
-        "en": "If rain withholds its showers, hunger will afflict the vast earth despite being surrounded by oceans.",
-        "hi": "यदि ऋतु के अनुसार मेघ न बरसें, तो अथाह सागर से घिरी पृथ्वी पर भी भूख का भीषण संकट छा जाएगा।"
+        "ta": "மழை பெய்யாமல் ஏமாற்றுமானால், பரந்த கடலை உடைய இவ்வுலகில் உயிர்களைப் பசி நிலைபெற்று வந்து வருத்தும்.",
+        "en": "If the clouds fail to rain, severe hunger and famine will afflict the creatures of this vast world.",
+        "hi": "यदि आकाश से वर्षा समय पर न हो, तो समुद्रों से घिरे इस विस्तृत संसार में भयंकर भूख और अकाल का कष्ट सताएगा।"
       }
     },
     {
       "num": 14,
       "line1": "ஏரின் உழாஅர் உழவர் புயல்என்னும்",
       "line2": "வாரி வளங்குன்றிக் கால்.",
-      "enLine1": "Earin Uzhaaar Uzhavar Puyalennum",
-      "enLine2": "Vaari Valankundrik Kaal.",
-      "hiLine1": "एरिन् उऴाअर् उऴवर् पुयलॆन्नुम्",
-      "hiLine2": "वारि वळङ्कुन्ड्रिक् काल्.",
-      "general": "மழை என்னும் நீர்வளம் குன்றிப்போனால், நிலத்தை உழுது பயிர் செய்யும் உழவர்களாலும் ஏர் பூட்டி உழ முடியாது.",
-      "en": "The ploughers plough no more the field with oxen and with steer, if the rich rain drops fail and wealth of waters disappear.",
-      "hi": "यदि वर्षा रूपी जल की प्रचुरता कम हो जाए, तो किसान खेतों में हल चलाने में भी असमर्थ हो जाएंगे।",
+      "enLine1": "Erin Uzhaaar Uzhavar Puyalennum",
+      "enLine2": "Vaari Valangundrik Kaal.",
+      "hiLine1": "एरिन उळाआर उळवर पुयलेन्नुम",
+      "hiLine2": "वारी वळङ्कुन्द्रिक् काल.",
+      "general": "மழை என்று சொல்லப்படும் வருவாய் வளம் குன்றிப் போனால், உழவர்கள் ஏர்கொண்டு உழவு செய்ய மாட்டார்கள்.",
+      "en": "If that bounty called rain decrease, ploughing by ploughmen would also cease.",
+      "hi": "यदि वर्षा रूपी जल-संपदा कम हो जाए, तो किसान हल से खेती करना छोड़ देंगे।",
       "words": [
         {
           "no": 1,
-          "word": "ஏரின் (Earin)",
-          "ta": "ஏரினைக் கொண்டு",
+          "word": "ஏரின் \n (Erin)",
+          "ta": "ஏர்கொண்டு",
           "en": "With the plough",
           "hi": "हल से"
         },
         {
           "no": 2,
-          "word": "உழாஅர் (Uzhaaar)",
+          "word": "உழாஅர் \n (Uzhaaar)",
           "ta": "உழவு செய்ய மாட்டார்கள்",
           "en": "Will not plough",
-          "hi": "हल नहीं चलाएँगे"
+          "hi": "नहीं जोतेंगे"
         },
         {
           "no": 3,
-          "word": "உழவர் (Uzhavar)",
-          "ta": "உழவுத் தொழில் செய்வோர்",
-          "en": "The farmers",
+          "word": "உழவர் \n (Uzhavar)",
+          "ta": "உழவர்கள்",
+          "en": "Ploughmen / Farmers",
           "hi": "किसान"
         },
         {
           "no": 4,
-          "word": "புயல் என்னும் (Puyal Ennum)",
-          "ta": "மழை என்கின்ற",
-          "en": "Called rain / cloud",
-          "hi": "वर्षा रूपी"
+          "word": "புயல் என்னும் \n (Puyal Ennum)",
+          "ta": "மழை என்று சொல்லப்படும்",
+          "en": "Called rain storm",
+          "hi": "वर्षा नामक"
         },
         {
           "no": 5,
-          "word": "வாரி (Vaari)",
-          "ta": "நீரின் வருவாய்",
-          "en": "Water-wealth",
-          "hi": "जल संपदा"
+          "word": "வாரி \n (Vaari)",
+          "ta": "வருவாய் வளமானது",
+          "en": "Stream of wealth",
+          "hi": "संपदा / धन"
         },
         {
           "no": 6,
-          "word": "வளம் குன்றிக்கால் (Valam Kundrikkaal)",
-          "ta": "வளம் குறைந்துவிட்டால்",
-          "en": "When resources diminish",
-          "hi": "यदि घट जाए"
-        },
-        {
-          "no": 7,
-          "word": "கால் (Kaal)",
-          "ta": "அந்தக் காலத்தில்",
-          "en": "At that time",
-          "hi": "उस समय"
+          "word": "வளம் குன்றிக் கால் \n (Valam Kundrik Kaal)",
+          "ta": "குறைந்து போனால்",
+          "en": "If it fails / decreases",
+          "hi": "यदि कम हो जाए"
         }
       ],
       "poetic": {
@@ -350,90 +342,90 @@
           "line2": "வாரி வளங்குன்றிக் கால்."
         },
         "en": {
-          "line1": "No longer turn the ploughmen up the moist and fertile soil,",
-          "line2": "If showers fail, and clouds withhold the fruit of honest toil."
+          "line1": "The ploughmen drop their guiding ploughs and cease the toilsome land,",
+          "line2": "When clouds withhold the precious streams that water all the land."
         },
         "hi": {
-          "line1": "कर्षक जन से खेत में, हल न चलाया जाय।",
-          "line2": "धन-वर्षा-संपत्ति की, कम होती यदि आय ॥"
+          "line1": "हल न चलाएँगे कृषक, जब बरसे न मेघ।",
+          "line2": "जल-संपदा के अभाव में, रुक जाए सब वेग ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Earin Uzhaaar Uzhavar Puyalennum",
-            "line2": "Vaari Valankundrik Kaal."
+            "line1": "Erin Uzhaaar Uzhavar Puyalennum",
+            "line2": "Vaari Valangundrik Kaal."
           },
           "hi": {
-            "line1": "एरिन् उऴाअर् उऴवर् पुयलॆन्नुम्",
-            "line2": "वारि वळङ्कुन्ड्रिक् काल्."
+            "line1": "एरिन उळाआर उळवर पुयलेन्नुम",
+            "line2": "वारी वळङ्कुन्द्रिक् काल."
           }
         }
       },
       "explanation": {
-        "ta": "மழை என்ற நீர்வளம் குறைந்துவிடுமானால், உழவர்களால் நிலத்தில் ஏர் பூட்டி உழவு செய்ய இயலாமல் போகும்.",
-        "en": "If the water-giving showers diminish, the ploughmen can no longer till their lands.",
-        "hi": "यदि वर्षा रूपी जल की प्रचुरता कम हो जाए, तो किसान खेतों में हल चलाकर खेती नहीं कर सकेंगे।"
+        "ta": "மழை என்று சொல்லப்படுகிற வருவாய் வளம் குறைந்து போனால், உழவர்கள் ஏர் கொண்டு நிலத்தை உழ மாட்டார்கள்.",
+        "en": "Farmers will not plough their lands if the bounty called rain fails and causes wealth to decline.",
+        "hi": "यदि वर्षा नामक जल-संपदा का भंडार कम हो जाए, तो किसान हल से जमीन जोतना बंद कर देंगे।"
       }
     },
     {
       "num": 15,
       "line1": "கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கே",
       "line2": "எடுப்பதூஉம் எல்லாம் மழை.",
-      "enLine1": "Keduppadhooum Kettaarkkuch Chaarvaaimat Raanke",
-      "enLine2": "Eduppadhooum Ellaam Mazhai.",
-      "hiLine1": "कॆडुप्पदूउम् कॆट्टार्क्युच् चार्वाय्मट्र ऱाङ्के",
-      "hiLine2": "ऎडुप्पदूउम् ऎल्लाम् मऴै.",
-      "general": "பெய்யாமல் உலகை அழிக்க வல்லதும், அவ்வாறு அழிந்தவர்களுக்குத் துணையாய் நின்று மீண்டும் அவர்களை வாழ வைப்பதும் மழையே ஆகும்.",
-      "en": "It ruins all by withholding rain; and it revives the ruined ones by pouring down timely rain.",
-      "hi": "वर्षा न होकर सब कुछ नष्ट कर सकती है, और वही वर्षा पुनः बरसकर उजड़े हुओं को आबाद कर देती है।",
+      "enLine1": "Ketuppadhooum Kettaarkkuch Chaarvaaimar Raange",
+      "enLine2": "Etuppadhooum Ellaam Mazhai.",
+      "hiLine1": "केटुप्पधूउम केट्टार्ककुச் சார்வாய்மற் றாங்கே",
+      "hiLine2": "एटुप्पधूउम एल्लाम मळै.",
+      "general": "உயிர்களைக் கெடுப்பதும், கெட்டவர்க்குத் துணையாய் நின்று காப்பாற்றுவதும் ஆகிய இரண்டும் மழையாகும்.",
+      "en": "Rain holds the power of ruin; rain also lifts up those it has ruined.",
+      "hi": "वर्षा ही जीवों का नाश करती है और वर्षा ही आपदा में फँसे लोगों को पुनः जीवन प्रदान करती है।",
       "words": [
         {
           "no": 1,
-          "word": "கெடுப்பதூஉம் (Keduppadhooum)",
-          "ta": "பெய்யாது கெடுப்பதும்",
-          "en": "Ruining by withholding",
+          "word": "கெடுப்பதூஉம் \n (Ketuppadhooum)",
+          "ta": "உயிர்களைக் கெடுப்பதும்",
+          "en": "That which ruins",
           "hi": "नष्ट करने वाली"
         },
         {
           "no": 2,
-          "word": "கெட்டார்க்கு (Kettaarkku)",
-          "ta": "அவ்வாறு கெட்டவர்களுக்கு",
+          "word": "கெட்டார்க்குச் \n (Kettaarkkuch)",
+          "ta": "கெட்டவர்க்கு (துன்பப்படுவோர்க்கு)",
           "en": "To the ruined ones",
-          "hi": "पीड़ितों के लिए"
+          "hi": "आपदाग्रस्त लोगों को"
         },
         {
           "no": 3,
-          "word": "சார்வாய் (Chaarvaai)",
-          "ta": "துணையாகி",
-          "en": "As a supportive refuge",
+          "word": "சார்வாய் \n (Chaarvaay)",
+          "ta": "துணையாய் நின்று",
+          "en": "As a help",
           "hi": "सहायक बनकर"
         },
         {
           "no": 4,
-          "word": "மற்று (Matru)",
-          "ta": "பின்னர்",
-          "en": "Then again",
-          "hi": "पुनः"
+          "word": "மற்று ஆங்கே \n (Matru Aange)",
+          "ta": "அவ்விடத்தே",
+          "en": "And there itself",
+          "hi": "और तुरंत"
         },
         {
           "no": 5,
-          "word": "ஆங்கே (Aanke)",
-          "ta": "அவ்விடத்திலேயே",
-          "en": "Right there",
-          "hi": "उसी प्रकार"
+          "word": "எடுப்பதூஉம் \n (Etuppadhooum)",
+          "ta": "காப்பாற்றுவதும்",
+          "en": "That which raises up",
+          "hi": "पुनरुत्थान करने वाली"
         },
         {
           "no": 6,
-          "word": "எடுப்பதூஉம் (Eduppadhooum)",
-          "ta": "உயர்த்தி வாழவைப்பதும்",
-          "en": "Restoring to prosperity",
-          "hi": "उबारने वाली"
+          "word": "எல்லாம் \n (Ellaam)",
+          "ta": "ஆகிய இரண்டும்",
+          "en": "All these",
+          "hi": "सब कुछ"
         },
         {
           "no": 7,
-          "word": "எல்லாம் மழை (Ellaam Mazhai)",
-          "ta": "எல்லாம் மழையின் செயலே",
-          "en": "All is the rain",
-          "hi": "सब कुछ वर्षा ही है"
+          "word": "மழை \n (Mazhai)",
+          "ta": "மழையாகும்",
+          "en": "Is rain",
+          "hi": "वर्षा है"
         }
       ],
       "poetic": {
@@ -442,90 +434,90 @@
           "line2": "எடுப்பதூஉம் எல்லாம் மழை."
         },
         "en": {
-          "line1": "'Tis rain that ruins, withholding showers in their birth;",
-          "line2": "'Tis rain that raises the ruined up again on earth."
+          "line1": "It brings destruction in its wrath, yet stands a friend in need,",
+          "line2": "To raise again the fallen world—is rain indeed indeed."
         },
         "hi": {
-          "line1": "वर्षा है ही अति प्रबल, सब को कर बरबाद।",
-          "line2": "फिर दुखियों का साथ दे, करे वही आबाद ॥"
+          "line1": "विनाश करती है कभी, वर्षा प्रकोप रूप।",
+          "line2": "बचाती है दुखों से फिर, बनकर सहायक भूप ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Keduppadhooum Kettaarkkuch Chaarvaaimat Raanke",
-            "line2": "Eduppadhooum Ellaam Mazhai."
+            "line1": "Ketuppadhooum Kettaarkkuch Chaarvaaimar Raange",
+            "line2": "Etuppadhooum Ellaam Mazhai."
           },
           "hi": {
-            "line1": "कॆडुप्पदूउम् कॆट्टार्क्युच् चार्वाय्मट्र ऱाङ्के",
-            "line2": "ऎडुप्पदूउम् ऎल्लाम् मऴै."
+            "line1": "केटुप्पधूउम केट्टार्ककुச் சார்வாய்மற் றாங்கே",
+            "line2": "एटुप्पधूउम एल्लाम मळै."
           }
         }
       },
       "explanation": {
-        "ta": "பெய்யாமல் நின்று உலக வாழ்வைக் கெடுப்பதும், கெட்டுப் போனவர்க்குத் தகுந்த துணையாய் நின்று வளப்படுத்தி வாழவைப்பதும் மழையே ஆகும்.",
-        "en": "Rain has the power to ruin all by its absence, and the power to uplift the ruined by pouring abundantly.",
-        "hi": "वर्षा न बरसकर सबको तबाह भी कर सकती है, और विपत्ति में पड़े लोगों को फिर से समृद्ध बनाकर नवजीवन भी दे सकती है।"
+        "ta": "உயிர்களைக் கெடுப்பதும் (வெள்ளத்தால்), கெட்டவர்க்குத் துணையாய் நின்று (நீரின்றி வருந்துவோர்க்கு) காப்பாற்றுவதும் ஆகிய இரண்டும் மழையாகும்.",
+        "en": "Rain has the power to destroy by floods, but it also has the power to revive and save those who are ruined by drought.",
+        "hi": "वर्षा कभी बाढ़ बनकर सर्वनाश करती है, तो कभी वही वर्षा संकट में फँसे लोगों का जीवन बचाकर उन्हें उठाती है।"
       }
     },
     {
       "num": 16,
       "line1": "விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே",
       "line2": "பசும்புல் தலைகாண்பு அரிது.",
-      "enLine1": "Visumbin Thuliveezhin Allaalmrat Raanke",
-      "enLine2": "Pasumpul Thalaikaanpu Arithu.",
-      "hiLine1": "विसुम्पिन् तुळिवीऴिन् अल्लाल्मट्र ऱाङ्के",
-      "hiLine2": "पसुम्पुल् तलैकाण्पु अरिदु.",
-      "general": "வானத்திலிருந்து மழைத்துளி விழுந்தாலன்றி, பூமியில் பசும்புல்லின் நுனியைக் காண்பதுகூட அரிதாகும்.",
-      "en": "Unless the water-drops fall down from heaven's cloudy sky, not even a blade of green grass can lift its head on high.",
-      "hi": "यदि आकाश से वर्षा की एक बूंद भी न गिरे, तो हरी घास का एक तिनका भी धरती पर दिखाई नहीं देगा।",
+      "enLine1": "Visumpin Thuliveezhin Allaalmar Raange",
+      "enLine2": "Pasumpul Thalaikaanpu Aridhu.",
+      "hiLine1": "विसुम्पिन थुलिविळिन अल्लालमर् றாங்கே",
+      "hiLine2": "पसुम्पुल् तहैकान्पु अरिदु.",
+      "general": "வானத்திலிருந்து நீர்த்துளி விழுந்தால் அன்றி, இவ்வுலகில் பசிய புல் கூடத் தலைகாட்டுவது அரிதாகும்.",
+      "en": "If clouds stop dropping raindrops, even blades of grass will stop rising.",
+      "hi": "यदि आकाश से पानी की एक बूँद भी न गिरे, तो इस धरती पर हरी घास का उगना भी कठिन है।",
       "words": [
         {
           "no": 1,
-          "word": "விசும்பின் (Visumbin)",
+          "word": "விசும்பின் \n (Visumpin)",
           "ta": "வானத்திலிருந்து",
           "en": "From the sky",
           "hi": "आकाश से"
         },
         {
           "no": 2,
-          "word": "துளி வீழின் (Thuli Veezhin)",
-          "ta": "மழைத்துளி விழுந்தால்",
+          "word": "துளி வீழின் \n (Thuli Veezhin)",
+          "ta": "நீர்த்துளி விழுந்தால்",
           "en": "If drops fall",
-          "hi": "यदि बूंदें गिरें"
+          "hi": "बूँद गिरने पर"
         },
         {
           "no": 3,
-          "word": "அல்லால் (Allaal)",
-          "ta": "அன்றி / அப்படிக் கீழிறங்காது போனால்",
-          "en": "Except that",
-          "hi": "अन्यथा / बिना"
+          "word": "அல்லால் \n (Allaal)",
+          "ta": "அன்றி",
+          "en": "Other than",
+          "hi": "के बिना"
         },
         {
           "no": 4,
-          "word": "மற்று (Matru)",
-          "ta": "வேறு",
-          "en": "Then",
-          "hi": "फिर"
+          "word": "மற்று ஆங்கே \n (Matru Aange)",
+          "ta": "அவ்விடத்தே",
+          "en": "And there",
+          "hi": "तुरंत"
         },
         {
           "no": 5,
-          "word": "ஆங்கே (Aanke)",
-          "ta": "அவ்விடத்தே",
-          "en": "There",
-          "hi": "वहाँ"
+          "word": "பசும்புல் \n (Pasumpul)",
+          "ta": "பசிய புல்",
+          "en": "Green grass",
+          "hi": "हरी घास"
         },
         {
           "no": 6,
-          "word": "பசும்புல் (Pasumpul)",
-          "ta": "பச்சைப்புல்லின்",
-          "en": "Of green grass",
-          "hi": "हरी घास की"
+          "word": "தலைகாண்பு \n (Thalaikaanpu)",
+          "ta": "முளைத்துத் தலைகாட்டுவது",
+          "en": "To show its head",
+          "hi": "दिखाई देना"
         },
         {
           "no": 7,
-          "word": "தலைகாண்பு அரிது (Thalaikaanpu Arithu)",
-          "ta": "நுனியைப் பார்ப்பதும் அரிது",
-          "en": "Its head cannot be seen",
-          "hi": "नोक दिखना कठिन है"
+          "word": "அரிது \n (Aridhu)",
+          "ta": "அரிதாகும்",
+          "en": "Is rare / impossible",
+          "hi": "कठिन है"
         }
       ],
       "poetic": {
@@ -534,90 +526,83 @@
           "line2": "பசும்புல் தலைகாண்பு அரிது."
         },
         "en": {
-          "line1": "Unless the drop from cloud above descend upon the plain,",
-          "line2": "The tip of green and tender grass will not be seen again."
+          "line1": "Unless the crystal drops fall down from vault of azure sky,",
+          "line2": "Not e'en a blade of emerald grass can catch a glint or try."
         },
         "hi": {
-          "line1": "बिना हुए आकाश से, रिमझिम रिमझिम वृष्टि।",
-          "line2": "हरी भरी तृण नोक भी, आयेगी नहीं दृष्टि ॥"
+          "line1": "आकाश से बूँद गिरे न जब तक एक भी।",
+          "line2": "हरी घास का उगना भी है कठिन बहुत ही ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Visumbin Thuliveezhin Allaalmrat Raanke",
-            "line2": "Pasumpul Thalaikaanpu Arithu."
+            "line1": "Visumpin Thuliveezhin Allaalmar Raange",
+            "line2": "Pasumpul Thalaikaanpu Aridhu."
           },
           "hi": {
-            "line1": "विसुम्पिन् तुळिवीऴिन् अल्लाल्मट्र ऱाङ्के",
-            "line2": "पसुम्पुल् तलैकाण्पु अरिदु."
+            "line1": "विसुम्पिन थुलिविळिन अल्लालमर् றாங்கே",
+            "line2": "पसुम्पुल् तहैकान्पु अरिदु."
           }
         }
       },
       "explanation": {
-        "ta": "வானத்திலிருந்து மழைத்துளி பூமியில் விழுந்தாலன்றி, இந்த நிலத்தில் பசும்புல்லின் தலை நுனியைக் கூடப் பார்க்க முடியாது.",
-        "en": "Unless rain drops fall from the heavens, it is impossible even to see the tender shoot of green grass.",
-        "hi": "आकाश से वर्षा की बूंदें न बरसें, तो सूखी धरती पर हरी घास का छोटा सा अंकुर भी दिखाई नहीं पड़ सकता।"
+        "ta": "வானத்திலிருந்து நீர்த்துளி விழுந்தால் ஒழிய, இவ்வுலகில் பசிய புல் கூட முளைத்துத் தலைகாட்டுவது இயலாத காரியமாகும்.",
+        "en": "Unless rain drops fall from the sky, not even a blade of green grass can sprout on earth.",
+        "hi": "जब तक आकाश से जल की बूँदें नहीं गिरतीं, तब तक इस धरती पर हरी घास का उग पाना भी असंभव है।"
       }
     },
     {
       "num": 17,
       "line1": "நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி",
       "line2": "தான்நல்கா தாகி விடின்.",
-      "enLine1": "Nedunkadalum Thanneermai Kundrum Thadinthezahili",
-      "enLine2": "Thaannalkaa Thaaki Vidin.",
-      "hiLine1": "नॆडुङ्कडलुम् तन्नीर्मै कुन्ड्रुम् तडिन्दॆऴिलि",
-      "hiLine2": "तान्नल्का ताकि विडिन्.",
-      "general": "மேகமானது கடலிலிருந்து நீரை முகந்து கொண்டு மீண்டும் மழையாகப் பெய்யாது போனால், அலைவீசும் பெரிய கடல்கூட தன் நீர் வளம் குன்றிப்போகும்.",
-      "en": "Even the immense ocean's wealth would shrink and fade away, if clouds that drank its waters failed their moisture to repay.",
-      "hi": "समुद्र से पानी लेकर यदि बादल पुनः वर्षा न करें, तो उस अथाह सागर का जल भी घट जाएगा।",
+      "enLine1": "Netungatalum Thanneermai Kundrum Thatindhezhili",
+      "enLine2": "Thaannalkaa Thaaki Vitin.",
+      "hiLine1": "नेडुङ्कदलुम तन्नीरमै कुन्द्रुम तदिन्तेझिलि",
+      "hiLine2": "थाननल्का ताकि विटिन.",
+      "general": "கடல்நீரைக் கொண்டுசென்று மழை பெய்ய வேண்டிய மேகம் பெய்யாது போனால், பெரிய கடலும் தன் வளமை குன்றிப் போகும்.",
+      "en": "Even the vast sea will lose its richness, if clouds cease and fail to bestow.",
+      "hi": "यदि जल लेकर बरसने वाले मेघ जल न बरसाएँ, तो विशाल समुद्र भी अपना खजाना और संतुलन खो बैठेगा।",
       "words": [
         {
           "no": 1,
-          "word": "நெடுங்கடலும் (Nedunkadalum)",
+          "word": "நெடுங்கடலும் \n (Netungatalum)",
           "ta": "பெரிய கடலும் கூட",
           "en": "Even the vast sea",
           "hi": "विशाल समुद्र भी"
         },
         {
           "no": 2,
-          "word": "தன் நீர்மை (Than Neermai)",
-          "ta": "தன் இயல்பான வளத்தை",
-          "en": "Its essential richness",
-          "hi": "अपने जल-वैभव को"
+          "word": "தன் நீர்மை \n (Than Neermai)",
+          "ta": "தன் தன்மையை (வளத்தை)",
+          "en": "Its nature / richness",
+          "hi": "अपनी विशेषता"
         },
         {
           "no": 3,
-          "word": "குன்றும் (Kundrum)",
-          "ta": "குறைந்து போகும்",
-          "en": "Will diminish",
-          "hi": "कम कर देगा"
+          "word": "குன்றும் \n (Kundrum)",
+          "ta": "குறைந்துவிடும்",
+          "en": "Will shrink",
+          "hi": "घट जाएगी"
         },
         {
           "no": 4,
-          "word": "தடிந்து (Thadinthu)",
-          "ta": "மின்னலுடன் கூடி",
-          "en": "Rising thick with lightning",
-          "hi": "घटा बनकर"
+          "word": "தடிந்து எழிலி \n (Thatindhu Ezhili)",
+          "ta": "மேகமாக எழுந்து சென்று",
+          "en": "The clouds having drawn",
+          "hi": "मेघों द्वारा जल खींचकर"
         },
         {
           "no": 5,
-          "word": "எழிலி (Ezhili)",
-          "ta": "மேகமானது",
-          "en": "The cloud",
-          "hi": "मेघ"
+          "word": "தான் நல்காது \n (Thaan Nalkaadhu)",
+          "ta": "தான் மழை பெய்யாமல்",
+          "en": "If they fail to pour",
+          "hi": "यदि न बरसाएँ"
         },
         {
           "no": 6,
-          "word": "தான் நல்காது (Thaan Nalkaadhu)",
-          "ta": "மழையைக் கொடாது",
-          "en": "Does not give back",
-          "hi": "वर्षा न दे"
-        },
-        {
-          "no": 7,
-          "word": "ஆகிவிடின் (Aakividin)",
-          "ta": "ஆகிவிடுமானால்",
-          "en": "If it so becomes",
-          "hi": "यदि ऐसा हो"
+          "word": "ஆகி விடின் \n (Aaki Vitin)",
+          "ta": "இருந்து விடுமானால்",
+          "en": "Should it happen",
+          "hi": "तो ऐसा हो जाएगा"
         }
       ],
       "poetic": {
@@ -626,90 +611,90 @@
           "line2": "தான்நல்கா தாகி விடின்."
         },
         "en": {
-          "line1": "Even the mighty ocean's bound will shrink and lose its store,",
-          "line2": "If clouds that drank its waters cease upon its breast to pour."
+          "line1": "E'en ocean vast will lose its depths and shrink in bitter grief,",
+          "line2": "If clouds that drew its waters up deny their sweet relief."
         },
         "hi": {
-          "line1": "घटा घटा कर जलधि को, यदि न करे फिर दान।",
-          "line2": "विस्तृत बड़े समुद्र का, पानी उतरा जान ॥"
+          "line1": "समुद्र का जल भी घटे, जल ले जाएँ मेघ।",
+          "line2": "वर्षा न हो यदि भूमि पर, बिगड़े सारे वेग ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Nedunkadalum Thanneermai Kundrum Thadinthezahili",
-            "line2": "Thaannalkaa Thaaki Vidin."
+            "line1": "Netungatalum Thanneermai Kundrum Thatindhezhili",
+            "line2": "Thaannalkaa Thaaki Vitin."
           },
           "hi": {
-            "line1": "नॆडुङ्कडलुम् तन्नीर्मै कुन्ड्रुम् तडिन्दॆऴिलि",
-            "line2": "तान्नल्का ताकि विडिन्."
+            "line1": "नेडुङ्कदलुम तन्नीरमै कुन्द्रुम तदिन्तेझिलि",
+            "hiLine2": "थाननल्का ताकि विटिन."
           }
         }
       },
       "explanation": {
-        "ta": "மேகமானது கடலில் இருந்து நீரை எடுத்துக்கொண்டு மீண்டும் மழையாகப் பொழியாவிட்டால், பரந்த கடலின் நீர்வளமும் குன்றிவிடும்.",
-        "en": "Even the vast ocean's abundance will diminish if the rain clouds do not shower their waters back.",
-        "hi": "समुद्र से जल ग्रहण करके यदि मेघ वापस वर्षा न करें, तो उस अगाध महासागर का वैभव और जल स्तर भी क्षीण हो जाएगा।"
+        "ta": "கடலிலிருந்து நீரை எடுத்துக் கொண்டு சென்று மழை பெய்ய வேண்டிய மேகம் பெய்யாமல் தடுத்து விட்டால், அந்தப் பெரிய கடலும் தனது வளம் குன்றிப் போகும்.",
+        "en": "Even the vast ocean will lose its depth and richness if the clouds that drew its water fail to return it as rain.",
+        "hi": "समुद्र से पानी ले जाकर बरसने वाले बादल यदि वर्षा न करें, तो विशाल समुद्र भी अपने संतुलन और जल-संभरण को खो बैठेगा।"
       }
     },
     {
       "num": 18,
       "line1": "சிறப்பொடு பூசனை செல்லாது வானம்",
       "line2": "வறக்குமேல் வானோர்க்கும் ஈண்டு.",
-      "enLine1": "Sirappodu Poosanai Sellaadhu Vaanam",
-      "enLine2": "Varakkumaeyl Vaanorkkum Eendu.",
-      "hiLine1": "सिरप्पोडु पूसनै सॆल्लादु वानम्",
-      "hiLine2": "वऱक्कुमेल् वानोंर्क्कुम् ईण्डु.",
-      "general": "வானமானது மழை பெய்யாமல் வறண்டு போகுமானால், இவ்வுலகில் தேவர்களுக்கும் செய்யப்பெறும் வழிபாடுகளும் விழாக்களும் நடைபெறாது.",
-      "en": "If heaven's moisture fail, no festival will grace the year, nor will sacred rites to heaven's gods be offered here.",
-      "hi": "यदि वर्षा न होकर सूखा पड़ जाए, तो इस संसार में देवताओं की नित्य पूजा और उत्सव भी बंद हो जाएंगे।",
+      "enLine1": "Sirappotu Poosanai Sellaadhu Vaanam",
+      "enLine2": "Varakkumel Vaanorkkum Eentu.",
+      "hiLine1": "சிறப்பொடு பூசனை செல்லாது வானம்",
+      "hiLine2": "வறக்குமேல் வானோர்க்கும் ஈண்டு.",
+      "general": "மழை வறண்டு போனால், இவ்வுலகில் தேவர்களுக்கும் செய்யவேண்டிய திருவிழாக்களும் வழிபாடுகளும் நடைபெறாது.",
+      "en": "If the heavens dry up, the very gods will lack festival and worship.",
+      "hi": "यदि वर्षा होना बंद हो जाए, तो इस पृथ्वी पर देवताओं की पूजा-अर्चना और उत्सव भी बंद हो जाएंगे।",
       "words": [
         {
           "no": 1,
-          "word": "சிறப்பொடு (Sirappodu)",
-          "ta": "திருவிழாக்களோடு",
-          "en": "With festivities",
-          "hi": "उत्सव सहित"
+          "word": "சிறப்பொடு \n (Sirappotu)",
+          "ta": "திருவிழாக்களுடன்",
+          "en": "With festival / pomp",
+          "hi": "उत्सव और समारोह"
         },
         {
           "no": 2,
-          "word": "பூசனை (Poosanai)",
-          "ta": "தினசரி பூஜைகள்",
+          "word": "பூசனை \n (Poosanai)",
+          "ta": "வழிபாடுகளும்",
           "en": "Worship / offerings",
-          "hi": "नित्य पूजा"
+          "hi": "पूजा-अर्चना"
         },
         {
           "no": 3,
-          "word": "செல்லாது (Sellaadhu)",
+          "word": "செல்லாது \n (Sellaadhu)",
           "ta": "நடைபெறாது",
-          "en": "Will not be conducted",
+          "en": "Will cease",
           "hi": "नहीं होगी"
         },
         {
           "no": 4,
-          "word": "வானம் (Vaanam)",
-          "ta": "மழை மேகம்",
-          "en": "The sky / rain",
-          "hi": "आकाश"
+          "word": "வானம் \n (Vaanam)",
+          "ta": "மழை",
+          "en": "Rain / Sky",
+          "hi": "वर्षा"
         },
         {
           "no": 5,
-          "word": "வறக்குமேல் (Varakkumael)",
-          "ta": "வறண்டு போகுமானால்",
+          "word": "வறக்குமேல் \n (Varakkumel)",
+          "ta": "பெய்யாமல் வறண்டு போனால்",
           "en": "If it dries up",
-          "hi": "यदि सूखा पड़े"
+          "hi": "यदि सूख जाए"
         },
         {
           "no": 6,
-          "word": "வானோர்க்கும் (Vaanorkkum)",
-          "ta": "விண்ணுலகத் தேவர்க்கும்",
-          "en": "Even to the heavenly gods",
+          "word": "வானோர்க்கும் \n (Vaanorkkum)",
+          "ta": "தேவர்களுக்கும்",
+          "en": "Even to the gods",
           "hi": "देवताओं के लिए भी"
         },
         {
           "no": 7,
-          "word": "ஈண்டு (Eendu)",
+          "word": "ஈண்டு \n (Eentu)",
           "ta": "இவ்வுலகத்தில்",
-          "en": "In this world",
-          "hi": "यहाँ पृथ्वी पर"
+          "en": "Here on earth",
+          "hi": "इस लोक में"
         }
       ],
       "poetic": {
@@ -718,90 +703,83 @@
           "line2": "வறக்குமேல் வானோர்க்கும் ஈண்டு."
         },
         "en": {
-          "line1": "If drought should paralyse the sky and dry up heaven's stream,",
-          "line2": "No worship for the heavenly host will through this world be seen."
+          "line1": "If skies are dry and clouds withhold their customary rain,",
+          "line2": "No festive rites or worship can for gods on earth remain."
         },
         "hi": {
-          "line1": "देवाराधन नित्य का, उत्सव सहित अमंद।",
-          "line2": "वृष्टि न हो तो भूमि पर, हो जावेगा बंद ॥"
+          "line1": "उत्सव और पूजा कभी, हो न सकेगी प्राप्त।",
+          "line2": "जल के रूठ जाने से, देवता भी संतप्त ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Sirappodu Poosanai Sellaadhu Vaanam",
-            "line2": "Varakkumaeyl Vaanorkkum Eendu."
+            "line1": "Sirappotu Poosanai Sellaadhu Vaanam",
+            "line2": "Varakkumel Vaanorkkum Eentu."
           },
           "hi": {
-            "line1": "सिरप्पोडु पूसनै सॆल्लादु वानम्",
-            "line2": "वऱक्कुमेल् वानोंर्क्कुम् ईण्डु."
+            "line1": "சிறப்பொடு பூசனை செல்லாது வானம்",
+            "line2": "வறக்குமேல் வானோர்க்கும் ஈண்டு."
           }
         }
       },
       "explanation": {
-        "ta": "மழை பெய்யாமல் வறட்சி ஏற்படுமானால், மண்ணுலகில் தேவர்களுக்காக நடத்தப்படும் விழாக்களும் பூஜைகளும் நின்றுபோகும்.",
-        "en": "If rain dries up, celebrations and regular sacred offerings for heavenly deities will cease on earth.",
-        "hi": "यदि वर्षा न होने से अकाल पड़ जाए, तो पृथ्वी पर देवताओं के निमित्त होने वाले उत्सव और पूजा-पाठ भी रुक जाएँगे।"
+        "ta": "வானம் பொய்த்து மழை வறண்டு போனால், இவ்வுலகில் தேவர்களுக்கும் செய்யப்பட வேண்டிய திருவிழாக்களும் வழிபாடுகளும் தடைபட்டுப் போகும்.",
+        "en": "If the skies dry up and fail to rain, even the regular festivals and worship dedicated to the gods on earth will cease.",
+        "hi": "यदि वर्षा होना बंद हो जाए, तो इस पृथ्वी पर देवताओं के लिए होने वाले उत्सव और पूजा-पाठ भी बंद हो जाएंगे।"
       }
     },
     {
       "num": 19,
       "line1": "தானம் தவம்இரண்டும் தங்கா வியன்உலகம்",
       "line2": "வானம் வழங்கா தெனின்.",
-      "enLine1": "Dhaanam Thavamirandum Thankaa Viyanulakam",
-      "enLine2": "Vaanam Vazhankaa Dhenin.",
-      "hiLine1": "दानम् तवमिरण्डुम् तङ्का वियनुलकम्",
-      "hiLine2": "वानम् वऴङ्का दॆनिन्.",
-      "general": "மழை பொழியாது போனால், இந்த அகன்ற உலகத்தில் பிறர்க்குக் கொடுக்கும் தானமும், இறைவனை நோக்கிச் செய்யும் தவமும் நிலைபெறாது.",
-      "en": "Charity and penance both will cease to abide within the wide earth, if heaven's drops deny their birth.",
-      "hi": "यदि वर्षा न हो, तो इस विस्तृत संसार में न तो दान-धर्म टिक सकेगा और न ही तपस्या का मार्ग सुरक्षित रहेगा।",
+      "enLine1": "Thaanam Thavamirantum Thangaa Viyanulakam",
+      "enLine2": "Vaanam Vazhangaa Thenin.",
+      "hiLine1": "थानम तवमिरन्तुम थंगा वियन्नुलकम",
+      "hiLine2": "वानम वजङ्गा थेनिन.",
+      "general": "மழை பெய்யாது போனால், அகன்ற இந்த உலகத்தில் ஏழைகளுக்கு வழங்கும் கொடையும் தவமும் ஆகிய இரண்டும் நிலைபெறாமல் போய்விடும்.",
+      "en": "Both charity and penance would cease in this vast world, should heavens fail to deliver.",
+      "hi": "यदि वर्षा न हो, तो इस विस्तृत संसार में न तो दान दिया जा सकेगा और न ही तपस्या टिक पाएगी।",
       "words": [
         {
           "no": 1,
-          "word": "தானம் (Dhaanam)",
-          "ta": "பிறர்க்குக் கொடுக்கும் தானம்",
-          "en": "Almsgiving / charity",
+          "word": "தானம் \n (Thaanam)",
+          "ta": "ஏழைகளுக்கு வழங்கும் கொடையும்",
+          "en": "Charity",
           "hi": "दान"
         },
         {
           "no": 2,
-          "word": "தவம் (Thavam)",
-          "ta": "இறை தவநெறி",
-          "en": "Penance / meditation",
-          "hi": "तपस्या"
+          "word": "தவம் இரண்டும் \n (Thavam Irantum)",
+          "ta": "தவமும் ஆகிய இரண்டும்",
+          "en": "And penance both",
+          "hi": "और तपस्या दोनों"
         },
         {
           "no": 3,
-          "word": "இரண்டும் (Irandum)",
-          "ta": "ஆகிய இரண்டும்",
-          "en": "Both of them",
-          "hi": "दोनों ही"
-        },
-        {
-          "no": 4,
-          "word": "தங்கா (Thankaa)",
-          "ta": "நிலைத்து நிற்காது",
-          "en": "Will not abide",
+          "word": "தங்கா \n (Thangaa)",
+          "ta": "நிலைபெறாது அழியும்",
+          "en": "Will not endure",
           "hi": "नहीं टिकेंगे"
         },
         {
+          "no": 4,
+          "word": "வியன் உலகம் \n (Viyan Ulakam)",
+          "ta": "அகன்ற இந்த உலகத்தில்",
+          "en": "In this vast world",
+          "hi": "इस विशाल संसार में"
+        },
+        {
           "no": 5,
-          "word": "வியன் உலகம் (Viyan Ulakam)",
-          "ta": "பரந்த இவ்வுலகில்",
-          "en": "In this spacious world",
-          "hi": "विस्तृत संसार में"
+          "word": "வானம் \n (Vaanam)",
+          "ta": "மழை",
+          "en": "Rain / Clouds",
+          "hi": "वर्षा"
         },
         {
           "no": 6,
-          "word": "வானம் வழங்காது (Vaanam Vazhankaadhu)",
-          "ta": "மழை பொழியாது",
-          "en": "If sky gives not rain",
-          "hi": "मेघ न बरसें"
-        },
-        {
-          "no": 7,
-          "word": "எனின் (Enin)",
-          "ta": "என்றால்",
-          "en": "If so",
-          "hi": "यदि"
+          "word": "வழங்காது எனின் \n (Vazhangaa Enin)",
+          "ta": "பெய்யாது விடுமானால்",
+          "en": "If it fails to give",
+          "hi": "यदि न दे"
         }
       ],
       "poetic": {
@@ -810,120 +788,113 @@
           "line2": "வானம் வழங்கா தெனின்."
         },
         "en": {
-          "line1": "If heaven's fertile shower fall not upon the thirsty land,",
-          "line2": "Nor penance pure nor alms can in this spacious world withstand."
+          "line1": "Both charity and penance fail and vanish from the earth,",
+          "line2": "If skies withhold their vital drops that give all creatures birth."
         },
         "hi": {
-          "line1": "इस विस्तृत संसार में, दान पुण्य तप कर्म।",
-          "line2": "यदि पानी बरसे नहीं, टिकें न दोनों कर्म ॥"
+          "line1": "दान और तपस्या दोनों, मिट जाए संसार।",
+          "line2": "एक बूँद बरसे न यदि, हो जाए हाहाकार ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Dhaanam Thavamirandum Thankaa Viyanulakam",
-            "line2": "Vaanam Vazhankaa Dhenin."
+            "line1": "Thaanam Thavamirantum Thangaa Viyanulakam",
+            "line2": "Vaanam Vazhangaa Thenin."
           },
           "hi": {
-            "line1": "दानम् तवमिरण्डुम् तङ्का वियनुलकम्",
-            "line2": "वानम् वऴङ्का दॆनिन्."
+            "line1": "थानम तवमिरन्तुम थंगा वियन्नुलकम",
+            "line2": "वानम वजङ्गा थेनिन."
           }
         }
       },
       "explanation": {
-        "ta": "மழை பெய்யாமல் பொய்த்துவிட்டால், பரந்த இவ்வுலகில் செய்யப்படும் தான தர்மங்களும், தவமும் நடைபெறாமல் போகும்.",
-        "en": "Neither charity nor austerities can flourish on earth if heaven refuses to shower its drops.",
-        "hi": "यदि जल की वर्षा रुक जाए, तो इस संसार में दान-पुण्य और तपस्या जैसे धर्म-कर्म दोनों ही लुप्त हो जाएँगे।"
+        "ta": "வானம் மழை பெய்து வழங்காது போனால், அகன்ற இந்த உலகத்தில் அறக்கொடையும் தவமும் ஆகிய இரண்டும் நிலைபெறாமல் அழியும்.",
+        "en": "Both charity and ascetic penance would cease to exist in this vast world if the skies fail to provide rain.",
+        "hi": "यदि आकाश वर्षा न करे, तो इस विशाल संसार में न तो दान-पुण्य हो सकेगा और न ही तपस्या टिक पाएगी।"
       }
     },
     {
       "num": 20,
-      "line1": "நீரின் றமையா துலகெனின் யார்யார்க்கும்",
-      "line2": "வானின் றொழுகா தொழுக்கு.",
-      "enLine1": "Neerin Rmaiyaa Dhulakenin Yaaryaarkkum",
-      "enLine2": "Vaanin Rozhukaa Dhozformattedhkku.",
-      "hiLine1": "नीरिन् ऱमैया दुलकॆनिन् यार्यार्क्कुम्",
-      "hiLine2": "वानिन् ऱोऴुका तोऴुक्कु.",
-      "general": "நீர் இல்லாமல் உலக வாழ்க்கை அமையாது என்றால், அந்த நீரும் மழை பெய்யாமல் எவருக்கும் கிடைக்காது.",
-      "en": "If life cannot go on without water, so without rain the flow of water and righteous order cannot endure.",
-      "hi": "जल के बिना जैसे संसार का काम नहीं चल सकता, वैसे ही वर्षा के बिना सदाचार और लोक-व्यवस्था भी नहीं टिक सकती।",
+      "line1": "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்",
+      "line2": "வான்இன்று அமையாது ஒழுக்கு.",
+      "enLine1": "Neerindru Amaiyaadhu Ulakenin Yaaryaarkkum",
+      "enLine2": "Vaanindru Amaiyaadhu Ozhukku.",
+      "hiLine1": "नीरिन्द्रु अमैयादु उलकेनिन् यारयार्ककुम",
+      "hiLine2": "वानिन्द्रु अमैयादु ओझुक्कु.",
+      "general": "நீர் இல்லாமல் உலகம் இயங்காது என்றால், எவர்க்கும் மழை இல்லாமல் நல்ல ஒழுக்கமும் (வாழ்வும்) நிலைபெறாது.",
+      "en": "If the world cannot exist without water, neither can water exist without rain.",
+      "hi": "यदि जल के बिना संसार नहीं चल सकता, तो उस जल का स्रोत यानी वर्षा के बिना किसी का भी जीवन और आचरण नहीं टिक सकता।",
       "words": [
         {
           "no": 1,
-          "word": "நீரின்று (Neerindru)",
-          "ta": "நீரின்றி",
+          "word": "நீர் இன்று \n (Neer Indru)",
+          "ta": "நீர் இல்லாமல்",
           "en": "Without water",
           "hi": "जल के बिना"
         },
         {
           "no": 2,
-          "word": "அமையாது (Amaiyaadhu)",
-          "ta": "நிலைபெறாது",
-          "en": "Cannot subsist",
+          "word": "அமையாது \n (Amaiyaadhu)",
+          "ta": "இயங்காது",
+          "en": "Cannot exist",
           "hi": "नहीं चल सकता"
         },
         {
           "no": 3,
-          "word": "உலகு எனின் (Ulagu Enin)",
-          "ta": "இவ்வுலகம் என்றால்",
+          "word": "உலகு எனின் \n (Ulaku Enin)",
+          "ta": "உலகம் என்று கூறுவாராயின்",
           "en": "If the world",
-          "hi": "संसार यदि"
+          "hi": "यदि संसार"
         },
         {
           "no": 4,
-          "word": "யார்யார்க்கும் (Yaaryaarkkum)",
-          "ta": "எப்படிப்பட்ட மனிதர்க்கும்",
-          "en": "To anyone whosoever",
+          "word": "யார் யார்க்கும் \n (Yaaryaarkkum)",
+          "ta": "எந்த மனிதருக்கும்",
+          "en": "To anyone / everyone",
           "hi": "किसी के लिए भी"
         },
         {
           "no": 5,
-          "word": "வானின்று (Vaanindru)",
-          "ta": "மழையினாலன்றி",
-          "en": "Except by rain",
+          "word": "வான் இன்று \n (Vaan Indru)",
+          "ta": "மழை இல்லாமல்",
+          "en": "Without rain",
           "hi": "वर्षा के बिना"
         },
         {
           "no": 6,
-          "word": "ஒழுகாது (Ozhukaadhu)",
-          "ta": "நடைபெறாது",
-          "en": "Cannot flow / endure",
-          "hi": "नहीं टिकता"
-        },
-        {
-          "no": 7,
-          "word": "ஒழுக்கு (Ozhukku)",
-          "ta": "நீரொழுக்கும் நல்வழியும்",
-          "en": "The flow of water / conduct",
-          "hi": "जीवन-आचार"
+          "word": "அமையாது ஒழுக்கு \n (Amaiyaadhu Ozhukku)",
+          "ta": "வாழ்க்கை முறை நிலைபெறாது",
+          "en": "True life / order fails",
+          "hi": "जीवन मर्यादा नहीं टिकती"
         }
       ],
       "poetic": {
         "ta": {
-          "line1": "நீரின் றமையா துலகெனின் யார்யார்க்கும்",
-          "line2": "வானின் றொழுகா தொழுக்கு."
+          "line1": "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்",
+          "line2": "வான்இன்று அமையாது ஒழுக்கு."
         },
         "en": {
-          "line1": "If none can live on earth without water's flow from day to day,",
-          "line2": "Without the rain from heaven above, that water itself fades away."
+          "line1": "If living worlds cannot exist when water fails to flow,",
+          "line2": "Then without rain no righteous path or life can be below."
         },
         "hi": {
-          "line1": "नीर बिना भूलोक का, ज्यों न चले व्यापार।",
-          "line2": "कभी किसी में नहिं टिके, वर्षा बिन आचार ॥"
+          "line1": "जल बिन जैसे सृष्टि का, चलना है असंभव।",
+          "line2": "वैसे वर्षा बिन जीवन, निष्फल और दुर्लभ ॥"
         },
         "transliteration": {
           "en": {
-            "line1": "Neerin Rmaiyaa Dhulakenin Yaaryaarkkum",
-            "line2": "Vaanin Rozhukaa Dhozformattedhkku."
+            "line1": "Neerindru Amaiyaadhu Ulakenin Yaaryaarkkum",
+            "line2": "Vaanindru Amaiyaadhu Ozhukku."
           },
           "hi": {
-            "line1": "नीरिन् ऱमैया दुलकॆनिन् यार्यार्क्कुम्",
-            "line2": "वानिन् ऱोऴुका तोऴुक्कु."
+            "line1": "नीरिन्द्रु अमैयादु उलकेनिन् यारयार्ककुम",
+            "line2": "वानिन्द्रु अमैयादु ओझुक्कु."
           }
         }
       },
       "explanation": {
-        "ta": "தண்ணீர் இல்லாமல் உலக வாழ்க்கை இயங்காது; அந்தத் தண்ணீரே வானிலிருந்து பொழியும் மழையினாலன்றி வேறு எதனாலும் நிலைபெறாது.",
-        "en": "Just as the world cannot exist without water, so the water-flow and moral order cannot exist without rain.",
-        "hi": "जल के अभाव में जैसे सृष्टि का जीवन संभव नहीं है, वैसे ही वर्षा के बिना जल का प्रवाह और धर्ममय आचार संभव नहीं है।"
+        "ta": "நீர் இல்லாமல் இவ்வுலகம் இயங்காது என்றால், அந்த நீரைத் தரும் மழை இல்லாவிட்டால் எவர்க்கும் நல்ல ஒழுக்கமும் வாழ்வும் நிலைபெறாது.",
+        "en": "If the world cannot exist without water, then without rain even the moral and orderly conduct of life cannot be maintained.",
+        "hi": "यदि जल के बिना यह संसार जीवित नहीं रह सकता, तो जल का आधार यानी वर्षा न होने पर किसी का भी जीवन और आचरण सुरक्षित नहीं रह सकता।"
       }
     }
   ]

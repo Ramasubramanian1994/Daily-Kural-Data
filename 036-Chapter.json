@@ -83,8 +83,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Porul Allavatruai Porul Endru Unarum",
-            "line2": "Marulaan Aam Maanaap Pirappu."
+            "line1": "Porulal Lavatraip Porulendru Unarum",
+            "line2": "Marulaanaam Maanaap Pirappu."
           },
           "hi": {
             "line1": "पॊरुळल् लवत्रैप् पॊरुळॆन् रुणरु",
@@ -100,8 +100,8 @@
     },
     {
       "num": 352,
-      "line1": "இருணீங்கி யின்பம் பயக்கு",
-      "line2": "மருணீங்கி மாசறு காட்சி யவர்க்கு.",
+      "line1": "இருள்நீங்கி இன்பம் பயக்கும் மருள்நீங்கி",
+      "line2": "மாசறு காட்சி யவர்க்கு.",
       "enLine1": "Darkness departs, and rapture springs to men who see",
       "enLine2": "The mystic vision pure, from all delusion free.",
       "hiLine1": "मोह-मुक्त हो पा गये, निर्मल तत्वज्ञान ।",
@@ -162,8 +162,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "இருணீங்கி யின்பம் பயக்கு",
-          "line2": "மருணீங்கி மாசறு காட்சி யவர்க்கு."
+          "line1": "இருள்நீங்கி இன்பம் பயக்கும் மருள்நீங்கி",
+          "line2": "மாசறு காட்சி யவர்க்கு."
         },
         "en": {
           "line1": "Darkness departs, and rapture springs to men who see",
@@ -175,12 +175,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Irul Neengi Inbam Payakkum",
-            "line2": "Marul Neengi Maasaru Kaatchi Avarkku."
+            "line1": "Irulneengi Inbam Payakkum Marulneengi",
+            "line2": "Maasaru Kaatchi Yavarkku."
           },
           "hi": {
-            "line1": "इरुणीङ्गि यिन्बम् पयक्कु",
-            "line2": "मरुणीङ्गि मासरु काट्सि यवर्क्कु."
+            "line1": "इरुळ्नीङ्गि इन्बम् पयक्कुम् मरुळ्नीङ्गि",
+            "line2": "मासरु काट्सि यवर्क्कु."
           }
         }
       },
@@ -192,8 +192,8 @@
     },
     {
       "num": 353,
-      "line1": "ஐயத்தி னீங்கித் தெளிந்தார்க்கு",
-      "line2": "வையத்தின் வான நணிய துடைத்து.",
+      "line1": "ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின்",
+      "line2": "வானம் நணியது உடைத்து.",
       "enLine1": "When doubts disperse, and mists of error roll",
       "enLine2": "Away, nearer is heav'n than earth to sage's soul.",
       "hiLine1": "जिसने संशय-मुक्त हो, पाया ज्ञान-प्रदीप ।",
@@ -254,8 +254,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "ஐயத்தி னீங்கித் தெளிந்தார்க்கு",
-          "line2": "வையத்தின் வான நணிய துடைத்து."
+          "line1": "ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின்",
+          "line2": "வானம் நணியது உடைத்து."
         },
         "en": {
           "line1": "When doubts disperse, and mists of error roll",
@@ -267,12 +267,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Aiyaththin Neengith Thelindhaarkku",
-            "line2": "Vaiyaththin Vaanam Naniyadhu Udaiththu."
+            "line1": "Aiyaththin Neengith Thelindhaarkku Vaiyaththin",
+            "line2": "Vaanam Naniyadhu Udaiththu."
           },
           "hi": {
-            "line1": "ऐयत्ति नीङ्गित् तॆळिन्दार्क्कु",
-            "line2": "वैयत्तिन् वान नणिय दुडैत्तु."
+            "line1": "ऐयत्तिन् नीङ्गित् तॆळिन्दार्क्कु वैयत्तिन्",
+            "line2": "वानम् नणियदु उडैत्तु."
           }
         }
       },
@@ -359,8 +359,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Aiyunarvu Eydhiyak Kannum Payan Indre",
-            "line2": "Meyyunarvu Illaa Dhavarkku."
+            "line1": "Aiyunar Veydhiyak Kannum Payanindre",
+            "line2": "Meyyunar Villaa Dhavarkku."
           },
           "hi": {
             "line1": "ऐयुणर् वॆय्दियक् कण्णुम् पयनिन्द्रे",
@@ -376,8 +376,8 @@
     },
     {
       "num": 355,
-      "line1": "எப்பொரு ளெத்தன்மைத் தாயினு",
-      "line2": "மப்பொருண் மெய்ப்பொருள் காண்ப தறிவு.",
+      "line1": "எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்",
+      "line2": "மெய்ப்பொருள் காண்பது அறிவு.",
       "enLine1": "Whatever thing, of whatsoever kind it be,",
       "enLine2": "'Tis wisdom's part in each the very thing to see.",
       "hiLine1": "किसी तरह भी क्यों नहीं, भासे अमुक पदार्थ ।",
@@ -438,8 +438,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "எப்பொரு ளெத்தன்மைத் தாயினு",
-          "line2": "மப்பொருண் மெய்ப்பொருள் காண்ப தறிவு."
+          "line1": "எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்",
+          "line2": "மெய்ப்பொருள் காண்பது அறிவு."
         },
         "en": {
           "line1": "Whatever thing, of whatsoever kind it be,",
@@ -451,12 +451,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Epporul Eththanmaiththaayinum",
-            "line2": "Apporul Meypporul Kaanbadhu Arivu."
+            "line1": "Epporul Eththanmaith Thaayinum Apporul",
+            "line2": "Meypporul Kaanbadhu Arivu."
           },
           "hi": {
-            "line1": "ऎप्पॊरु ळॆत्तन्मैत् तायिनु",
-            "line2": "मप्पॊरुण् मॆय्प्पॊरुळ् काण्ब दरिवु."
+            "line1": "ऎप्पॊरुळ् ऎत्तन्मैत् तायिनुम् अप्पॊरुळ्",
+            "line2": "मॆय्प्पॊरुळ् काण्बदु अरिवु."
           }
         }
       },
@@ -543,8 +543,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Katru Eendu Meypporul Kandaar Thalaippaduvar",
-            "line2": "Matru Eendu Vaaraa Neri."
+            "line1": "Katreendu Meypporul Kandaar Thalaippaduvar",
+            "line2": "Matreendu Vaaraa Neri."
           },
           "hi": {
             "line1": "कत्रीण्डु मॆय्प्पॊरुळ् कण्डार् तलैप्पडुवर्",
@@ -635,8 +635,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Orththu Ullam Ulladhu Unarin Orudhalaiyaap",
-            "line2": "Perththu Ulla Vendaa Pirappu."
+            "line1": "Orththulla Mulladhu Unarin Orudhalaiyaap",
+            "line2": "Perththulla Vendaa Pirappu."
           },
           "hi": {
             "line1": "ओर्त्तुळ्ळ मुळ्ळ दुणरि नॊरुतलैयाप्",
@@ -652,8 +652,8 @@
     },
     {
       "num": 358,
-      "line1": "பிறப்பென்னும் பேதைமை நீங்கச்",
-      "line2": "சிறப்பென்னுஞ் செம்பொருள் காண்ப தறிவு.",
+      "line1": "பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னும்",
+      "line2": "செம்பொருள் காண்பது அறிவு.",
       "enLine1": "When folly, cause of births, departs; and soul can view",
       "enLine2": "The truth of things, man's dignity—'tis wisdom true.",
       "hiLine1": "जन्म-मूल अज्ञान है, उसके निवारणार्थ ।",
@@ -714,8 +714,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "பிறப்பென்னும் பேதைமை நீங்கச்",
-          "line2": "சிறப்பென்னுஞ் செம்பொருள் காண்ப தறிவு."
+          "line1": "பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னும்",
+          "line2": "செம்பொருள் காண்பது அறிவு."
         },
         "en": {
           "line1": "When folly, cause of births, departs; and soul can view",
@@ -727,12 +727,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Pirappennum Pedhaimai Neengach",
-            "line2": "Sirappennunj Semborul Kaanbadhu Arivu."
+            "line1": "Pirappennum Pedhaimai Neengach Sirappennum",
+            "line2": "Semborul Kaanbadhu Arivu."
           },
           "hi": {
-            "line1": "पिरप्पॆन्नुम् पेदैमै नीङ्गच्",
-            "line2": "सिरप्पॆन्नुञ् सॆम्बॊरुळ् काण्ब दरिवु."
+            "line1": "पिरप्पॆन्नुम् पेदैमै नीङ्गच् सिरप्पॆन्नुम्",
+            "line2": "सॆम्बॊरुळ् काण्बदु अरिवु."
           }
         }
       },
@@ -819,7 +819,7 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Saarbunarndhu Saarbu Keda Ozhugin Matrazhiththu",
+            "line1": "Saarbunarndhu Saarbu Kedavozhugin Matrazhiththu",
             "line2": "Saardharaa Saardharu Noy."
           },
           "hi": {
@@ -911,8 +911,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Kaamam Veguli Mayakkam Ivai Moondrin",
-            "line2": "Naamang Keda Kedum Noy."
+            "line1": "Kaamam Veguli Mayakkam Ivaimoondrin",
+            "line2": "Naamang Kedakkedum Noy."
           },
           "hi": {
             "line1": "कामम् वॆगुळि मयक्क मिवैमून्द्रि",

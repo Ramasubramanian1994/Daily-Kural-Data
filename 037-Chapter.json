@@ -83,8 +83,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Avaa Enba Ellaa Uyirkkum Enjnaandrum",
-            "line2": "Thavaaa Pirappu Eenum Viththu."
+            "line1": "Avaavenba Vellaa Vuyirkku Menjnaandrum",
+            "line2": "Thavaaap Pirappeenum Viththu."
           },
           "hi": {
             "line1": "अवावॆन्ब वॆल्ला वुयिर्क्कु मॆञ्ञान्द्रुन्",
@@ -267,8 +267,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Vendaamai Anna Vizhuchchelvam Eendu Illai",
-            "line2": "Yaandum Agdhu Oppadhu Il."
+            "line1": "Vendaamai Yanna Vizhuchchelva Meendillai",
+            "line2": "Yaandu Mahdhoppa Dhil."
           },
           "hi": {
             "line1": "वेण्डामै यन्न विऴुच्चॆल्व मीण्डिल्लै",
@@ -451,8 +451,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Atravar Enbaar Avaa Atraar Matraiyaar",
-            "line2": "Atraagha Atradhu Ilar."
+            "line1": "Atrava Renbaa Ravaavatraar Matraiyaa",
+            "line2": "Ratraagha Vatra Dhilar."
           },
           "hi": {
             "line1": "अत्रव रॆन्बा रवावत्रार् मत्रैया",
@@ -560,8 +560,8 @@
     },
     {
       "num": 367,
-      "line1": "அவாவினை யாற்ற வறுப்பிற்",
-      "line2": "றவாவினை தான்வேண்டு மாற்றான் வரும்.",
+      "line1": "அவாவினை ஆற்ற அறுப்பின் தவாவினை",
+      "line2": "தான்வேண்டு மாற்றான் வரும்.",
       "enLine1": "Who throughly rids his life of passion-prompted deed,",
       "enLine2": "Deeds of unfailing worth shall do, which, as he plans, succeed.",
       "hiLine1": "तृष्णा को यदि कर दिया, पूरा नष्ट समूल ।",
@@ -622,8 +622,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "அவாவினை யாற்ற வறுப்பிற்",
-          "line2": "றவாவினை தான்வேண்டு மாற்றான் வரும்."
+          "line1": "அவாவினை ஆற்ற அறுப்பின் தவாவினை",
+          "line2": "தான்வேண்டு மாற்றான் வரும்."
         },
         "en": {
           "line1": "Who throughly rids his life of passion-prompted deed,",
@@ -635,12 +635,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Avaavinai Aatra Aruppin",
-            "line2": "Thavaavinai Thaan Vendum Aatraan Varum."
+            "line1": "Avaavinai Aatra Aruppin Thavaavinai",
+            "line2": "Thaanvendu Maatraan Varum."
           },
           "hi": {
-            "line1": "अवाविनै यात्र वरुप्पिर्",
-            "line2": "रवाविनै तान्वेण्डु मात्रान् वरुम्."
+            "line1": "अवाविनै आत्र अरुप्पिन् तवाविनै",
+            "line2": "तान्वेण्डु मात्रान् वरुम्."
           }
         }
       },
@@ -727,7 +727,7 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Avaa Illaarkku Illaagum Thunbam Agdhu Undel",
+            "line1": "Avaavillaark Killaagun Thunba Mahdhundel",
             "line2": "Thavaaadhu Menmel Varum."
           },
           "hi": {
@@ -819,8 +819,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Inbam Idaiyaraadhu Eendum Avaa Ennum",
-            "line2": "Thunbaththul Thunbam Kedin."
+            "line1": "Inba Midaiyaraa Dheendu Mavaavennum",
+            "line2": "Thunbaththut Thunbang Kedin."
           },
           "hi": {
             "line1": "इन्ब मिडैयरा दीण्डु मवावॆन्नुन्",
@@ -911,8 +911,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Aaraa Iyarkai Avaa Neeppin Annilaiye",
-            "line2": "Peraa Iyarkai Tharum."
+            "line1": "Aaraa Viyarkai Yavaaneeppi Nannilaiye",
+            "line2": "Peraa Viyarkai Tharum."
           },
           "hi": {
             "line1": "आरा वियर्कै यवानीप्पि नन्निलैये",

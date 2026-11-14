@@ -8,8 +8,8 @@
   "kurals": [
     {
       "num": 401,
-      "line1": "அரங்கின்றி வட்டாடி யற்றே",
-      "line2": "நிரம்பிய நூலின்றிக் கோட்டிக் கொளல்.",
+      "line1": "அரங்கின்றி வட்டாடி யற்றே நிரம்பிய",
+      "line2": "நூலின்றிக் கோட்டிக் கொளல்.",
       "enLine1": "Like those at draughts would play without the checquered square,",
       "enLine2": "Men void of ample lore would counsels of the learned share.",
       "hiLine1": "सभा-मध्य यों बोलना, बिना पढ़े सदग्रन्थ ।",
@@ -70,8 +70,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "அரங்கின்றி வட்டாடி யற்றே",
-          "line2": "நிரம்பிய நூலின்றிக் கோட்டிக் கொளல்."
+          "line1": "அரங்கின்றி வட்டாடி யற்றே நிரம்பிய",
+          "line2": "நூலின்றிக் கோட்டிக் கொளல்."
         },
         "en": {
           "line1": "Like those at draughts would play without the checquered square,",
@@ -83,12 +83,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Arangindri Vattaadi Yatre",
-            "line2": "Nirambiya Noolindrik Kottik Kolal."
+            "line1": "Arangindri Vattaadi Yatre Nirambiya",
+            "line2": "Noolindrik Kottik Kolal."
           },
           "hi": {
-            "line1": "अरङ्गिन्द्रि वट्टाडि यत्रे",
-            "line2": "निरम्बिय नूलिन्द्रिक् कोट्टिक् कॊळल्."
+            "line1": "अरङ्गिन्द्रि वट्टाडि यत्रे निरम्बिय",
+            "line2": "नूलिन्द्रिक् कोट्टिक् कॊळल्."
           }
         }
       },
@@ -175,8 +175,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Kallaadhaan Sor Kaamurudhal Mulai Irandum",
-            "line2": "Illaadhaal Pen Kaamutratru."
+            "line1": "Kallaadhaan Sorkaa Murudhal Mulaiyirandu",
+            "line2": "Millaadhaal Penkaamut Ratru."
           },
           "hi": {
             "line1": "कल्लादान् सॊर्का मुरुदन् मुलैयिरण्डु",
@@ -267,8 +267,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Kallaadhavarum Nani Nallar Katraar Mun",
-            "line2": "Sollaadhu Irukkap Perin."
+            "line1": "Kallaa Dhavaru Naninallar Katraarmur",
+            "line2": "Sollaa Thirukkap Perin."
           },
           "hi": {
             "line1": "कल्ला दवरु ननिनल्लर् कत्रार्मुर्",
@@ -359,8 +359,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Kallaadhaan Otpam Kazhiya Nandru Aayinung",
-            "line2": "Kollaar Arivudaiyaar."
+            "line1": "Kallaadhaa Notpang Kazhiyanan Raayinung",
+            "line2": "Kollaa Rarivudai Yaar."
           },
           "hi": {
             "line1": "कल्लादा नॊट्पङ् कऴियनन् रायिनुङ्",
@@ -543,8 +543,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Ular Ennum Maaththiraiyar Allaal Payavaak",
-            "line2": "Kalar Anaiyar Kallaadhavar."
+            "line1": "Ularennu Maaththiraiya Rallaar Payavaak",
+            "line2": "Kalaranaiyar Kallaa Dhavar."
           },
           "hi": {
             "line1": "उळरॆन्नु मात्तिरैय रल्लार् पयवाक्",
@@ -635,8 +635,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Nunmaan Nuzhaibulam Illaan Ezhil Nalam",
-            "line2": "Man Maan Punaipaavai Atru."
+            "line1": "Nunmaa Nuzhaibula Millaa Nezhinala",
+            "line2": "Manmaan Punaipaavai Yatru."
           },
           "hi": {
             "line1": "नुण्मा णुऴैपुल मिल्ला नॆऴिनल",
@@ -744,8 +744,8 @@
     },
     {
       "num": 409,
-      "line1": "மேற்பிறந்தா ராயினுங் கல்லாதார்",
-      "line2": "கீழ்பிறந்துங் கற்றா ரனைத்திலர் பாடு.",
+      "line1": "மேற்பிறந்தார் ஆயினும் கல்லாதார் கீழ்பிறந்தும்",
+      "line2": "கற்றார் அனைத்திலர் பாடு.",
       "enLine1": "Lower are men unlearned, though noble be their race,",
       "enLine2": "Than low-born men adorned with learning's grace.",
       "hiLine1": "उच्च जाति का क्यों न हो, तो भी अपढ़ अजान ।",
@@ -806,8 +806,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "மேற்பிறந்தா ராயினுங் கல்லாதார்",
-          "line2": "கீழ்பிறந்துங் கற்றா ரனைத்திலர் பாடு."
+          "line1": "மேற்பிறந்தார் ஆயினும் கல்லாதார் கீழ்பிறந்தும்",
+          "line2": "கற்றார் அனைத்திலர் பாடு."
         },
         "en": {
           "line1": "Lower are men unlearned, though noble be their race,",
@@ -819,12 +819,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Merpirandhaar Aayinung Kallaadhaar",
-            "line2": "Keezhpirandhung Katraar Anaiththilar Paadu."
+            "line1": "Merpirandhaar Aayinum Kallaadhaar Keezhpirandhum",
+            "line2": "Katraar Anaiththilar Paadu."
           },
           "hi": {
-            "line1": "मेर्पिरन्दा रायिनुङ् कल्लादार्",
-            "line2": "कीऴ्पिरन्दुङ् कत्रा रनैत्तिलर् पाडु."
+            "line1": "मेर्पिरन्दार् आयिनुम् कल्लादार् कीऴ्पिरन्दुम्",
+            "line2": "कत्रार् अनैत्तिलर् पाडु."
           }
         }
       },
@@ -836,8 +836,8 @@
     },
     {
       "num": 410,
-      "line1": "விலங்கொடு மக்க ளனைய",
-      "line2": "ரிலங்குநூல் கற்றாரோ டேனை யவர்.",
+      "line1": "விலங்கொடு மக்கள் அனையர் இலங்குநூல்",
+      "line2": "கற்றாரோடு ஏனை யவர்.",
       "enLine1": "Learning's irradiating grace who gain,",
       "enLine2": "Others excel, as men the bestial train.",
       "hiLine1": "नर से पशु की जो रहा, तुलना में अति भेद ।",
@@ -898,8 +898,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "விலங்கொடு மக்க ளனைய",
-          "line2": "ரிலங்குநூல் கற்றாரோ டேனை யவர்."
+          "line1": "விலங்கொடு மக்கள் அனையர் இலங்குநூல்",
+          "line2": "கற்றாரோடு ஏனை யவர்."
         },
         "en": {
           "line1": "Learning's irradiating grace who gain,",
@@ -911,12 +911,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Vilangodu Makkal Anaiyar",
-            "line2": "Ilangu Nool Katraarodu Enaiyavar."
+            "line1": "Vilangodu Makkal Anaiyar Ilangunool",
+            "line2": "Katraarodu Enai Yavar."
           },
           "hi": {
-            "line1": "विलङ्गॊडु मक्क ळनैय",
-            "line2": "रिलङ्गुनुल् कत्रारो डेनै यवर्."
+            "line1": "विलङ्गॊडु मक्कळ् अनैयर् इलङ्गुनूल्",
+            "line2": "कत्रारोडु एनै यवर्."
           }
         }
       },

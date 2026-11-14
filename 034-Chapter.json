@@ -20,7 +20,7 @@
       "words": [
         {
           "no": 1,
-          "word": "நில்லாதவற்றை <br>(Nillaadhavatruai)",
+          "word": "நில்லாதவற்றை <br>(Nillaadhavatrai)",
           "ta": "நிலையில்லாதவற்றை",
           "en": "Things that pass away",
           "hi": "अनित्यवस्तुएँ"
@@ -83,8 +83,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Nillaadhavatruai Nilaiyina Vendrunarum",
-            "line2": "Pullarivaanmai Kadai."
+            "line1": "Nillaa Dhavatrai Nilaiyina Vendrunarum",
+            "line2": "Pullari Vaanmai Kadai."
           },
           "hi": {
             "line1": "निल्ला दवत्रै निलैयिन वॆन्द्रुणरुम्",
@@ -360,7 +360,7 @@
         "transliteration": {
           "en": {
             "line1": "Naalena Ondrupol Kaatti Uyireerum",
-            "line2": "Vaal Adhu Unarvaarp Perin."
+            "line2": "Vaala Dhunarvaarp Perin."
           },
           "hi": {
             "line1": "नाळॆन वॊन्द्रुपोल् काट्टि युयिरीरुम्",
@@ -451,7 +451,7 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Naachchetru Vikkul Melvaaraa Mun Nalvinai",
+            "line1": "Naachchetru Vikkunmel Vaaraamu Nalvinai",
             "line2": "Mersendru Seyyap Padum."
           },
           "hi": {
@@ -543,8 +543,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Nerunal Ulan Oruvan Indru Illai Ennum",
-            "line2": "Perumai Udaiththu Ivvulagu."
+            "line1": "Neruna Lulanoruva Nindrillai Yennum",
+            "line2": "Perumai Udaiththiv Vulagu."
           },
           "hi": {
             "line1": "नॆरुन लुळनॊरुव निन्द्रिल्लै यॆन्नुम्",
@@ -623,7 +623,7 @@
       "poetic": {
         "ta": {
           "line1": "ஒருபொழுதும் வாழ்வது அறியார் கருதுப",
-          "line2": "கோடியும் அல்ல பல.",
+          "line2": "கோடியும் அல்ல பல."
         },
         "en": {
           "line1": "Who know not if their happy lives shall last the day,",
@@ -634,16 +634,16 @@
           "line2": "चिंतन कोटिन, अनगिनत, करते रहें अबोध ॥"
         },
         "transliteration": {
-        "en": {
-          "line1": "Orupozhudhum Vaazhvadhu Ariyaar Karudhuba",
-          "line2": "Kodiyum Alla Pala."
-        },
-        "hi": {
-          "line1": "ऒरुपॊऴुदुम् वाऴ्वदु अरियार् करुदुब",
-          "line2": "कोडियुम् अल्ल पल."
+          "en": {
+            "line1": "Orupozhudhum Vaazhvadhu Ariyaar Karudhuba",
+            "line2": "Kodiyum Alla Pala."
+          },
+          "hi": {
+            "line1": "ऒरुपॊऴुदुम् वाऴ्वदु अरियार् करुदुब",
+            "line2": "कोडियुम् अल्ल पल."
+          }
         }
-      }
-    },
+      },
       "explanation": {
         "ta": "ஒரு நொடிப்பொழுதும் உயிர் வாழ்வதன் உறுதியை அறியாதவர்கள், கோடியும் அல்லாமல் பல கோடி எண்ணங்களை எண்ணுகின்றனர்.",
         "en": "Without even knowing if we'll survive the next hour, we still spend our time chasing millions of endless schemes and daydreams.",
@@ -807,7 +807,7 @@
       "poetic": {
         "ta": {
           "line1": "உறங்குவது போலும் சாக்காடு உறங்கி",
-          "line2": "விழிப்பது போலும் பிறப்பு.",
+          "line2": "விழிப்பது போலும் பிறப்பு."
         },
         "en": {
           "line1": "Death is sinking into slumbers deep;",

@@ -8,8 +8,8 @@
   "kurals": [
     {
       "num": 421,
-      "line1": "அறிவற்றங் காக்குங் கருவி",
-      "line2": "செறுவார்க்கு முள்ளழிக்க லாகா வரண்.",
+      "line1": "அறிவற்றங் காக்குங் கருவி செறுவார்க்கு",
+      "line2": "முள்ளழிக்க லாகா வரண்.",
       "enLine1": "True wisdom wards off woes, A circling fortress high;",
       "enLine2": "Its inner strength man's eager foes Unshaken will defy.",
       "hiLine1": "रक्षा हित के नाश से, बुद्धिरूप औजार ।",
@@ -70,8 +70,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "அறிவற்றங் காக்குங் கருவி",
-          "line2": "செறுவார்க்கு முள்ளழிக்க லாகா வரண்."
+          "line1": "அறிவற்றங் காக்குங் கருவி செறுவார்க்கு",
+          "line2": "முள்ளழிக்க லாகா வரண்."
         },
         "en": {
           "line1": "True wisdom wards off woes, A circling fortress high;",
@@ -83,12 +83,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Arivu Atram Kaakkum Karuvi",
-            "line2": "Seruvaarkkum Ullazhikkal Aagaa Aran."
+            "line1": "Arivatram Kaakkum Karuvi Seruvaarkkum",
+            "line2": "Ullazhikkal Aagaa Aran."
           },
           "hi": {
-            "line1": "अरिवत्रङ् काक्कुङ् करुवि",
-            "line2": "सॆरुवार्क्कु मुळ्ळऴिक्क लागा वरण्."
+            "line1": "अरिवत्रङ् काक्कुङ् करुवि सॆरुवार्क्कु",
+            "line2": "मुळ्ळऴिक्क लागा वरण्."
           }
         }
       },
@@ -267,7 +267,7 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Epporul Yaar Yaar Vaayk Ketpinum Apporul",
+            "line1": "Epporul Yaaryaarvaayk Ketpinum Apporul",
             "line2": "Meypporul Kaanbadhu Arivu."
           },
           "hi": {
@@ -359,7 +359,7 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Enporul Aaghach Selachchollith Thaan Pirarvaay",
+            "line1": "Enporula Vaaghach Selachchollith Thaanpirarvaay",
             "line2": "Nunporul Kaanbadhu Arivu."
           },
           "hi": {
@@ -376,8 +376,8 @@
     },
     {
       "num": 425,
-      "line1": "உலகந் தழீஇய தொட்ப",
-      "line2": "மலர்தலுங் கூம்பலு மில்ல தறிவு.",
+      "line1": "உலகந் தழீஇய தொட்ப மலர்தலுங்",
+      "line2": "கூம்பலு மில்ல தறிவு.",
       "enLine1": "Wisdom embraces frank the world, to no caprice exposed;",
       "enLine2": "Unlike the lotus flower, now opened wide, now petals strictly closed.",
       "hiLine1": "मैत्री उत्तम जगत की, करते हैं धीमान ।",
@@ -438,8 +438,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "உலகந் தழீஇய தொட்ப",
-          "line2": "மலர்தலுங் கூம்பலு மில்ல தறிவு."
+          "line1": "உலகந் தழீஇய தொட்ப மலர்தலுங்",
+          "line2": "கூம்பலு மில்ல தறிவு."
         },
         "en": {
           "line1": "Wisdom embraces frank the world, to no caprice exposed;",
@@ -451,12 +451,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Ulagam Thazheeiyadhu Otpam",
-            "line2": "Malardhalung Koombalum Illadhu Arivu."
+            "line1": "Ulagam Thazheeiyadhu Otpam Malardhalum",
+            "line2": "Koombalum Illadhu Arivu."
           },
           "hi": {
-            "line1": "उलगन् तऴीइय दॊट्प",
-            "line2": "मलर्दलुङ् कूम्बलु मिल्ल दरिवु."
+            "line1": "उलगन् तऴीइय दॊट्प मलर्दलुङ्",
+            "line2": "कूम्बलु मिल्ल दरिवु."
           }
         }
       },
@@ -560,8 +560,8 @@
     },
     {
       "num": 427,
-      "line1": "அறிவுடையா ராவ தறிவா",
-      "line2": "ரறிவிலா ரஃதறி கல்லா தவர்.",
+      "line1": "அறிவுடையா ராவ தறிவா ரறிவிலா",
+      "line2": "ரஃதறி கல்லா தவர்.",
       "enLine1": "The wise discern, the foolish fail to see,",
       "enLine2": "And minds prepare for things about to be.",
       "hiLine1": "बुद्धिमान वे हैं जिन्हें, है भविष्य का ज्ञान ।",
@@ -622,8 +622,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "அறிவுடையா ராவ தறிவா",
-          "line2": "ரறிவிலா ரஃதறி கல்லா தவர்."
+          "line1": "அறிவுடையா ராவ தறிவா ரறிவிலா",
+          "line2": "ரஃதறி கல்லா தவர்."
         },
         "en": {
           "line1": "The wise discern, the foolish fail to see,",
@@ -635,12 +635,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Arivudaiyaar Aavadhu Arivaar",
-            "line2": "Arivilaar Agdhu Arigallaadhavar."
+            "line1": "Arivudaiyaar Aavadhu Arivaar Arivilaar",
+            "line2": "Agdhari Kallaa Dhavar."
           },
           "hi": {
-            "line1": "अरिवुडैया राव दरिवा",
-            "line2": "ररिविला रक्दरि कल्ला दवर्."
+            "line1": "अरिवुडैया राव दरिवा ररिविला",
+            "line2": "रक्दरि कल्ला दवर्."
           }
         }
       },
@@ -652,8 +652,8 @@
     },
     {
       "num": 428,
-      "line1": "அஞ்சுவ தஞ்சாமை பேதைமை",
-      "line2": "யஞ்சுவ தஞ்ச லறிவார் தொழில்.",
+      "line1": "அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ",
+      "line2": "தஞ்ச லறிவார் தொழில்.",
       "enLine1": "Folly meets fearful ills with fearless heart;",
       "enLine2": "To fear where cause of fear exists is wisdom's part.",
       "hiLine1": "निर्भयता भेतव्य से, है जड़ता का नाम ।",
@@ -714,8 +714,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "அஞ்சுவ தஞ்சாமை பேதைமை",
-          "line2": "யஞ்சுவ தஞ்ச லறிவார் தொழில்."
+          "line1": "அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ",
+          "line2": "தஞ்ச லறிவார் தொழில்."
         },
         "en": {
           "line1": "Folly meets fearful ills with fearless heart;",
@@ -727,12 +727,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Anjuvadhu Anjaamai Pedhaimai",
-            "line2": "Anjuvadhu Anjal Arivaar Thozhil."
+            "line1": "Anjuvadhu Anjaamai Pedhaimai Anjuvadhu",
+            "line2": "Anjal Arivaar Thozhil."
           },
           "hi": {
-            "line1": "अञ्जुव दञ्जामै पेदैमै",
-            "line2": "यञ्जुव दञ्ज लरिवार् तॊऴिल्."
+            "line1": "अञ्जुव दञ्जामै पेदैमै यञ्जुव",
+            "line2": "दञ्ज लरिवार् तॊऴिल्."
           }
         }
       },
@@ -836,8 +836,8 @@
     },
     {
       "num": 430,
-      "line1": "அறிவுடையா ரெல்லா முடையா",
-      "line2": "ரறிவிலா ரென்னுடைய ரேனு மிலர்.",
+      "line1": "அறிவுடையா ரெல்லா முடையா ரறிவிலா",
+      "line2": "ரென்னுடைய ரேனு மிலர்.",
       "enLine1": "The wise is rich, with ev'ry blessing blest;",
       "enLine2": "The fool is poor, of everything possessed.",
       "hiLine1": "सब धन से संपन्न हैं, जो होते मतिमान ।",
@@ -898,8 +898,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "அறிவுடையா ரெல்லா முடையா",
-          "line2": "ரறிவிலா ரென்னுடைய ரேனு மிலர்."
+          "line1": "அறிவுடையா ரெல்லா முடையா ரறிவிலா",
+          "line2": "ரென்னுடைய ரேனு மிலர்."
         },
         "en": {
           "line1": "The wise is rich, with ev'ry blessing blest;",
@@ -911,12 +911,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Arivudaiyaar Ellaam Udaiyaar",
-            "line2": "Arivilaar En Udaiyarenum Ilar."
+            "line1": "Arivudaiyaar Ellaam Udaiyaar Arivilaar",
+            "line2": "Ennudaiya Renum Ilar."
           },
           "hi": {
-            "line1": "अरिवुडैया रॆल्ला मुडैया",
-            "line2": "ररिविला रॆन्नुडैय रेनु मिलर्."
+            "line1": "अरिवुडैया रॆल्ला मुडैया ररिविला",
+            "line2": "रॆन्नुडैय रेनु मिलर्."
           }
         }
       },

@@ -192,8 +192,8 @@
     },
     {
       "num": 433,
-      "line1": "தினைத்துணையாங் குற்றம் வரினும்",
-      "line2": "பனைத்துணையாக் கொள்வர் பழிநாணு வார்.",
+      "line1": "தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்",
+      "line2": "கொள்வர் பழிநாணு வார்.",
       "enLine1": "Though small as millet-seed the fault men deem;",
       "enLine2": "As palm-tree vast to those who fear disgrace 'twill seem.",
       "hiLine1": "निन्दा का डर है जिन्हें, तिलभर निज अपराध ।",
@@ -254,8 +254,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "தினைத்துணையாங் குற்றம் வரினும்",
-          "line2": "பனைத்துணையாக் கொள்வர் பழிநாணு வார்."
+          "line1": "தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்",
+          "line2": "கொள்வர் பழிநாணு வார்."
         },
         "en": {
           "line1": "Though small as millet-seed the fault men deem;",
@@ -267,12 +267,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Thinaiththunaiyaang Kutram Varinum",
-            "line2": "Panaiththunaiyaak Kolvar Pazhi Naanuvaar."
+            "line1": "Thinaiththunaiyaang Kutram Varinum Panaiththunaiyaak",
+            "line2": "Kolvar Pazhinaanu Vaar."
           },
           "hi": {
-            "line1": "तिनैत्तुणैयाङ् कुत्रम् वरिनुम्",
-            "line2": "पनैत्तुणैयाक् कॊळ्वर् पऴिनाणु वार्."
+            "line1": "तिनैत्तुणैयाङ् कुत्रम् वरिनुम् पनैत्तुणैयाक्",
+            "line2": "कॊळ्वर् पऴिनाणु वार्."
           }
         }
       },
@@ -376,8 +376,8 @@
     },
     {
       "num": 435,
-      "line1": "வருமுன்னர்க் காவாதான் வாழ்க்கை",
-      "line2": "யெரிமுன்னர் வைத்தூறு போலக் கெடும்.",
+      "line1": "வருமுன்னர்க் காவாதான் வாழ்க்கை யெரிமுன்னர்",
+      "line2": "வைத்தூறு போலக் கெடும்.",
       "enLine1": "His joy who guards not 'gainst the coming evil day,",
       "enLine2": "Like straw before the fire shall swift consume away.",
       "hiLine1": "दोष उपस्थिति पूर्व ही, किया न जीवन रक्ष ।",
@@ -438,8 +438,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "வருமுன்னர்க் காவாதான் வாழ்க்கை",
-          "line2": "யெரிமுன்னர் வைத்தூறு போலக் கெடும்."
+          "line1": "வருமுன்னர்க் காவாதான் வாழ்க்கை யெரிமுன்னர்",
+          "line2": "வைத்தூறு போலக் கெடும்."
         },
         "en": {
           "line1": "His joy who guards not 'gainst the coming evil day,",
@@ -451,12 +451,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Varumunnar Kaavaadhaan Vaazhkkai",
-            "line2": "Erimunnar Vaiththooru Polak Kedum."
+            "line1": "Varumunnar Kaavaadhaan Vaazhkkai Erimunnar",
+            "line2": "Vaiththooru Polak Kedum."
           },
           "hi": {
-            "line1": "वरुमुन्नर्क् कावादान् वाऴ्क्कै",
-            "line2": "यॆरिमुन्नर् वैत्तूरु पोलक् कॆडुम्."
+            "line1": "वरुमुन्नर्क् कावादान् वाऴ्क्कै यॆरिमुन्नर्",
+            "line2": "वैत्तूरु पोलक् कॆडुम्."
           }
         }
       },
@@ -543,8 +543,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Than Kutram Neekkip Pirar Kutram Kaankirpin",
-            "line2": "En Kutram Aagum Iraikku."
+            "line1": "Thankutram Neekkip Pirarkutram Kaankirpin",
+            "line2": "Enkutram Aagum Iraikku."
           },
           "hi": {
             "line1": "तन्कुत्र नीक्किप् पिरर्कुत्रङ् काण्किर्पि",
@@ -652,8 +652,8 @@
     },
     {
       "num": 438,
-      "line1": "பற்றுள்ள மென்னு மிவறன்மை",
-      "line2": "யெற்றுள்ளு மெண்ணப் படுவதொன் றன்று.",
+      "line1": "பற்றுள்ள மென்னு மிவறன்மை யெற்றுள்ளு",
+      "line2": "மெண்ணப் படுவதொன் றன்று.",
       "enLine1": "The greed of soul that avarice men call,",
       "enLine2": "When faults are summed, is worst of all.",
       "hiLine1": "धनासक्ति जो लोभ है, वह है दोष विशेष ।",
@@ -714,8 +714,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "பற்றுள்ள மென்னு மிவறன்மை",
-          "line2": "யெற்றுள்ளு மெண்ணப் படுவதொன் றன்று."
+          "line1": "பற்றுள்ள மென்னு மிவறன்மை யெற்றுள்ளு",
+          "line2": "மெண்ணப் படுவதொன் றன்று."
         },
         "en": {
           "line1": "The greed of soul that avarice men call,",
@@ -727,12 +727,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Patru Ullam Ennum Ivaranmai",
-            "line2": "Etrullum Ennap Paduvadhu Ondrandru."
+            "line1": "Patrullam Ennum Ivaranmai Etrullum",
+            "line2": "Ennap Paduvadhon Randru."
           },
           "hi": {
-            "line1": "पत्रुळ्ळ मॆन्नु मिवरन्मै",
-            "line2": "यॆत्रुळ्ळु मॆण्णप् पडुवदॊन् रन्द्रु."
+            "line1": "पत्रुळ्ळ मॆन्नु मिवरन्मै यॆत्रुळ्ळु",
+            "line2": "मॆण्णप् पडुवदॊन् रन्द्रु."
           }
         }
       },
@@ -744,8 +744,8 @@
     },
     {
       "num": 439,
-      "line1": "வியவற்க வெஞ்ஞான்றுந் தன்னை",
-      "line2": "நயவற்க நன்று பயவா வினை.",
+      "line1": "வியவற்க வெஞ்ஞான்றுந் தன்னை நயவற்க",
+      "line2": "நன்று பயவா வினை.",
       "enLine1": "Never indulge in self-complaisant mood,",
       "enLine2": "Nor deed desire that yields no gain of good.",
       "hiLine1": "श्रेष्ठ समझ कर आपको, कभी न कर अभिमान ।",
@@ -806,8 +806,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "வியவற்க வெஞ்ஞான்றுந் தன்னை",
-          "line2": "நயவற்க நன்று பயவா வினை."
+          "line1": "வியவற்க வெஞ்ஞான்றுந் தன்னை நயவற்க",
+          "line2": "நன்று பயவா வினை."
         },
         "en": {
           "line1": "Never indulge in self-complaisant mood,",
@@ -819,12 +819,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Viyavarka Enjnaandrum Thannai",
-            "line2": "Nayavarka Nandru Payavaa Vinai."
+            "line1": "Viyavarka Enjnaandrum Thannai Nayavarka",
+            "line2": "Nandru Payavaa Vinai."
           },
           "hi": {
-            "line1": "वियवर्क्क वॆञ्ञान्द्रुन् तन्नै",
-            "line2": "नयवर्क्क नन्द्रु पयवा विनै."
+            "line1": "वियवर्क्क वॆञ्ञान्द्रुन् तन्नै नयवर्क्क",
+            "line2": "नन्द्रु पयवा विनै."
           }
         }
       },

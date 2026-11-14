@@ -175,8 +175,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Sevikku Unavu Illaadha Pozhdhu Siridhu",
-            "line2": "Vayitrukkum Eeyap Padum."
+            "line1": "Sevikkuna Villaadha Pozhdhu Siridhu",
+            "line2": "Vayitrukku Meeyap Padum."
           },
           "hi": {
             "line1": "सॆविक्कुण विल्लाद पोऴ्दु सिरिदु",
@@ -192,8 +192,8 @@
     },
     {
       "num": 413,
-      "line1": "செவியுணவிற் கேள்வி யுடையா",
-      "line2": "ரவியுணவி னான்றாரோ டொப்பர் நிலத்து.",
+      "line1": "செவியுணவின் கேள்வி உடையார் அவியுணவின்",
+      "line2": "ஆன்றாரோடு ஒப்பர் நிலத்து.",
       "enLine1": "Who feed their ear with learned teachings rare,",
       "enLine2": "Are like the happy gods oblations rich who share.",
       "hiLine1": "जिनके कानों को मिला, श्रवण रूप में भोग ।",
@@ -254,8 +254,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "செவியுணவிற் கேள்வி யுடையா",
-          "line2": "ரவியுணவி னான்றாரோ டொப்பர் நிலத்து."
+          "line1": "செவியுணவின் கேள்வி உடையார் அவியுணவின்",
+          "line2": "ஆன்றாரோடு ஒப்பர் நிலத்து."
         },
         "en": {
           "line1": "Who feed their ear with learned teachings rare,",
@@ -267,12 +267,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Seviyunavir Kelvi Udaiyaar",
-            "line2": "Aviyunavin Aandraarodu Oppar Nilaththu."
+            "line1": "Seviyunavin Kelvi Udaiyaar Aviyunavin",
+            "line2": "Aandraarodu Oppar Nilaththu."
           },
           "hi": {
-            "line1": "सॆवियुणविर् केळ्वि युडैया",
-            "line2": "रवियुणवि नान्द्रारो डॊप्पर् निलत्तु."
+            "line1": "सॆवियुणविन् केळ्वि उडैयार् अवियुणविन्",
+            "line2": "आन्द्रारोडु ऒप्पर् निलत्तु."
           }
         }
       },
@@ -359,8 +359,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Katrilan Aayinung Ketka Agdhu Oruvarku",
-            "line2": "Orkaththin Ootraam Thunai."
+            "line1": "Katrila Naayinung Ketka Vahdhoruvar",
+            "line2": "Korkaththi Nootraandh Thunai."
           },
           "hi": {
             "line1": "कत्रिल नायिनुङ् केट्क वक्दॊरुवर्",
@@ -452,7 +452,7 @@
         "transliteration": {
           "en": {
             "line1": "Izhukkal Udaiyuzhi Ootrukkol Atre",
-            "line2": "Ozhukkam Udaiyaar Vaaych Sol."
+            "line2": "Ozhukkam Udaiyaarvaaych Sol."
           },
           "hi": {
             "line1": "इऴुक्क लुडैयुऴि यूत्रुक्को लत्रे",
@@ -468,8 +468,8 @@
     },
     {
       "num": 416,
-      "line1": "எனைத்தானு நல்லவை கேட்க",
-      "line2": "வனைத்தானு மான்ற பெருமை தரும்.",
+      "line1": "எனைத்தானும் நல்லவை கேட்க அனைத்தானும்",
+      "line2": "ஆன்ற பெருமை தரும்.",
       "enLine1": "Let each man good things learn, for e'en as he",
       "enLine2": "Shall learn, he gains increase of perfect dignity.",
       "hiLine1": "श्रवण करो सद्विषय का, जितना ही हो अल्प ।",
@@ -530,8 +530,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "எனைத்தானு நல்லவை கேட்க",
-          "line2": "வனைத்தானு மான்ற பெருமை தரும்."
+          "line1": "எனைத்தானும் நல்லவை கேட்க அனைத்தானும்",
+          "line2": "ஆன்ற பெருமை தரும்."
         },
         "en": {
           "line1": "Let each man good things learn, for e'en as he",
@@ -543,12 +543,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Enaiththaanum Nallavai Ketka",
-            "line2": "Anaiththaanum Aandra Perumai Tharum."
+            "line1": "Enaiththaanum Nallavai Ketka Anaiththaanum",
+            "line2": "Aandra Perumai Tharum."
           },
           "hi": {
-            "line1": "ऎनैत्तानु नल्लवै केट्क",
-            "line2": "वनैत्तानु मान्द्र पॆरुमै तरुम्."
+            "line1": "ऎनैत्तानुम् नल्लवै केट्क अनैत्तानुम्",
+            "line2": "आन्द्र पॆरुमै तरुम्."
           }
         }
       },
@@ -560,8 +560,8 @@
     },
     {
       "num": 417,
-      "line1": "பிழைத்துணர்ந்தும் பேதைமை சொல்லா",
-      "line2": "ரிழைத்துணர்ந் தீண்டிய கேள்வி யவர்.",
+      "line1": "பிழைத்துணர்ந்தும் பேதைமை சொல்லார் இழைத்துணர்ந்து",
+      "line2": "ஈண்டிய கேள்வி யவர்.",
       "enLine1": "Not e'en through inadvertence speak they foolish word,",
       "enLine2": "With clear discerning mind who've learning's ample lessons heard.",
       "hiLine1": "जो जन अनुसंधान कर, रहें बहु-श्रुत साथ ।",
@@ -622,8 +622,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "பிழைத்துணர்ந்தும் பேதைமை சொல்லா",
-          "line2": "ரிழைத்துணர்ந் தீண்டிய கேள்வி யவர்."
+          "line1": "பிழைத்துணர்ந்தும் பேதைமை சொல்லார் இழைத்துணர்ந்து",
+          "line2": "ஈண்டிய கேள்வி யவர்."
         },
         "en": {
           "line1": "Not e'en through inadvertence speak they foolish word,",
@@ -635,12 +635,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Pizhaiththu Unarndhum Pedhaimai Sollaar",
-            "line2": "Izhaiththu Unarndhu Eendiya Kelviyavar."
+            "line1": "Pizhaiththunarndhum Pedhaimai Sollaar Izhaiththunarndhu",
+            "line2": "Eendiya Kelvi Yavar."
           },
           "hi": {
-            "line1": "पिऴैत्तुणर्न्दुम् पेदैमै सॊल्ला",
-            "line2": "रिऴैत्तुणर्न् दीण्डिय केळ्वि यवर्."
+            "line1": "पिऴैत्तुणर्न्दुम् पेदैमै सॊल्लार् इऴैत्तुणर्न्दु",
+            "line2": "ईण्डिय केळ्वि यवर्."
           }
         }
       },
@@ -744,8 +744,8 @@
     },
     {
       "num": 419,
-      "line1": "நுணங்கிய கேள்விய ரல்லார்",
-      "line2": "வணங்கிய வாயின ராத லரிது.",
+      "line1": "நுணங்கிய கேள்வியர் அல்லார் வணங்கிய",
+      "line2": "வாயினர் ஆத லரிது.",
       "enLine1": "'Tis hard for mouth to utter gentle, modest word,",
       "enLine2": "When ears discourse of lore refined have never heard.",
       "hiLine1": "जिन लोगों को है नहीं, सूक्ष्म श्रवण का ज्ञान ।",
@@ -806,8 +806,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "நுணங்கிய கேள்விய ரல்லார்",
-          "line2": "வணங்கிய வாயின ராத லரிது."
+          "line1": "நுணங்கிய கேள்வியர் அல்லார் வணங்கிய",
+          "line2": "வாயினர் ஆத லரிது."
         },
         "en": {
           "line1": "'Tis hard for mouth to utter gentle, modest word,",
@@ -819,12 +819,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Nunangiya Kelviyar Allaar",
-            "line2": "Vanangiya Vaayinar Aadhal Aridhu."
+            "line1": "Nunangiya Kelviyar Allaar Vanangiya",
+            "line2": "Vaayinar Aadha Laridhu."
           },
           "hi": {
-            "line1": "नुणङ्गिय केळ्विय रल्लार्",
-            "line2": "वणङ्गिय वायिन राद लरिदु."
+            "line1": "नुणङ्गिय केळ्वियर् अल्लार् वणङ्गिय",
+            "line2": "वायिनर् आद लरिदु."
           }
         }
       },
@@ -911,8 +911,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Seviyil Suvai Unaraa Vaayunarvin Maakkal",
-            "line2": "Aviyinum Vaazhinum En."
+            "line1": "Seviyir Suvaiyunaraa Vaayunarvin Maakka",
+            "line2": "Laviyinum Vaazhinu Men."
           },
           "hi": {
             "line1": "सॆवियिर् सुवैयुणरा वायुणर्विन् माक्क",

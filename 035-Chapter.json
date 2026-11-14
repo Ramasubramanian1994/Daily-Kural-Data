@@ -8,8 +8,8 @@
   "kurals": [
     {
       "num": 341,
-      "line1": "யாதனின் யாதனி னீங்கியா",
-      "line2": "னோத லதனி னதனி னிலன்.",
+      "line1": "யாதனின் யாதனின் நீங்கியான் நோதல்",
+      "line2": "அதனின் அதனின் இலன்.",
       "enLine1": "From whatever, aye, whatever, man gets free,",
       "enLine2": "From that, aye, from that, no more of pain hath he!",
       "hiLine1": "ज्यों ज्यों मिटती जायगी, जिस जिसमें आसक्ति ।",
@@ -70,8 +70,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "யாதனின் யாதனி னீங்கியா",
-          "line2": "னோத லதனி னதனி னிலன்."
+          "line1": "யாதனின் யாதனின் நீங்கியான் நோதல்",
+          "line2": "அதனின் அதனின் இலன்."
         },
         "en": {
           "line1": "From whatever, aye, whatever, man gets free,",
@@ -83,12 +83,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Yaadhanin Yaadhanin Neengiyaan",
-            "line2": "Nodhal Adhanin Adhanin Ilan."
+            "line1": "Yaadhanin Yaadhanin Neengiyaan Nodhal",
+            "line2": "Adhanin Adhanin Ilan."
           },
           "hi": {
-            "line1": "यादनिन् यादनि नीङ्गिया",
-            "line2": "नोद लदनि नदनि निलन्."
+            "line1": "यादनिन् यादनिन् नीङ्गियान् नोदल्",
+            "line2": "अदनिन् अदनिन् इलन्."
           }
         }
       },
@@ -192,8 +192,8 @@
     },
     {
       "num": 343,
-      "line1": "அடல்வேண்டு மைந்தின் புலத்தை",
-      "line2": "விடல்வேண்டும் வேண்டிய வெல்லா மொருங்கு.",
+      "line1": "அடல்வேண்டும் ஐந்தின் புலத்தை விடல்வேண்டும்",
+      "line2": "வேண்டிய எல்லாம் ஒருங்கு.",
       "enLine1": "'Perceptions of the five' must all expire;—",
       "enLine2": "Relinquished in its order each desire.",
       "hiLine1": "दृढ़ता से करना दमन, पंचेन्द्रियगत राग ।",
@@ -254,8 +254,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "அடல்வேண்டு மைந்தின் புலத்தை",
-          "line2": "விடல்வேண்டும் வேண்டிய வெல்லா மொருங்கு."
+          "line1": "அடல்வேண்டும் ஐந்தின் புலத்தை விடல்வேண்டும்",
+          "line2": "வேண்டிய எல்லாம் ஒருங்கு."
         },
         "en": {
           "line1": "'Perceptions of the five' must all expire;—",
@@ -267,12 +267,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Adal Vendum Aindhin Pulaththai",
-            "line2": "Vidal Vendum Vendiya Vellaam Orungu."
+            "line1": "Adalvendu Maindhin Pulaththai Vidalvendum",
+            "line2": "Vendiya Ellaam Orungu."
           },
           "hi": {
-            "line1": "अडल् वेण्डु मैन्दिन् पुलत्तै",
-            "line2": "विडल् वेण्डुम् वेण्डिय वॆल्ला मॊरुङ्गु."
+            "line1": "अडल्वेण्डु मैन्दिन् पुलत्तै विडल्वेण्डुम्",
+            "line2": "वेण्डिय ऎल्लाम् ऒरुङ्गु."
           }
         }
       },
@@ -451,7 +451,7 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Matrum Thodarppaadu Evankol Pirappu Arukkal",
+            "line1": "Matrum Thodarppaadu Evankol Pirapparukkal",
             "line2": "Utraarkku Udambu Migai."
           },
           "hi": {
@@ -468,8 +468,8 @@
     },
     {
       "num": 346,
-      "line1": "யானென தென்னுஞ் செருகறுப்பான்",
-      "line2": "வானோர்க் குயர்ந்த வுலகம் புகும்.",
+      "line1": "யானென தென்னுஞ் செருகறுப்பான் வானோர்க்கு",
+      "line2": "உயர்ந்த உலகம் புகும்.",
       "enLine1": "Who kills conceit that utters 'I' and 'mine,'",
       "enLine2": "Shall enter realms above the powers divine.",
       "hiLine1": "अहंकार ममकार को, जिसने किया समाप्त ।",
@@ -530,8 +530,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "யானென தென்னுஞ் செருகறுப்பான்",
-          "line2": "வானோர்க் குயர்ந்த வுலகம் புகும்."
+          "line1": "யானென தென்னுஞ் செருகறுப்பான் வானோர்க்கு",
+          "line2": "உயர்ந்த உலகம் புகும்."
         },
         "en": {
           "line1": "Who kills conceit that utters 'I' and 'mine,'",
@@ -543,12 +543,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Yaan Enadhu Ennunj Serukku Aruppaan",
-            "line2": "Vaanorkku Uyarndha Ulagam Pugum."
+            "line1": "Yaanena Dhennunj Serugaruppaan Vaanorkku",
+            "line2": "Uyarndha Ulagam Pugum."
           },
           "hi": {
-            "line1": "यानॆन दॆन्नुञ् सॆरुगरुप्पान्",
-            "line2": "वानोर्क् कुयर्न्द वुलगम् पुगुम्."
+            "line1": "यानॆन दॆन्नुञ् सॆरुगरुप्पान् वानोर्क्कु",
+            "line2": "उयर्न्द उलगम् पुगुम्."
           }
         }
       },
@@ -744,8 +744,8 @@
     },
     {
       "num": 349,
-      "line1": "பற்றற்ற கண்ணே பிறப்பறுக்கு",
-      "line2": "மற்று நிலையாமை காணப் படும்.",
+      "line1": "பற்றற்ற கண்ணே பிறப்பறுக்கும் மற்று",
+      "line2": "நிலையாமை காணப் படும்.",
       "enLine1": "When that which clings falls off, severed is being's tie;",
       "enLine2": "All else will then be seen as instability.",
       "hiLine1": "मिटते ही आसक्ति के, होगी भव से मुक्ति ।",
@@ -806,8 +806,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "பற்றற்ற கண்ணே பிறப்பறுக்கு",
-          "line2": "மற்று நிலையாமை காணப் படும்."
+          "line1": "பற்றற்ற கண்ணே பிறப்பறுக்கும் மற்று",
+          "line2": "நிலையாமை காணப் படும்."
         },
         "en": {
           "line1": "When that which clings falls off, severed is being's tie;",
@@ -819,12 +819,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Patratra Kanne Pirapparukkum",
-            "line2": "Matru Nilaiyaamai Kaanap Padum."
+            "line1": "Patratra Kanne Pirapparukkum Matru",
+            "line2": "Nilaiyaamai Kaanap Padum."
           },
           "hi": {
-            "line1": "पत्रत्र कण्णे पिरप्परुक्कु",
-            "line2": "मत्रु निलैयामै काणप् पडुम्."
+            "line1": "पत्रत्र कण्णे पिरप्परुक्कुम् मत्रु",
+            "line2": "निलैयामै काणप् पडुम्."
           }
         }
       },

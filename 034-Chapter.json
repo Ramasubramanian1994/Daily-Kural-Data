@@ -560,8 +560,8 @@
     },
     {
       "num": 337,
-      "line1": "ஒருபொழுதும் வாழ்வ தறியார்",
-      "line2": "கருதுப கோடியு மல்ல பல.",
+      "line1": "ஒருபொழுதும் வாழ்வது அறியார் கருதுப",
+      "line2": "கோடியும் அல்ல பல.",
       "enLine1": "Who know not if their happy lives shall last the day,",
       "enLine2": "In fancies infinite beguile the hours away!",
       "hiLine1": "अगले क्षण क्या जी रहें, इसका है नहिं बोध ।",
@@ -622,8 +622,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "ஒருபொழுதும் வாழ்வ தறியார்",
-          "line2": "கருதுப கோடியு மல்ல பல."
+          "line1": "ஒருபொழுதும் வாழ்வது அறியார் கருதுப",
+          "line2": "கோடியும் அல்ல பல.",
         },
         "en": {
           "line1": "Who know not if their happy lives shall last the day,",
@@ -634,16 +634,16 @@
           "line2": "चिंतन कोटिन, अनगिनत, करते रहें अबोध ॥"
         },
         "transliteration": {
-          "en": {
-            "line1": "Orupozhudhum Vaazhvadhu Ariyaar",
-            "line2": "Karudhuba Kodiyum Alla Pala."
-          },
-          "hi": {
-            "line1": "ऒरुपॊऴुदुम् वाऴ्व दरियार्",
-            "line2": "करुदुब कोडियु मल्ल पल."
-          }
+        "en": {
+          "line1": "Orupozhudhum Vaazhvadhu Ariyaar Karudhuba",
+          "line2": "Kodiyum Alla Pala."
+        },
+        "hi": {
+          "line1": "ऒरुपॊऴुदुम् वाऴ्वदु अरियार् करुदुब",
+          "line2": "कोडियुम् अल्ल पल."
         }
-      },
+      }
+    },
       "explanation": {
         "ta": "ஒரு நொடிப்பொழுதும் உயிர் வாழ்வதன் உறுதியை அறியாதவர்கள், கோடியும் அல்லாமல் பல கோடி எண்ணங்களை எண்ணுகின்றனர்.",
         "en": "Without even knowing if we'll survive the next hour, we still spend our time chasing millions of endless schemes and daydreams.",
@@ -744,8 +744,8 @@
     },
     {
       "num": 339,
-      "line1": "உறங்கு வதுபோலுஞ் சாக்கா",
-      "line2": "டுறங்கி விழிப்பது போலும் பிறப்பு.",
+      "line1": "உறங்குவது போலும் சாக்காடு உறங்கி",
+      "line2": "விழிப்பது போலும் பிறப்பு.",
       "enLine1": "Death is sinking into slumbers deep;",
       "enLine2": "Birth again is waking out of sleep.",
       "hiLine1": "निद्रा सम ही जानिये, होता है देहान्त ।",
@@ -806,8 +806,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "உறங்கு வதுபோலுஞ் சாக்கா",
-          "line2": "டுறங்கி விழிப்பது போலும் பிறப்பு."
+          "line1": "உறங்குவது போலும் சாக்காடு உறங்கி",
+          "line2": "விழிப்பது போலும் பிறப்பு.",
         },
         "en": {
           "line1": "Death is sinking into slumbers deep;",
@@ -819,12 +819,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Uranguvadhu Polunj Saakkaadu",
-            "line2": "Urangi Vizhippadhu Polum Pirappu."
+            "line1": "Uranguvadhu Polum Saakkaadu Urangi",
+            "line2": "Vizhippadhu Polum Pirappu."
           },
           "hi": {
-            "line1": "उरङ्गु वदुपोलुञ् साक्का",
-            "line2": "डुरङ्गि विऴिप्पदु पोलुम् पिरप्पु."
+            "line1": "उरङ्गुवदु पोलुम् साक्काडु उरङ्गि",
+            "line2": "विऴिप्पदु पोलुम् पिरप्पु."
           }
         }
       },

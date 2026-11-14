@@ -83,7 +83,7 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Padai Kudi Koozh Amaichchu Natpu Aran Aarum",
+            "line1": "Padaigudi Koozhamaichchu Natparan Aarum",
             "line2": "Udaiyaan Arasarul Eru."
           },
           "hi": {
@@ -175,7 +175,7 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Anjaamai Eegai Arivu Ookkam Innaangum",
+            "line1": "Anjaamai Eegai Arivookkam Innaangum",
             "line2": "Enjaamai Vendharku Iyalbu."
           },
           "hi": {
@@ -268,7 +268,7 @@
         "transliteration": {
           "en": {
             "line1": "Thoongaamai Kalvi Thunivudaimai Immoondrum",
-            "line2": "Neengaa Nilanaalbavarkku."
+            "line2": "Neengaa Nilanaal Bavarkku."
           },
           "hi": {
             "line1": "तूङ्गामै कल्वि तुणिवुडैमै यिम्मून्द्रु",
@@ -284,8 +284,8 @@
     },
     {
       "num": 384,
-      "line1": "அறனிழுக்கா தல்லவை நீக்கி",
-      "line2": "மறனிழுக்கா மான முடைய தரசு.",
+      "line1": "அறனிழுக்கா தல்லவை நீக்கி மறனிழுக்கா",
+      "line2": "மானம் உடையது அரசு.",
       "enLine1": "Kingship, in virtue failing not, all vice restrains,",
       "enLine2": "In courage failing not, it honour's grace maintains.",
       "hiLine1": "राजधर्म से च्युत न हो, दूर अधर्म निकाल ।",
@@ -346,8 +346,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "அறனிழுக்கா தல்லவை நீக்கி",
-          "line2": "மறனிழுக்கா மான முடைய தரசு."
+          "line1": "அறனிழுக்கா தல்லவை நீக்கி மறனிழுக்கா",
+          "line2": "மானம் உடையது அரசு."
         },
         "en": {
           "line1": "Kingship, in virtue failing not, all vice restrains,",
@@ -359,12 +359,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Aran Izhukkaadhu Allavai Neekki",
-            "line2": "Maran Izhukkaa Maanam Udaiyadhu Arasu."
+            "line1": "Aranizhukkaadhu Allavai Neekki Maranizhukkaa",
+            "line2": "Maanam Udaiyadhu Arasu."
           },
           "hi": {
-            "line1": "अरनिऴुक्का दल्लवै नीक्कि",
-            "line2": "मरनिऴुक्का मान मुडैय दरसु."
+            "line1": "अरनिऴुक्का दल्लवै नीक्कि मरनिऴुक्का",
+            "line2": "मानम् उडैयदु अरसु."
           }
         }
       },
@@ -560,8 +560,8 @@
     },
     {
       "num": 387,
-      "line1": "இன்சொலா லீத்தளிக்க வல்லாற்குத்",
-      "line2": "தன்சொலாற் றான்கண் டனைத்திவ் வுலகு.",
+      "line1": "இன்சொலால் ஈத்தளிக்க வல்லாற்குத் தன்சொலால்",
+      "line2": "தான்கண் டனைத்திவ் வுலகு.",
       "enLine1": "With pleasant speech, who gives and guards with powerful liberal hand,",
       "enLine2": "He sees the world obedient all to his command.",
       "hiLine1": "जो प्रिय वचयुत दान कर, हिता रक्षण-भार ।",
@@ -622,8 +622,8 @@
       ],
       "poetic": {
         "ta": {
-          "line1": "இன்சொலா லீத்தளிக்க வல்லாற்குத்",
-          "line2": "தன்சொலாற் றான்கண் டனைத்திவ் வுலகு."
+          "line1": "இன்சொலால் ஈத்தளிக்க வல்லாற்குத் தன்சொலால்",
+          "line2": "தான்கண் டனைத்திவ் வுலகு."
         },
         "en": {
           "line1": "With pleasant speech, who gives and guards with powerful liberal hand,",
@@ -635,12 +635,12 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Insolaal Eeththu Alikka Vallaarkkuth",
-            "line2": "Than Solaal Thaan Kandanaiththu Ivvulagu."
+            "line1": "Insolaal Eeththalikka Vallaarkkuth Thansolaal",
+            "line2": "Thaankan Danaiththiv Vulagu."
           },
           "hi": {
-            "line1": "इन्सॊला लीत्तळिक्क वल्लार्क्कुत्",
-            "line2": "तन्सॊलार् रान्कण् डनैत्तिव् वुलगु."
+            "line1": "इन्सॊलाल् ईत्तळिक्क वल्लार्क्कुत् तन्सॊलाल्",
+            "line2": "तान्कण् डनैत्तिव् वुलगु."
           }
         }
       },
@@ -727,8 +727,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Murai Seydhu Kaappaatrum Mannavan Makkadku",
-            "line2": "Irai Endru Vaikkap Padum."
+            "line1": "Muraiseidhu Kaappaatrum Mannavan Makkatku",
+            "line2": "Iraiyendru Vaikkap Padum."
           },
           "hi": {
             "line1": "मुरैसॆय्दु काप्पात्रु मन्नवन् मक्कट्",
@@ -819,7 +819,7 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Sevi Kaippach Sorporukkum Panbudai Vendhan",
+            "line1": "Sevikaippach Sorporukkum Panbudai Vendhan",
             "line2": "Kavigaikkeezh Thangum Ulagu."
           },
           "hi": {
@@ -911,8 +911,8 @@
         },
         "transliteration": {
           "en": {
-            "line1": "Kodai Ali Sengol Kudiyombal Naangum",
-            "line2": "Udaiyaan Aam Vendharkku Oli."
+            "line1": "Kodaiyali Sengol Kudiyomba Naangum",
+            "line2": "Udaiyaanaam Vendharkku Oli."
           },
           "hi": {
             "line1": "कॊडैयळि सॆङ्गोल् कुडियोम्ब नान्गु",
